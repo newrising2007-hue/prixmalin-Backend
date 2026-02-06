@@ -1,0 +1,52 @@
+# ================================================================
+# PRIXMALIN v5.0 - .gitignore
+# ================================================================
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.expo/
+.expo-shared/
+
+# Build outputs
+dist/
+build/
+*.tgz
+
+# Test coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+prixmalin-mobile-backup-*.tar.gz

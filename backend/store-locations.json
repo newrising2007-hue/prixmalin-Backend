@@ -1,0 +1,352 @@
+{
+  "walmart": [
+    {
+      "id": "walmart-mtl-stecatherine",
+      "name": "Walmart Supercentre Sainte-Catherine",
+      "address": "1200 Rue Sainte-Catherine O, Montréal, QC H3B 1H5",
+      "latitude": 45.4995,
+      "longitude": -73.5718,
+      "phone": "+1-514-861-0661",
+      "hours": "7h-23h"
+    },
+    {
+      "id": "walmart-mtl-decarie",
+      "name": "Walmart Décarie Square",
+      "address": "6700 Ch. de la Côte-des-Neiges, Montréal, QC H3S 2B2",
+      "latitude": 45.4949,
+      "longitude": -73.6313,
+      "phone": "+1-514-739-5211",
+      "hours": "7h-23h"
+    },
+    {
+      "id": "walmart-mtl-anjou",
+      "name": "Walmart Anjou",
+      "address": "7999 Bd des Galeries d'Anjou, Anjou, QC H1M 1W9",
+      "latitude": 45.6106,
+      "longitude": -73.5685,
+      "phone": "+1-514-354-0744",
+      "hours": "7h-23h"
+    },
+    {
+      "id": "walmart-laval-centropolis",
+      "name": "Walmart Laval Centropolis",
+      "address": "2805 Bd du Curé-Labelle, Laval, QC H7P 5R1",
+      "latitude": 45.5680,
+      "longitude": -73.7260,
+      "phone": "+1-450-688-1891",
+      "hours": "7h-23h"
+    },
+    {
+      "id": "walmart-quebec-lebourgneuf",
+      "name": "Walmart Québec Lebourgneuf",
+      "address": "1200 Bd Lebourgneuf, Québec, QC G2K 2G3",
+      "latitude": 46.8413,
+      "longitude": -71.2939,
+      "phone": "+1-418-627-6110",
+      "hours": "7h-23h"
+    }
+  ],
+  
+  "iga": [
+    {
+      "id": "iga-mtl-papineau",
+      "name": "IGA Extra Marché Papineau",
+      "address": "5675 Av. Papineau, Montréal, QC H2H 1W5",
+      "latitude": 45.5389,
+      "longitude": -73.5943,
+      "phone": "+1-514-527-5921",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "iga-mtl-monkland",
+      "name": "IGA Extra Monkland",
+      "address": "5866 Av. Monkland, Montréal, QC H4A 1G3",
+      "latitude": 45.4689,
+      "longitude": -73.6193,
+      "phone": "+1-514-482-8204",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "iga-mtl-maisonneuve",
+      "name": "IGA Extra Maisonneuve",
+      "address": "4701 Rue Hochelaga, Montréal, QC H1V 1E2",
+      "latitude": 45.5542,
+      "longitude": -73.5522,
+      "phone": "+1-514-254-4844",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "iga-laval-pont-viau",
+      "name": "IGA Laval Pont-Viau",
+      "address": "350 Bd des Laurentides, Laval, QC H7G 2V1",
+      "latitude": 45.5670,
+      "longitude": -73.6950,
+      "phone": "+1-450-667-3535",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "iga-quebec-stfoy",
+      "name": "IGA Extra Saint-Foy",
+      "address": "2655 Bd Laurier, Québec, QC G1V 2M3",
+      "latitude": 46.7779,
+      "longitude": -71.2848,
+      "phone": "+1-418-654-0606",
+      "hours": "8h-21h"
+    }
+  ],
+  
+  "metro": [
+    {
+      "id": "metro-mtl-villeray",
+      "name": "Métro Plus Villeray",
+      "address": "7075 Rue St-Hubert, Montréal, QC H2S 2N1",
+      "latitude": 45.5428,
+      "longitude": -73.6089,
+      "phone": "+1-514-271-4210",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "metro-mtl-plateau",
+      "name": "Métro Mont-Royal",
+      "address": "895 Av. Mont-Royal E, Montréal, QC H2J 1X3",
+      "latitude": 45.5251,
+      "longitude": -73.5820,
+      "phone": "+1-514-527-9801",
+      "hours": "8h-22h"
+    },
+    {
+      "id": "metro-mtl-westmount",
+      "name": "Métro Westmount",
+      "address": "4807 Rue Sherbrooke O, Westmount, QC H3Z 1G9",
+      "latitude": 45.4811,
+      "longitude": -73.5903,
+      "phone": "+1-514-932-2295",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "metro-laval-fabreville",
+      "name": "Métro Plus Fabreville",
+      "address": "3500 Bd Dagenais O, Laval, QC H7P 1T7",
+      "latitude": 45.5744,
+      "longitude": -73.7631,
+      "phone": "+1-450-628-9640",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "metro-quebec-charlesbourg",
+      "name": "Métro Charlesbourg",
+      "address": "4250 1re Avenue, Québec, QC G1H 2S7",
+      "latitude": 46.8565,
+      "longitude": -71.2778,
+      "phone": "+1-418-623-6363",
+      "hours": "8h-21h"
+    }
+  ],
+  
+  "bestbuy": [
+    {
+      "id": "bestbuy-mtl-stcatherine",
+      "name": "Best Buy Centre-Ville",
+      "address": "1253 Av. McGill College, Montréal, QC H3B 2Y5",
+      "latitude": 45.5022,
+      "longitude": -73.5717,
+      "phone": "+1-514-393-3555",
+      "hours": "10h-21h"
+    },
+    {
+      "id": "bestbuy-mtl-dixie30",
+      "name": "Best Buy Dixie 30",
+      "address": "6321 Bd Taschereau, Brossard, QC J4Z 1A7",
+      "latitude": 45.4623,
+      "longitude": -73.4785,
+      "phone": "+1-450-923-0909",
+      "hours": "10h-21h"
+    },
+    {
+      "id": "bestbuy-laval-dagenais",
+      "name": "Best Buy Laval Dagenais",
+      "address": "1515 Bd Le Corbusier, Laval, QC H7S 2K1",
+      "latitude": 45.5637,
+      "longitude": -73.7429,
+      "phone": "+1-450-686-0505",
+      "hours": "10h-21h"
+    },
+    {
+      "id": "bestbuy-quebec-charlesbourg",
+      "name": "Best Buy Québec Charlesbourg",
+      "address": "4250 1re Avenue, Québec, QC G1H 2S7",
+      "latitude": 46.8565,
+      "longitude": -71.2778,
+      "phone": "+1-418-622-1010",
+      "hours": "10h-21h"
+    }
+  ],
+  
+  "homedepot": [
+    {
+      "id": "homedepot-mtl-decarie",
+      "name": "Home Depot Décarie",
+      "address": "7200 Bd Décarie, Montréal, QC H4P 2H4",
+      "latitude": 45.4943,
+      "longitude": -73.6435,
+      "phone": "+1-514-739-1616",
+      "hours": "6h-21h"
+    },
+    {
+      "id": "homedepot-mtl-anjou",
+      "name": "Home Depot Anjou",
+      "address": "7231 Bd des Roseraies, Anjou, QC H1M 2X5",
+      "latitude": 45.6058,
+      "longitude": -73.5653,
+      "phone": "+1-514-352-8320",
+      "hours": "6h-21h"
+    },
+    {
+      "id": "homedepot-laval-chomedy",
+      "name": "Home Depot Laval Chomedey",
+      "address": "1650 Bd Le Corbusier, Laval, QC H7S 1Y7",
+      "latitude": 45.5619,
+      "longitude": -73.7461,
+      "phone": "+1-450-686-0505",
+      "hours": "6h-21h"
+    },
+    {
+      "id": "homedepot-quebec-beauport",
+      "name": "Home Depot Québec Beauport",
+      "address": "3333 Rue Clemenceau, Québec, QC G1C 4N6",
+      "latitude": 46.8678,
+      "longitude": -71.1876,
+      "phone": "+1-418-666-7070",
+      "hours": "6h-21h"
+    }
+  ],
+  
+  "lowes": [
+    {
+      "id": "lowes-mtl-decarie",
+      "name": "Lowe's Décarie",
+      "address": "7077 Bd Newman, Montréal, QC H8N 3J5",
+      "latitude": 45.4465,
+      "longitude": -73.6071,
+      "phone": "+1-514-367-6520",
+      "hours": "7h-21h"
+    },
+    {
+      "id": "lowes-laval-cure-labelle",
+      "name": "Lowe's Laval",
+      "address": "1600 Bd Le Corbusier, Laval, QC H7S 1Y8",
+      "latitude": 45.5623,
+      "longitude": -73.7453,
+      "phone": "+1-450-686-9595",
+      "hours": "7h-21h"
+    },
+    {
+      "id": "lowes-quebec-lebourgneuf",
+      "name": "Lowe's Québec Lebourgneuf",
+      "address": "5600 Bd des Galeries, Québec, QC G2K 2H6",
+      "latitude": 46.8423,
+      "longitude": -71.2945,
+      "phone": "+1-418-622-6262",
+      "hours": "7h-21h"
+    }
+  ],
+  
+  "canadiantire": [
+    {
+      "id": "ct-mtl-stcatherine",
+      "name": "Canadian Tire Centre-Ville",
+      "address": "1200 Av. McGill College, Montréal, QC H3B 4G7",
+      "latitude": 45.5021,
+      "longitude": -73.5718,
+      "phone": "+1-514-845-7141",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "ct-mtl-cotedesneiges",
+      "name": "Canadian Tire Côte-des-Neiges",
+      "address": "6500 Ch. de la Côte-des-Neiges, Montréal, QC H3S 2A7",
+      "latitude": 45.4961,
+      "longitude": -73.6299,
+      "phone": "+1-514-733-7211",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "ct-laval-chomedy",
+      "name": "Canadian Tire Laval Chomedey",
+      "address": "2100 Bd Le Corbusier, Laval, QC H7S 1Y9",
+      "latitude": 45.5660,
+      "longitude": -73.7503,
+      "phone": "+1-450-682-5454",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "ct-quebec-sainte-foy",
+      "name": "Canadian Tire Sainte-Foy",
+      "address": "1200 Av. Maguire, Québec, QC G1T 1Z3",
+      "latitude": 46.7743,
+      "longitude": -71.2782,
+      "phone": "+1-418-681-0202",
+      "hours": "8h-21h"
+    }
+  ],
+  
+  "provigo": [
+    {
+      "id": "provigo-mtl-laurier",
+      "name": "Provigo Le Marché Laurier",
+      "address": "1275 Av. Laurier E, Montréal, QC H2J 1H4",
+      "latitude": 45.5266,
+      "longitude": -73.5904,
+      "phone": "+1-514-527-8811",
+      "hours": "8h-22h"
+    },
+    {
+      "id": "provigo-mtl-atwater",
+      "name": "Provigo Atwater",
+      "address": "1426 Rue Sainte-Catherine O, Montréal, QC H3G 1R4",
+      "latitude": 45.4925,
+      "longitude": -73.5795,
+      "phone": "+1-514-932-8555",
+      "hours": "8h-22h"
+    },
+    {
+      "id": "provigo-laval-desaulniers",
+      "name": "Provigo Laval Desaulniers",
+      "address": "1744 Bd des Laurentides, Laval, QC H7M 2Y4",
+      "latitude": 45.6013,
+      "longitude": -73.7261,
+      "phone": "+1-450-669-9090",
+      "hours": "8h-21h"
+    }
+  ],
+  
+  "maxi": [
+    {
+      "id": "maxi-mtl-ontario",
+      "name": "Maxi & Cie Ontario",
+      "address": "2650 Rue Ontario E, Montréal, QC H2K 1W7",
+      "latitude": 45.5326,
+      "longitude": -73.5571,
+      "phone": "+1-514-523-5333",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "maxi-mtl-pierrefonds",
+      "name": "Maxi Pierrefonds",
+      "address": "4650 Bd Saint-Jean, Pierrefonds, QC H9H 2A9",
+      "latitude": 45.4934,
+      "longitude": -73.8486,
+      "phone": "+1-514-626-5050",
+      "hours": "8h-21h"
+    },
+    {
+      "id": "maxi-laval-brossard",
+      "name": "Maxi Laval Brossard",
+      "address": "2929 Bd Taschereau, Greenfield Park, QC J4V 2G8",
+      "latitude": 45.4889,
+      "longitude": -73.4782,
+      "phone": "+1-450-465-7070",
+      "hours": "8h-21h"
+    }
+  ]
+}
