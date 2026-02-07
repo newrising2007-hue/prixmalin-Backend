@@ -276,6 +276,7 @@ function parseClaudeResponse(text, category, query) {
     text.toLowerCase().includes('désolé')) {
   console.log('⚠️ Claude a refusé - Utilisation MOCK DATA');
   const mockProducts = getMockData(category, query);
+  console.log(`🎯 Mock data length: ${mockProducts.length}`);
   if (mockProducts.length > 0) {
     return { products: mockProducts };
   }
