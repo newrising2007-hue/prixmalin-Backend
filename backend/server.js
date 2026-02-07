@@ -555,6 +555,7 @@ app.get('/api/stats', (req, res) => {
 // DÉMARRAGE SERVEUR
 // ================================================================
 
+app.get("/api/clear-cache", async (req, res) => { try { await redisClient.flushAll(); res.json({ success: true, message: "Cache vidé!" }); } catch (err) { res.json({ success: false, error: err.message }); } });
 app.listen(PORT, () => {
   console.log(`
 ╔════════════════════════════════════════════════════╗
