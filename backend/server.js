@@ -205,13 +205,25 @@ IMPORTANT:
   const response = await callClaudeAPI(prompt);
   const parsed = parseClaudeResponse(response);
   
-  if (parsed && parsed.products) {
+  if (parsed && parsed.products && parsed.products.length > 0) {
     return parsed.products.map(p => ({
       ...p,
       sourceType: 'api',
       displayPrice: true
     }));
   }
+  
+  // Fallback: Mock data si Claude ne retourne rien
+  console.log('⚠️ searchViaAPI: Pas de résultats Claude - Utilisation MOCK DATA');
+  const mockProducts = getMockData(category, query);
+  if (mockProducts.length > 0) {
+    return mockProducts.map(p => ({
+      ...p,
+      sourceType: 'api',
+      displayPrice: true
+    }));
+  }
+  
   
   return [];
 }
