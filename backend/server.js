@@ -401,11 +401,18 @@ function enrichMockDataWithConfig(products, category) {
 }
 
 function getMockData(category, query) {
+  console.log(`📦 getMockData appelé: category="${category}", query="${query}"`);
   const categoryProducts = MOCK_PRODUCTS[category] || [];
+  console.log(`📦 Produits bruts trouvés: ${categoryProducts.length}`);
   const enrichedProducts = enrichMockDataWithConfig(categoryProducts, category);
+  console.log(`📦 Produits enrichis: ${enrichedProducts.length}`);
   if (query && query.trim() !== '') {
     const queryLower = query.toLowerCase();
-    return enrichedProducts.filter(p => 
+    const filtered = enrichedProducts.filter(p => 
+      p.product_name.toLowerCase().includes(queryLower)
+    );
+    console.log(`📦 Après filtre "${queryLower}": ${filtered.length} produits`);
+    return filtered;
       p.product_name.toLowerCase().includes(queryLower)
     );
   }
