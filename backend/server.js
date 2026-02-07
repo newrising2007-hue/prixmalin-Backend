@@ -270,16 +270,26 @@ CRITIQUE:
  */
 function parseClaudeResponse(text) {
   try {
+    // Si Claude refuse ou répond en texte
+    if (text.toLowerCase().includes('je ne peux') || 
+        text.toLowerCase().includes('i cannot') ||
+        text.toLowerCase().includes('désolé')) {
+      console.log('⚠️ Claude a refusé la requête');
+      return { products: [] };
+    }
+    
     // Nettoyer le texte (enlever markdown, etc.)
     let clean = text.trim();
     clean = clean.replace(/```json\n?/g, '').replace(/```\n?/g, '');
-    return JSON.parse(clean);
+    
+    const parsed = JSON.parse(clean);
+    return parsed;
   } catch (error) {
     console.error('Erreur parsing JSON:', error.message);
-    return null;
+    console.error('Texte reçu:', text.substring(0, 200));
+    return { products: [] };
   }
 }
-
 // ================================================================
 // ENDPOINT PRINCIPAL: /api/search-prices
 // ================================================================
