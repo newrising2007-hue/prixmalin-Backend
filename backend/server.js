@@ -274,6 +274,31 @@ CRITIQUE:
     }));
   }
   
+  
+
+  // Fallback: Mock data si Claude ne retourne rien
+
+  console.log('⚠️ searchViaScraping: Pas de résultats Claude - Utilisation MOCK DATA');
+
+  const mockProducts = getMockData(category, query);
+
+  if (mockProducts.length > 0) {
+
+    return mockProducts.map(p => ({
+
+      ...p,
+
+      price: null,
+
+      sourceType: 'scraping',
+
+      displayPrice: false
+
+    }));
+
+  }
+
+
   return [];
 }
 
