@@ -327,6 +327,13 @@ function parseClaudeResponse(text, category, query) {
   } catch (error) {
     console.error('Erreur parsing JSON:', error.message);
     console.error('Texte reçu:', text.substring(0, 200));
+    
+    // Fallback: Mock data en cas d'erreur parsing
+    console.log('⚠️ Erreur parsing - Utilisation MOCK DATA');
+    const mockProducts = getMockData(category, query);
+    if (mockProducts.length > 0) {
+      return { products: mockProducts };
+    }
     return { products: [] };
   }
 }
