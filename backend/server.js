@@ -462,7 +462,7 @@ app.post('/api/search-prices', async (req, res) => {
     ]);
     
     // Combiner résultats
-    let allResults = [...apiResults, ...scrapingResults];
+    let allResults = [...(apiResults || []), ...(scrapingResults || [])];
     
     // Enrichir avec données magasins
     allResults = enrichWithStoreData(allResults, latitude, longitude, radiusKm);
