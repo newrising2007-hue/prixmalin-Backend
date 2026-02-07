@@ -153,7 +153,6 @@ async function callClaudeAPI(prompt, maxRetries = 3) {
     } catch (error) {
       if (error.status === 429 && attempt < maxRetries) {
         const delay = attempt === 1 ? 5000 : attempt === 2 ? 15000 : 30000;
-        console.log(`⏳ Rate limit 429 - Retry ${attempt}/${maxRetries} dans ${delay/1000}s`);
         await new Promise(resolve => setTimeout(resolve, delay));
       } else {
         throw error;
