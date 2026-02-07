@@ -143,16 +143,14 @@ function getClosestStore(retailer, userLat, userLon) {
  * @param {number} radiusKm - Rayon de recherche
  * @returns {Array} Résultats enrichis avec données magasins
  */
-function enrichWithStoreData(results, location, radiusKm) {
+
+function enrichWithStoreData(results, userLat, userLon, radiusKm = 50) {
   // Obtenir coordonnées ville
-  const cityCoords = getCityCoordinates(location);
-  if (!cityCoords) {
-    console.log(`Ville "${location}" non trouvée dans la base de données`);
+  // Utiliser les coordonnées fournies directement
+  if (!userLat || !userLon) {
+    console.log('Coordonnées manquantes');
     return results;
-  }
-  
-  const { latitude: userLat, longitude: userLon } = cityCoords;
-  
+  }  
   return results.map(result => {
     // Déterminer le retailer key depuis le store name
     const retailerKey = getRetailerKey(result.store);

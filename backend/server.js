@@ -296,8 +296,11 @@ app.post('/api/search-prices', async (req, res) => {
       });
     }
     
+    // Extraire latitude/longitude de l'objet location
+    const { latitude, longitude, cityName } = location;
+    
     // Vérifier cache
-    const cacheKey = `search:${query}:${category}:${location}:${radiusKm}`;
+    const cacheKey = `search:${query}:${category}:${latitude},${longitude}:${radiusKm}`;
     const cached = await cacheGet(cacheKey);
     
     if (cached) {
@@ -320,7 +323,7 @@ app.post('/api/search-prices', async (req, res) => {
     let allResults = [...apiResults, ...scrapingResults];
     
     // Enrichir avec données magasins
-    allResults = enrichWithStoreData(allResults, location, radiusKm);
+    allResults = enrichWithStoreData(allResults, latitude, longitude, radiusKm);
     
     // Ajouter config source à chaque résultat
     allResults = allResults.map(result => {
