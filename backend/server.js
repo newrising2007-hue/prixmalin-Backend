@@ -268,16 +268,20 @@ CRITIQUE:
 /**
  * Parser la réponse Claude (JSON)
  */
-function parseClaudeResponse(text) {
+function parseClaudeResponse(text, category, query) {
   try {
     // Si Claude refuse ou répond en texte
     if (text.toLowerCase().includes('je ne peux') || 
-        text.toLowerCase().includes('i cannot') ||
-        text.toLowerCase().includes('désolé')) {
-      console.log('⚠️ Claude a refusé la requête');
-      return { products: [] };
-    }
-    
+    text.toLowerCase().includes('i cannot') ||
+    text.toLowerCase().includes('désolé')) {
+  console.log('⚠️ Claude a refusé - Utilisation MOCK DATA');
+  const mockProducts = getMockData(category, query);
+  if (mockProducts.length > 0) {
+    console.log(`✅ ${mockProducts.length} produits mock retournés`);
+(    return { products: mockProducts };
+  }
+  return { products: [] };
+}    
     // Nettoyer le texte (enlever markdown, etc.)
     let clean = text.trim();
     clean = clean.replace(/```json\n?/g, '').replace(/```\n?/g, '');
