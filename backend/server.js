@@ -277,7 +277,6 @@ function parseClaudeResponse(text, category, query) {
   console.log('⚠️ Claude a refusé - Utilisation MOCK DATA');
   const mockProducts = getMockData(category, query);
   if (mockProducts.length > 0) {
-    console.log(`✅ ${mockProducts.length} produits mock retournés`);
     return { products: mockProducts };
   }
   return { products: [] };
@@ -401,18 +400,11 @@ function enrichMockDataWithConfig(products, category) {
 }
 
 function getMockData(category, query) {
-  console.log(`📦 getMockData appelé: category="${category}", query="${query}"`);
   const categoryProducts = MOCK_PRODUCTS[category] || [];
-  console.log(`📦 Produits bruts trouvés: ${categoryProducts.length}`);
   const enrichedProducts = enrichMockDataWithConfig(categoryProducts, category);
-  console.log(`📦 Produits enrichis: ${enrichedProducts.length}`);
   if (query && query.trim() !== '') {
     const queryLower = query.toLowerCase();
-    const filtered = enrichedProducts.filter(p => 
-      p.product_name.toLowerCase().includes(queryLower)
-    );
-    console.log(`📦 Après filtre "${queryLower}": ${filtered.length} produits`);
-    return filtered;
+    return enrichedProducts.filter(p => 
       p.product_name.toLowerCase().includes(queryLower)
     );
   }
