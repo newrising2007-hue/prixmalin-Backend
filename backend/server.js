@@ -448,7 +448,6 @@ app.post('/api/search-prices', async (req, res) => {
     
     // Recherche parallèle: API + Scraping
     const [apiResults, scrapingResults] = await Promise.all([
-      searchViaScraping(query, category)
     ]);
     
     // Combiner résultats
