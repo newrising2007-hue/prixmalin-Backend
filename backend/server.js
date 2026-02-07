@@ -278,7 +278,7 @@ function parseClaudeResponse(text, category, query) {
   const mockProducts = getMockData(category, query);
   if (mockProducts.length > 0) {
     console.log(`✅ ${mockProducts.length} produits mock retournés`);
-(    return { products: mockProducts };
+    return { products: mockProducts };
   }
   return { products: [] };
 }    
