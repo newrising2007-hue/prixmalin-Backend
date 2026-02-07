@@ -433,7 +433,7 @@ app.post('/api/search-prices', async (req, res) => {
     const { latitude, longitude, cityName } = location;
     
     // Vérifier cache
-    const cacheKey = `search:${query}:${category}:${latitude},${longitude}:${radiusKm}`;
+    const cacheKey = `v2:search:${query}:${category}:${latitude},${longitude}:${radiusKm}`;
     const cached = await cacheGet(cacheKey);
     
     if (cached) {
