@@ -401,8 +401,12 @@ function enrichMockDataWithConfig(products, category) {
 }
 
 function getMockData(category, query) {
+  console.log('🔍 getMockData appelé - category:', category, 'query:', query);
+  console.log('🔍 MOCK_PRODUCTS keys:', Object.keys(MOCK_PRODUCTS));
   const categoryProducts = MOCK_PRODUCTS[category] || [];
+  console.log('🔍 categoryProducts.length:', categoryProducts.length);
   const enrichedProducts = enrichMockDataWithConfig(categoryProducts, category);
+  console.log('🔍 enrichedProducts.length:', enrichedProducts.length);
   if (query && query.trim() !== '') {
     const queryLower = query.toLowerCase();
     return enrichedProducts.filter(p => 
