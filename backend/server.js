@@ -495,6 +495,8 @@ const longitude = location.longitude;
     
     // Recherche parallèle: API + Scraping
     const [apiResults, scrapingResults] = await Promise.all([
+      searchViaAPI(query, category),
+      searchViaScraping(query, category)
     ]);
     
     // Combiner résultats
