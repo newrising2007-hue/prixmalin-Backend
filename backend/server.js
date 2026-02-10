@@ -461,8 +461,8 @@ function getMockData(category, query) {
 
 app.post('/api/search-prices', async (req, res) => {
   try {
-    const { query, category, location, radiusKm } = req.body;
-    
+    const { query, category, location } = req.body;
+const radiusKm = req.body.radiusKm || 50;    
     // Validation
     if (!query || !category || !location) {
       return res.status(400).json({
