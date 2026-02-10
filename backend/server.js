@@ -169,6 +169,8 @@ async function callClaudeAPI(prompt, maxRetries = 3) {
  * Rechercher produits via sources API (prix fiables)
  */
 async function searchViaAPI(query, category) {
+  // TEMPORAIRE: Forcer mock data pour tester UI
+  return getMockData(category, query);
   const apiSources = getAPISources(category);
   
   if (apiSources.length === 0) {
@@ -231,6 +233,8 @@ IMPORTANT:
  * Rechercher produits via scraping (liens seulement, PAS de prix)
  */
 async function searchViaScraping(query, category) {
+  // TEMPORAIRE: Forcer mock data pour tester UI
+  return getMockData(category, query);
   const scrapingSources = getScrapingSources(category);
   
   if (scrapingSources.length === 0) {
