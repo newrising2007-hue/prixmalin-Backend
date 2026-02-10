@@ -474,7 +474,6 @@ app.post('/api/search-prices', async (req, res) => {
     // Extraire latitude/longitude de l'objet location
     const latitude = location.latitude;
 const longitude = location.longitude;
-const radiusKm = req.body.radiusKm || 50;
     
     // Vérifier cache
     const cacheKey = `v3:search:${query}:${category}:${latitude},${longitude}:${radiusKm}`;
