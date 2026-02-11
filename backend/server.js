@@ -19,7 +19,8 @@ const {
   getScrapingSources,
   shouldDisplayPrice,
   hasPhysicalStores,
-  getAffiliateProgram
+  getAffiliateProgram,
+  getSourceConfig
 } = require('./source-config');
 
 const {
@@ -436,7 +437,7 @@ const MOCK_PRODUCTS = {
 
 function enrichMockDataWithConfig(products, category) {
   return products.map(product => {
-    const config = sourceConfig[product.source] || {
+    const config = getSourceConfig(product.source) || {
       type: 'scraping',
       displayPrice: false,
       hasPhysicalStores: true,
