@@ -13,7 +13,6 @@ const Redis = require('ioredis');
 const {
   SOURCE_CONFIG,
   CATEGORY_SOURCES,
-  getSourceConfig,
   getCategorySources,
   getAPISources,
   getScrapingSources,
