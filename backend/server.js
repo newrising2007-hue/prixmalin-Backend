@@ -500,8 +500,13 @@ const longitude = location.longitude;
     ]);
     
     // Combiner résultats
-    let allResults = [...(apiResults || []), ...(scrapingResults || [])];
-    
+    // Si Claude API a retourné des résultats mock, on les utilise SEULS
+let allResults = [];
+if (scrapingResults && scrapingResults.length > 0) {
+  allResults = scrapingResults;
+} else if (apiResults && apiResults.length > 0) {
+  allResults = apiResults;
+}    
     // Enrichir avec données magasins
     allResults = enrichWithStoreData(allResults, latitude, longitude, radiusKm);
     
