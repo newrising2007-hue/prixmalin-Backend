@@ -13,6 +13,7 @@ const Redis = require('ioredis');
 const {
   SOURCE_CONFIG,
   CATEGORY_SOURCES,
+  getSourceConfig,
   getCategorySources,
   getAPISources,
   getScrapingSources,
@@ -359,17 +360,6 @@ const MOCK_PRODUCTS = {
       image_url: "https://i5.walmartimages.ca/images/Large/165/346/6000016934567.jpg",
       source: "walmart"
     },
-
-  // Intime
-  {
-    product_name: "Caleçons Boxers Hanes Pack 3",
-    price: "19.99",
-    store: "Walmart",
-    url: "https://www.walmart.ca/fr/ip/caleccons-boxers-hanes/123456",
-    image_url: "https://i5.walmartimages.ca/images/Large/123/456/123456.jpg",
-    category: "intime",
-    source: "walmart"
-  },
     {
       product_name: "Lait 2% Natrel 2L",
       price: "4.49",
@@ -511,13 +501,8 @@ const longitude = location.longitude;
     ]);
     
     // Combiner résultats
-    // Si Claude API a retourné des résultats mock, on les utilise SEULS
-let allResults = [];
-if (scrapingResults && scrapingResults.length > 0) {
-  allResults = scrapingResults;
-} else if (apiResults && apiResults.length > 0) {
-  allResults = apiResults;
-}    
+    let allResults = [...(apiResults || []), ...(scrapingResults || [])];
+    
     // Enrichir avec données magasins
     allResults = enrichWithStoreData(allResults, latitude, longitude, radiusKm);
     
