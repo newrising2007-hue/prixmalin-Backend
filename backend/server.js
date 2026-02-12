@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 10000;
 app.use(cors());
 app.use(express.json());
 
-// MOCK DATA POUR LES 12 CATÉGORIES
+// MOCK DATA POUR LES 10 CATÉGORIES
 const MOCK_DATA = {
   epicerie: [
     {
@@ -31,6 +31,7 @@ const MOCK_DATA = {
   ],
   
   electro: [
+    // ÉLECTRONIQUE
     {
       product_name: "iPhone 15 Pro 256GB",
       price: "1399.99",
@@ -53,6 +54,39 @@ const MOCK_DATA = {
       store: "Apple Store",
       category: "electro",
       source: "apple",
+      verified: true
+    },
+    // ÉLECTROMÉNAGER
+    {
+      product_name: "Réfrigérateur Samsung 25pi³",
+      price: "1899.99",
+      store: "Best Buy",
+      category: "electro",
+      source: "bestbuy",
+      verified: true
+    },
+    {
+      product_name: "Micro-ondes Panasonic 1.2pi³",
+      price: "199.99",
+      store: "Walmart",
+      category: "electro",
+      source: "walmart",
+      verified: true
+    },
+    {
+      product_name: "Cafetière Keurig K-Elite",
+      price: "129.99",
+      store: "Canadian Tire",
+      category: "electro",
+      source: "canadiantire",
+      verified: false
+    },
+    {
+      product_name: "Aspirateur Dyson V15",
+      price: "899.99",
+      store: "Best Buy",
+      category: "electro",
+      source: "bestbuy",
       verified: true
     }
   ],
@@ -263,39 +297,6 @@ const MOCK_DATA = {
       source: "napa",
       verified: false
     }
-  ],
-  
-  alertes: [
-    {
-      product_name: "Alerte activée pour iPhone 15",
-      price: "0.00",
-      store: "PrixMalin",
-      category: "alertes",
-      source: "prixmalin",
-      verified: true,
-      special: "Notification active"
-    }
-  ],
-  
-  bonus: [
-    {
-      product_name: "Code Promo 20% - Amazon",
-      price: "0.00",
-      store: "Amazon.ca",
-      category: "bonus",
-      source: "amazon",
-      verified: true,
-      special: "Code: SAVE20"
-    },
-    {
-      product_name: "Cashback 10% - Rakuten",
-      price: "0.00",
-      store: "Rakuten",
-      category: "bonus",
-      source: "rakuten",
-      verified: true,
-      special: "Jusqu'à 10% de remise"
-    }
   ]
 };
 
@@ -309,7 +310,7 @@ app.post('/api/search-prices', async (req, res) => {
     // Retourne les données mock pour la catégorie sélectionnée
     const results = MOCK_DATA[category] || [];
 
-    // Simule un délai de recherche (pour tester le bouton cancel)
+    // Simule un délai de recherche
     await new Promise(resolve => setTimeout(resolve, 500));
 
     res.json({
