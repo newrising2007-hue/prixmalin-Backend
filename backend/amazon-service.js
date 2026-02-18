@@ -2,37 +2,29 @@
  * Service Amazon Associates
  * Génère des liens affiliés Amazon réels
  */
-
 const AMAZON_TAG = 'prixmalin-20'; // Ton tracking ID
 
 /**
- * Génère des produits Amazon pour une recherche
+ * Génère un produit Amazon pour une recherche
  */
 function getAmazonProducts(query, category, count = 4) {
-  // Construire URL de recherche Amazon avec tag affilié
   const searchUrl = buildAmazonSearchUrl(query, category);
-  
-  // Pour l'instant, retourner des liens de recherche Amazon
-  // Plus tard, on pourra intégrer la vraie API Product Advertising
-  const products = [];
-  
-  for (let i = 0; i < count; i++) {
-    products.push({
-      product_name: `${query} - Amazon ${getCategoryName(category)}`,
-      price: null, // Pas de prix sans API
-      store: 'Amazon.ca',
-      category: category,
-      source: 'amazon',
-      url: searchUrl,
-      affiliateLink: searchUrl,
-      affiliationType: 'online',
-      verified: false,
-      commission: getAmazonCommission(category),
-      badge: '⚠️ Voir prix sur Amazon',
-    });
-  }
-  
-  return products;
+
+  // Un seul résultat Amazon (lien de recherche affilié)
+  // La vraie API (Creators API) viendra après 10 ventes/mois
+  return [{
+    product_name: `Rechercher "${query}" sur Amazon.ca`,
+    price: null,
+    store: 'Amazon.ca',
+    category: category,
+    source: 'amazon',
+    url: searchUrl,
+    affiliateLink: searchUrl,
+    affiliationType: 'online',
+    verified: false,
+    commission: getAmazonCommission(category),
+    badge: 'Voir les prix sur Amazon',
+  }];
 }
 
 /**
@@ -44,13 +36,12 @@ function buildAmazonSearchUrl(query, category) {
     k: query,
     tag: AMAZON_TAG,
   });
-  
-  // Ajouter catégorie Amazon si pertinent
+
   const amazonCategory = getAmazonCategory(category);
   if (amazonCategory) {
     params.append('i', amazonCategory);
   }
-  
+
   return `${baseUrl}?${params.toString()}`;
 }
 
@@ -69,13 +60,14 @@ function getAmazonCategory(category) {
     sport: 'sporting-goods',
     vehicules: 'automotive',
     intime: 'beauty',
+    divers: null,
   };
-  
+
   return mapping[category] || null;
 }
 
 /**
- * Obtenir taux commission Amazon par catégorie
+ * Taux commission Amazon par catégorie
  */
 function getAmazonCommission(category) {
   const rates = {
@@ -89,8 +81,9 @@ function getAmazonCommission(category) {
     sport: '4%',
     vehicules: '3%',
     intime: '4-10%',
+    divers: '2-4%',
   };
-  
+
   return rates[category] || '2-4%';
 }
 
@@ -109,8 +102,9 @@ function getCategoryName(category) {
     sport: 'Sport',
     vehicules: 'Auto',
     intime: 'Beauté',
+    divers: 'Divers',
   };
-  
+
   return names[category] || 'Produits';
 }
 
