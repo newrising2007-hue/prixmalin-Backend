@@ -1,7 +1,8 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-
+const { searchLocalStores, getStoreDetails } = require('./places-service');
+const { getAmazonProducts } = require('./amazon-service');
 const app = express();
 const PORT = process.env.PORT || 10000;
 
@@ -147,20 +148,88 @@ const MOCK_PRODUCTS = {
 
 app.post('/api/search-prices', async (req, res) => {
   try {
-    const { query, category } = req.body;
-    
-    if (MOCK_PRODUCTS[category]) {
-      return res.json({
-        success: true,
-        products: MOCK_PRODUCTS[category]
-      });
-    }
-    
+    const { query, category, location, radiusKm = 25 } = req.body;
+
+    // Position utilisateur (à améliorer avec vraie géolocalisation)
+    const userLocation = {
+      latitude: 45.5017,  // Montréal par défaut
+      longitude: -73.5673
+    };
+
+    // 1. RECHERCHE LOCALE (Google Places)
+    const localStores = await searchLocalStores(
+      query,
+      category,
+      userLocation.latitude,
+      userLocation.longitude,
+      radiusKm
+    );
+
+    // Enrichir avec détails (site web + téléphone)
+    const enrichedStores = await Promise.all(
+      localStores.slice(0, 4).map(async (store) => {
+        const details = await getStoreDetails(store.placeId);
+        return {
+          ...store,
+          website: details.website,
+          phone: details.phone,
+          type: details.website ? 'local_with_website' : 'local_no_website',
+        };
+      })
+    );
+
+    // Séparer locaux avec/sans site web
+    const withWebsite = enrichedStores.filter(s => s.type === 'local_with_website').slice(0, 2);
+    const withoutWebsite = enrichedStores.filter(s => s.type === 'local_no_website').slice(0, 2);
+
+    // 2. PRODUITS ONLINE (Amazon réel)
+    const amazonProducts = getAmazonProducts(query, category, 4);
+    const onlineResults = amazonProducts;
+
+    // 3. COMBINER (Règle des 8)
+    const results = [
+      ...withWebsite.map(store => ({
+        product_name: `${query} - ${store.name}`,
+        price: null,
+        store: store.name,
+        address: store.address,
+        distance: `${store.distance} km`,
+        phone: store.phone,
+        website: store.website,
+        latitude: store.latitude,
+        longitude: store.longitude,
+        type: 'local_with_website',
+        rating: store.rating,
+      })),
+      ...withoutWebsite.map(store => ({
+        product_name: `${query} - ${store.name}`,
+        price: null,
+        store: store.name,
+        address: store.address,
+        distance: `${store.distance} km`,
+        phone: store.phone,
+        website: null,
+        latitude: store.latitude,
+        longitude: store.longitude,
+        type: 'local_no_website',
+        rating: store.rating,
+      })),
+      ...onlineResults,
+    ];
+
     return res.json({
-      success: false,
-      products: []
+      success: true,
+      count: results.length,
+      results: results,
+      breakdown: {
+        local_with_website: withWebsite.length,
+        local_no_website: withoutWebsite.length,
+        online: onlineResults.length,
+      }
     });
+
   } catch (error) {
+    console.error('Erreur recherche:', error);
     return res.status(500).json({
       success: false,
       error: error.message
