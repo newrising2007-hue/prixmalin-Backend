@@ -21,6 +21,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.1",
     "@googlemaps/google-maps-services-js": "^3.4.2",
+    "amazon-paapi": "^1.0.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",

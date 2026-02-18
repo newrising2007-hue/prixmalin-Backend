@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "b30c5957-2335-466e-a5c6-87ad68eaadd4"
+      }
+    },
+    "android": {
+      "package": "com.neosmarthing.prixmalinbackend"
+    }
+  }
+}
