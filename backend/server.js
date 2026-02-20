@@ -15,8 +15,8 @@ app.post('/api/search-prices', async (req, res) => {
 
     // Position utilisateur (à améliorer avec vraie géolocalisation)
     const userLocation = {
-      latitude: 45.5017,  // Montréal par défaut
-      longitude: -73.5673
+      latitude: location?.latitude || 45.5017,
+      longitude: location?.longitude || -73.5673
     };
 
     // 1. RECHERCHE LOCALE (Google Places)
