@@ -3,22 +3,18 @@ const express = require('express');
 const cors = require('cors');
 const { searchLocalStores, getStoreDetails } = require('./places-service');
 const { getAmazonProducts } = require('./amazon-service');
+const { getWalmartProducts } = require('./walmart-service');
 const app = express();
 const PORT = process.env.PORT || 10000;
-
 app.use(cors());
 app.use(express.json());
-
 app.post('/api/search-prices', async (req, res) => {
   try {
     const { query, category, location, radiusKm = 25 } = req.body;
-
-    // Position utilisateur (à améliorer avec vraie géolocalisation)
     const userLocation = {
       latitude: location?.latitude || 45.5017,
       longitude: location?.longitude || -73.5673
     };
-
     // 1. RECHERCHE LOCALE (Google Places)
     const localStores = await searchLocalStores(
       query,
@@ -27,8 +23,6 @@ app.post('/api/search-prices', async (req, res) => {
       userLocation.longitude,
       radiusKm
     );
-
-    // Enrichir avec détails (site web + téléphone)
     const enrichedStores = await Promise.all(
       localStores.slice(0, 4).map(async (store) => {
         const details = await getStoreDetails(store.placeId);
@@ -40,15 +34,12 @@ app.post('/api/search-prices', async (req, res) => {
         };
       })
     );
-
-    // Séparer locaux avec/sans site web
     const withWebsite = enrichedStores.filter(s => s.type === 'local_with_website').slice(0, 2);
     const withoutWebsite = enrichedStores.filter(s => s.type === 'local_no_website').slice(0, 2);
-
-    // 2. PRODUITS ONLINE (Amazon réel)
+    // 2. PRODUITS ONLINE (Amazon + Walmart)
     const amazonProducts = getAmazonProducts(query, category, 4);
-    const onlineResults = amazonProducts;
-
+    const walmartProducts = getWalmartProducts(query, category);
+    const onlineResults = [...amazonProducts, ...walmartProducts];
     // 3. COMBINER (Règle des 8)
     const results = [
       ...withWebsite.map(store => ({
@@ -79,7 +70,6 @@ app.post('/api/search-prices', async (req, res) => {
       })),
       ...onlineResults,
     ];
-
     return res.json({
       success: true,
       count: results.length,
@@ -90,7 +80,6 @@ app.post('/api/search-prices', async (req, res) => {
         online: onlineResults.length,
       }
     });
-
   } catch (error) {
     console.error('Erreur recherche:', error);
     return res.status(500).json({
@@ -99,11 +88,9 @@ app.post('/api/search-prices', async (req, res) => {
     });
   }
 });
-
 app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'PrixMalin Backend v5 - Affiliation' });
 });
-
 app.listen(PORT, () => {
   console.log('========================================');
   console.log('🚀 PRIXMALIN BACKEND V5 - AFFILIATION');
