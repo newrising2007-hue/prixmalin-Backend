@@ -9,25 +9,29 @@ const PORT = process.env.PORT || 10000;
 app.use(cors());
 app.use(express.json());
 
-// Images officielles par marque
+// Images officielles par marque - URLs PNG directes fiables pour React Native
 const BRAND_LOGOS = {
-  'yamaha':      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Yamaha_Motor_logo.svg/320px-Yamaha_Motor_logo.svg.png',
-  'suzuki':      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Suzuki_logo_2.svg/320px-Suzuki_logo_2.svg.png',
-  'arctic cat':  'https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arctic_Cat_logo.svg/320px-Arctic_Cat_logo.svg.png',
-  'ski-doo':     'https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Ski-Doo_logo.svg/320px-Ski-Doo_logo.svg.png',
-  'can-am':      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Can-Am_logo.svg/320px-Can-Am_logo.svg.png',
-  'sea-doo':     'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sea-Doo_logo.svg/320px-Sea-Doo_logo.svg.png',
-  'honda':       'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Honda_Logo.svg/320px-Honda_Logo.svg.png',
-  'kawasaki':    'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kawasaki_logo.svg/320px-Kawasaki_logo.svg.png',
-  'ktm':         'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KTM-logo.svg/320px-KTM-logo.svg.png',
-  'polaris':     'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Polaris_Industries_logo.svg/320px-Polaris_Industries_logo.svg.png',
-  'cfmoto':      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CFMOTO_logo.svg/320px-CFMOTO_logo.svg.png',
-  'lynx':        'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ski-Doo_logo.svg/320px-Ski-Doo_logo.svg.png',
-  'husqvarna':   'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Husqvarna_logo.svg/320px-Husqvarna_logo.svg.png',
-  'ford':        'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/320px-Ford_logo_flat.svg.png',
-  'toyota':      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Toyota_carlogo.svg/320px-Toyota_carlogo.svg.png',
-  'default':     'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/320px-No_image_available.svg.png',
+  'yamaha':      'https://via.placeholder.com/320x160/CC0000/FFFFFF?text=Yamaha',
+  'suzuki':      'https://via.placeholder.com/320x160/003087/FFFFFF?text=Suzuki',
+  'arctic cat':  'https://via.placeholder.com/320x160/003087/FFFFFF?text=Arctic+Cat',
+  'ski-doo':     'https://via.placeholder.com/320x160/FFD700/000000?text=Ski-Doo',
+  'can-am':      'https://via.placeholder.com/320x160/FF0000/FFFFFF?text=Can-Am',
+  'sea-doo':     'https://via.placeholder.com/320x160/0066CC/FFFFFF?text=Sea-Doo',
+  'honda':       'https://via.placeholder.com/320x160/CC0000/FFFFFF?text=Honda',
+  'kawasaki':    'https://via.placeholder.com/320x160/00A651/FFFFFF?text=Kawasaki',
+  'ktm':         'https://via.placeholder.com/320x160/FF6600/FFFFFF?text=KTM',
+  'polaris':     'https://via.placeholder.com/320x160/003087/FFFFFF?text=Polaris',
+  'cfmoto':      'https://via.placeholder.com/320x160/CC0000/FFFFFF?text=CFMOTO',
+  'lynx':        'https://via.placeholder.com/320x160/FFD700/000000?text=Lynx',
+  'husqvarna':   'https://via.placeholder.com/320x160/0000CD/FFFFFF?text=Husqvarna',
+  'ford':        'https://via.placeholder.com/320x160/003087/FFFFFF?text=Ford',
+  'toyota':      'https://via.placeholder.com/320x160/CC0000/FFFFFF?text=Toyota',
+  'default':     'https://via.placeholder.com/320x160/1A1A2E/FFFFFF?text=Vehicule',
 };
+
+// Images marketplace fiables
+const FACEBOOK_IMG = 'https://via.placeholder.com/320x160/1877F2/FFFFFF?text=Facebook+Marketplace';
+const KIJIJI_IMG   = 'https://via.placeholder.com/320x160/FF6600/FFFFFF?text=Kijiji';
 
 function getBrandLogo(query, brands = []) {
   const lowerQuery = query.toLowerCase();
@@ -92,18 +96,16 @@ app.post('/api/search-prices', async (req, res) => {
     let onlineResults = [];
 
     if (isVehicleCategory(category)) {
-      const amazonProducts = getAmazonProducts(query, category, 2);
       const { facebookUrl, kijijiUrl } = getMarketplaceLinks(query);
 
       onlineResults = [
-        ...amazonProducts,
         {
           product_name: `${query} - Usagé sur Facebook Marketplace`,
           price: null,
           store: 'Facebook Marketplace',
           website: facebookUrl,
           affiliate_url: facebookUrl,
-          image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png',
+          image_url: FACEBOOK_IMG,
           type: 'marketplace',
           badge: 'USAGÉ',
           badge_color: '#1877F2',
@@ -114,7 +116,7 @@ app.post('/api/search-prices', async (req, res) => {
           store: 'Kijiji',
           website: kijijiUrl,
           affiliate_url: kijijiUrl,
-          image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kijiji_logo.svg/320px-Kijiji_logo.svg.png',
+          image_url: KIJIJI_IMG,
           type: 'marketplace',
           badge: 'USAGÉ',
           badge_color: '#FF6600',
