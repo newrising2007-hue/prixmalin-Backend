@@ -5,7 +5,6 @@ const path = require('path');
 
 const client = new Client({});
 
-// Charge les concessionnaires locaux confirmés
 function loadLocalDealers() {
   try {
     const filePath = path.join(__dirname, 'dealers.json');
@@ -16,7 +15,6 @@ function loadLocalDealers() {
   }
 }
 
-// Filtre les dealers par marque détectée et catégorie
 function getMatchingDealers(query, category, latitude, longitude) {
   const dealers = loadLocalDealers();
   const brand = extractVehicleBrand(query);
@@ -39,15 +37,12 @@ function getMatchingDealers(query, category, latitude, longitude) {
 
 async function searchLocalStores(query, category, latitude, longitude, radiusKm = 100) {
   try {
-    // PRIORITÉ 1 : Concessionnaires confirmés dans dealers.json
     const localDealers = getMatchingDealers(query, category, latitude, longitude);
 
-    // Si on a déjà 4 résultats confirmés, pas besoin de Google Places
     if (localDealers.length >= 4) {
       return localDealers;
     }
 
-    // PRIORITÉ 2 : Google Places pour compléter
     const searchQueries = getSearchQueries(query, category);
     let allPlaces = [];
 
@@ -83,7 +78,6 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
       allPlaces = [...allPlaces, ...phasePlaces.filter(p => !existingIds.has(p.place_id))];
     }
 
-    // Exclure les doublons avec dealers.json (par nom approximatif)
     const localNames = localDealers.map(d => d.name.toLowerCase());
     const filteredPlaces = allPlaces.filter(p =>
       !localNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]))
@@ -104,18 +98,15 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
 
     googleStores.sort((a, b) => a.distance - b.distance);
 
-    // Combiner : dealers confirmés en premier, Google en complément
     return [...localDealers, ...googleStores];
 
   } catch (error) {
     console.error('Erreur Google Places:', error);
-    // Si Google Places échoue, retourner quand même les dealers locaux
     return getMatchingDealers(query, category, latitude, longitude);
   }
 }
 
 async function getStoreDetails(placeId, fromLocalDB = false, dealerData = null) {
-  // Si c'est un dealer confirmé, on a déjà toutes les infos
   if (fromLocalDB && dealerData) {
     return {
       website: dealerData.website || null,
@@ -123,7 +114,6 @@ async function getStoreDetails(placeId, fromLocalDB = false, dealerData = null) 
     };
   }
 
-  // Sinon on appelle Google Places
   if (!placeId) return { website: null, phone: null };
 
   try {
@@ -156,6 +146,14 @@ function getSearchQueries(query, category) {
     queries.push(`moto dealer`);
     return queries;
   }
+  if (category === 'pieces') {
+    return [
+      `${query} auto parts`,
+      `${query} pièces automobile`,
+      'canadian tire auto parts',
+      'napa auto parts',
+    ];
+  }
   return [`${query} ${getCategoryKeywords(category)}`];
 }
 
@@ -184,6 +182,7 @@ function getCategoryKeywords(category) {
     sport: 'sporting goods',
     vehicules: 'auto dealer moto',
     intime: 'beauty store',
+    pieces: 'auto parts store',
   };
   return keywords[category] || '';
 }
