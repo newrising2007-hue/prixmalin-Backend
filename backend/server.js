@@ -9,7 +9,6 @@ const PORT = process.env.PORT || 10000;
 app.use(cors());
 app.use(express.json());
 
-// Images officielles par marque - URLs PNG directes fiables pour React Native
 const BRAND_LOGOS = {
   'yamaha':      'https://via.placeholder.com/320x160/CC0000/FFFFFF?text=Yamaha',
   'suzuki':      'https://via.placeholder.com/320x160/003087/FFFFFF?text=Suzuki',
@@ -29,17 +28,14 @@ const BRAND_LOGOS = {
   'default':     'https://via.placeholder.com/320x160/1A1A2E/FFFFFF?text=Vehicule',
 };
 
-// Images marketplace fiables
 const FACEBOOK_IMG = 'https://via.placeholder.com/320x160/1877F2/FFFFFF?text=Facebook+Marketplace';
 const KIJIJI_IMG   = 'https://via.placeholder.com/320x160/FF6600/FFFFFF?text=Kijiji';
 
 function getBrandLogo(query, brands = []) {
   const lowerQuery = query.toLowerCase();
-  // Cherche dans les marques du dealer d'abord
   for (const brand of brands) {
     if (BRAND_LOGOS[brand]) return BRAND_LOGOS[brand];
   }
-  // Sinon cherche dans la requête
   for (const [brand, logo] of Object.entries(BRAND_LOGOS)) {
     if (lowerQuery.includes(brand)) return logo;
   }
@@ -56,6 +52,10 @@ function getMarketplaceLinks(query) {
 
 function isVehicleCategory(category) {
   return category === 'vehicules';
+}
+
+function isPiecesCategory(category) {
+  return category === 'pieces';
 }
 
 app.post('/api/search-prices', async (req, res) => {
@@ -97,7 +97,6 @@ app.post('/api/search-prices', async (req, res) => {
 
     if (isVehicleCategory(category)) {
       const { facebookUrl, kijijiUrl } = getMarketplaceLinks(query);
-
       onlineResults = [
         {
           product_name: `${query} - Usagé sur Facebook Marketplace`,
@@ -122,13 +121,33 @@ app.post('/api/search-prices', async (req, res) => {
           badge_color: '#FF6600',
         },
       ];
+    } else if (isPiecesCategory(category)) {
+      // Pièces & Accessoires : Amazon automotive + Walmart + Kijiji usagé
+      const amazonProducts = getAmazonProducts(query, 'vehicules', 2);
+      const walmartProducts = getWalmartProducts(query, 'vehicules');
+      const { kijijiUrl } = getMarketplaceLinks(query + ' pièces');
+      onlineResults = [
+        ...amazonProducts,
+        ...walmartProducts,
+        {
+          product_name: `${query} - Pièces usagées sur Kijiji`,
+          price: null,
+          store: 'Kijiji',
+          website: kijijiUrl,
+          affiliate_url: kijijiUrl,
+          image_url: KIJIJI_IMG,
+          type: 'marketplace',
+          badge: 'USAGÉ',
+          badge_color: '#FF6600',
+        },
+      ];
     } else {
       const amazonProducts = getAmazonProducts(query, category, 4);
       const walmartProducts = getWalmartProducts(query, category);
       onlineResults = [...amazonProducts, ...walmartProducts];
     }
 
-    // 3. RÈGLE DES 8 — avec image_url
+    // 3. RÈGLE DES 8
     const results = [
       ...withWebsite.map(store => ({
         product_name: `${query} - ${store.name}`,
