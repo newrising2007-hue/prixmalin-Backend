@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 app.post('/api/search-prices', async (req, res) => {
   try {
-    const { query, category, location, radiusKm = 25 } = req.body;
+    const { query, category, location, radiusKm = 100 } = req.body;
     const userLocation = {
       latitude: location?.latitude || 45.5017,
       longitude: location?.longitude || -73.5673
