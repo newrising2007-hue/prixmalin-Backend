@@ -2,7 +2,6 @@
  * Service Amazon PA-API 5.0
  * Récupère vrais prix + images + notes Amazon
  */
-
 const { SearchItems } = require('amazon-paapi');
 
 const AMAZON_CONFIG = {
@@ -28,6 +27,7 @@ function getAmazonCategory(category) {
     sport: 'SportingGoods',
     vehicules: 'Automotive',
     intime: 'Beauty',
+    pieces: 'Automotive',
   };
   return mapping[category] || 'All';
 }
@@ -37,9 +37,17 @@ function getAmazonCategory(category) {
  */
 function getCommission(category) {
   const rates = {
-    epicerie: '1-3%', electro: '2-3%', vetements: '4%',
-    quincaillerie: '3%', loisirs: '4%', animaux: '4%',
-    sante: '3-4%', sport: '4%', vehicules: '3%', intime: '4-10%',
+    epicerie: '1-3%',
+    electro: '2-3%',
+    vetements: '4%',
+    quincaillerie: '3%',
+    loisirs: '4%',
+    animaux: '4%',
+    sante: '3-4%',
+    sport: '4%',
+    vehicules: '3%',
+    intime: '4-10%',
+    pieces: '3%',
   };
   return rates[category] || '2-4%';
 }
@@ -110,7 +118,7 @@ async function getAmazonProductsReal(query, category, count = 4) {
  */
 function getFallbackProducts(query, category, count = 4) {
   const searchUrl = `https://www.amazon.ca/s?k=${encodeURIComponent(query)}&tag=${AMAZON_CONFIG.PartnerTag}`;
-  
+
   return Array(count).fill(null).map(() => ({
     product_name: `${query} - Amazon.ca`,
     price: null,
