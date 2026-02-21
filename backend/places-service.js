@@ -1,62 +1,131 @@
 const { Client } = require("@googlemaps/google-maps-services-js");
 require('dotenv').config();
+const fs = require('fs');
+const path = require('path');
 
 const client = new Client({});
 
+// Charge les concessionnaires locaux confirmés
+function loadLocalDealers() {
+  try {
+    const filePath = path.join(__dirname, 'dealers.json');
+    const data = fs.readFileSync(filePath, 'utf8');
+    return JSON.parse(data).dealers || [];
+  } catch (error) {
+    return [];
+  }
+}
+
+// Filtre les dealers par marque détectée et catégorie
+function getMatchingDealers(query, category, latitude, longitude) {
+  const dealers = loadLocalDealers();
+  const brand = extractVehicleBrand(query);
+
+  return dealers
+    .filter(d => {
+      const categoryMatch = d.categories.includes(category);
+      const brandMatch = brand ? d.brands.includes(brand) : true;
+      return categoryMatch && brandMatch;
+    })
+    .map(d => ({
+      ...d,
+      distance: calculateDistance(latitude, longitude, d.latitude, d.longitude),
+      hasWebsite: !!d.website,
+      placeId: null,
+      fromLocalDB: true,
+    }))
+    .sort((a, b) => a.distance - b.distance);
+}
+
 async function searchLocalStores(query, category, latitude, longitude, radiusKm = 100) {
   try {
-    const searchQuery = `${query} ${getCategoryKeywords(category)}`;
+    // PRIORITÉ 1 : Concessionnaires confirmés dans dealers.json
+    const localDealers = getMatchingDealers(query, category, latitude, longitude);
 
-    // Phase 1 : 0-50km
-    const response1 = await client.placesNearby({
-      params: {
-        location: { lat: latitude, lng: longitude },
-        radius: 50000,
-        keyword: searchQuery,
-        key: process.env.GOOGLE_PLACES_API_KEY,
-      },
-    });
+    // Si on a déjà 4 résultats confirmés, pas besoin de Google Places
+    if (localDealers.length >= 4) {
+      return localDealers;
+    }
 
-    let allPlaces = response1.data.results || [];
+    // PRIORITÉ 2 : Google Places pour compléter
+    const searchQueries = getSearchQueries(query, category);
+    let allPlaces = [];
 
-    // Phase 2 : 50-100km si moins de 4 résultats
-    if (allPlaces.length < 4 && radiusKm > 50) {
-      const response2 = await client.placesNearby({
+    for (const searchQuery of searchQueries) {
+      if (allPlaces.length >= (4 - localDealers.length)) break;
+
+      const response1 = await client.placesNearby({
         params: {
           location: { lat: latitude, lng: longitude },
-          radius: 100000,
+          radius: 50000,
           keyword: searchQuery,
           key: process.env.GOOGLE_PLACES_API_KEY,
         },
       });
-      const phase2 = response2.data.results || [];
+
+      let phasePlaces = response1.data.results || [];
+
+      if (phasePlaces.length < 4 && radiusKm > 50) {
+        const response2 = await client.placesNearby({
+          params: {
+            location: { lat: latitude, lng: longitude },
+            radius: 100000,
+            keyword: searchQuery,
+            key: process.env.GOOGLE_PLACES_API_KEY,
+          },
+        });
+        const phase2 = response2.data.results || [];
+        const existingIds = new Set(phasePlaces.map(p => p.place_id));
+        phasePlaces = [...phasePlaces, ...phase2.filter(p => !existingIds.has(p.place_id))];
+      }
+
       const existingIds = new Set(allPlaces.map(p => p.place_id));
-      const newPlaces = phase2.filter(p => !existingIds.has(p.place_id));
-      allPlaces = [...allPlaces, ...newPlaces];
+      allPlaces = [...allPlaces, ...phasePlaces.filter(p => !existingIds.has(p.place_id))];
     }
 
-    const stores = allPlaces.map(place => ({
+    // Exclure les doublons avec dealers.json (par nom approximatif)
+    const localNames = localDealers.map(d => d.name.toLowerCase());
+    const filteredPlaces = allPlaces.filter(p =>
+      !localNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]))
+    );
+
+    const googleStores = filteredPlaces.map(place => ({
       name: place.name,
       address: place.vicinity,
       latitude: place.geometry.location.lat,
       longitude: place.geometry.location.lng,
       rating: place.rating,
       distance: calculateDistance(latitude, longitude, place.geometry.location.lat, place.geometry.location.lng),
-      hasWebsite: place.website ? true : false,
-      phone: place.formatted_phone_number || null,
+      hasWebsite: false,
+      phone: null,
       placeId: place.place_id,
+      fromLocalDB: false,
     }));
 
-    stores.sort((a, b) => a.distance - b.distance);
-    return stores;
+    googleStores.sort((a, b) => a.distance - b.distance);
+
+    // Combiner : dealers confirmés en premier, Google en complément
+    return [...localDealers, ...googleStores];
 
   } catch (error) {
     console.error('Erreur Google Places:', error);
-    return [];
+    // Si Google Places échoue, retourner quand même les dealers locaux
+    return getMatchingDealers(query, category, latitude, longitude);
   }
 }
 
-async function getStoreDetails(placeId) {
+async function getStoreDetails(placeId, fromLocalDB = false, dealerData = null) {
+  // Si c'est un dealer confirmé, on a déjà toutes les infos
+  if (fromLocalDB && dealerData) {
+    return {
+      website: dealerData.website || null,
+      phone: dealerData.phone || null,
+    };
+  }
+
+  // Sinon on appelle Google Places
+  if (!placeId) return { website: null, phone: null };
+
   try {
     const response = await client.placeDetails({
       params: {
@@ -75,6 +144,34 @@ async function getStoreDetails(placeId) {
   }
 }
 
+function getSearchQueries(query, category) {
+  if (category === 'vehicules') {
+    const brand = extractVehicleBrand(query);
+    const queries = [];
+    if (brand) {
+      queries.push(`concessionnaire ${brand}`);
+      queries.push(`${brand} dealer moto`);
+    }
+    queries.push(`${query} concessionnaire`);
+    queries.push(`moto dealer`);
+    return queries;
+  }
+  return [`${query} ${getCategoryKeywords(category)}`];
+}
+
+function extractVehicleBrand(query) {
+  const brands = [
+    'yamaha', 'honda', 'kawasaki', 'suzuki', 'ktm', 'husqvarna',
+    'arctic cat', 'ski-doo', 'bombardier', 'polaris', 'can-am',
+    'ford', 'toyota', 'chevrolet', 'gmc', 'dodge', 'jeep',
+    'bmw', 'mercedes', 'audi', 'volkswagen', 'hyundai', 'kia',
+    'harley', 'harley-davidson', 'ducati', 'triumph', 'royal enfield',
+    'sea-doo', 'brp', 'lynx', 'sherco', 'gasgas', 'beta'
+  ];
+  const lowerQuery = query.toLowerCase();
+  return brands.find(b => lowerQuery.includes(b.replace('-', ' ')) || lowerQuery.includes(b)) || null;
+}
+
 function getCategoryKeywords(category) {
   const keywords = {
     epicerie: 'grocery supermarket',
@@ -85,7 +182,7 @@ function getCategoryKeywords(category) {
     animaux: 'pet store',
     sante: 'pharmacy drugstore',
     sport: 'sporting goods',
-    vehicules: 'auto parts',
+    vehicules: 'auto dealer moto',
     intime: 'beauty store',
   };
   return keywords[category] || '';

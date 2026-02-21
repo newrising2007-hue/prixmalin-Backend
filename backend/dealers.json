@@ -1,0 +1,29 @@
+{
+  "dealers": [
+    {
+      "name": "Scie & Marine Ferron",
+      "brands": ["yamaha", "suzuki", "arctic cat", "mercury", "starcraft", "sylvan", "lund", "ariens"],
+      "categories": ["vehicules"],
+      "address": "84-A Rue Ste-Anne, Ville-Marie, QC J9V 2B7",
+      "phone": "(819) 629-3104",
+      "website": "https://smferron.com/",
+      "latitude": 47.3283,
+      "longitude": -79.4338,
+      "rating": 4.9,
+      "note": "Concessionnaire ÉLITE Yamaha depuis 45 ans"
+    },
+    {
+      "name": "Motosport du Cuivre",
+      "brands": ["yamaha", "can-am", "sea-doo", "ski-doo", "lynx", "honda", "cfmoto", "surron"],
+      "categories": ["vehicules"],
+      "address": "2045 Boul Rideau, Rouyn-Noranda, QC J0Z 1Y0",
+      "phone": "(819) 768-5611",
+      "website": "https://motosportducuivre.com/fr/",
+      "latitude": 48.2422,
+      "longitude": -79.1200,
+      "rating": 4.5,
+      "note": "Concessionnaire Can-Am, Sea-Doo, Ski-Doo, Lynx, Yamaha"
+    }
+  ]
+}
+
