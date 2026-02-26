@@ -5,6 +5,7 @@ const path = require('path');
 
 const client = new Client({});
 
+// ─── DEALERS (véhicules) ────────────────────────────────────────────
 function loadLocalDealers() {
   try {
     const filePath = path.join(__dirname, 'dealers.json');
@@ -35,19 +36,62 @@ function getMatchingDealers(query, category, latitude, longitude) {
     .sort((a, b) => a.distance - b.distance);
 }
 
+// ─── COMMERCES GÉNÉRAUX ─────────────────────────────────────────────
+function loadLocalCommerces() {
+  try {
+    const filePath = path.join(__dirname, 'commerces.json');
+    const data = fs.readFileSync(filePath, 'utf8');
+    return JSON.parse(data).commerces || [];
+  } catch (error) {
+    return [];
+  }
+}
+
+function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 150) {
+  const commerces = loadLocalCommerces();
+  const lowerQuery = query.toLowerCase();
+
+  return commerces
+    .filter(c => {
+      const categoryMatch = c.categories.includes(category);
+      const keywordMatch = c.keywords.some(kw => lowerQuery.includes(kw.toLowerCase()));
+      const withinRadius = calculateDistance(latitude, longitude, c.latitude, c.longitude) <= radiusKm;
+      return (categoryMatch || keywordMatch) && withinRadius;
+    })
+    .map(c => ({
+      ...c,
+      distance: calculateDistance(latitude, longitude, c.latitude, c.longitude),
+      hasWebsite: !!c.website,
+      placeId: null,
+      fromLocalDB: true,
+    }))
+    .sort((a, b) => a.distance - b.distance);
+}
+
+// ─── RECHERCHE PRINCIPALE ───────────────────────────────────────────
 async function searchLocalStores(query, category, latitude, longitude, radiusKm = 100) {
   try {
+    // 1. Dealers véhicules (priorité absolue pour catégorie vehicules)
     const localDealers = getMatchingDealers(query, category, latitude, longitude);
 
-    if (localDealers.length >= 4) {
-      return localDealers;
+    // 2. Commerces généraux manuels
+    const localCommerces = getMatchingCommerces(query, category, latitude, longitude, radiusKm);
+
+    // Fusionner sans doublons
+    const localNames = new Set(localDealers.map(d => d.name.toLowerCase()));
+    const uniqueCommerces = localCommerces.filter(c => !localNames.has(c.name.toLowerCase()));
+    const allLocal = [...localDealers, ...uniqueCommerces];
+
+    if (allLocal.length >= 4) {
+      return allLocal;
     }
 
+    // 3. Compléter avec Google Places si pas assez de résultats locaux
     const searchQueries = getSearchQueries(query, category);
     let allPlaces = [];
 
     for (const searchQuery of searchQueries) {
-      if (allPlaces.length >= (4 - localDealers.length)) break;
+      if (allPlaces.length >= (4 - allLocal.length)) break;
 
       const response1 = await client.placesNearby({
         params: {
@@ -78,9 +122,10 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
       allPlaces = [...allPlaces, ...phasePlaces.filter(p => !existingIds.has(p.place_id))];
     }
 
-    const localNames = localDealers.map(d => d.name.toLowerCase());
+    // Exclure les commerces déjà dans notre BD locale
+    const allLocalNames = allLocal.map(d => d.name.toLowerCase());
     const filteredPlaces = allPlaces.filter(p =>
-      !localNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]))
+      !allLocalNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]))
     );
 
     const googleStores = filteredPlaces.map(place => ({
@@ -98,11 +143,14 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
 
     googleStores.sort((a, b) => a.distance - b.distance);
 
-    return [...localDealers, ...googleStores];
+    return [...allLocal, ...googleStores];
 
   } catch (error) {
     console.error('Erreur Google Places:', error);
-    return getMatchingDealers(query, category, latitude, longitude);
+    return [
+      ...getMatchingDealers(query, category, latitude, longitude),
+      ...getMatchingCommerces(query, category, latitude, longitude, radiusKm),
+    ];
   }
 }
 
