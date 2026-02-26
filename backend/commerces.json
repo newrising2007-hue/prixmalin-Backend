@@ -40,6 +40,19 @@
       "note": "Quincaillerie locale Ville-Marie"
     },
     {
+      "id": "drolet-bmr-lorrainville",
+      "name": "J. Drolet & Fils BMR Lorrainville",
+      "categories": ["quincaillerie", "renovation", "maison", "divers"],
+      "keywords": ["marteau", "tournevis", "perceuse", "outils", "peinture", "plomberie", "électricité", "matériaux", "construction", "bois", "tuiles", "hardware", "tools", "quincaillerie", "rénovation", "lumber"],
+      "address": "83 Rue Notre-Dame Ouest, Lorrainville, QC J0Z 2R0",
+      "phone": "(819) 625-2135",
+      "website": "https://www.bmr.ca",
+      "latitude": 47.3510,
+      "longitude": -79.5180,
+      "rating": 4.2,
+      "note": "Quincaillerie et matériaux construction Lorrainville (~8km de Ville-Marie)"
+    },
+    {
       "id": "iga-villemarie",
       "name": "IGA Ville-Marie",
       "categories": ["epicerie"],
