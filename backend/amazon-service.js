@@ -103,7 +103,7 @@ function getAmazonProducts(query, category, count = 4) {
     source: 'amazon',
     url: searchUrl,
     affiliateLink: searchUrl,
-    affiliationType: 'online',
+    type: "online",
     verified: false,
     commission: getAmazonCommission(category),
     badge: 'Voir les prix sur Amazon',

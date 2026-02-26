@@ -57,7 +57,7 @@ function translateQuery(query) {
 
 function buildWalmartUrl(query) {
   const searchUrl = `${WALMART_BASE}?q=${encodeURIComponent(query)}`;
-  return `https://go.skimresources.com?id=${SKIMLINKS_ID}&url=${encodeURIComponent(searchUrl)}`;
+  return `${searchUrl}`;
 }
 
 function getWalmartCommission(category) {
@@ -81,7 +81,7 @@ function getWalmartProducts(query, category) {
     source: 'walmart',
     url: url,
     affiliateLink: url,
-    affiliationType: 'online',
+    type: "online",
     verified: false,
     commission: getWalmartCommission(category),
     badge: 'Voir les prix sur Walmart',
