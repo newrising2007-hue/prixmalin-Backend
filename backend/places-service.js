@@ -174,7 +174,7 @@ function getCategoryKeywords(category) {
   const keywords = {
     epicerie: 'grocery supermarket',
     electro: 'electronics store',
-    vetements: 'clothing store',
+    vetements: 'clothing store Aubainerie Giant Tiger Winners',
     quincaillerie: 'hardware store',
     loisirs: 'bookstore toy store',
     animaux: 'pet store',
