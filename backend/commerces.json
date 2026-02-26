@@ -3,8 +3,8 @@
     {
       "id": "canadin-tire-villemarie",
       "name": "Canadian Tire Ville-Marie",
-      "categories": ["quincaillerie", "sport", "auto", "pieces", "electro"],
-      "keywords": ["outils", "peinture", "vélo", "camping", "pneus", "batterie", "huile", "hardware", "tools"],
+      "categories": ["quincaillerie", "sport", "auto", "pieces", "electro", "divers"],
+      "keywords": ["outils", "marteau", "tournevis", "perceuse", "peinture", "vélo", "camping", "pneus", "batterie", "huile", "hardware", "tools", "quincaillerie"],
       "address": "21 Boul Champlain, Ville-Marie, QC J9V 1H4",
       "phone": "(819) 629-2639",
       "website": "https://www.canadiantire.ca",
@@ -81,7 +81,7 @@
     {
       "id": "canadian-tire-new-liskeard",
       "name": "Canadian Tire New Liskeard",
-      "categories": ["quincaillerie", "sport", "auto", "pieces", "electro"],
+      "categories": ["quincaillerie", "sport", "auto", "pieces", "electro", "divers"],
       "keywords": ["outils", "vélo", "camping", "pneus", "batterie", "huile", "hardware", "tools"],
       "address": "New Liskeard, ON P0J 1P0",
       "phone": null,
@@ -107,7 +107,7 @@
     {
       "id": "canadian-tire-rouyn",
       "name": "Canadian Tire Rouyn-Noranda",
-      "categories": ["quincaillerie", "sport", "auto", "pieces", "electro"],
+      "categories": ["quincaillerie", "sport", "auto", "pieces", "electro", "divers"],
       "keywords": ["outils", "vélo", "camping", "pneus", "batterie", "hardware", "tools"],
       "address": "Rouyn-Noranda, QC J9X",
       "phone": null,
