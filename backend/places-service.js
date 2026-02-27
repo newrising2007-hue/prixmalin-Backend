@@ -220,7 +220,8 @@ function extractVehicleBrand(query) {
 
 function getCategoryKeywords(category) {
   const keywords = {
-    epicerie: 'grocery supermarket',
+    boucherie: "butcher boucherie viande meat shop",
+    epicerie: "grocery supermarket épicerie alimentation food store",
     electro: 'electronics store',
     vetements: 'clothing store Aubainerie Giant Tiger Winners',
     quincaillerie: 'hardware store',
