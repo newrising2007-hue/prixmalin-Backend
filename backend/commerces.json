@@ -2142,48 +2142,6 @@
       "longitude": -79.6831,
       "rating": 3.8,
       "note": "Hart Home — grand magasin — cadres, décoration, stores, rideaux, literie — Timiskaming Square"
-    },
-    {
-      "id": "peavey-mart-newliskeard",
-      "name": "Peavey Mart New Liskeard",
-      "categories": [
-        "jardin",
-        "sport",
-        "quincaillerie",
-        "animaux"
-      ],
-      "keywords": [
-        "peavey mart",
-        "ferme",
-        "jardin",
-        "vêtements travail",
-        "bottes",
-        "outils jardinage",
-        "engrais",
-        "semences",
-        "animaux ferme",
-        "nourriture animaux",
-        "chien",
-        "chat",
-        "cheval",
-        "vache",
-        "matériaux clôture",
-        "chauffage",
-        "combinaison",
-        "équipement agricole",
-        "ATV",
-        "UTV",
-        "remorque",
-        "tondeuse",
-        "pompe"
-      ],
-      "address": "150 Wilson Ave, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-8311",
-      "website": "https://www.peaveymart.com",
-      "latitude": 47.5076,
-      "longitude": -79.6668,
-      "rating": 4.1,
-      "note": "Peavey Mart — articles ferme, jardin, animaux, vêtements travail, équipement"
     }
   ]
 }
