@@ -1460,51 +1460,6 @@
       "note": "Véhicules récréatifs Yamaha, Suzuki, Arctic Cat — bateaux, motoneiges, VTT, moto"
     },
     {
-      "id": "agrimax-stbruno",
-      "name": "Agrimax St-Bruno-de-Guigues",
-      "categories": [
-        "auto",
-        "sport",
-        "pieces",
-        "vehicules",
-        "jardin"
-      ],
-      "keywords": [
-        "john deere",
-        "honda",
-        "stihl",
-        "tracteur",
-        "tracteur agricole",
-        "tracteur compact",
-        "VTT",
-        "quad",
-        "côte-à-côte",
-        "moto",
-        "scooter",
-        "souffleuse",
-        "tondeuse",
-        "génératrice",
-        "pompe à eau",
-        "moteur hors-bord",
-        "chaloupe",
-        "scie à chaîne",
-        "coupe-herbe",
-        "pièces agricole",
-        "pièces récréatif",
-        "réparation mécanique",
-        "équipement agricole",
-        "machinerie agricole",
-        "fournitures agricoles"
-      ],
-      "address": "668 Route 101 Sud, Saint-Bruno-de-Guigues, QC J0Z 2G0",
-      "phone": "(819) 728-2323",
-      "website": "https://www.agrimax.ca",
-      "latitude": 47.4694,
-      "longitude": -79.4936,
-      "rating": 4.2,
-      "note": "Concessionnaire John Deere, Honda, Stihl — équipements agricoles et récréatifs — depuis 2012"
-    },
-    {
       "id": "napa-lorrainville",
       "name": "NAPA Pièces d'Auto Lorrainville",
       "categories": [
