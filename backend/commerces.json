@@ -1122,7 +1122,7 @@
       "id": "yves-prime-cut-new-liskeard",
       "name": "Yves' Prime Cut Meats New Liskeard",
       "categories": [
-        "epicerie"
+        "boucherie"
       ],
       "keywords": [
         "boucherie",
@@ -2068,8 +2068,7 @@
       "id": "yves-prime-cut-meats-newliskeard",
       "name": "Yves' Prime Cut Meats New Liskeard",
       "categories": [
-        "boucherie",
-        "epicerie"
+        "boucherie"
       ],
       "keywords": [
         "boucherie",
