@@ -1827,9 +1827,7 @@
     {
       "name": "Gourmet Butchery",
       "categories": [
-        "boeuf",
-        "boucherie",
-        "poulet"
+        "boucherie"
       ],
       "keywords": [
         "viande",
@@ -1854,9 +1852,7 @@
       "id": "Epicerie Boucherie Fruits et Légumes",
       "name": "Epicerie Boucherie Fruits et Légumes",
       "categories": [
-        "boeuf",
-        "boucherie",
-        "poulet"
+        "boucherie"
       ],
       "keywords": [
         "boeuf",
