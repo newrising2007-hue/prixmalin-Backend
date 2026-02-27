@@ -124,9 +124,19 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
       allPlaces = [...allPlaces, ...phasePlaces.filter(p => !existingIds.has(p.place_id))];
     }
 
+    // Exclure par mots blacklistés selon catégorie
+    const BLACKLIST = {
+      epicerie: ["bmr", "rona", "home hardware", "canadian tire", "quincaillerie", "hardware", "dépanneur", "depanneur", "restaurant", "bar", "taverne"],
+      boucherie: ["restaurant", "bar", "pizza", "sushi", "dépanneur", "depanneur", "canadian tire", "bmr"],
+      quincaillerie: ["restaurant", "bar", "épicerie", "epicerie", "grocery"],
+      sante: ["restaurant", "bar", "quincaillerie", "hardware"],
+    };
+    const blacklist = (BLACKLIST[category] || []).map(b => b.toLowerCase());
+
     // Exclure les commerces déjà dans notre BD locale
     const allLocalNames = allLocal.map(d => d.name.toLowerCase());
     const filteredPlaces = allPlaces.filter(p =>
+      !blacklist.some(b => p.name.toLowerCase().includes(b)) &&
       !allLocalNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]))
     );
 
