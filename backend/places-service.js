@@ -98,6 +98,7 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
           location: { lat: latitude, lng: longitude },
           radius: 50000,
           keyword: searchQuery,
+          ...(getGooglePlaceType(category) && { type: getGooglePlaceType(category) }),
           key: process.env.GOOGLE_PLACES_API_KEY,
         },
       });
@@ -110,6 +111,7 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
             location: { lat: latitude, lng: longitude },
             radius: 100000,
             keyword: searchQuery,
+          ...(getGooglePlaceType(category) && { type: getGooglePlaceType(category) }),
             key: process.env.GOOGLE_PLACES_API_KEY,
           },
         });
@@ -216,6 +218,31 @@ function extractVehicleBrand(query) {
   ];
   const lowerQuery = query.toLowerCase();
   return brands.find(b => lowerQuery.includes(b.replace('-', ' ')) || lowerQuery.includes(b)) || null;
+}
+
+function getGooglePlaceType(category) {
+  const types = {
+    epicerie: "supermarket",
+    boucherie: "bakery",
+    quincaillerie: "hardware_store",
+    sante: "pharmacy",
+    animaux: "pet_store",
+    sport: "sporting_goods_store",
+    electro: "electronics_store",
+    electromenager: "home_goods_store",
+    maison: "furniture_store",
+    meuble: "furniture_store",
+    vetements: "clothing_store",
+    mode: "clothing_store",
+    renovation: "hardware_store",
+    loisirs: "book_store",
+    beaute: "beauty_salon",
+    vehicules: "car_dealer",
+    auto: "car_dealer",
+    pieces: "car_repair",
+    restaurants: "restaurant",
+  };
+  return types[category] || null;
 }
 
 function getCategoryKeywords(category) {
