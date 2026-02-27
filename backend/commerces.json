@@ -1119,36 +1119,6 @@
       "note": "Épicerie discount New Liskeard — Timiskaming Square"
     },
     {
-      "id": "yves-prime-cut-new-liskeard",
-      "name": "Yves' Prime Cut Meats New Liskeard",
-      "categories": [
-        "boucherie"
-      ],
-      "keywords": [
-        "boucherie",
-        "viande",
-        "bœuf",
-        "porc",
-        "poulet",
-        "steak",
-        "côtelette",
-        "saucisse",
-        "charcuterie",
-        "agneau",
-        "veau",
-        "gibier",
-        "découpe",
-        "viande fraîche"
-      ],
-      "address": "883317 Hwy 65, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-9837",
-      "website": null,
-      "latitude": 47.537,
-      "longitude": -79.657,
-      "rating": 4.5,
-      "note": "Boucherie artisanale New Liskeard"
-    },
-    {
       "id": "bonanza-furniture-new-liskeard",
       "name": "Bonanza Furniture New Liskeard",
       "categories": [
@@ -2065,8 +2035,8 @@
       "note": "North-Way Chrysler — Chrysler, Dodge, Jeep, Ram — concessionnaire officiel"
     },
     {
-      "id": "yves-prime-cut-meats-newliskeard",
-      "name": "Yves' Prime Cut Meats New Liskeard",
+      "id": "yves-prime-cut-meats",
+      "name": "yves-prime-cut-meats",
       "categories": [
         "boucherie"
       ],
@@ -2080,10 +2050,6 @@
         "agneau",
         "saucisse",
         "charcuterie",
-        "deli",
-        "traiteur",
-        "prêt-à-manger",
-        "coupe",
         "steaks",
         "côtelettes",
         "rôti",
