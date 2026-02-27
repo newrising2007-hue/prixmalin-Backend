@@ -45,10 +45,10 @@
       "id": "drolet-bmr-villemarie",
       "name": "J. Drolet & Fils BMR Ville-Marie",
       "categories": [
-        "quincaillerie",
-        "renovation",
+        "divers",
         "maison",
-        "divers"
+        "quincaillerie",
+        "renovation"
       ],
       "keywords": [
         "marteau",
@@ -63,7 +63,6 @@
         "bois",
         "portes",
         "fenêtres",
-        "cuisine",
         "salle de bain",
         "couvre-plancher",
         "quincaillerie",
@@ -326,37 +325,6 @@
       "note": "Vêtements, épicerie, maison à prix réduit"
     },
     {
-      "id": "drolet-bmr-lorrainville",
-      "name": "J. Drolet & Fils BMR Lorrainville",
-      "categories": [
-        "quincaillerie",
-        "renovation",
-        "maison",
-        "divers"
-      ],
-      "keywords": [
-        "marteau",
-        "tournevis",
-        "perceuse",
-        "outils",
-        "peinture",
-        "plomberie",
-        "électricité",
-        "matériaux",
-        "construction",
-        "bois",
-        "quincaillerie",
-        "rénovation"
-      ],
-      "address": "83 Rue Notre-Dame Ouest, Lorrainville, QC J0Z 2R0",
-      "phone": "(819) 625-2135",
-      "website": "https://www.bmr.ca",
-      "latitude": 47.351,
-      "longitude": -79.518,
-      "rating": 4.2,
-      "note": "Quincaillerie et matériaux Lorrainville (~8km)"
-    },
-    {
       "id": "bonichoix-nddn",
       "name": "Marché Bonichoix Notre-Dame-du-Nord",
       "categories": [
@@ -383,34 +351,6 @@
       "longitude": -79.482,
       "rating": 4,
       "note": "Épicerie Notre-Dame-du-Nord (~15km)"
-    },
-    {
-      "id": "bmr-nddn",
-      "name": "BMR Notre-Dame-du-Nord",
-      "categories": [
-        "quincaillerie",
-        "renovation",
-        "divers"
-      ],
-      "keywords": [
-        "marteau",
-        "tournevis",
-        "perceuse",
-        "outils",
-        "peinture",
-        "quincaillerie",
-        "vis",
-        "clou",
-        "rénovation",
-        "matériaux"
-      ],
-      "address": "40 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
-      "phone": null,
-      "website": "https://www.bmr.ca",
-      "latitude": 47.5958,
-      "longitude": -79.4825,
-      "rating": 4,
-      "note": "Quincaillerie Notre-Dame-du-Nord"
     },
     {
       "id": "carquest-nddn",
@@ -999,39 +939,6 @@
       "note": "Carquest pièces auto Notre-Dame-du-Nord — Pièces Expert F.P."
     },
     {
-      "id": "bmr-notre-dame-du-nord",
-      "name": "BMR Notre-Dame-du-Nord",
-      "categories": [
-        "quincaillerie",
-        "renovation",
-        "maison"
-      ],
-      "keywords": [
-        "marteau",
-        "tournevis",
-        "perceuse",
-        "outils",
-        "peinture",
-        "plomberie",
-        "électricité",
-        "matériaux",
-        "construction",
-        "bois",
-        "portes",
-        "fenêtres",
-        "quincaillerie",
-        "rénovation",
-        "plancher"
-      ],
-      "address": "40 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
-      "phone": "(819) 723-2253",
-      "website": "https://www.bmr.ca",
-      "latitude": 47.5968,
-      "longitude": -79.4825,
-      "rating": 4.1,
-      "note": "Quincaillerie et matériaux rénovation Notre-Dame-du-Nord"
-    },
-    {
       "id": "agrimax-st-bruno",
       "name": "Agrimax St-Bruno-de-Guigues",
       "categories": [
@@ -1525,8 +1432,8 @@
       "name": "Scie & Marine Ferron Ville-Marie",
       "categories": [
         "auto",
-        "sport",
         "pieces",
+        "sport",
         "vehicules"
       ],
       "keywords": [
@@ -1558,8 +1465,7 @@
         "ATV",
         "UTV",
         "vêtements moto",
-        "génératrice",
-        "kayak"
+        "génératrice"
       ],
       "address": "84-A Rue Sainte-Anne, Ville-Marie, QC J9V 2B7",
       "phone": "(819) 629-3104",
@@ -1567,7 +1473,7 @@
       "latitude": 47.3324,
       "longitude": -79.4338,
       "rating": 4.5,
-      "note": "Véhicules récréatifs Yamaha, Suzuki, Arctic Cat — bateaux, motoneiges, VTT, motos"
+      "note": "Véhicules récréatifs Yamaha, Suzuki, Arctic Cat — bateaux, motoneiges, VTT, moto"
     },
     {
       "id": "agrimax-stbruno",
@@ -1690,9 +1596,9 @@
       "id": "bmr-nddn",
       "name": "BMR Yvon Champoux Notre-Dame-du-Nord",
       "categories": [
+        "maison",
         "quincaillerie",
-        "renovation",
-        "maison"
+        "renovation"
       ],
       "keywords": [
         "bmr",
@@ -1705,7 +1611,6 @@
         "plomberie",
         "électricité",
         "couvre-plancher",
-        "cuisine",
         "salle de bain",
         "poêle",
         "fournaise",
@@ -2162,8 +2067,8 @@
       "id": "yves-prime-cut-meats-newliskeard",
       "name": "Yves' Prime Cut Meats New Liskeard",
       "categories": [
-        "epicerie",
-        "boucherie"
+        "boucherie",
+        "epicerie"
       ],
       "keywords": [
         "boucherie",
