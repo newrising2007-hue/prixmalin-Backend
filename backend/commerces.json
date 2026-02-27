@@ -819,6 +819,279 @@
       "note": "Articles de sport et plein air Rouyn-Noranda"
     },
     {
+      "id": "temlac-villemarie",
+      "name": "TemLac Pièces d'Auto Ville-Marie",
+      "categories": ["pieces", "auto"],
+      "keywords": ["pièces auto", "pièces automobile", "freins", "suspension", "huile moteur", "batterie", "filtre", "bougie", "amortisseur", "alternateur", "démarreur", "outils", "sécurité", "fournitures industrielles", "hydraulique", "boyaux", "soudage"],
+      "address": "43 Rue des Oblats Nord, Ville-Marie, QC J9V 1J1",
+      "phone": "(819) 629-3143",
+      "website": "https://www.temlac.ca",
+      "latitude": 47.3342,
+      "longitude": -79.4328,
+      "rating": 4.2,
+      "note": "Distributeur pièces automobiles et fournitures industrielles — urgence 24/7"
+    },
+    {
+      "id": "brousseau-pieces-villemarie",
+      "name": "Pièces d'Auto Brousseau Ville-Marie",
+      "categories": ["pieces", "auto"],
+      "keywords": ["pièces auto", "pièces automobile", "freins", "suspension", "huile moteur", "batterie", "filtre", "carrosserie", "peinture auto", "hydraulique", "boyaux", "soudage", "équipement soudage", "alternateur", "démarreur", "urgence"],
+      "address": "76 Rue des Oblats Nord, Ville-Marie, QC J9V 1J7",
+      "phone": "(819) 629-2848",
+      "website": "https://www.piecesdautobrousseau.com",
+      "latitude": 47.335,
+      "longitude": -79.4325,
+      "rating": 4.3,
+      "note": "Pièces auto depuis 60 ans — urgence 24h/7j — hydraulique, soudage, boyaux sur place"
+    },
+    {
+      "id": "imaginart-insider-villemarie",
+      "name": "Imagin'Art & The Insider Florentine Ville-Marie",
+      "categories": ["vetements"],
+      "keywords": ["vêtements", "chemise", "linge", "mode", "boutique", "homme", "femme", "habits", "manteau", "pantalon", "chandail", "accessoires mode", "chaussures"],
+      "address": "8 Rue Sainte-Anne, Ville-Marie, QC J9V 2B7",
+      "phone": "(819) 629-2586",
+      "website": null,
+      "latitude": 47.3302,
+      "longitude": -79.4417,
+      "rating": 4.8,
+      "note": "Boutique de vêtements hommes/femmes — chemises spécialisées"
+    },
+    {
+      "id": "magasin-petrin-bearn",
+      "name": "Magasin Pétrin Béarn",
+      "categories": ["vetements"],
+      "keywords": ["vêtements", "chemise", "linge", "mode", "boutique", "homme", "femme", "habits", "manteau", "pantalon", "chandail", "chemises spécialisées"],
+      "address": "13A Rue Principale Sud, Béarn, QC J0Z 1G0",
+      "phone": "(819) 726-2271",
+      "website": null,
+      "latitude": 47.2338,
+      "longitude": -79.4067,
+      "rating": 4.3,
+      "note": "Vêtements hommes et femmes — spécialiste chemises depuis 1969"
+    },
+    {
+      "id": "napa-lorrainville",
+      "name": "NAPA Pièces d'Auto Lorrainville",
+      "categories": ["pieces", "auto"],
+      "keywords": ["pièces auto", "pièces automobile", "freins", "batterie", "huile moteur", "filtre", "suspension", "bougie", "courroie", "napa", "essuie-glaces"],
+      "address": "75 Rue Notre-Dame Ouest, Lorrainville, QC J0Z 2R0",
+      "phone": "(819) 625-2120",
+      "website": "https://www.napacanada.com",
+      "latitude": 47.3487,
+      "longitude": -79.5302,
+      "rating": 4.2,
+      "note": "NAPA pièces auto Lorrainville — Distributions Gironne"
+    },
+    {
+      "id": "carquest-notre-dame-du-nord",
+      "name": "Carquest Pièces d'Auto Notre-Dame-du-Nord",
+      "categories": ["pieces", "auto"],
+      "keywords": ["pièces auto", "pièces automobile", "freins", "batterie", "huile moteur", "filtre", "suspension", "bougie", "courroie", "carquest", "essuie-glaces"],
+      "address": "77 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "phone": "(819) 723-2951",
+      "website": "https://www.carquest.com",
+      "latitude": 47.5973,
+      "longitude": -79.4812,
+      "rating": 4.6,
+      "note": "Carquest pièces auto Notre-Dame-du-Nord — Pièces Expert F.P."
+    },
+    {
+      "id": "bmr-notre-dame-du-nord",
+      "name": "BMR Notre-Dame-du-Nord",
+      "categories": ["quincaillerie", "renovation", "maison"],
+      "keywords": ["marteau", "tournevis", "perceuse", "outils", "peinture", "plomberie", "électricité", "matériaux", "construction", "bois", "portes", "fenêtres", "quincaillerie", "rénovation", "plancher"],
+      "address": "40 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "phone": "(819) 723-2253",
+      "website": "https://www.bmr.ca",
+      "latitude": 47.5968,
+      "longitude": -79.4825,
+      "rating": 4.1,
+      "note": "Quincaillerie et matériaux rénovation Notre-Dame-du-Nord"
+    },
+    {
+      "id": "agrimax-st-bruno",
+      "name": "Agrimax St-Bruno-de-Guigues",
+      "categories": ["auto", "sport", "pieces", "vehicules", "jardin"],
+      "keywords": ["john deere", "honda", "stihl", "tracteur", "VTT", "quad", "côte-à-côte", "moto", "scooter", "souffleuse", "tondeuse", "génératrice", "moteur hors-bord", "chaloupe", "scie à chaîne", "coupe-herbe", "pièces agricole", "pièces récréatif", "réparation mécanique", "moteur", "entretien"],
+      "address": "668 Route 101 Sud, St-Bruno-de-Guigues, QC J0Z 2G0",
+      "phone": "(819) 728-2323",
+      "website": "https://www.agrimax.ca",
+      "latitude": 47.4665,
+      "longitude": -79.4282,
+      "rating": 4.4,
+      "note": "Concessionnaire John Deere, Honda, Stihl — véhicules récréatifs et agricoles"
+    },
+    {
+      "id": "wilson-chevrolet-new-liskeard",
+      "name": "Wilson Chevrolet Buick GMC New Liskeard",
+      "categories": ["vehicules", "auto", "pieces"],
+      "keywords": ["chevrolet", "buick", "GMC", "voiture", "camion", "véhicule neuf", "véhicule usagé", "concessionnaire", "auto", "truck", "VUS", "SUV", "pièces GM", "entretien", "collision", "service auto"],
+      "address": "100 Wilson Ave, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-4373",
+      "website": "https://www.wilsonchevrolet.ca",
+      "latitude": 47.5092,
+      "longitude": -79.6744,
+      "rating": 4.3,
+      "note": "Concessionnaire GM — Chevrolet, Buick, GMC — neuf et usagé"
+    },
+    {
+      "id": "new-liskeard-chrysler",
+      "name": "New Liskeard Chrysler Dodge Jeep Ram",
+      "categories": ["vehicules", "auto", "pieces"],
+      "keywords": ["chrysler", "dodge", "jeep", "ram", "voiture", "camion", "véhicule neuf", "véhicule usagé", "concessionnaire", "auto", "truck", "VUS", "SUV", "pièces", "entretien", "carrosserie", "service auto"],
+      "address": "997477 ON-11, Temiskaming Shores, ON P0J 1P0",
+      "phone": "(705) 647-7361",
+      "website": "https://www.newliskeardchrysler.ca",
+      "latitude": 47.535,
+      "longitude": -79.668,
+      "rating": 4.2,
+      "note": "Concessionnaire Chrysler, Dodge, Jeep, Ram — neuf et usagé"
+    },
+    {
+      "id": "walmart-new-liskeard",
+      "name": "Walmart New Liskeard",
+      "categories": ["epicerie", "vetements", "electro", "maison", "sante", "animaux", "divers"],
+      "keywords": ["épicerie", "vêtements", "électronique", "maison", "pharmacie", "animaux", "jouets", "général", "alimentation", "nourriture", "quincaillerie", "sport", "bébé", "couches"],
+      "address": "133 Trans-Canada Hwy 11, Temiskaming Shores, ON P0J 1P0",
+      "phone": "(705) 647-6344",
+      "website": "https://www.walmart.ca",
+      "latitude": 47.534,
+      "longitude": -79.671,
+      "rating": 3.9,
+      "note": "Grande surface — épicerie, vêtements, électro, maison New Liskeard"
+    },
+    {
+      "id": "food-basics-new-liskeard",
+      "name": "Food Basics New Liskeard",
+      "categories": ["epicerie"],
+      "keywords": ["épicerie", "nourriture", "alimentation", "grocery", "pain", "lait", "légumes", "fruits", "viande", "fromage", "beurre", "café", "sucre", "farine", "riz", "pâtes", "alimentation discount"],
+      "address": "883303 ON-65, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-7649",
+      "website": "https://www.foodbasics.ca",
+      "latitude": 47.5385,
+      "longitude": -79.6583,
+      "rating": 4.0,
+      "note": "Épicerie discount New Liskeard — Timiskaming Square"
+    },
+    {
+      "id": "yves-prime-cut-new-liskeard",
+      "name": "Yves' Prime Cut Meats New Liskeard",
+      "categories": ["epicerie"],
+      "keywords": ["boucherie", "viande", "bœuf", "porc", "poulet", "steak", "côtelette", "saucisse", "charcuterie", "agneau", "veau", "gibier", "découpe", "viande fraîche"],
+      "address": "883317 Hwy 65, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-9837",
+      "website": null,
+      "latitude": 47.537,
+      "longitude": -79.657,
+      "rating": 4.5,
+      "note": "Boucherie artisanale New Liskeard"
+    },
+    {
+      "id": "bonanza-furniture-new-liskeard",
+      "name": "Bonanza Furniture New Liskeard",
+      "categories": ["maison"],
+      "keywords": ["meubles", "mobilier", "sofa", "canapé", "lit", "matelas", "sommier", "chambre", "salon", "salle à manger", "table", "chaise", "fauteuil", "electroménager", "réfrigérateur", "laveuse", "sécheuse", "lave-vaisselle", "cuisinière", "La-Z-Boy", "Ashley", "Maytag", "Whirlpool"],
+      "address": "997465 Hwy 11, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-8384",
+      "website": "https://www.bonanzafurniture.ca",
+      "latitude": 47.5341,
+      "longitude": -79.668,
+      "rating": 3.9,
+      "note": "Meubles, matelas et électroménagers New Liskeard"
+    },
+    {
+      "id": "the-brick-new-liskeard",
+      "name": "The Brick New Liskeard",
+      "categories": ["maison", "electro"],
+      "keywords": ["meubles", "mobilier", "sofa", "lit", "matelas", "chambre", "salon", "salle à manger", "table", "electroménager", "réfrigérateur", "laveuse", "sécheuse", "télévision", "TV", "écran", "cuisinière", "lave-vaisselle", "Beautyrest", "Sealy", "Serta"],
+      "address": "997498 Hwy 11 Nord, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-7577",
+      "website": "https://www.thebrick.com",
+      "latitude": 47.5371,
+      "longitude": -79.667,
+      "rating": 3.8,
+      "note": "Meubles, matelas, électros et électronique — The Brick New Liskeard"
+    },
+    {
+      "id": "chat-noir-books-new-liskeard",
+      "name": "Chat Noir Books New Liskeard",
+      "categories": ["loisirs"],
+      "keywords": ["livre", "livres", "roman", "librairie", "bouquin", "lecture", "jeux de société", "board games", "café", "jeux", "bandes dessinées", "BD", "littérature", "enfants", "jeunesse"],
+      "address": "57 Whitewood Ave Ouest, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-8215",
+      "website": "https://www.chatnoirbooks.ca",
+      "latitude": 47.5115,
+      "longitude": -79.6745,
+      "rating": 4.7,
+      "note": "Librairie indépendante — livres, jeux de société et café espresso"
+    },
+    {
+      "id": "mcknight-menswear-new-liskeard",
+      "name": "McKnight's Men's Wear New Liskeard",
+      "categories": ["vetements"],
+      "keywords": ["vêtements", "chemise", "linge", "mode", "homme", "femme", "habits", "manteau", "pantalon", "complet", "habit", "chaussures", "souliers", "costume", "smoking", "formel"],
+      "address": "23 Whitewood Ave Ouest, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-4050",
+      "website": null,
+      "latitude": 47.5117,
+      "longitude": -79.6748,
+      "rating": 4.7,
+      "note": "Vêtements hommes et femmes depuis 1901 — chaussures, habits formels"
+    },
+    {
+      "id": "rona-new-liskeard",
+      "name": "RONA New Liskeard",
+      "categories": ["quincaillerie", "renovation", "maison", "jardin"],
+      "keywords": ["marteau", "tournevis", "perceuse", "outils", "peinture", "plomberie", "électricité", "matériaux", "construction", "bois", "portes", "fenêtres", "quincaillerie", "rénovation", "plancher", "isolation", "bardeau", "béton", "jardin", "tondeuse"],
+      "address": "245 Whitewood Ave Ouest, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-6784",
+      "website": "https://www.rona.ca",
+      "latitude": 47.512,
+      "longitude": -79.676,
+      "rating": 3.9,
+      "note": "Quincaillerie et matériaux de construction New Liskeard"
+    },
+    {
+      "id": "home-hardware-new-liskeard",
+      "name": "Grant Home Hardware New Liskeard",
+      "categories": ["quincaillerie", "renovation", "maison"],
+      "keywords": ["marteau", "tournevis", "perceuse", "outils", "peinture", "plomberie", "électricité", "matériaux", "construction", "bois", "portes", "fenêtres", "cuisine", "salle de bain", "quincaillerie", "rénovation", "plancher"],
+      "address": "88331 Hwy 65 Ouest, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-9311",
+      "website": "https://www.homehardware.ca",
+      "latitude": 47.5395,
+      "longitude": -79.659,
+      "rating": 4.3,
+      "note": "Home Hardware Building Centre — quincaillerie et matériaux New Liskeard"
+    },
+    {
+      "id": "chartrand-independant-new-liskeard",
+      "name": "Chartrand's Your Independent Grocer New Liskeard",
+      "categories": ["epicerie"],
+      "keywords": ["épicerie", "nourriture", "alimentation", "grocery", "pain", "lait", "légumes", "fruits", "viande", "fromage", "boulangerie", "boucherie", "traiteur", "seafood", "poisson"],
+      "address": "55 Scott St, Temiskaming Shores, ON P0J 1P0",
+      "phone": "(705) 647-8844",
+      "website": "https://www.yourindependentgrocer.ca",
+      "latitude": 47.5112,
+      "longitude": -79.675,
+      "rating": 4.2,
+      "note": "Épicerie complète — boulangerie, boucherie, fruits de mer New Liskeard"
+    },
+    {
+      "id": "hart-home-new-liskeard",
+      "name": "Hart Home New Liskeard",
+      "categories": ["maison"],
+      "keywords": ["cadres", "décoration", "déco", "store", "rideau", "rideaux", "stores", "literie", "oreillers", "couverture", "drap", "parure", "art mural", "objets décoratifs", "horloge", "miroir", "lampe", "éclairage", "maison"],
+      "address": "New Liskeard, ON P0J 1P0",
+      "phone": null,
+      "website": null,
+      "latitude": 47.511,
+      "longitude": -79.673,
+      "rating": 4.1,
+      "note": "Décoration maison — cadres, stores, rideaux, literie New Liskeard"
+    },
+    {
       "id": "ferron-marine-villemarie",
       "name": "Scie & Marine Ferron Ville-Marie",
       "categories": [
@@ -866,6 +1139,352 @@
       "longitude": -79.4338,
       "rating": 4.5,
       "note": "Véhicules récréatifs Yamaha, Suzuki, Arctic Cat — bateaux, motoneiges, VTT, motos"
+    },
+    {
+      "id": "agrimax-stbruno",
+      "name": "Agrimax St-Bruno-de-Guigues",
+      "categories": ["auto", "sport", "pieces", "vehicules", "jardin"],
+      "keywords": [
+        "john deere", "honda", "stihl", "tracteur", "tracteur agricole", "tracteur compact",
+        "VTT", "quad", "côte-à-côte", "moto", "scooter",
+        "souffleuse", "tondeuse", "génératrice", "pompe à eau",
+        "moteur hors-bord", "chaloupe", "scie à chaîne", "coupe-herbe",
+        "pièces agricole", "pièces récréatif", "réparation mécanique",
+        "équipement agricole", "machinerie agricole", "fournitures agricoles"
+      ],
+      "address": "668 Route 101 Sud, Saint-Bruno-de-Guigues, QC J0Z 2G0",
+      "phone": "(819) 728-2323",
+      "website": "https://www.agrimax.ca",
+      "latitude": 47.4694,
+      "longitude": -79.4936,
+      "rating": 4.2,
+      "note": "Concessionnaire John Deere, Honda, Stihl — équipements agricoles et récréatifs — depuis 2012"
+    },
+    {
+      "id": "napa-lorrainville",
+      "name": "NAPA Pièces d'Auto Lorrainville",
+      "categories": ["pieces", "auto"],
+      "keywords": [
+        "pièces auto", "pièces voiture", "filtre", "huile", "batterie",
+        "freins", "plaquettes", "rotors", "amortisseurs", "bougies",
+        "courroie", "radiateur", "pompe", "alternateur", "démarreur",
+        "napa", "accessoires automobile", "antirefroidissement", "essuie-glace"
+      ],
+      "address": "75 Rue Notre-Dame Ouest, Lorrainville, QC J0Z 2R0",
+      "phone": "(819) 625-2120",
+      "website": "https://www.napacanada.com",
+      "latitude": 47.3556,
+      "longitude": -79.5233,
+      "rating": 4.0,
+      "note": "NAPA Auto Parts — Distributions Gironne ltée"
+    },
+    {
+      "id": "carquest-nddn",
+      "name": "Carquest Pièces Auto Notre-Dame-du-Nord",
+      "categories": ["pieces", "auto"],
+      "keywords": [
+        "pièces auto", "pièces voiture", "filtre", "huile", "batterie",
+        "freins", "plaquettes", "rotors", "amortisseurs", "bougies",
+        "courroie", "radiateur", "pompe", "alternateur", "démarreur",
+        "carquest", "accessoires automobile", "essuie-glace", "peinture auto"
+      ],
+      "address": "77 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "phone": "(819) 723-2951",
+      "website": "https://www.carquest.ca",
+      "latitude": 47.5961,
+      "longitude": -79.4908,
+      "rating": 3.4,
+      "note": "Carquest — Pièces Expert F.P. — ouvert Lun-Sam 7h30-18h"
+    },
+    {
+      "id": "bmr-nddn",
+      "name": "BMR Yvon Champoux Notre-Dame-du-Nord",
+      "categories": ["quincaillerie", "renovation", "maison"],
+      "keywords": [
+        "bmr", "quincaillerie", "matériaux construction", "peinture", "bois",
+        "portes", "fenêtres", "plomberie", "électricité", "couvre-plancher",
+        "cuisine", "salle de bain", "poêle", "fournaise", "jardinage",
+        "outils", "vis", "clou", "colle", "calfeutrage", "isolation"
+      ],
+      "address": "40 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "phone": "(819) 723-2253",
+      "website": "https://www.bmr.ca",
+      "latitude": 47.5953,
+      "longitude": -79.4905,
+      "rating": 4.1,
+      "note": "BMR Yvon Champoux — quincaillerie et matériaux construction — maisons usinées"
+    },
+    {
+      "id": "temlac-villemarie",
+      "name": "Temlac Ltée Ville-Marie",
+      "categories": ["pieces", "auto", "quincaillerie"],
+      "keywords": [
+        "pièces auto", "pièces automobile", "huile moteur", "antigel", "additifs",
+        "pièces industrielles", "outils", "abrasifs", "chaînes", "attaches",
+        "sécurité industrielle", "équipements de protection", "fournitures industrielles",
+        "bosch", "permatex", "amsoil", "liqui-moly", "dewalt"
+      ],
+      "address": "43 Rue des Oblats Nord, Ville-Marie, QC J9V 1J1",
+      "phone": "(819) 629-3143",
+      "website": "https://www.temlac.ca",
+      "latitude": 47.3348,
+      "longitude": -79.4368,
+      "rating": 4.0,
+      "note": "Temlac — distributeur pièces automobiles et fournitures industrielles depuis 1977"
+    },
+    {
+      "id": "brousseau-pieces-auto",
+      "name": "Pièces d'Autos Brousseau Ville-Marie",
+      "categories": ["pieces", "auto"],
+      "keywords": [
+        "pièces auto", "pièces carrosserie", "peinture auto", "filtre",
+        "allumage", "ordinateur de bord", "fils allumage", "câble batterie",
+        "système carburant", "moteur", "réparation auto", "génératrice",
+        "accessoires auto", "pièces neuves", "pièces remanufacturées"
+      ],
+      "address": "76 Rue des Oblats Nord, Ville-Marie, QC J9V 1J7",
+      "phone": "(819) 629-2848",
+      "website": "https://www.piecesdautobrousseau.com",
+      "latitude": 47.3355,
+      "longitude": -79.4370,
+      "rating": 4.0,
+      "note": "Pièces d'Autos Brousseau — urgence 24/7 (819) 629-8028 — pièces neuves et remanufacturées"
+    },
+    {
+      "id": "magasin-petrin-bearn",
+      "name": "Magasin Pétrin Béarn",
+      "categories": ["mode"],
+      "keywords": [
+        "vêtements", "mode", "chemise", "manteau", "pantalon", "robe",
+        "boutique", "vêtements femme", "vêtements homme", "accessoires mode",
+        "linge", "habits", "fashion"
+      ],
+      "address": "13 A Rue Principale Sud, Béarn, QC J9V 1C4",
+      "phone": "(819) 726-2271",
+      "website": null,
+      "facebook": "https://www.facebook.com/magasinpetrin",
+      "latitude": 47.2319,
+      "longitude": -79.4219,
+      "rating": 4.5,
+      "note": "Institution régionale depuis 1926 — vêtements homme et femme — 3 générations familiales"
+    },
+    {
+      "id": "canadian-tire-newliskeard",
+      "name": "Canadian Tire New Liskeard",
+      "categories": ["quincaillerie", "auto", "sport", "maison", "pieces"],
+      "keywords": [
+        "canadian tire", "quincaillerie", "pièces auto", "pneus", "huile",
+        "camping", "plein air", "sport", "jardinage", "électroménager",
+        "outils", "batterie voiture", "antigel", "lave-glace", "BBQ",
+        "vélo", "sports", "luminaires", "nettoyage", "ustensiles cuisine",
+        "tire", "voiture", "camion", "remorque", "auto"
+      ],
+      "address": "997431 Hwy 11 North, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-7331",
+      "website": "https://www.canadiantire.ca",
+      "latitude": 47.5369,
+      "longitude": -79.6711,
+      "rating": 4.0,
+      "note": "Canadian Tire — quincaillerie, auto, sport, maison, jardinage"
+    },
+    {
+      "id": "food-basics-newliskeard",
+      "name": "Food Basics New Liskeard",
+      "categories": ["epicerie"],
+      "keywords": [
+        "épicerie", "alimentation", "groceries", "nourriture", "légumes",
+        "fruits", "viande", "boulangerie", "produits laitiers", "boissons",
+        "surgelés", "conserves", "céréales", "pain", "fromage"
+      ],
+      "address": "59 Highway 11B, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-5414",
+      "website": "https://www.foodbasics.ca",
+      "latitude": 47.5089,
+      "longitude": -79.6764,
+      "rating": 3.8,
+      "note": "Food Basics — épicerie à prix réduit"
+    },
+    {
+      "id": "chartrand-grocer-newliskeard",
+      "name": "Chartrand's Your Independent Grocer New Liskeard",
+      "categories": ["epicerie"],
+      "keywords": [
+        "épicerie", "alimentation", "groceries", "nourriture", "légumes",
+        "fruits", "viande", "boulangerie", "boucherie", "charcuterie",
+        "produits laitiers", "boissons", "traiteur", "prêt-à-manger",
+        "independent grocer", "IGA", "supermarché"
+      ],
+      "address": "55 Scott St, Temiskaming Shores, ON P0J 1P0",
+      "phone": "(705) 647-8844",
+      "website": "https://www.yourindependentgrocer.ca",
+      "latitude": 47.5078,
+      "longitude": -79.6758,
+      "rating": 4.1,
+      "note": "Chartrand's Independent Grocer — épicerie complète avec boulangerie maison"
+    },
+    {
+      "id": "brick-newliskeard",
+      "name": "The Brick New Liskeard",
+      "categories": ["maison", "electromenager"],
+      "keywords": [
+        "meubles", "matelas", "électroménager", "réfrigérateur", "cuisinière",
+        "lave-vaisselle", "laveuse", "sécheuse", "télévision", "sofa",
+        "divan", "lit", "chambre", "salon", "salle à manger", "table",
+        "chaise", "fauteuil", "the brick", "furniture", "appliances"
+      ],
+      "address": "997498 Hwy 11 North, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-7577",
+      "website": "https://www.thebrick.com",
+      "latitude": 47.5371,
+      "longitude": -79.6722,
+      "rating": 3.9,
+      "note": "The Brick — meubles, matelas, électroménagers et électronique"
+    },
+    {
+      "id": "bonanza-furniture-newliskeard",
+      "name": "Bonanza Furniture New Liskeard",
+      "categories": ["maison", "electromenager"],
+      "keywords": [
+        "meubles", "matelas", "électroménager", "réfrigérateur", "cuisinière",
+        "laveuse", "sécheuse", "sofa", "divan", "lit", "chambre", "salon",
+        "salle à manger", "lazy boy", "ashley", "whirlpool", "maytag",
+        "literie", "sommier", "furniture", "appliances"
+      ],
+      "address": "997465 Hwy 11, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-8384",
+      "website": "https://www.bonanzafurniture.ca",
+      "latitude": 47.5341,
+      "longitude": -79.6718,
+      "rating": 3.9,
+      "note": "Bonanza Furniture — meubles et électroménagers — LaZboy, Ashley, Whirlpool, Maytag"
+    },
+    {
+      "id": "rona-newliskeard",
+      "name": "RONA New Liskeard",
+      "categories": ["quincaillerie", "renovation", "maison"],
+      "keywords": [
+        "rona", "quincaillerie", "matériaux construction", "rénovation",
+        "peinture", "bois", "plancher", "céramique", "portes", "fenêtres",
+        "plomberie", "électricité", "outils", "jardin", "rangement",
+        "toiture", "isolation", "husqvarna", "scie à chaîne", "tondeuse"
+      ],
+      "address": "245 Whitewood Ave West, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-6784",
+      "website": "https://www.rona.ca",
+      "latitude": 47.5092,
+      "longitude": -79.6724,
+      "rating": 3.5,
+      "note": "RONA New Liskeard — quincaillerie et matériaux de construction"
+    },
+    {
+      "id": "home-hardware-newliskeard",
+      "name": "Grant Home Hardware Building Centre New Liskeard",
+      "categories": ["quincaillerie", "renovation", "maison"],
+      "keywords": [
+        "home hardware", "quincaillerie", "matériaux construction", "cuisine",
+        "armoires", "benjamin moore", "peinture", "plancher", "douche",
+        "bains", "robinets", "vanités", "toilettes", "spa", "chevrons",
+        "portes", "fenêtres", "céramique", "comptoirs", "aspirateur central"
+      ],
+      "address": "88331 Hwy 65 West, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-9311",
+      "website": "https://www.homehardware.ca",
+      "latitude": 47.5062,
+      "longitude": -79.6823,
+      "rating": 4.1,
+      "note": "Grant Home Hardware Building Centre — cuisines, salles de bain, rénovation complète"
+    },
+    {
+      "id": "wilson-chevrolet-newliskeard",
+      "name": "Wilson Chevrolet Buick GMC New Liskeard",
+      "categories": ["vehicules", "auto"],
+      "keywords": [
+        "chevrolet", "buick", "gmc", "camion", "pickup", "silverado",
+        "sierra", "traverse", "terrain", "equinox", "tahoe", "suburban",
+        "voiture neuve", "voiture usagée", "concessionnaire", "dealer",
+        "financement", "leasing", "pièces gm", "service automobile", "pneus"
+      ],
+      "address": "100 Wilson Ave, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-4373",
+      "website": "https://www.wilsonchevrolet.ca",
+      "latitude": 47.5068,
+      "longitude": -79.6672,
+      "rating": 4.2,
+      "note": "Wilson Chevrolet Buick GMC — concessionnaire GM — vente, service, pièces, carrosserie"
+    },
+    {
+      "id": "northway-chrysler-newliskeard",
+      "name": "North-Way Chrysler New Liskeard",
+      "categories": ["vehicules", "auto"],
+      "keywords": [
+        "chrysler", "dodge", "jeep", "ram", "camion", "pickup",
+        "ram 1500", "ram 2500", "grand cherokee", "wrangler", "durango",
+        "voiture neuve", "voiture usagée", "concessionnaire", "dealer",
+        "financement", "leasing", "pièces chrysler", "service automobile"
+      ],
+      "address": "997477 Hwy 11 North, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-7361",
+      "website": "https://www.north-waychrysler.com",
+      "latitude": 47.5378,
+      "longitude": -79.6728,
+      "rating": 3.9,
+      "note": "North-Way Chrysler — Chrysler, Dodge, Jeep, Ram — concessionnaire officiel"
+    },
+    {
+      "id": "yves-prime-cut-meats-newliskeard",
+      "name": "Yves' Prime Cut Meats New Liskeard",
+      "categories": ["epicerie", "boucherie"],
+      "keywords": [
+        "boucherie", "viande", "boeuf", "porc", "poulet", "veau",
+        "agneau", "saucisse", "charcuterie", "deli", "traiteur",
+        "prêt-à-manger", "coupe", "steaks", "côtelettes", "rôti",
+        "viande locale", "butcher", "prime cut", "pièces de viande"
+      ],
+      "address": "883303 Hwy 65, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-9837",
+      "website": null,
+      "latitude": 47.5066,
+      "longitude": -79.6831,
+      "rating": 4.4,
+      "note": "Yves' Prime Cut Meats — boucherie spécialisée, viandes locales et durables — Timiskaming Square"
+    },
+    {
+      "id": "hart-home-newliskeard",
+      "name": "Hart Home New Liskeard",
+      "categories": ["maison", "mode", "divers"],
+      "keywords": [
+        "cadre", "cadres décoratifs", "décoration", "store", "stores",
+        "rideaux", "rideau", "literie", "draps", "couverture", "oreiller",
+        "couvre-lit", "objets décoratifs", "accessoires maison", "lampe",
+        "coussin", "tapis", "vase", "art mural", "tableau",
+        "vêtements", "mode", "department store", "hart"
+      ],
+      "address": "883303 ON-65, Temiskaming Shores, ON P0J 1P0",
+      "phone": "(705) 269-0601",
+      "website": "https://www.hartstores.com",
+      "latitude": 47.5066,
+      "longitude": -79.6831,
+      "rating": 3.8,
+      "note": "Hart Home — grand magasin — cadres, décoration, stores, rideaux, literie — Timiskaming Square"
+    },
+    {
+      "id": "peavey-mart-newliskeard",
+      "name": "Peavey Mart New Liskeard",
+      "categories": ["jardin", "sport", "quincaillerie", "animaux"],
+      "keywords": [
+        "peavey mart", "ferme", "jardin", "vêtements travail", "bottes",
+        "outils jardinage", "engrais", "semences", "animaux ferme",
+        "nourriture animaux", "chien", "chat", "cheval", "vache",
+        "matériaux clôture", "chauffage", "combinaison", "équipement agricole",
+        "ATV", "UTV", "remorque", "tondeuse", "pompe"
+      ],
+      "address": "150 Wilson Ave, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-8311",
+      "website": "https://www.peaveymart.com",
+      "latitude": 47.5076,
+      "longitude": -79.6668,
+      "rating": 4.1,
+      "note": "Peavey Mart — articles ferme, jardin, animaux, vêtements travail, équipement"
     }
   ]
 }
