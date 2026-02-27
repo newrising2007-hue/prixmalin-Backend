@@ -367,55 +367,6 @@
       "note": "Épicerie Notre-Dame-du-Nord (~15km)"
     },
     {
-      "id": "carquest-nddn",
-      "name": "Carquest Auto Parts Notre-Dame-du-Nord",
-      "categories": [
-        "pieces",
-        "auto"
-      ],
-      "keywords": [
-        "pièces auto",
-        "batterie auto",
-        "huile moteur",
-        "filtre",
-        "frein",
-        "alternateur",
-        "démarreur",
-        "pneus"
-      ],
-      "address": "77 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
-      "phone": "(819) 723-2951",
-      "website": "https://www.carquest.com",
-      "latitude": 47.5962,
-      "longitude": -79.4815,
-      "rating": 4.1,
-      "note": "Pièces auto Notre-Dame-du-Nord"
-    },
-    {
-      "id": "roytv-nddn",
-      "name": "Roy TV Bell Notre-Dame-du-Nord",
-      "categories": [
-        "electro"
-      ],
-      "keywords": [
-        "téléphone",
-        "cellulaire",
-        "télévision",
-        "bell",
-        "internet",
-        "électronique",
-        "antenne",
-        "satellite"
-      ],
-      "address": "4 Rue Principale Nord, Notre-Dame-du-Nord, QC J0Z 3B0",
-      "phone": null,
-      "website": null,
-      "latitude": 47.5965,
-      "longitude": -79.4818,
-      "rating": 3.8,
-      "note": "Électronique et Bell Notre-Dame-du-Nord"
-    },
-    {
       "id": "paquin-ford-stbruno",
       "name": "Automobile Paquin Ford St-Bruno-de-Guigues",
       "categories": [
@@ -616,42 +567,6 @@
       "note": "Épicerie New Liskeard Ontario"
     },
     {
-      "id": "canadian-tire-new-liskeard",
-      "name": "Canadian Tire New Liskeard",
-      "categories": [
-        "quincaillerie",
-        "sport",
-        "auto",
-        "pieces",
-        "electro",
-        "divers"
-      ],
-      "keywords": [
-        "marteau",
-        "tournevis",
-        "perceuse",
-        "outils",
-        "vélo",
-        "camping",
-        "pneus",
-        "batterie",
-        "huile",
-        "quincaillerie",
-        "sport",
-        "ski",
-        "tente",
-        "barbecue",
-        "électronique"
-      ],
-      "address": "New Liskeard, ON P0J 1P0",
-      "phone": null,
-      "website": "https://www.canadiantire.ca",
-      "latitude": 47.5085,
-      "longitude": -79.67,
-      "rating": 4.2,
-      "note": "Quincaillerie, sport, auto New Liskeard"
-    },
-    {
       "id": "canadian-tire-rouyn",
       "name": "Canadian Tire Rouyn-Noranda",
       "categories": [
@@ -773,73 +688,6 @@
       "note": "Articles de sport et plein air Rouyn-Noranda"
     },
     {
-      "id": "temlac-villemarie",
-      "name": "TemLac Pièces d'Auto Ville-Marie",
-      "categories": [
-        "pieces",
-        "auto"
-      ],
-      "keywords": [
-        "pièces auto",
-        "pièces automobile",
-        "freins",
-        "suspension",
-        "huile moteur",
-        "batterie",
-        "filtre",
-        "bougie",
-        "amortisseur",
-        "alternateur",
-        "démarreur",
-        "outils",
-        "sécurité",
-        "fournitures industrielles",
-        "hydraulique",
-        "boyaux",
-        "soudage"
-      ],
-      "address": "43 Rue des Oblats Nord, Ville-Marie, QC J9V 1J1",
-      "phone": "(819) 629-3143",
-      "website": "https://www.temlac.ca",
-      "latitude": 47.3342,
-      "longitude": -79.4328,
-      "rating": 4.2,
-      "note": "Distributeur pièces automobiles et fournitures industrielles — urgence 24/7"
-    },
-    {
-      "id": "brousseau-pieces-villemarie",
-      "name": "Pièces d'Auto Brousseau Ville-Marie",
-      "categories": [
-        "pieces",
-        "auto"
-      ],
-      "keywords": [
-        "pièces auto",
-        "pièces automobile",
-        "freins",
-        "suspension",
-        "huile moteur",
-        "batterie",
-        "filtre",
-        "carrosserie",
-        "peinture auto",
-        "hydraulique",
-        "boyaux",
-        "soudage",
-        "équipement soudage",
-        "alternateur",
-        "démarreur",
-        "urgence"
-      ],
-      "address": "76 Rue des Oblats Nord, Ville-Marie, QC J9V 1J7",
-      "phone": "(819) 629-2848",
-      "website": "https://www.piecesdautobrousseau.com",
-      "latitude": 47.335,
-      "longitude": -79.4325,
-      "rating": 4.3,
-      "note": "Pièces auto depuis 60 ans — urgence 24h/7j — hydraulique, soudage, boyaux sur place"
-    },
-    {
       "id": "imaginart-insider-villemarie",
       "name": "Imagin'Art & The Insider Florentine Ville-Marie",
       "categories": [
@@ -897,39 +745,11 @@
       "note": "Vêtements hommes et femmes — spécialiste chemises depuis 1969"
     },
     {
-      "id": "napa-lorrainville",
-      "name": "NAPA Pièces d'Auto Lorrainville",
-      "categories": [
-        "pieces",
-        "auto"
-      ],
-      "keywords": [
-        "pièces auto",
-        "pièces automobile",
-        "freins",
-        "batterie",
-        "huile moteur",
-        "filtre",
-        "suspension",
-        "bougie",
-        "courroie",
-        "napa",
-        "essuie-glaces"
-      ],
-      "address": "75 Rue Notre-Dame Ouest, Lorrainville, QC J0Z 2R0",
-      "phone": "(819) 625-2120",
-      "website": "https://www.napacanada.com",
-      "latitude": 47.3487,
-      "longitude": -79.5302,
-      "rating": 4.2,
-      "note": "NAPA pièces auto Lorrainville — Distributions Gironne"
-    },
-    {
       "id": "carquest-notre-dame-du-nord",
       "name": "Carquest Pièces d'Auto Notre-Dame-du-Nord",
       "categories": [
-        "pieces",
-        "auto"
+        "auto",
+        "pieces"
       ],
       "keywords": [
         "pièces auto",
@@ -1460,11 +1280,11 @@
       "note": "Véhicules récréatifs Yamaha, Suzuki, Arctic Cat — bateaux, motoneiges, VTT, moto"
     },
     {
-      "id": "napa-lorrainville",
-      "name": "NAPA Pièces d'Auto Lorrainville",
+      "id": "Napa-Lorrainville",
+      "name": "Napa-Lorrainville",
       "categories": [
-        "pieces",
-        "auto"
+        "auto",
+        "pieces"
       ],
       "keywords": [
         "pièces auto",
@@ -1494,42 +1314,6 @@
       "longitude": -79.5233,
       "rating": 4,
       "note": "NAPA Auto Parts — Distributions Gironne ltée"
-    },
-    {
-      "id": "carquest-nddn",
-      "name": "Carquest Pièces Auto Notre-Dame-du-Nord",
-      "categories": [
-        "pieces",
-        "auto"
-      ],
-      "keywords": [
-        "pièces auto",
-        "pièces voiture",
-        "filtre",
-        "huile",
-        "batterie",
-        "freins",
-        "plaquettes",
-        "rotors",
-        "amortisseurs",
-        "bougies",
-        "courroie",
-        "radiateur",
-        "pompe",
-        "alternateur",
-        "démarreur",
-        "carquest",
-        "accessoires automobile",
-        "essuie-glace",
-        "peinture auto"
-      ],
-      "address": "77 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
-      "phone": "(819) 723-2951",
-      "website": "https://www.carquest.ca",
-      "latitude": 47.5961,
-      "longitude": -79.4908,
-      "rating": 3.4,
-      "note": "Carquest — Pièces Expert F.P. — ouvert Lun-Sam 7h30-18h"
     },
     {
       "id": "bmr-nddn",
@@ -1609,8 +1393,8 @@
       "id": "brousseau-pieces-auto",
       "name": "Pièces d'Autos Brousseau Ville-Marie",
       "categories": [
-        "pieces",
-        "auto"
+        "auto",
+        "pieces"
       ],
       "keywords": [
         "pièces auto",
@@ -1671,11 +1455,12 @@
       "id": "canadian-tire-newliskeard",
       "name": "Canadian Tire New Liskeard",
       "categories": [
-        "quincaillerie",
         "auto",
-        "sport",
+        "divers",
         "maison",
-        "pieces"
+        "pieces",
+        "quincaillerie",
+        "sport"
       ],
       "keywords": [
         "canadian tire",
@@ -1927,44 +1712,6 @@
       "longitude": -79.6823,
       "rating": 4.1,
       "note": "Grant Home Hardware Building Centre — cuisines, salles de bain, rénovation complète"
-    },
-    {
-      "id": "wilson-chevrolet-newliskeard",
-      "name": "Wilson Chevrolet Buick GMC New Liskeard",
-      "categories": [
-        "vehicules",
-        "auto"
-      ],
-      "keywords": [
-        "chevrolet",
-        "buick",
-        "gmc",
-        "camion",
-        "pickup",
-        "silverado",
-        "sierra",
-        "traverse",
-        "terrain",
-        "equinox",
-        "tahoe",
-        "suburban",
-        "voiture neuve",
-        "voiture usagée",
-        "concessionnaire",
-        "dealer",
-        "financement",
-        "leasing",
-        "pièces gm",
-        "service automobile",
-        "pneus"
-      ],
-      "address": "100 Wilson Ave, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-4373",
-      "website": "https://www.wilsonchevrolet.ca",
-      "latitude": 47.5068,
-      "longitude": -79.6672,
-      "rating": 4.2,
-      "note": "Wilson Chevrolet Buick GMC — concessionnaire GM — vente, service, pièces, carrosserie"
     },
     {
       "id": "northway-chrysler-newliskeard",
