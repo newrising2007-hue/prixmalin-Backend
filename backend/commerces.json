@@ -1785,9 +1785,10 @@
       "id": "hart-home-newliskeard",
       "name": "Hart Home New Liskeard",
       "categories": [
+        "divers",
+        "décoration",
         "maison",
-        "mode",
-        "divers"
+        "mode"
       ],
       "keywords": [
         "cadre",
@@ -1822,6 +1823,60 @@
       "longitude": -79.6831,
       "rating": 3.8,
       "note": "Hart Home — grand magasin — cadres, décoration, stores, rideaux, literie — Timiskaming Square"
+    },
+    {
+      "name": "Gourmet Butchery",
+      "categories": [
+        "boeuf",
+        "boucherie",
+        "poulet"
+      ],
+      "keywords": [
+        "viande",
+        "bœuf",
+        "porc",
+        "poulet",
+        "agneau",
+        "steak",
+        "côtelette",
+        "rôti",
+        "saucisse",
+        "bacon",
+        "jambon",
+        "veau",
+        "charcuterie"
+      ],
+      "address": "852 Rte Lefort, Duhamel-Ouest, QC J9V 1T7",
+      "phone": "(819) 629-2042",
+      "id": "gourmet-butchery-t"
+    },
+    {
+      "id": "Epicerie Boucherie Fruits et Légumes",
+      "name": "Epicerie Boucherie Fruits et Légumes",
+      "categories": [
+        "boeuf",
+        "boucherie",
+        "poulet"
+      ],
+      "keywords": [
+        "boeuf",
+        "viande",
+        "bœuf",
+        "porc",
+        "poulet",
+        "agneau",
+        "steak",
+        "côtelette",
+        "rôti",
+        "saucisse",
+        "bacon",
+        "jambon",
+        "veau",
+        "charcuterie"
+      ],
+      "address": "4 Rue Principale N, Saint-Bruno-de-Guigues, QC J0Z 2G0",
+      "phone": "(819) 728-2400",
+      "website": "https://www.facebook.com/p/%C3%89picerie-Boucherie-Fruits-et-L%C3%A9gumes-Guigues-100051781124633/"
     }
   ]
 }
