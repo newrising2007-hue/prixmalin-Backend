@@ -212,6 +212,67 @@ app.get('/api/restaurants', (req, res) => {
   res.json(loadRestaurants());
 });
 
+app.get('/api/restaurants/google', async (req, res) => {
+  const lat = parseFloat(req.query.lat) || 47.3340;
+  const lng = parseFloat(req.query.lng) || -79.4335;
+  const rayon = Math.min(parseInt(req.query.rayon) || 100, 150);
+  const { Client } = require('@googlemaps/google-maps-services-js');
+  const gClient = new Client({});
+
+  // 1. Nos restos locaux
+  const local = (loadRestaurants().restaurants || []).map(r => ({ ...r, source: 'prixmalin' }));
+
+  // 2. Google Places
+  let googleResults = [];
+  try {
+    const response = await gClient.placesNearby({
+      params: {
+        location: { lat, lng },
+        radius: Math.min(rayon * 1000, 150000),
+        type: 'restaurant',
+        key: process.env.GOOGLE_PLACES_API_KEY,
+      },
+    });
+    googleResults = (response.data.results || []).slice(0, 20);
+  } catch(e) {
+    console.error('Google Places error:', e.message);
+  }
+
+  // 3. Dédoublonnage
+  function calcDist(lat1, lng1, lat2, lng2) {
+    const R = 6371000;
+    const dLat = (lat2-lat1)*Math.PI/180;
+    const dLng = (lng2-lng1)*Math.PI/180;
+    const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLng/2)**2;
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  }
+
+  const googleFiltered = googleResults.filter(g => {
+    const gName = (g.name || '').toLowerCase();
+    const gLat = g.geometry?.location?.lat;
+    const gLng = g.geometry?.location?.lng;
+    return !local.some(l => {
+      const lName = (l.name || '').toLowerCase();
+      const nameSimilar = gName.includes(lName.substring(0,6)) || lName.includes(gName.substring(0,6));
+      const dist = (l.latitude && l.longitude && gLat && gLng)
+        ? calcDist(l.latitude, l.longitude, gLat, gLng) : 9999;
+      return nameSimilar || dist < 200;
+    });
+  }).map(g => ({
+    id: g.place_id,
+    name: g.name,
+    address: g.vicinity,
+    latitude: g.geometry?.location?.lat,
+    longitude: g.geometry?.location?.lng,
+    rating: g.rating,
+    source: 'google',
+  }));
+
+  // 4. Fusionner, max 50
+  const combined = [...local, ...googleFiltered].slice(0, 50);
+  res.json({ restaurants: combined });
+});
+
 app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'PrixMalin Backend v5 - Affiliation' });
 });
