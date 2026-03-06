@@ -199,6 +199,19 @@ app.post('/api/search-prices', async (req, res) => {
   }
 });
 
+// ══════ RESTAURANTS ══════
+const fs = require('fs');
+const RESTAURANTS_PATH = require('path').join(__dirname, 'restaurants.json');
+
+function loadRestaurants() {
+  try { return JSON.parse(fs.readFileSync(RESTAURANTS_PATH, 'utf8')); }
+  catch(e) { return { restaurants: [] }; }
+}
+
+app.get('/api/restaurants', (req, res) => {
+  res.json(loadRestaurants());
+});
+
 app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'PrixMalin Backend v5 - Affiliation' });
 });
