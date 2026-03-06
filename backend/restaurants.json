@@ -8,16 +8,47 @@
       "latitude": 47.3305,
       "longitude": -79.4407,
       "rating": 4.4,
-      "cuisine": ["déjeuner", "café"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["gaufre", "crêpe", "déjeuner", "brunch", "breakfast", "waffle"],
+      "cuisine": [
+        "déjeuner",
+        "café"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "gaufre",
+        "crêpe",
+        "déjeuner",
+        "brunch",
+        "breakfast",
+        "waffle"
+      ],
       "horaires": {
-        "mardi":    { "ouverture": "07:30", "fermeture": "14:30" },
-        "mercredi": { "ouverture": "07:30", "fermeture": "14:30" },
-        "jeudi":    { "ouverture": "07:30", "fermeture": "14:30" },
-        "vendredi": { "ouverture": "07:30", "fermeture": "14:30" },
-        "samedi":   { "ouverture": "07:30", "fermeture": "14:30" },
-        "dimanche": { "ouverture": "08:00", "fermeture": "14:30" }
+        "mardi": {
+          "ouverture": "07:30",
+          "fermeture": "14:30"
+        },
+        "mercredi": {
+          "ouverture": "07:30",
+          "fermeture": "14:30"
+        },
+        "jeudi": {
+          "ouverture": "07:30",
+          "fermeture": "14:30"
+        },
+        "vendredi": {
+          "ouverture": "07:30",
+          "fermeture": "14:30"
+        },
+        "samedi": {
+          "ouverture": "07:30",
+          "fermeture": "14:30"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "14:30"
+        }
       },
       "note": "Populaire pour le déjeuner — arriver tôt ou appeler pour réserver",
       "source": "prixmalin"
@@ -30,16 +61,46 @@
       "latitude": 47.3302,
       "longitude": -79.4419,
       "rating": 4.6,
-      "cuisine": ["québécois", "fast-food"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["poutine", "burger", "fast food", "québécois", "sauce secrète"],
+      "cuisine": [
+        "québécois",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "poutine",
+        "burger",
+        "fast food",
+        "québécois",
+        "sauce secrète"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "11:00", "fermeture": "20:00" },
-        "mardi":    { "ouverture": "11:00", "fermeture": "20:00" },
-        "jeudi":    { "ouverture": "11:00", "fermeture": "20:00" },
-        "vendredi": { "ouverture": "11:00", "fermeture": "20:00" },
-        "samedi":   { "ouverture": "11:00", "fermeture": "20:00" },
-        "dimanche": { "ouverture": "11:00", "fermeture": "20:00" }
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
       },
       "note": "Meilleure poutine de la région — sauce maison secrète. Cash seulement.",
       "source": "prixmalin"
@@ -52,17 +113,50 @@
       "latitude": 47.3345,
       "longitude": -79.4378,
       "rating": 3.9,
-      "cuisine": ["québécois"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["burger", "soupe", "repas", "dîner", "souper", "québécois"],
+      "cuisine": [
+        "québécois"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "burger",
+        "soupe",
+        "repas",
+        "dîner",
+        "souper",
+        "québécois"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "09:00", "fermeture": "20:00" },
-        "mardi":    { "ouverture": "06:00", "fermeture": "21:00" },
-        "mercredi": { "ouverture": "06:00", "fermeture": "21:00" },
-        "jeudi":    { "ouverture": "06:00", "fermeture": "21:00" },
-        "vendredi": { "ouverture": "06:00", "fermeture": "21:00" },
-        "samedi":   { "ouverture": "08:00", "fermeture": "21:00" },
-        "dimanche": { "ouverture": "08:00", "fermeture": "14:00" }
+        "lundi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "06:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "06:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "06:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "06:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "14:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -74,17 +168,50 @@
       "latitude": 47.3348,
       "longitude": -79.4373,
       "rating": 4.1,
-      "cuisine": ["québécois", "bar"],
-      "service": ["surplace"],
-      "keywords": ["bar", "restaurant", "repas", "bière", "souper", "déjeuner"],
+      "cuisine": [
+        "québécois",
+        "bar"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [
+        "bar",
+        "restaurant",
+        "repas",
+        "bière",
+        "souper",
+        "déjeuner"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "06:00", "fermeture": "03:00" },
-        "mardi":    { "ouverture": "06:00", "fermeture": "03:00" },
-        "mercredi": { "ouverture": "06:00", "fermeture": "03:00" },
-        "jeudi":    { "ouverture": "06:00", "fermeture": "03:00" },
-        "vendredi": { "ouverture": "06:00", "fermeture": "03:00" },
-        "samedi":   { "ouverture": "07:30", "fermeture": "03:00" },
-        "dimanche": { "ouverture": "08:00", "fermeture": "03:00" }
+        "lundi": {
+          "ouverture": "06:00",
+          "fermeture": "03:00"
+        },
+        "mardi": {
+          "ouverture": "06:00",
+          "fermeture": "03:00"
+        },
+        "mercredi": {
+          "ouverture": "06:00",
+          "fermeture": "03:00"
+        },
+        "jeudi": {
+          "ouverture": "06:00",
+          "fermeture": "03:00"
+        },
+        "vendredi": {
+          "ouverture": "06:00",
+          "fermeture": "03:00"
+        },
+        "samedi": {
+          "ouverture": "07:30",
+          "fermeture": "03:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "03:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -94,16 +221,40 @@
       "address": "7 Rue Ste Anne, Ville-Marie, QC J9V 2B6",
       "phone": "(819) 629-2772",
       "latitude": 47.3303,
-      "longitude": -79.4420,
+      "longitude": -79.442,
       "rating": 4.7,
-      "cuisine": ["café"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["café", "coffee", "espresso", "moka", "thé", "tea"],
+      "cuisine": [
+        "café"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "café",
+        "coffee",
+        "espresso",
+        "moka",
+        "thé",
+        "tea"
+      ],
       "horaires": {
-        "mardi":    { "ouverture": "09:00", "fermeture": "17:00" },
-        "mercredi": { "ouverture": "09:00", "fermeture": "17:00" },
-        "jeudi":    { "ouverture": "09:00", "fermeture": "17:00" },
-        "vendredi": { "ouverture": "09:00", "fermeture": "17:00" }
+        "mardi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "mercredi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "jeudi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        }
       },
       "note": "Petit café artisanal — heures limitées mais café exceptionnel",
       "source": "prixmalin"
@@ -116,17 +267,54 @@
       "latitude": 47.5059,
       "longitude": -79.6714,
       "rating": 4.4,
-      "cuisine": ["grillades", "bar"],
-      "service": ["surplace", "takeout", "livraison"],
-      "keywords": ["grill", "bar", "pasta", "patio", "vue lac", "lake view", "burger", "shrimp"],
+      "cuisine": [
+        "grillades",
+        "bar"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "grill",
+        "bar",
+        "pasta",
+        "patio",
+        "vue lac",
+        "lake view",
+        "burger",
+        "shrimp"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "11:30", "fermeture": "00:00" },
-        "mardi":    { "ouverture": "11:30", "fermeture": "00:00" },
-        "mercredi": { "ouverture": "11:30", "fermeture": "00:00" },
-        "jeudi":    { "ouverture": "11:30", "fermeture": "01:00" },
-        "vendredi": { "ouverture": "11:30", "fermeture": "01:00" },
-        "samedi":   { "ouverture": "11:00", "fermeture": "01:00" },
-        "dimanche": { "ouverture": "11:00", "fermeture": "00:00" }
+        "lundi": {
+          "ouverture": "11:30",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "11:30",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "01:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
       },
       "note": "Belle vue sur le lac Témiscamingue — patio très apprécié l'été",
       "source": "prixmalin"
@@ -137,19 +325,56 @@
       "address": "22 Sharpe St, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 676-7790",
       "latitude": 47.5097,
-      "longitude": -79.6710,
+      "longitude": -79.671,
       "rating": 4.6,
-      "cuisine": ["grillades", "bar", "japonais"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["grill", "sushi", "steak", "cocktail", "patio", "pasta", "gnocchi", "burger"],
+      "cuisine": [
+        "grillades",
+        "bar",
+        "japonais"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "grill",
+        "sushi",
+        "steak",
+        "cocktail",
+        "patio",
+        "pasta",
+        "gnocchi",
+        "burger"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "16:00", "fermeture": "20:00" },
-        "mardi":    { "ouverture": "16:00", "fermeture": "20:00" },
-        "mercredi": { "ouverture": "16:00", "fermeture": "20:00" },
-        "jeudi":    { "ouverture": "16:00", "fermeture": "20:00" },
-        "vendredi": { "ouverture": "11:30", "fermeture": "21:00" },
-        "samedi":   { "ouverture": "11:30", "fermeture": "21:00" },
-        "dimanche": { "ouverture": "11:30", "fermeture": "20:00" }
+        "lundi": {
+          "ouverture": "16:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "16:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "16:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "16:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "11:30",
+          "fermeture": "20:00"
+        }
       },
       "note": "Cuisine de qualité exceptionnelle pour la région — très apprécié",
       "source": "prixmalin"
@@ -162,17 +387,51 @@
       "latitude": 47.5244,
       "longitude": -79.6725,
       "rating": 4.6,
-      "cuisine": ["déjeuner"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["pancake", "breakfast", "déjeuner", "brunch", "crêpe", "oeufs", "eggs"],
+      "cuisine": [
+        "déjeuner"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "pancake",
+        "breakfast",
+        "déjeuner",
+        "brunch",
+        "crêpe",
+        "oeufs",
+        "eggs"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "07:00", "fermeture": "15:00" },
-        "mardi":    { "ouverture": "07:00", "fermeture": "15:00" },
-        "mercredi": { "ouverture": "07:00", "fermeture": "15:00" },
-        "jeudi":    { "ouverture": "07:00", "fermeture": "15:00" },
-        "vendredi": { "ouverture": "07:00", "fermeture": "15:00" },
-        "samedi":   { "ouverture": "07:00", "fermeture": "15:00" },
-        "dimanche": { "ouverture": "07:00", "fermeture": "15:00" }
+        "lundi": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        },
+        "mardi": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        },
+        "mercredi": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        },
+        "jeudi": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        },
+        "vendredi": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        },
+        "samedi": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        },
+        "dimanche": {
+          "ouverture": "07:00",
+          "fermeture": "15:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -182,19 +441,56 @@
       "address": "16 Whitewood Ave W, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 628-2628",
       "latitude": 47.5084,
-      "longitude": -79.6720,
+      "longitude": -79.672,
       "rating": 4.5,
-      "cuisine": ["bar", "fast-food"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["wings", "ailes", "poulet", "chicken", "poutine", "fries", "bar", "bière", "beer"],
+      "cuisine": [
+        "bar",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "wings",
+        "ailes",
+        "poulet",
+        "chicken",
+        "poutine",
+        "fries",
+        "bar",
+        "bière",
+        "beer"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "11:30", "fermeture": "23:00" },
-        "mardi":    { "ouverture": "11:30", "fermeture": "00:00" },
-        "mercredi": { "ouverture": "11:30", "fermeture": "00:00" },
-        "jeudi":    { "ouverture": "11:30", "fermeture": "00:00" },
-        "vendredi": { "ouverture": "11:30", "fermeture": "01:00" },
-        "samedi":   { "ouverture": "11:30", "fermeture": "01:00" },
-        "dimanche": { "ouverture": "11:30", "fermeture": "23:00" }
+        "lundi": {
+          "ouverture": "11:30",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "11:30",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "11:30",
+          "fermeture": "01:00"
+        },
+        "dimanche": {
+          "ouverture": "11:30",
+          "fermeture": "23:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -206,16 +502,48 @@
       "latitude": 47.5097,
       "longitude": -79.6713,
       "rating": 4.4,
-      "cuisine": ["chinois"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["chinois", "chinese", "riz", "rice", "chow mein", "egg rolls", "rouleaux", "buffet"],
+      "cuisine": [
+        "chinois"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "chinois",
+        "chinese",
+        "riz",
+        "rice",
+        "chow mein",
+        "egg rolls",
+        "rouleaux",
+        "buffet"
+      ],
       "horaires": {
-        "mardi":    { "ouverture": "11:00", "fermeture": "20:00" },
-        "mercredi": { "ouverture": "11:00", "fermeture": "20:00" },
-        "jeudi":    { "ouverture": "11:00", "fermeture": "20:00" },
-        "vendredi": { "ouverture": "11:00", "fermeture": "20:30" },
-        "samedi":   { "ouverture": "12:00", "fermeture": "20:30" },
-        "dimanche": { "ouverture": "12:00", "fermeture": "20:00" }
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:30"
+        },
+        "samedi": {
+          "ouverture": "12:00",
+          "fermeture": "20:30"
+        },
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "20:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -227,15 +555,44 @@
       "latitude": 47.5063,
       "longitude": -79.6771,
       "rating": 4.8,
-      "cuisine": ["indien"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["indien", "indian", "curry", "butter chicken", "biryani", "kerala", "south indian", "halal"],
+      "cuisine": [
+        "indien"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "indien",
+        "indian",
+        "curry",
+        "butter chicken",
+        "biryani",
+        "kerala",
+        "south indian",
+        "halal"
+      ],
       "horaires": {
-        "mercredi": { "ouverture": "11:00", "fermeture": "21:00" },
-        "jeudi":    { "ouverture": "11:00", "fermeture": "21:00" },
-        "vendredi": { "ouverture": "11:00", "fermeture": "21:00" },
-        "samedi":   { "ouverture": "12:00", "fermeture": "21:00" },
-        "dimanche": { "ouverture": "11:00", "fermeture": "18:00" }
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "12:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "18:00"
+        }
       },
       "note": "Cuisine du Kerala authentique — halal, végétalien disponible",
       "source": "prixmalin"
@@ -247,16 +604,47 @@
       "phone": "(705) 650-2024",
       "latitude": 47.5085,
       "longitude": -79.6759,
-      "rating": 5.0,
-      "cuisine": ["café", "déjeuner"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["bakery", "boulangerie", "sandwich", "meat pie", "tourtière", "fudge", "butter tart", "catering", "traiteur"],
+      "rating": 5,
+      "cuisine": [
+        "café",
+        "déjeuner"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "bakery",
+        "boulangerie",
+        "sandwich",
+        "meat pie",
+        "tourtière",
+        "fudge",
+        "butter tart",
+        "catering",
+        "traiteur"
+      ],
       "horaires": {
-        "mardi":    { "ouverture": "09:00", "fermeture": "17:00" },
-        "mercredi": { "ouverture": "09:00", "fermeture": "17:00" },
-        "jeudi":    { "ouverture": "09:00", "fermeture": "17:00" },
-        "vendredi": { "ouverture": "09:00", "fermeture": "17:00" },
-        "samedi":   { "ouverture": "09:00", "fermeture": "17:00" }
+        "mardi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "mercredi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "jeudi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        },
+        "samedi": {
+          "ouverture": "09:00",
+          "fermeture": "17:00"
+        }
       },
       "note": "Petit bijou — repas maison congelés, boulangerie artisanale, traiteur",
       "source": "prixmalin"
@@ -269,17 +657,51 @@
       "latitude": 47.5382,
       "longitude": -79.6752,
       "rating": 4.4,
-      "cuisine": ["grillades", "bar"],
-      "service": ["surplace"],
-      "keywords": ["grill", "steak", "bar", "wings", "escargot", "fish and chips", "chicken"],
+      "cuisine": [
+        "grillades",
+        "bar"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [
+        "grill",
+        "steak",
+        "bar",
+        "wings",
+        "escargot",
+        "fish and chips",
+        "chicken"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "11:00", "fermeture": "22:00" },
-        "mardi":    { "ouverture": "11:00", "fermeture": "22:00" },
-        "mercredi": { "ouverture": "11:00", "fermeture": "22:00" },
-        "jeudi":    { "ouverture": "11:00", "fermeture": "22:00" },
-        "vendredi": { "ouverture": "11:00", "fermeture": "22:00" },
-        "samedi":   { "ouverture": "11:00", "fermeture": "22:00" },
-        "dimanche": { "ouverture": "16:00", "fermeture": "22:00" }
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "16:00",
+          "fermeture": "22:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -291,17 +713,52 @@
       "latitude": 47.5363,
       "longitude": -79.6737,
       "rating": 3.8,
-      "cuisine": ["déjeuner", "québécois"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["breakfast", "déjeuner", "burger", "fries", "routier", "truck stop", "omelette"],
+      "cuisine": [
+        "déjeuner",
+        "québécois"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "breakfast",
+        "déjeuner",
+        "burger",
+        "fries",
+        "routier",
+        "truck stop",
+        "omelette"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "06:00", "fermeture": "22:00" },
-        "mardi":    { "ouverture": "06:00", "fermeture": "22:00" },
-        "mercredi": { "ouverture": "06:00", "fermeture": "22:00" },
-        "jeudi":    { "ouverture": "06:00", "fermeture": "22:00" },
-        "vendredi": { "ouverture": "06:00", "fermeture": "22:00" },
-        "samedi":   { "ouverture": "06:00", "fermeture": "22:00" },
-        "dimanche": { "ouverture": "06:00", "fermeture": "22:00" }
+        "lundi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        }
       },
       "source": "prixmalin"
     },
@@ -313,20 +770,85 @@
       "latitude": 47.4492,
       "longitude": -79.6335,
       "rating": 3.9,
-      "cuisine": ["indien"],
-      "service": ["surplace", "takeout"],
-      "keywords": ["indien", "indian", "pakistanais", "pakistani", "butter chicken", "biryani", "dal", "halal"],
+      "cuisine": [
+        "indien"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "indien",
+        "indian",
+        "pakistanais",
+        "pakistani",
+        "butter chicken",
+        "biryani",
+        "dal",
+        "halal"
+      ],
       "horaires": {
-        "lundi":    { "ouverture": "11:00", "fermeture": "00:00" },
-        "mardi":    { "ouverture": "11:00", "fermeture": "00:00" },
-        "mercredi": { "ouverture": "11:00", "fermeture": "00:00" },
-        "jeudi":    { "ouverture": "11:00", "fermeture": "00:00" },
-        "vendredi": { "ouverture": "11:00", "fermeture": "00:00" },
-        "samedi":   { "ouverture": "11:00", "fermeture": "00:00" },
-        "dimanche": { "ouverture": "11:00", "fermeture": "00:00" }
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
       },
       "note": "Cash ou virement Interac seulement — pas de carte",
       "source": "prixmalin"
+    },
+    {
+      "name": "Motel Coutu",
+      "address": "64, rue Principale Nord Notre-Dame-du-Nord J0Z 3B0",
+      "cuisine": [
+        "bar"
+      ],
+      "service": [],
+      "keywords": [],
+      "phone": "(819) 723-2131",
+      "website": "https://www.motelcoutu.ca/",
+      "note": "Menu Simple et toute est excellent. Ca vaut le détour.",
+      "reservation": true,
+      "reservationSurplace": true,
+      "reservationInfo": "819-723-2131",
+      "horaires": {
+        "mercredi": {
+          "ouverture": "15:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "15:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "15:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "motel-coutu-b"
     }
   ]
 }
