@@ -1,1 +1,37 @@
-{"restaurants":[]}
+{
+  "restaurants": [
+    {
+      "name": "Motel Coutu",
+      "address": "64, rue Principale Nord Notre-Dame-du-Nord J0Z 3B0",
+      "cuisine": [
+        "bar"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "phone": "(819) 723-2131",
+      "website": "https://www.motelcoutu.ca/",
+      "reservation": true,
+      "reservationSurplace": true,
+      "reservationInfo": "819-723-2131",
+      "horaires": {
+        "mercredi": {
+          "ouverture": "15:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "15:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "15:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "motel-coutu-b",
+      "note": "Menu simple mais toute est super bon !"
+    }
+  ]
+}
