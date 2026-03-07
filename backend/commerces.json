@@ -1664,7 +1664,8 @@
         "bureautique",
         "loisirs",
         "electro",
-        "meuble"
+        "meuble",
+        "informatique"
       ],
       "keywords": [
         "papeterie",
@@ -1758,7 +1759,8 @@
     {
       "name": "Quantum xpress Ltd",
       "categories": [
-        "bureautique"
+        "bureautique",
+        "informatique"
       ],
       "keywords": [
         "bureautique",
