@@ -926,6 +926,251 @@
       "id": "kfc-pfk-new-liskeard-p",
       "latitude": 47.52642,
       "longitude": -79.673776
+    },
+    {
+      "name": "Tim Hortons",
+      "address": "883307 Highway 65, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-8288",
+      "website": "https://www.timhortons.ca",
+      "cuisine": "cafe",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison",
+        "drive"
+      ],
+      "keywords": [
+        "tim hortons",
+        "cafe",
+        "coffee",
+        "cafe",
+        "beignes",
+        "donuts",
+        "timbits",
+        "dejeuner",
+        "breakfast",
+        "lunch"
+      ],
+      "rating": 3.8,
+      "note": "Tim Hortons - Highway 65",
+      "id": "tim-hortons-new-liskeard",
+      "latitude": 47.525897,
+      "longitude": -79.673103
+    },
+    {
+      "name": "McDonald's",
+      "address": "883350 Highway 65 W, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-8088",
+      "website": "https://www.mcdonalds.com/ca/en-ca.html",
+      "cuisine": "fast-food",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison",
+        "drive"
+      ],
+      "keywords": [
+        "mcdonalds",
+        "mcdonald",
+        "big mac",
+        "hamburger",
+        "frites",
+        "fries",
+        "fast food",
+        "dejeuner",
+        "breakfast"
+      ],
+      "rating": 3.3,
+      "note": "McDonald's New Liskeard",
+      "id": "mcdonald-s-new-liskeard",
+      "latitude": 47.52796,
+      "longitude": -79.67501
+    },
+    {
+      "name": "Wendy's",
+      "address": "59 ON-11, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-5414",
+      "website": "https://www.wendys.com",
+      "cuisine": "fast-food",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison",
+        "drive"
+      ],
+      "keywords": [
+        "wendy's",
+        "wendys",
+        "hamburger",
+        "burger",
+        "frosty",
+        "fast food",
+        "frites",
+        "fries"
+      ],
+      "rating": 3.9,
+      "note": "Wendy's New Liskeard",
+      "id": "wendy-s-new-liskeard",
+      "latitude": 47.527081,
+      "longitude": -79.673696
+    },
+    {
+      "name": "Subway",
+      "address": "2-883317 Highway 65, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-6222",
+      "website": "https://www.subway.com",
+      "cuisine": "sandwich",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "subway",
+        "sandwich",
+        "sub",
+        "salade",
+        "salad",
+        "wrap",
+        "lunch"
+      ],
+      "rating": 3.8,
+      "note": "Subway New Liskeard",
+      "id": "subway-new-liskeard",
+      "latitude": 47.528655,
+      "longitude": -79.673784
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "883313 Highway 65, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-0000",
+      "website": "https://www.pizzahut.ca",
+      "cuisine": "pizza",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "pizza hut",
+        "pizza",
+        "pasta",
+        "ailes",
+        "wings",
+        "livraison"
+      ],
+      "rating": 3.5,
+      "note": "Pizza Hut New Liskeard",
+      "id": "pizza-hut-new-liskeard",
+      "latitude": 47.526335,
+      "longitude": -79.673965
+    },
+    {
+      "name": "Pizza Pizza",
+      "address": "29 Whitewood Ave, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-1111",
+      "website": "https://www.pizzapizza.ca",
+      "cuisine": "pizza",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "pizza pizza",
+        "pizza",
+        "ailes",
+        "wings",
+        "calzone",
+        "livraison"
+      ],
+      "rating": 3.5,
+      "note": "Pizza Pizza New Liskeard",
+      "id": "pizza-pizza-new-liskeard",
+      "latitude": 47.508767,
+      "longitude": -79.672729
+    },
+    {
+      "name": "Quesada Burritos & Tacos",
+      "address": "883365 ON-65 E, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-6600",
+      "website": "https://www.quesada.ca",
+      "cuisine": "mexicain",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "quesada",
+        "burrito",
+        "tacos",
+        "mexicain",
+        "mexican",
+        "quesadilla",
+        "bowl"
+      ],
+      "rating": 4.0,
+      "note": "Quesada New Liskeard",
+      "id": "quesada-burritos-tacos-new-liskeard",
+      "latitude": 47.529072,
+      "longitude": -79.673806
+    },
+    {
+      "name": "Stacked Pancake & Breakfast House",
+      "address": "1869 Riverside Road, Timmins, ON P4R 0A5",
+      "phone": "(705) 531-2080",
+      "website": "https://www.stackedpancakehouse.ca/restaurant/timmins",
+      "cuisine": "comfort-food",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "pancakes",
+        "dejeuner",
+        "breakfast",
+        "brunch",
+        "crepes",
+        "gaufres",
+        "waffles",
+        "omelette",
+        "comfort food"
+      ],
+      "rating": 4.3,
+      "note": "Stacked Timmins",
+      "id": "stacked-pancake-breakfast-house-timmins",
+      "latitude": 48.472013,
+      "longitude": -81.392979
+    },
+    {
+      "name": "Stacked Pancake & Breakfast House",
+      "address": "41 Lakeshore Drive, North Bay, ON P1A 2A1",
+      "phone": "(705) 478-7405",
+      "website": "https://www.stackedpancakehouse.ca/restaurant/north-bay",
+      "cuisine": "comfort-food",
+      "service": [
+        "sur-place",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "pancakes",
+        "dejeuner",
+        "breakfast",
+        "brunch",
+        "crepes",
+        "gaufres",
+        "waffles",
+        "omelette",
+        "comfort food"
+      ],
+      "rating": 4.3,
+      "note": "Stacked North Bay",
+      "id": "stacked-pancake-breakfast-house-north-bay",
+      "latitude": 46.294763,
+      "longitude": -79.455083
     }
   ]
 }
