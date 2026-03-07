@@ -946,45 +946,6 @@
       "note": "Épicerie discount New Liskeard — Timiskaming Square"
     },
     {
-      "id": "bonanza-furniture-new-liskeard",
-      "name": "Bonanza Furniture New Liskeard",
-      "categories": [
-        "maison"
-      ],
-      "keywords": [
-        "meubles",
-        "mobilier",
-        "sofa",
-        "canapé",
-        "lit",
-        "matelas",
-        "sommier",
-        "chambre",
-        "salon",
-        "salle à manger",
-        "table",
-        "chaise",
-        "fauteuil",
-        "electroménager",
-        "réfrigérateur",
-        "laveuse",
-        "sécheuse",
-        "lave-vaisselle",
-        "cuisinière",
-        "La-Z-Boy",
-        "Ashley",
-        "Maytag",
-        "Whirlpool"
-      ],
-      "address": "997465 Hwy 11, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-8384",
-      "website": "https://www.bonanzafurniture.ca",
-      "latitude": 47.5341,
-      "longitude": -79.668,
-      "rating": 3.9,
-      "note": "Meubles, matelas et électroménagers New Liskeard"
-    },
-    {
       "id": "chat-noir-books-new-liskeard",
       "name": "Chat Noir Books New Liskeard",
       "categories": [
@@ -1085,41 +1046,6 @@
       "longitude": -79.676,
       "rating": 3.9,
       "note": "Quincaillerie et matériaux de construction New Liskeard"
-    },
-    {
-      "id": "home-hardware-new-liskeard",
-      "name": "Grant Home Hardware New Liskeard",
-      "categories": [
-        "quincaillerie",
-        "renovation",
-        "maison"
-      ],
-      "keywords": [
-        "marteau",
-        "tournevis",
-        "perceuse",
-        "outils",
-        "peinture",
-        "plomberie",
-        "électricité",
-        "matériaux",
-        "construction",
-        "bois",
-        "portes",
-        "fenêtres",
-        "cuisine",
-        "salle de bain",
-        "quincaillerie",
-        "rénovation",
-        "plancher"
-      ],
-      "address": "88331 Hwy 65 Ouest, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-9311",
-      "website": "https://www.homehardware.ca",
-      "latitude": 47.5395,
-      "longitude": -79.659,
-      "rating": 4.3,
-      "note": "Home Hardware Building Centre — quincaillerie et matériaux New Liskeard"
     },
     {
       "id": "ferron-marine-villemarie",
