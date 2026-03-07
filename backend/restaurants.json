@@ -387,10 +387,7 @@
       "latitude": 47.5244,
       "longitude": -79.6725,
       "rating": 4.6,
-      "cuisine": [
-        "déjeuner",
-        "comfort food"
-      ],
+      "cuisine": "comfort-food",
       "service": [
         "surplace",
         "takeout"
