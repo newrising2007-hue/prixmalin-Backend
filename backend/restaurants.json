@@ -388,7 +388,8 @@
       "longitude": -79.6725,
       "rating": 4.6,
       "cuisine": [
-        "déjeuner"
+        "déjeuner",
+        "comfort food"
       ],
       "service": [
         "surplace",
@@ -433,7 +434,8 @@
           "fermeture": "15:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "website": "www.stackedpancakehouse.ca"
     },
     {
       "id": "wild-wing-newliskeard",
