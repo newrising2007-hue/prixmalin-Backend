@@ -739,34 +739,6 @@
       "note": "Boutique de vêtements hommes/femmes — chemises spécialisées"
     },
     {
-      "id": "magasin-petrin-bearn",
-      "name": "Magasin Pétrin Béarn",
-      "categories": [
-        "vetements"
-      ],
-      "keywords": [
-        "vêtements",
-        "chemise",
-        "linge",
-        "mode",
-        "boutique",
-        "homme",
-        "femme",
-        "habits",
-        "manteau",
-        "pantalon",
-        "chandail",
-        "chemises spécialisées"
-      ],
-      "address": "13A Rue Principale Sud, Béarn, QC J0Z 1G0",
-      "phone": "(819) 726-2271",
-      "website": null,
-      "latitude": 47.2338,
-      "longitude": -79.4067,
-      "rating": 4.3,
-      "note": "Vêtements hommes et femmes — spécialiste chemises depuis 1969"
-    },
-    {
       "id": "carquest-notre-dame-du-nord",
       "name": "Carquest Pièces d'Auto Notre-Dame-du-Nord",
       "categories": [
@@ -1013,44 +985,6 @@
       "note": "Meubles, matelas et électroménagers New Liskeard"
     },
     {
-      "id": "the-brick-new-liskeard",
-      "name": "The Brick New Liskeard",
-      "categories": [
-        "maison",
-        "electro"
-      ],
-      "keywords": [
-        "meubles",
-        "mobilier",
-        "sofa",
-        "lit",
-        "matelas",
-        "chambre",
-        "salon",
-        "salle à manger",
-        "table",
-        "electroménager",
-        "réfrigérateur",
-        "laveuse",
-        "sécheuse",
-        "télévision",
-        "TV",
-        "écran",
-        "cuisinière",
-        "lave-vaisselle",
-        "Beautyrest",
-        "Sealy",
-        "Serta"
-      ],
-      "address": "997498 Hwy 11 Nord, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-7577",
-      "website": "https://www.thebrick.com",
-      "latitude": 47.5371,
-      "longitude": -79.667,
-      "rating": 3.8,
-      "note": "Meubles, matelas, électros et électronique — The Brick New Liskeard"
-    },
-    {
       "id": "chat-noir-books-new-liskeard",
       "name": "Chat Noir Books New Liskeard",
       "categories": [
@@ -1186,72 +1120,6 @@
       "longitude": -79.659,
       "rating": 4.3,
       "note": "Home Hardware Building Centre — quincaillerie et matériaux New Liskeard"
-    },
-    {
-      "id": "chartrand-independant-new-liskeard",
-      "name": "Chartrand's Your Independent Grocer New Liskeard",
-      "categories": [
-        "epicerie"
-      ],
-      "keywords": [
-        "épicerie",
-        "nourriture",
-        "alimentation",
-        "grocery",
-        "pain",
-        "lait",
-        "légumes",
-        "fruits",
-        "viande",
-        "fromage",
-        "boulangerie",
-        "boucherie",
-        "traiteur",
-        "seafood",
-        "poisson"
-      ],
-      "address": "55 Scott St, Temiskaming Shores, ON P0J 1P0",
-      "phone": "(705) 647-8844",
-      "website": "https://www.yourindependentgrocer.ca",
-      "latitude": 47.5112,
-      "longitude": -79.675,
-      "rating": 4.2,
-      "note": "Épicerie complète — boulangerie, boucherie, fruits de mer New Liskeard"
-    },
-    {
-      "id": "hart-home-new-liskeard",
-      "name": "Hart Home New Liskeard",
-      "categories": [
-        "maison"
-      ],
-      "keywords": [
-        "cadres",
-        "décoration",
-        "déco",
-        "store",
-        "rideau",
-        "rideaux",
-        "stores",
-        "literie",
-        "oreillers",
-        "couverture",
-        "drap",
-        "parure",
-        "art mural",
-        "objets décoratifs",
-        "horloge",
-        "miroir",
-        "lampe",
-        "éclairage",
-        "maison"
-      ],
-      "address": "New Liskeard, ON P0J 1P0",
-      "phone": null,
-      "website": null,
-      "latitude": 47.511,
-      "longitude": -79.673,
-      "rating": 4.1,
-      "note": "Décoration maison — cadres, stores, rideaux, literie New Liskeard"
     },
     {
       "id": "ferron-marine-villemarie",
@@ -1658,44 +1526,6 @@
       "longitude": -79.6718,
       "rating": 3.9,
       "note": "Bonanza Furniture — meubles et électroménagers — LaZboy, Ashley, Whirlpool, Maytag"
-    },
-    {
-      "id": "rona-newliskeard",
-      "name": "RONA New Liskeard",
-      "categories": [
-        "quincaillerie",
-        "renovation",
-        "maison"
-      ],
-      "keywords": [
-        "rona",
-        "quincaillerie",
-        "matériaux construction",
-        "rénovation",
-        "peinture",
-        "bois",
-        "plancher",
-        "céramique",
-        "portes",
-        "fenêtres",
-        "plomberie",
-        "électricité",
-        "outils",
-        "jardin",
-        "rangement",
-        "toiture",
-        "isolation",
-        "husqvarna",
-        "scie à chaîne",
-        "tondeuse"
-      ],
-      "address": "245 Whitewood Ave West, New Liskeard, ON P0J 1P0",
-      "phone": "(705) 647-6784",
-      "website": "https://www.rona.ca",
-      "latitude": 47.5092,
-      "longitude": -79.6724,
-      "rating": 3.5,
-      "note": "RONA New Liskeard — quincaillerie et matériaux de construction"
     },
     {
       "id": "home-hardware-newliskeard",
