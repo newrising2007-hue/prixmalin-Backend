@@ -911,6 +911,21 @@
       "id": "poulet-frit-chester-j",
       "latitude": 47.337399,
       "longitude": -79.437443
+    },
+    {
+      "name": "KFC / PFK New Liskeard",
+      "address": "883313 ON-65, Temiskaming Shores, ON P0J 1P0",
+      "cuisine": [
+        "fast-food"
+      ],
+      "service": [],
+      "keywords": [
+        "Poulet Frit"
+      ],
+      "phone": "(705) 680-0178",
+      "id": "kfc-pfk-new-liskeard-p",
+      "latitude": 47.52642,
+      "longitude": -79.673776
     }
   ]
 }
