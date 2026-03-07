@@ -49,7 +49,9 @@ function loadLocalCommerces() {
 
 function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 150) {
   const commerces = loadLocalCommerces();
-  const lowerQuery = query.toLowerCase();
+  const lowerQuery = query.toLowerCase()
+    .replace(/œ/g, 'oe').replace(/æ/g, 'ae')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 
   return commerces
     .filter(c => {
@@ -226,7 +228,9 @@ function extractVehicleBrand(query) {
     'harley', 'harley-davidson', 'ducati', 'triumph', 'royal enfield',
     'sea-doo', 'brp', 'lynx', 'sherco', 'gasgas', 'beta'
   ];
-  const lowerQuery = query.toLowerCase();
+  const lowerQuery = query.toLowerCase()
+    .replace(/œ/g, 'oe').replace(/æ/g, 'ae')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   return brands.find(b => lowerQuery.includes(b.replace('-', ' ')) || lowerQuery.includes(b)) || null;
 }
 
