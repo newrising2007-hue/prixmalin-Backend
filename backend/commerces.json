@@ -1803,6 +1803,31 @@
       "longitude": -79.4333,
       "rating": 4.5,
       "note": "Papeterie Hamster + Librairie Servidec + Informatique Logitem — tout sous le même toit"
+    },
+    {
+      "name": "BMR Montbeillard - Rouyn-Noranda",
+      "categories": [
+        "quincaillerie"
+      ],
+      "keywords": [
+        "Marteau",
+        "Perceuse",
+        "MDF",
+        "Matériaux de construction",
+        "Contre plaqué",
+        "clou",
+        "vis",
+        "scie",
+        "menuiserie",
+        "tournevis",
+        "plomberie"
+      ],
+      "address": "9756 Boul Rideau, Rouyn-Noranda, QC J0Z 2X0",
+      "phone": "(819) 797-2987",
+      "website": "https://www.bmr.ca/fr/materiaux-montbeillard-rouyn-norenda",
+      "latitude": 48.043809,
+      "longitude": -79.257338,
+      "id": "bmr-montbeillard-rouynnoranda-x"
     }
   ]
 }
