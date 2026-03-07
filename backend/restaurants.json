@@ -855,59 +855,6 @@
       "longitude": -79.481506
     },
     {
-      "name": "La Gauloise",
-      "address": "6 Rue Ste Anne, Ville-Marie, QC J9V 2B7",
-      "cuisine": [
-        "fast-food"
-      ],
-      "service": [
-        "surplace"
-      ],
-      "keywords": [
-        "poutine",
-        "cheeseburger",
-        "hot dog",
-        "hot chicken",
-        "Club sandwich",
-        "hamburger",
-        "doigts de poulet",
-        "sandwichs",
-        "spaghetti",
-        "ailes de poulet"
-      ],
-      "phone": "(819) 629-2917",
-      "note": "Argent seulement- Cash Only",
-      "horaires": {
-        "lundi": {
-          "ouverture": "11:00",
-          "fermeture": "20:00"
-        },
-        "mardi": {
-          "ouverture": "11:00",
-          "fermeture": "20:00"
-        },
-        "jeudi": {
-          "ouverture": "11:00",
-          "fermeture": "22:00"
-        },
-        "vendredi": {
-          "ouverture": "11:00",
-          "fermeture": "20:00"
-        },
-        "samedi": {
-          "ouverture": "11:00",
-          "fermeture": "20:00"
-        },
-        "dimanche": {
-          "ouverture": "11:00",
-          "fermeture": "20:00"
-        }
-      },
-      "id": "la-gauloise-b",
-      "latitude": 47.330179,
-      "longitude": -79.441871
-    },
-    {
       "name": "Poulet Frit Chester",
       "address": "45, rue des Oblats Nord, Ville-Marie, QC, Canada, J9V 1J2",
       "cuisine": [
