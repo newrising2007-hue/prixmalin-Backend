@@ -1677,7 +1677,7 @@
       "note": "Hart Home — grand magasin — cadres, décoration, stores, rideaux, literie — Timiskaming Square"
     },
     {
-      "name": "Gourmet Butchery",
+      "name": "Boucherie le Gourmet",
       "categories": [
         "boucherie"
       ],
@@ -1698,7 +1698,10 @@
       ],
       "address": "852 Rte Lefort, Duhamel-Ouest, QC J9V 1T7",
       "phone": "(819) 629-2042",
-      "id": "gourmet-butchery-t"
+      "id": "gourmet-butchery-t",
+      "latitude": 47.5559,
+      "longitude": -79.3271,
+      "website": "https://www.facebook.com/p/Boucherie-le-Gourmet-100057302146871/"
     },
     {
       "id": "Epicerie Boucherie Fruits et Légumes",
@@ -1724,7 +1727,9 @@
       ],
       "address": "4 Rue Principale N, Saint-Bruno-de-Guigues, QC J0Z 2G0",
       "phone": "(819) 728-2400",
-      "website": "https://www.facebook.com/p/%C3%89picerie-Boucherie-Fruits-et-L%C3%A9gumes-Guigues-100051781124633/"
+      "website": "https://www.facebook.com/p/%C3%89picerie-Boucherie-Fruits-et-L%C3%A9gumes-Guigues-100051781124633/",
+      "latitude": 47.334,
+      "longitude": -79.4335
     },
     {
       "id": "logitem-servidec-hamster-villemarie",
