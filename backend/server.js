@@ -141,6 +141,8 @@ app.post('/api/search-prices', async (req, res) => {
           badge_color: '#FF6600',
         },
       ];
+    } else if (category === 'boucherie') {
+      onlineResults = [];
     } else {
       const amazonProducts = getAmazonProducts(query, category, 4);
       const walmartProducts = getWalmartProducts(query, category);
