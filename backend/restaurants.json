@@ -851,6 +851,113 @@
         }
       },
       "id": "motel-coutu-b"
+    },
+    {
+      "name": "La Gauloise",
+      "address": "6 Rue Ste Anne, Ville-Marie, QC J9V 2B7",
+      "cuisine": [
+        "fast-food"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [
+        "poutine",
+        "cheeseburger",
+        "hot dog",
+        "hot chicken",
+        "Club sandwich",
+        "hamburger",
+        "doigts de poulet",
+        "sandwichs",
+        "spaghetti",
+        "ailes de poulet"
+      ],
+      "phone": "(819) 629-2917",
+      "note": "Argent seulement- Cash Only",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "la-gauloise-b"
+    },
+    {
+      "name": "Poulet Frit Chester",
+      "address": "45, rue des Oblats Nord, Ville-Marie, QC, Canada, J9V 1J2",
+      "cuisine": [
+        "fast-food",
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "poutine",
+        "poulet frit",
+        "hamburger",
+        "cheeseburger",
+        "spaghetti",
+        "poisson",
+        "crevette",
+        "Pizza"
+      ],
+      "phone": "(819) 622-1444",
+      "website": "https://www.facebook.com/p/Chester-Ville-Marie-100056898385392/",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "id": "poulet-frit-chester-j"
     }
   ]
 }
