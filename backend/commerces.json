@@ -1828,6 +1828,31 @@
       "latitude": 48.043809,
       "longitude": -79.257338,
       "id": "bmr-montbeillard-rouynnoranda-x"
+    },
+    {
+      "name": "Quantum xpress Ltd",
+      "categories": [
+        "bureautique"
+      ],
+      "keywords": [
+        "bureautique",
+        "Ordinateur",
+        "Laptop",
+        "Carte graphique",
+        "Mémoire",
+        "CPU",
+        "Cable IDE",
+        "Boitier",
+        "Power Supply",
+        "Carte de son",
+        "Carte mère"
+      ],
+      "address": "32 Armstrong St. New Liskeard, ON P0J 1P0",
+      "phone": "(705) 647-3832",
+      "website": "https://www.qxl.ca/",
+      "latitude": 47.50939,
+      "longitude": -79.671814,
+      "id": "quantum-xpress-ltd-p"
     }
   ]
 }
