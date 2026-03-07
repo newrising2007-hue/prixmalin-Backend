@@ -58,8 +58,8 @@
       "name": "La Gauloise",
       "address": "6 Rue Ste Anne, Ville-Marie, QC J9V 2B7",
       "phone": "(819) 629-2917",
-      "latitude": 47.3302,
-      "longitude": -79.4419,
+      "latitude": 47.330179,
+      "longitude": -79.441871,
       "rating": 4.6,
       "cuisine": [
         "québécois",
@@ -850,7 +850,9 @@
           "fermeture": "20:00"
         }
       },
-      "id": "motel-coutu-b"
+      "id": "motel-coutu-b",
+      "latitude": 47.597557,
+      "longitude": -79.481506
     },
     {
       "name": "La Gauloise",
@@ -901,7 +903,9 @@
           "fermeture": "20:00"
         }
       },
-      "id": "la-gauloise-b"
+      "id": "la-gauloise-b",
+      "latitude": 47.330179,
+      "longitude": -79.441871
     },
     {
       "name": "Poulet Frit Chester",
@@ -957,7 +961,9 @@
           "fermeture": "21:00"
         }
       },
-      "id": "poulet-frit-chester-j"
+      "id": "poulet-frit-chester-j",
+      "latitude": 47.337399,
+      "longitude": -79.437443
     }
   ]
 }
