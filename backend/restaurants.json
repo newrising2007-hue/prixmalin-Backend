@@ -387,7 +387,9 @@
       "latitude": 47.5244,
       "longitude": -79.6725,
       "rating": 4.6,
-      "cuisine": "comfort-food",
+      "cuisine": [
+        "comfort-food"
+      ],
       "service": [
         "surplace",
         "takeout"
@@ -929,7 +931,9 @@
       "address": "883307 Highway 65, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-8288",
       "website": "https://www.timhortons.ca",
-      "cuisine": "cafe",
+      "cuisine": [
+        "cafe"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -959,7 +963,9 @@
       "address": "883350 Highway 65 W, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-8088",
       "website": "https://www.mcdonalds.com/ca/en-ca.html",
-      "cuisine": "fast-food",
+      "cuisine": [
+        "fast-food"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -988,7 +994,9 @@
       "address": "59 ON-11, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-5414",
       "website": "https://www.wendys.com",
-      "cuisine": "fast-food",
+      "cuisine": [
+        "fast-food"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -1016,7 +1024,9 @@
       "address": "2-883317 Highway 65, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-6222",
       "website": "https://www.subway.com",
-      "cuisine": "sandwich",
+      "cuisine": [
+        "sandwich"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -1042,7 +1052,9 @@
       "address": "883313 Highway 65, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-0000",
       "website": "https://www.pizzahut.ca",
-      "cuisine": "pizza",
+      "cuisine": [
+        "pizza"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -1067,7 +1079,9 @@
       "address": "29 Whitewood Ave, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-1111",
       "website": "https://www.pizzapizza.ca",
-      "cuisine": "pizza",
+      "cuisine": [
+        "pizza"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -1092,7 +1106,9 @@
       "address": "883365 ON-65 E, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-6600",
       "website": "https://www.quesada.ca",
-      "cuisine": "mexicain",
+      "cuisine": [
+        "mexicain"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -1118,7 +1134,9 @@
       "address": "1869 Riverside Road, Timmins, ON P4R 0A5",
       "phone": "(705) 531-2080",
       "website": "https://www.stackedpancakehouse.ca/restaurant/timmins",
-      "cuisine": "comfort-food",
+      "cuisine": [
+        "comfort-food"
+      ],
       "service": [
         "sur-place",
         "takeout",
@@ -1146,7 +1164,9 @@
       "address": "41 Lakeshore Drive, North Bay, ON P1A 2A1",
       "phone": "(705) 478-7405",
       "website": "https://www.stackedpancakehouse.ca/restaurant/north-bay",
-      "cuisine": "comfort-food",
+      "cuisine": [
+        "comfort-food"
+      ],
       "service": [
         "sur-place",
         "takeout",
