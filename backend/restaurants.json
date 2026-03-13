@@ -1123,7 +1123,7 @@
         "quesadilla",
         "bowl"
       ],
-      "rating": 4.0,
+      "rating": 4,
       "note": "Quesada New Liskeard",
       "id": "quesada-burritos-tacos-new-liskeard",
       "latitude": 47.529072,
@@ -1188,6 +1188,163 @@
       "id": "stacked-pancake-breakfast-house-north-bay",
       "latitude": 46.294763,
       "longitude": -79.455083
+    },
+    {
+      "name": "Resto du Colisée",
+      "address": "11 Rue Beauchamps, Saint-Bruno-de-Guigues, QC J0Z 2G0",
+      "cuisine": [
+        "fast-food"
+      ],
+      "service": [],
+      "keywords": [
+        "frite",
+        "pogo",
+        "rondelle d'oignon",
+        "bâtonnets de fromage",
+        "doigt de poulet",
+        "croquette",
+        "cornichons panné",
+        "club frite",
+        "club poutine",
+        "hot dog",
+        "cheeseburger",
+        "hambuger",
+        "popper"
+      ],
+      "phone": "(819) 629-8055",
+      "website": "https://www.facebook.com/p/Resto-du-Colis%C3%A9e-100057714300498/",
+      "latitude": 47.461666,
+      "longitude": -79.436159,
+      "horaires": {
+        "mercredi": {
+          "ouverture": "16:00",
+          "fermeture": "19:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        }
+      },
+      "id": "resto-du-colisee-g"
+    },
+    {
+      "name": "Restaurant Maxime",
+      "address": "1 Rue Principale N, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "cuisine": [
+        "comfort-food",
+        "déjeunner"
+      ],
+      "service": [],
+      "keywords": [
+        "club sandwich",
+        "oeuf",
+        "omelette",
+        "cheeseburger",
+        "frite",
+        "poutine",
+        "hamburger"
+      ],
+      "phone": "(819) 723-2738",
+      "website": "1 Rue Principale N, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "latitude": 47.593489,
+      "longitude": -79.48389,
+      "horaires": {
+        "lundi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "09:00",
+          "fermeture": "14:00"
+        },
+        "dimanche": {
+          "ouverture": "09:00",
+          "fermeture": "14:00"
+        }
+      },
+      "id": "restaurant-maxime-b"
+    },
+    {
+      "name": "Rendez-vous des quinze",
+      "address": "31 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "cuisine": [
+        "comfort-food",
+        "déjeuner"
+      ],
+      "service": [],
+      "keywords": [
+        "brochette de crevette",
+        "steak aux poivres",
+        "filet de doré",
+        "fish and chips",
+        "frite",
+        "poutine",
+        "spaghetti",
+        "cheeseburger",
+        "club poutine",
+        "sandwich",
+        "pogo",
+        "hot-dog michigan",
+        "omelette",
+        "soupe"
+      ],
+      "phone": "(819) 723-2270",
+      "website": "https://www.facebook.com/p/Rendez-vous-des-quinze-100063494262426/",
+      "latitude": 47.593025,
+      "longitude": -79.487415,
+      "reservation": true,
+      "reservationInfo": "(819) 723-2270",
+      "horaires": {
+        "mercredi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "rendezvous-des-quinze-b"
     }
   ]
 }
