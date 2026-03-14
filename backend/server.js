@@ -222,8 +222,20 @@ app.get('/api/restaurants/google', async (req, res) => {
   const { Client } = require('@googlemaps/google-maps-services-js');
   const gClient = new Client({});
 
-  // 1. Nos restos locaux
-  const local = (loadRestaurants().restaurants || []).map(r => ({ ...r, source: 'prixmalin' }));
+  // 1. Nos restos locaux — filtrés par distance
+  function calcDistKm(lat1, lng1, lat2, lng2) {
+    const R = 6371;
+    const dLat = (lat2-lat1)*Math.PI/180;
+    const dLng = (lng2-lng1)*Math.PI/180;
+    const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLng/2)**2;
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  }
+  const local = (loadRestaurants().restaurants || [])
+    .filter(r => {
+      if (!r.latitude || !r.longitude) return false;
+      return calcDistKm(lat, lng, r.latitude, r.longitude) <= rayon;
+    })
+    .map(r => ({ ...r, source: 'prixmalin' }));
 
   // 2. Google Places
   let googleResults = [];
