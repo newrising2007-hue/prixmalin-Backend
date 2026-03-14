@@ -1345,6 +1345,58 @@
         }
       },
       "id": "rendezvous-des-quinze-b"
+    },
+    {
+      "name": "Le Taco fou",
+      "address": "8 Rue Principale S, Notre-Dame-du-Nord, QC J0Z 3B0",
+      "cuisine": [
+        "mexicain"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [
+        "nachos",
+        "papas con carne",
+        "chilaquiles",
+        "enchiladas",
+        "burrito",
+        "molletes",
+        "tostadas",
+        "quesadillas",
+        "flautas",
+        "tacos",
+        "quesabirrias"
+      ],
+      "phone": "(705) 622-7885",
+      "website": "https://www.letacofouqc.com/",
+      "latitude": 47.592902,
+      "longitude": -79.483566,
+      "note": "Vous pouvez commandez en ligne avec code promo pour la première fois.",
+      "horaires": {
+        "mardi": {
+          "ouverture": "11:30",
+          "fermeture": "18:30"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "18:30"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "19:30"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "19:30"
+        },
+        "samedi": {
+          "ouverture": "11:30",
+          "fermeture": "19:30"
+        }
+      },
+      "id": "le-taco-fou-b"
     }
   ]
 }
