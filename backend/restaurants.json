@@ -1396,7 +1396,11 @@
           "fermeture": "19:30"
         }
       },
-      "id": "le-taco-fou-b"
+      "id": "le-taco-fou-b",
+      "note_en": "Vous pouvez commandez en ligne avec code promo pour la première fois.",
+      "note_es": "Vous pouvez commandez en ligne avec code promo pour la première fois.",
+      "note_ar": "Vous pouvez commandez en ligne avec code promo pour la première fois.",
+      "note_zh": "Vous pouvez commandez en ligne avec code promo pour la première fois."
     }
   ]
 }
