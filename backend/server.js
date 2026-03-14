@@ -287,3 +287,30 @@ app.listen(PORT, () => {
   console.log(`✅ Serveur sur port ${PORT}`);
   console.log('========================================');
 });
+
+// GEOCODING — Convertir nom de ville en lat/lng
+app.get('/api/geocode', async (req, res) => {
+  try {
+    const { ville } = req.query;
+    if (!ville) return res.status(400).json({ error: 'Paramètre ville requis' });
+    const { Client } = require('@googlemaps/google-maps-services-js');
+    const client = new Client({});
+    const response = await client.geocode({
+      params: {
+        address: `${ville}, Canada`,
+        key: process.env.GOOGLE_PLACES_API_KEY,
+        language: 'fr',
+      }
+    });
+    const results = response.data.results;
+    if (!results || results.length === 0) {
+      return res.status(404).json({ error: 'Ville non trouvée' });
+    }
+    const { lat, lng } = results[0].geometry.location;
+    const nomVille = results[0].formatted_address;
+    return res.json({ lat, lng, nom: nomVille });
+  } catch (error) {
+    console.error('Erreur geocoding:', error);
+    return res.status(500).json({ error: 'Erreur serveur' });
+  }
+});
