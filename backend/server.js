@@ -293,22 +293,20 @@ app.get('/api/geocode', async (req, res) => {
   try {
     const { ville } = req.query;
     if (!ville) return res.status(400).json({ error: 'Paramètre ville requis' });
-    const { Client } = require('@googlemaps/google-maps-services-js');
-    const client = new Client({});
-    const response = await client.geocode({
-      params: {
-        address: `${ville}, Canada`,
-        key: process.env.GOOGLE_PLACES_API_KEY,
-        language: 'fr',
-      }
+    const https = require('https');
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(ville + ', Canada')}&format=json&limit=1`;
+    const results = await new Promise((resolve, reject) => {
+      https.get(url, { headers: { 'User-Agent': 'PrixMalin/1.0 (contact@prixmalin.ca)' } }, (r) => {
+        let data = '';
+        r.on('data', chunk => data += chunk);
+        r.on('end', () => resolve(JSON.parse(data)));
+      }).on('error', reject);
     });
-    const results = response.data.results;
     if (!results || results.length === 0) {
       return res.status(404).json({ error: 'Ville non trouvée' });
     }
-    const { lat, lng } = results[0].geometry.location;
-    const nomVille = results[0].formatted_address;
-    return res.json({ lat, lng, nom: nomVille });
+    const { lat, lon, display_name } = results[0];
+    return res.json({ lat: parseFloat(lat), lng: parseFloat(lon), nom: display_name });
   } catch (error) {
     console.error('Erreur geocoding:', error);
     return res.status(500).json({ error: 'Erreur serveur' });
