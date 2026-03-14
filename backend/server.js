@@ -145,7 +145,7 @@ app.post('/api/search-prices', async (req, res) => {
     } else if (category === 'boucherie') {
       onlineResults = [];
     } else {
-      const amazonProducts = getAmazonProducts(query, category, 5);
+      const amazonProducts = getAmazonProducts(query, category, 1);
       const walmartProducts = getWalmartProducts(query, category);
       onlineResults = [...amazonProducts, ...walmartProducts];
     }
