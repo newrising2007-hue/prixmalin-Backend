@@ -74,7 +74,7 @@ app.post('/api/search-prices', async (req, res) => {
     );
 
     const enrichedStores = await Promise.all(
-      localStores.slice(0, category === 'boucherie' ? 8 : 4).map(async (store) => {
+      localStores.slice(0, category === 'boucherie' ? 8 : 5).map(async (store) => {
         const details = await getStoreDetails(
           store.placeId,
           store.fromLocalDB || false,
@@ -89,7 +89,7 @@ app.post('/api/search-prices', async (req, res) => {
       })
     );
 
-    const maxResults = category === 'boucherie' ? 4 : 2;
+    const maxResults = category === 'boucherie' ? 4 : 3;
     const withWebsite = enrichedStores.filter(s => s.type === 'local_with_website').slice(0, maxResults);
     const withoutWebsite = enrichedStores.filter(s => s.type === 'local_no_website').slice(0, maxResults);
 
@@ -145,7 +145,7 @@ app.post('/api/search-prices', async (req, res) => {
     } else if (category === 'boucherie') {
       onlineResults = [];
     } else {
-      const amazonProducts = getAmazonProducts(query, category, 4);
+      const amazonProducts = getAmazonProducts(query, category, 5);
       const walmartProducts = getWalmartProducts(query, category);
       onlineResults = [...amazonProducts, ...walmartProducts];
     }

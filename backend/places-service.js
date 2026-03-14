@@ -55,7 +55,7 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 1
 
   return commerces
     .filter(c => {
-      const categoryMatch = c.categories.includes(category);
+      const categoryMatch = c.categories.includes(category) || (category === 'electronique' && c.categories.includes('electro')) || (category === 'electro' && c.categories.includes('electronique'));
       const keywordMatch = c.keywords.some(kw => lowerQuery.includes(kw.toLowerCase()));
       const withinRadius = calculateDistance(latitude, longitude, c.latitude, c.longitude) <= radiusKm;
       return categoryMatch && keywordMatch && withinRadius;
