@@ -4894,7 +4894,10 @@
         "vêtements",
         "mode",
         "department store",
-        "hart"
+        "hart",
+        "puzzle",
+        "casse-tete",
+        "jouet"
       ],
       "address": "883303 ON-65, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 269-0601",
@@ -4927,7 +4930,10 @@
         "clothing",
         "fashion",
         "department store",
-        "Hart"
+        "Hart",
+        "puzzle",
+        "casse-tete",
+        "jouet"
       ],
       "keywords_es": [
         "marco",
@@ -4953,7 +4959,10 @@
         "ropa",
         "moda",
         "grandes almacenes",
-        "Hart"
+        "Hart",
+        "rompecabezas",
+        "casse-tete",
+        "jouet"
       ],
       "keywords_ar": [
         "إطار",
@@ -4976,7 +4985,10 @@
         "ملابس",
         "موضة",
         "متجر شامل",
-        "هارت"
+        "هارت",
+        "أحجية",
+        "casse-tete",
+        "jouet"
       ],
       "keywords_zh": [
         "相框",
@@ -4998,9 +5010,12 @@
         "墙面艺术",
         "画",
         "服装",
-        "时尚",
+        "توضة",
         "百货商店",
-        "哈特"
+        "哈特",
+        "拼图",
+        "casse-tete",
+        "jouet"
       ]
     },
     {
