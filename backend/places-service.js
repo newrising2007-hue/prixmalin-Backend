@@ -57,7 +57,15 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 1
   return commerces
     .filter(c => {
       const categoryMatch = category === 'divers' || c.categories.includes(category) || (category === 'electronique' && c.categories.includes('electro')) || (category === 'electro' && c.categories.includes('electronique'));
-      const keywordMatch = c.keywords.some(kw => lowerQuery.includes(normalizeStr(kw)));
+      const keywordMatch = c.keywords.some(kw => {
+        const kwNorm = normalizeStr(kw);
+        // Match exact : query contient le keyword ou keyword contient la query
+        if (lowerQuery.includes(kwNorm) || kwNorm.includes(lowerQuery)) return true;
+        // Stemming : comparer les 4 premiers caractères (ecouteur/ecouteurs/ecoute)
+        if (lowerQuery.length >= 4 && kwNorm.length >= 4 && kwNorm.startsWith(lowerQuery.substring(0, 4))) return true;
+        if (lowerQuery.length >= 4 && kwNorm.length >= 4 && lowerQuery.startsWith(kwNorm.substring(0, 4))) return true;
+        return false;
+      });
       const withinRadius = calculateDistance(latitude, longitude, c.latitude, c.longitude) <= radiusKm;
       return categoryMatch && keywordMatch && withinRadius;
     })
