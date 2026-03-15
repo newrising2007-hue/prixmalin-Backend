@@ -52,11 +52,12 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 1
   const lowerQuery = query.toLowerCase()
     .replace(/œ/g, 'oe').replace(/æ/g, 'ae')
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const normalizeStr = s => s.toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').normalize('NFD').replace(/[̀-ͯ]/g, '');
 
   return commerces
     .filter(c => {
-      const categoryMatch = c.categories.includes(category) || (category === 'electronique' && c.categories.includes('electro')) || (category === 'electro' && c.categories.includes('electronique'));
-      const keywordMatch = c.keywords.some(kw => lowerQuery.includes(kw.toLowerCase()));
+      const categoryMatch = category === 'divers' || c.categories.includes(category) || (category === 'electronique' && c.categories.includes('electro')) || (category === 'electro' && c.categories.includes('electronique'));
+      const keywordMatch = c.keywords.some(kw => lowerQuery.includes(normalizeStr(kw)));
       const withinRadius = calculateDistance(latitude, longitude, c.latitude, c.longitude) <= radiusKm;
       return categoryMatch && keywordMatch && withinRadius;
     })
