@@ -797,7 +797,7 @@
         "forfait",
         "plan cellulaire",
         "telephone",
-        "ecouteurs",
+        "ecouteur",
         "earbuds",
         "headphones",
         "JBL",
@@ -809,7 +809,8 @@
         "son",
         "Iphone",
         "android",
-        "motorola"
+        "motorola",
+        "jbl"
       ],
       "address": "26K Rue des Oblats Nord, Ville-Marie, QC J9V 1J5",
       "phone": "(819) 629-3444",
@@ -854,7 +855,7 @@
         "plan",
         "cell plan",
         "telephone",
-        "earphones",
+        "ecouteur",
         "earbuds",
         "headphones",
         "JBL",
@@ -863,7 +864,8 @@
         "speaker",
         "sound",
         "Iphone",
-        "motorola"
+        "motorola",
+        "jbl"
       ],
       "keywords_es": [
         "teléfono",
@@ -900,6 +902,7 @@
         "prepago",
         "plan",
         "plan celular",
+        "ecouteur",
         "auriculares inalámbricos",
         "cascos",
         "JBL",
@@ -908,7 +911,8 @@
         "altavoz",
         "sonido",
         "Iphone",
-        "motorola"
+        "motorola",
+        "jbl"
       ],
       "keywords_ar": [
         "هاتف",
@@ -945,7 +949,7 @@
         "مدفوع مسبقاً",
         "باقة",
         "خطة هاتف",
-        "سماعات",
+        "ecouteur",
         "سماعات صغيرة",
         "سماعات رأس",
         "JBL",
@@ -953,7 +957,8 @@
         "لاسلكي",
         "مكبر صوت",
         "Iphone",
-        "motorola"
+        "motorola",
+        "jbl"
       ],
       "keywords_zh": [
         "电话",
@@ -990,6 +995,7 @@
         "预付费",
         "套餐",
         "手机套餐",
+        "ecouteur",
         "无线耳机",
         "头戴耳机",
         "JBL",
@@ -998,7 +1004,8 @@
         "扬声器",
         "声音",
         "Iphone",
-        "motorola"
+        "motorola",
+        "jbl"
       ]
     },
     {
