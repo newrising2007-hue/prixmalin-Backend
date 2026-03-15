@@ -806,7 +806,10 @@
         "wireless",
         "speaker",
         "haut-parleur",
-        "son"
+        "son",
+        "Iphone",
+        "android",
+        "motorola"
       ],
       "address": "26K Rue des Oblats Nord, Ville-Marie, QC J9V 1J5",
       "phone": "(819) 629-3444",
@@ -858,7 +861,9 @@
         "bluetooth",
         "wireless",
         "speaker",
-        "sound"
+        "sound",
+        "Iphone",
+        "motorola"
       ],
       "keywords_es": [
         "teléfono",
@@ -901,7 +906,9 @@
         "bluetooth",
         "inalámbrico",
         "altavoz",
-        "sonido"
+        "sonido",
+        "Iphone",
+        "motorola"
       ],
       "keywords_ar": [
         "هاتف",
@@ -944,7 +951,9 @@
         "JBL",
         "بلوتوث",
         "لاسلكي",
-        "مكبر صوت"
+        "مكبر صوت",
+        "Iphone",
+        "motorola"
       ],
       "keywords_zh": [
         "电话",
@@ -987,7 +996,9 @@
         "蓝牙",
         "无线",
         "扬声器",
-        "声音"
+        "声音",
+        "Iphone",
+        "motorola"
       ]
     },
     {
