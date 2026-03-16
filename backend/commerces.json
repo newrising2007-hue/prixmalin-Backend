@@ -771,8 +771,6 @@
         "Bell",
         "satellite",
         "cinéma maison",
-        "machine à coudre",
-        "aspirateur",
         "GPS",
         "appareil photo",
         "Samsung",
@@ -3617,9 +3615,8 @@
       "id": "temlac-villemarie",
       "name": "Temlac Ltée Ville-Marie",
       "categories": [
-        "pieces",
         "auto",
-        "quincaillerie"
+        "pieces"
       ],
       "keywords": [
         "pièces auto",
@@ -3634,7 +3631,6 @@
         "attaches",
         "sécurité industrielle",
         "équipements de protection",
-        "fournitures industrielles",
         "bosch",
         "permatex",
         "amsoil",
