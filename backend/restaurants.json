@@ -1401,6 +1401,66 @@
       "note_es": "Vous pouvez commandez en ligne avec code promo pour la première fois.",
       "note_ar": "Vous pouvez commandez en ligne avec code promo pour la première fois.",
       "note_zh": "Vous pouvez commandez en ligne avec code promo pour la première fois."
+    },
+    {
+      "name": "Rôtisserie St-Hubert Rouyn-Noranda",
+      "address": "60 Av. Québec, Rouyn-Noranda, QC J9X 6P9",
+      "cuisine": [
+        "rôtisserie",
+        "comfort-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "poulet",
+        "côtes levée",
+        "soupe à l'oignon gratinée",
+        "La sauvagine fondante",
+        "nachos",
+        "bâtonnets de fromage",
+        "ailes de poulet",
+        "salade",
+        "soupe"
+      ],
+      "phone": "(819) 797-2151",
+      "website": "st-hubert.com",
+      "latitude": 48.242403,
+      "longitude": -79.027655,
+      "reservation": true,
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "16:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "rotisserie-sthubert-rouynnoranda-p"
     }
   ]
 }
