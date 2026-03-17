@@ -388,7 +388,8 @@
       "longitude": -79.6725,
       "rating": 4.6,
       "cuisine": [
-        "comfort-food"
+        "déjeuner",
+        "sandwich & pita"
       ],
       "service": [
         "surplace",
@@ -1025,10 +1026,9 @@
       "phone": "(705) 647-6222",
       "website": "https://www.subway.com",
       "cuisine": [
-        "sandwich"
+        "sandwich & pita"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison"
       ],
@@ -1135,10 +1135,10 @@
       "phone": "(705) 531-2080",
       "website": "https://www.stackedpancakehouse.ca/restaurant/timmins",
       "cuisine": [
-        "comfort-food"
+        "déjeuner",
+        "sandwich & pita"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison"
       ],
@@ -1165,10 +1165,10 @@
       "phone": "(705) 478-7405",
       "website": "https://www.stackedpancakehouse.ca/restaurant/north-bay",
       "cuisine": [
-        "comfort-food"
+        "déjeuner",
+        "sandwich & pita"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison"
       ],
@@ -1243,8 +1243,9 @@
       "name": "Restaurant Maxime",
       "address": "1 Rue Principale N, Notre-Dame-du-Nord, QC J0Z 3B0",
       "cuisine": [
-        "comfort-food",
-        "déjeunner"
+        "déjeunner",
+        "québécois",
+        "grillades"
       ],
       "service": [],
       "keywords": [
@@ -1296,8 +1297,8 @@
       "name": "Rendez-vous des quinze",
       "address": "31 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
       "cuisine": [
-        "comfort-food",
-        "déjeuner"
+        "déjeuner",
+        "québécois"
       ],
       "service": [],
       "keywords": [
