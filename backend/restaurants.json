@@ -1461,6 +1461,59 @@
         }
       },
       "id": "rotisserie-sthubert-rouynnoranda-p"
+    },
+    {
+      "name": "Moulin Noir",
+      "address": "45 Av. Dallaire, Rouyn-Noranda, QC J9X 4S8",
+      "cuisine": [
+        "grillades"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [
+        "carrée d'agneau",
+        "fruit de mer",
+        "steak",
+        "filet mignon",
+        "crevette",
+        "langouste",
+        "côte de boeuf",
+        "volaille",
+        "poulet"
+      ],
+      "phone": "(819) 797-8778",
+      "website": "https://www.moulinnoirsteakhouse.com/",
+      "latitude": 48.24155,
+      "longitude": -79.022074,
+      "note": "Les heures sont sur des horraire séparé dans la journée",
+      "note_en": "Les heures sont sur des horraire séparé dans la journée",
+      "note_es": "Les heures sont sur des horraire séparé dans la journée",
+      "note_ar": "Les heures sont sur des horraire séparé dans la journée",
+      "note_zh": "Les heures sont sur des horraire séparé dans la journée",
+      "horaires": {
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:30"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "16:00",
+          "fermeture": "22:00"
+        }
+      },
+      "id": "moulin-noir-s"
     }
   ]
 }
