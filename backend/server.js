@@ -218,7 +218,7 @@ app.get('/api/restaurants', (req, res) => {
 app.get('/api/restaurants/google', async (req, res) => {
   const lat = parseFloat(req.query.lat) || 47.3340;
   const lng = parseFloat(req.query.lng) || -79.4335;
-  const rayon = Math.min(parseInt(req.query.rayon) || 100, 150);
+  const rayon = Math.min(parseInt(req.query.rayon) || 45, 45);
   const { Client } = require('@googlemaps/google-maps-services-js');
   const gClient = new Client({});
 

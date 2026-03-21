@@ -5991,6 +5991,1356 @@
       "latitude": 48.242471,
       "longitude": -79.025025,
       "id": "vincent-damerique-h"
+    },
+    {
+      "id": "c1774134650278",
+      "slug": "gravite-boardshop-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements",
+        "sport",
+        "loisirs"
+      ],
+      "name": "Gravité Boardshop",
+      "keywords": [
+        "skateboard",
+        "planche à roulettes",
+        "streetwear",
+        "vêtements urbains",
+        "chaussures sport",
+        "Vans",
+        "Volcom",
+        "Element",
+        "DC",
+        "Billabong",
+        "RVCA",
+        "surf",
+        "snow"
+      ],
+      "keywords_en": [
+        "skateboard",
+        "streetwear",
+        "urban clothing",
+        "sport shoes",
+        "Vans",
+        "Volcom",
+        "Element",
+        "DC",
+        "Billabong",
+        "RVCA",
+        "surf",
+        "snow"
+      ],
+      "keywords_es": [
+        "monopatín",
+        "ropa urbana",
+        "zapatillas deportivas",
+        "Vans",
+        "Volcom",
+        "Element",
+        "DC",
+        "Billabong",
+        "RVCA",
+        "surf",
+        "snow"
+      ],
+      "keywords_ar": [
+        "سكيتبورد",
+        "لوح التزلج",
+        "ملابس شبابية",
+        "ملابس حضرية",
+        "أحذية رياضية",
+        "Vans",
+        "Volcom",
+        "Element",
+        "DC",
+        "Billabong",
+        "RVCA",
+        "surf",
+        "snow"
+      ],
+      "keywords_zh": [
+        "滑板",
+        "街头服饰",
+        "都市服饰",
+        "运动鞋",
+        "Vans",
+        "Volcom",
+        "Element",
+        "DC",
+        "Billabong",
+        "RVCA",
+        "surf",
+        "snow"
+      ],
+      "note": "Skateboard, vêtements streetwear, chaussures de marques — Vans, Volcom, Element, DC, Billabong",
+      "rating": 4.5,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.graviteboardshop.ca",
+      "phone": "819-797-6392"
+    },
+    {
+      "id": "c1774134650279",
+      "slug": "claire-france-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Claire France",
+      "keywords": [
+        "vêtements femme",
+        "mode féminine",
+        "boutique",
+        "robe",
+        "chemisier",
+        "pantalon"
+      ],
+      "keywords_en": [
+        "women's clothing",
+        "mode féminine",
+        "boutique",
+        "dress",
+        "blouse",
+        "pants"
+      ],
+      "keywords_es": [
+        "ropa de mujer",
+        "mode féminine",
+        "boutique",
+        "vestido",
+        "blusa",
+        "pantalón"
+      ],
+      "keywords_ar": [
+        "ملابس نسائية",
+        "mode féminine",
+        "بوتيك",
+        "فستان",
+        "بلوزة",
+        "بنطلون"
+      ],
+      "keywords_zh": [
+        "女装",
+        "mode féminine",
+        "精品店",
+        "裙子",
+        "女士衬衫",
+        "裤子"
+      ],
+      "note": "Boutique de vêtements pour femmes",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650280",
+      "slug": "pharmaprix-promenades-cuivre-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "sante"
+      ],
+      "name": "Pharmaprix",
+      "keywords": [
+        "pharmacie",
+        "médicaments",
+        "ordonnance",
+        "vitamines",
+        "cosmétiques",
+        "soins",
+        "beauté",
+        "livraison médicaments"
+      ],
+      "keywords_en": [
+        "pharmacy",
+        "medication",
+        "prescription",
+        "vitamins",
+        "cosmetics",
+        "care products",
+        "beauty",
+        "medication delivery"
+      ],
+      "keywords_es": [
+        "farmacia",
+        "medicamentos",
+        "receta médica",
+        "vitaminas",
+        "cosméticos",
+        "productos de cuidado",
+        "belleza",
+        "entrega de medicamentos"
+      ],
+      "keywords_ar": [
+        "صيدلية",
+        "أدوية",
+        "وصفة طبية",
+        "فيتامينات",
+        "مستحضرات تجميل",
+        "منتجات العناية",
+        "جمال",
+        "توصيل الأدوية"
+      ],
+      "keywords_zh": [
+        "药房",
+        "药品",
+        "处方",
+        "维生素",
+        "化妆品",
+        "护理产品",
+        "美容",
+        "药品配送"
+      ],
+      "note": "Pharmacie — médicaments, cosmétiques, soins de santé, livraison",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.pharmaprix.ca",
+      "phone": "819-797-1422"
+    },
+    {
+      "id": "c1774134650281",
+      "slug": "reitmans-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Reitmans",
+      "keywords": [
+        "vêtements femme",
+        "mode féminine",
+        "robe",
+        "grande taille",
+        "accessoires",
+        "casual",
+        "travail"
+      ],
+      "keywords_en": [
+        "women's clothing",
+        "mode féminine",
+        "dress",
+        "plus size",
+        "accessoires",
+        "casual",
+        "travail"
+      ],
+      "keywords_es": [
+        "ropa de mujer",
+        "mode féminine",
+        "vestido",
+        "tallas grandes",
+        "accessoires",
+        "casual",
+        "travail"
+      ],
+      "keywords_ar": [
+        "ملابس نسائية",
+        "mode féminine",
+        "فستان",
+        "مقاسات كبيرة",
+        "accessoires",
+        "كاجوال",
+        "travail"
+      ],
+      "keywords_zh": [
+        "女装",
+        "mode féminine",
+        "裙子",
+        "大码",
+        "accessoires",
+        "休闲",
+        "travail"
+      ],
+      "note": "Mode féminine canadienne — vêtements, robes, accessoires toutes tailles",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.reitmans.com",
+      "phone": "819-762-0683"
+    },
+    {
+      "id": "c1774134650282",
+      "slug": "colori-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Colori",
+      "keywords": [
+        "vêtements",
+        "mode",
+        "couleurs",
+        "accessoires",
+        "boutique",
+        "tendances"
+      ],
+      "keywords_en": [
+        "clothing",
+        "fashion",
+        "colors",
+        "accessoires",
+        "boutique",
+        "trends"
+      ],
+      "keywords_es": [
+        "ropa",
+        "moda",
+        "colores",
+        "accessoires",
+        "boutique",
+        "tendencias"
+      ],
+      "keywords_ar": [
+        "ملابس",
+        "موضة",
+        "ألوان",
+        "accessoires",
+        "بوتيك",
+        "اتجاهات"
+      ],
+      "keywords_zh": [
+        "服装",
+        "توضة",
+        "颜色",
+        "accessoires",
+        "精品店",
+        "潮流"
+      ],
+      "note": "Boutique de vêtements colorés et accessoires mode",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650283",
+      "slug": "bentley-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Bentley",
+      "keywords": [
+        "sac à main",
+        "sac à dos",
+        "portefeuille",
+        "bagages",
+        "maroquinerie",
+        "cuir",
+        "accessoires"
+      ],
+      "keywords_en": [
+        "handbag",
+        "backpack",
+        "portefeuille",
+        "bagages",
+        "leather goods",
+        "cuir",
+        "accessoires"
+      ],
+      "keywords_es": [
+        "bolso",
+        "mochila",
+        "portefeuille",
+        "bagages",
+        "marroquinería",
+        "cuir",
+        "accessoires"
+      ],
+      "keywords_ar": [
+        "حقيبة يد",
+        "حقيبة ظهر",
+        "portefeuille",
+        "bagages",
+        "جلديات",
+        "cuir",
+        "accessoires"
+      ],
+      "keywords_zh": [
+        "手提包",
+        "双肩包",
+        "portefeuille",
+        "bagages",
+        "皮具",
+        "cuir",
+        "accessoires"
+      ],
+      "note": "Maroquinerie — sacs, portefeuilles, bagages, accessoires cuir",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.bentleyleather.com",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650284",
+      "slug": "delices-en-cavale-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "epicerie"
+      ],
+      "name": "Délices en Cavale",
+      "keywords": [
+        "prêt-à-manger",
+        "restauration rapide",
+        "lunch",
+        "sandwichs",
+        "cuisine rapide",
+        "repas"
+      ],
+      "keywords_en": [
+        "ready-to-eat",
+        "restauration rapide",
+        "lunch",
+        "sandwiches",
+        "cuisine rapide",
+        "repas"
+      ],
+      "keywords_es": [
+        "comida lista",
+        "restauration rapide",
+        "almuerzo",
+        "sándwiches",
+        "cuisine rapide",
+        "repas"
+      ],
+      "keywords_ar": [
+        "وجبات جاهزة",
+        "restauration rapide",
+        "غداء",
+        "شطائر",
+        "cuisine rapide",
+        "repas"
+      ],
+      "keywords_zh": [
+        "即食食品",
+        "restauration rapide",
+        "午餐",
+        "三明治",
+        "cuisine rapide",
+        "repas"
+      ],
+      "note": "Restauration rapide / prêt-à-manger dans le centre commercial",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650285",
+      "slug": "videotron-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "electro"
+      ],
+      "name": "Vidéotron",
+      "keywords": [
+        "internet",
+        "télévision",
+        "cellulaire",
+        "forfait",
+        "Helix",
+        "câble",
+        "wifi",
+        "téléphone mobile"
+      ],
+      "keywords_en": [
+        "internet",
+        "television",
+        "cell phone",
+        "plan",
+        "Helix",
+        "cable",
+        "wifi",
+        "téléphone mobile"
+      ],
+      "keywords_es": [
+        "internet",
+        "televisión",
+        "celular",
+        "plan",
+        "Helix",
+        "cable",
+        "wifi",
+        "téléphone mobile"
+      ],
+      "keywords_ar": [
+        "internet",
+        "تلفزيون",
+        "هاتف خلوي",
+        "باقة",
+        "هيليكس",
+        "كابل",
+        "واي فاي",
+        "téléphone mobile"
+      ],
+      "keywords_zh": [
+        "internet",
+        "电视",
+        "手机",
+        "套餐",
+        "Helix",
+        "电缆",
+        "无线网络",
+        "téléphone mobile"
+      ],
+      "note": "Télécommunications — internet, télévision Helix, forfaits cellulaires, téléphones mobiles",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.videotron.com",
+      "phone": "873-562-1380"
+    },
+    {
+      "id": "c1774134650286",
+      "slug": "eclipse-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Eclipse",
+      "keywords": [
+        "vêtements",
+        "mode",
+        "accessoires",
+        "tendances",
+        "boutique",
+        "femme"
+      ],
+      "keywords_en": [
+        "clothing",
+        "fashion",
+        "accessoires",
+        "trends",
+        "boutique",
+        "women"
+      ],
+      "keywords_es": [
+        "ropa",
+        "moda",
+        "accessoires",
+        "tendencias",
+        "boutique",
+        "mujer"
+      ],
+      "keywords_ar": [
+        "ملابس",
+        "موضة",
+        "accessoires",
+        "اتجاهات",
+        "بوتيك",
+        "نساء"
+      ],
+      "keywords_zh": [
+        "服装",
+        "توضة",
+        "accessoires",
+        "潮流",
+        "精品店",
+        "女士"
+      ],
+      "note": "Boutique mode — vêtements et accessoires tendances",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": "819-797-0264"
+    },
+    {
+      "id": "c1774134650287",
+      "slug": "le-jean-bleu-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Le Jean Bleu",
+      "keywords": [
+        "jeans",
+        "denim",
+        "pantalon",
+        "vêtements décontractés",
+        "casual",
+        "mode"
+      ],
+      "keywords_en": [
+        "jeans",
+        "denim",
+        "pants",
+        "vêtements décontractés",
+        "casual",
+        "fashion"
+      ],
+      "keywords_es": [
+        "jeans",
+        "tela vaquera",
+        "pantalón",
+        "vêtements décontractés",
+        "casual",
+        "moda"
+      ],
+      "keywords_ar": [
+        "جينز",
+        "دنيم",
+        "بنطلون",
+        "vêtements décontractés",
+        "كاجوال",
+        "موضة"
+      ],
+      "keywords_zh": [
+        "牛仔裤",
+        "牛仔布",
+        "裤子",
+        "vêtements décontractés",
+        "休闲",
+        "توضة"
+      ],
+      "note": "Spécialiste jeans et vêtements décontractés",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650288",
+      "slug": "telus-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "electro"
+      ],
+      "name": "TELUS",
+      "keywords": [
+        "cellulaire",
+        "forfait",
+        "téléphone",
+        "internet",
+        "smartphone",
+        "mobile",
+        "5G"
+      ],
+      "keywords_en": [
+        "cell phone",
+        "plan",
+        "phone",
+        "internet",
+        "smartphone",
+        "mobile",
+        "5G"
+      ],
+      "keywords_es": [
+        "celular",
+        "plan",
+        "teléfono",
+        "internet",
+        "smartphone",
+        "móvil",
+        "5G"
+      ],
+      "keywords_ar": [
+        "هاتف خلوي",
+        "باقة",
+        "هاتف",
+        "internet",
+        "هاتف ذكي",
+        "محمول",
+        "5G"
+      ],
+      "keywords_zh": [
+        "手机",
+        "套餐",
+        "电话",
+        "internet",
+        "智能手机",
+        "移动端",
+        "5G"
+      ],
+      "note": "Télécommunications — forfaits cellulaires, téléphones, internet résidentiel",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.telus.com",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650289",
+      "slug": "bell-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "electro"
+      ],
+      "name": "Bell",
+      "keywords": [
+        "cellulaire",
+        "forfait",
+        "téléphone",
+        "internet",
+        "télévision",
+        "smartphone",
+        "mobile"
+      ],
+      "keywords_en": [
+        "cell phone",
+        "plan",
+        "phone",
+        "internet",
+        "television",
+        "smartphone",
+        "mobile"
+      ],
+      "keywords_es": [
+        "celular",
+        "plan",
+        "teléfono",
+        "internet",
+        "televisión",
+        "smartphone",
+        "móvil"
+      ],
+      "keywords_ar": [
+        "هاتف خلوي",
+        "باقة",
+        "هاتف",
+        "internet",
+        "تلفزيون",
+        "هاتف ذكي",
+        "محمول"
+      ],
+      "keywords_zh": [
+        "手机",
+        "套餐",
+        "电话",
+        "internet",
+        "电视",
+        "智能手机",
+        "移动端"
+      ],
+      "note": "Télécommunications — forfaits cellulaires, internet, télévision",
+      "rating": 3.5,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.bell.ca",
+      "phone": "819-762-4481"
+    },
+    {
+      "id": "c1774134650290",
+      "slug": "bijouterie-lingot-dor-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "divers"
+      ],
+      "name": "Bijouterie Lingot d'Or",
+      "keywords": [
+        "bijoux",
+        "or",
+        "argent",
+        "montre",
+        "bague",
+        "collier",
+        "boucles d'oreilles",
+        "bracelet",
+        "diamant"
+      ],
+      "keywords_en": [
+        "jewelry",
+        "gold",
+        "silver",
+        "watch",
+        "ring",
+        "necklace",
+        "earrings",
+        "bracelet",
+        "diamond"
+      ],
+      "keywords_es": [
+        "joyas",
+        "oro",
+        "plata",
+        "reloj",
+        "anillo",
+        "collar",
+        "aretes",
+        "pulsera",
+        "diamante"
+      ],
+      "keywords_ar": [
+        "مجوهرات",
+        "ذهب",
+        "فضة",
+        "ساعة",
+        "خاتم",
+        "قلادة",
+        "أقراط",
+        "سوار",
+        "ماس"
+      ],
+      "keywords_zh": [
+        "珠宝",
+        "黄金",
+        "银",
+        "手表",
+        "戒指",
+        "项链",
+        "耳环",
+        "手镯",
+        "钻石"
+      ],
+      "note": "Bijouterie — or, argent, montres, bagues, colliers, boucles d'oreilles",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650291",
+      "slug": "hart-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "divers"
+      ],
+      "name": "Hart",
+      "keywords": [
+        "bazar",
+        "jouets",
+        "literie",
+        "vêtements",
+        "articles ménagers",
+        "accessoires",
+        "général",
+        "hart"
+      ],
+      "keywords_en": [
+        "general store",
+        "toys",
+        "bedding",
+        "clothing",
+        "articles ménagers",
+        "accessoires",
+        "general",
+        "Hart"
+      ],
+      "keywords_es": [
+        "bazar",
+        "juguetes",
+        "ropa de cama",
+        "ropa",
+        "articles ménagers",
+        "accessoires",
+        "general",
+        "Hart"
+      ],
+      "keywords_ar": [
+        "بازار",
+        "ألعاب أطفال",
+        "مفروشات السرير",
+        "ملابس",
+        "articles ménagers",
+        "accessoires",
+        "عام",
+        "هارت"
+      ],
+      "keywords_zh": [
+        "杂货店",
+        "玩具",
+        "床上用品",
+        "服装",
+        "articles ménagers",
+        "accessoires",
+        "综合",
+        "哈特"
+      ],
+      "note": "Grand magasin général — vêtements, jouets, articles ménagers, literie, bazar",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.hart.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650292",
+      "slug": "ardene-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Ardene",
+      "keywords": [
+        "vêtements femme",
+        "accessoires",
+        "bijoux",
+        "chaussures",
+        "ado",
+        "jeunes",
+        "mode abordable"
+      ],
+      "keywords_en": [
+        "women's clothing",
+        "accessoires",
+        "jewelry",
+        "shoes",
+        "teen",
+        "youth",
+        "affordable fashion"
+      ],
+      "keywords_es": [
+        "ropa de mujer",
+        "accessoires",
+        "joyas",
+        "zapatos",
+        "adolescente",
+        "jóvenes",
+        "moda asequible"
+      ],
+      "keywords_ar": [
+        "ملابس نسائية",
+        "accessoires",
+        "مجوهرات",
+        "أحذية",
+        "مراهق",
+        "شباب",
+        "موضة بأسعار معقولة"
+      ],
+      "keywords_zh": [
+        "女装",
+        "accessoires",
+        "珠宝",
+        "鞋子",
+        "青少年",
+        "年轻人",
+        "平价时尚"
+      ],
+      "note": "Mode femme et ado — vêtements, chaussures, bijoux, accessoires abordables",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.ardene.com",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650293",
+      "slug": "chaussures-pop-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Chaussures POP",
+      "keywords": [
+        "chaussures",
+        "souliers",
+        "bottes",
+        "sandales",
+        "espadrilles",
+        "sport",
+        "homme",
+        "femme",
+        "enfants"
+      ],
+      "keywords_en": [
+        "shoes",
+        "boots",
+        "sandals",
+        "espadrilles",
+        "sport",
+        "men",
+        "women",
+        "children"
+      ],
+      "keywords_es": [
+        "zapatos",
+        "botas",
+        "sandalias",
+        "alpargatas",
+        "deporte",
+        "hombre",
+        "mujer",
+        "niños"
+      ],
+      "keywords_ar": [
+        "أحذية",
+        "صندل",
+        "حذاء قماشي",
+        "رياضة",
+        "رجال",
+        "نساء",
+        "أطفال"
+      ],
+      "keywords_zh": [
+        "鞋子",
+        "靴子",
+        "凉鞋",
+        "帆布鞋",
+        "运动",
+        "男士",
+        "女士",
+        "儿童"
+      ],
+      "note": "Magasin de chaussures — homme, femme, enfants",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650294",
+      "slug": "equipeur-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements",
+        "sport"
+      ],
+      "name": "L'Équipeur",
+      "keywords": [
+        "vêtements travail",
+        "jeans",
+        "bottes sécurité",
+        "bottes travail",
+        "vêtements extérieur",
+        "casual",
+        "homme",
+        "femme"
+      ],
+      "keywords_en": [
+        "work clothes",
+        "jeans",
+        "safety boots",
+        "work boots",
+        "vêtements extérieur",
+        "casual",
+        "men",
+        "women"
+      ],
+      "keywords_es": [
+        "ropa de trabajo",
+        "jeans",
+        "botas de seguridad",
+        "botas de trabajo",
+        "vêtements extérieur",
+        "casual",
+        "hombre",
+        "mujer"
+      ],
+      "keywords_ar": [
+        "ملابس عمل",
+        "جينز",
+        "أحذية أمان",
+        "أحذية عمل",
+        "vêtements extérieur",
+        "كاجوال",
+        "رجال",
+        "نساء"
+      ],
+      "keywords_zh": [
+        "工作服",
+        "牛仔裤",
+        "安全靴",
+        "工作靴",
+        "vêtements extérieur",
+        "休闲",
+        "男士",
+        "女士"
+      ],
+      "note": "Vêtements de travail et casual — jeans, bottes sécurité, vêtements extérieur, homme et femme",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.marks.com",
+      "phone": "819-762-4344"
+    },
+    {
+      "id": "c1774134650295",
+      "slug": "marie-claire-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements"
+      ],
+      "name": "Marie Claire",
+      "keywords": [
+        "vêtements femme",
+        "mode féminine",
+        "élégant",
+        "accessoires",
+        "robe",
+        "boutique"
+      ],
+      "keywords_en": [
+        "women's clothing",
+        "mode féminine",
+        "elegant",
+        "accessoires",
+        "dress",
+        "boutique"
+      ],
+      "keywords_es": [
+        "ropa de mujer",
+        "mode féminine",
+        "elegante",
+        "accessoires",
+        "vestido",
+        "boutique"
+      ],
+      "keywords_ar": [
+        "ملابس نسائية",
+        "mode féminine",
+        "أنيق",
+        "accessoires",
+        "فستان",
+        "بوتيك"
+      ],
+      "keywords_zh": [
+        "女装",
+        "mode féminine",
+        "优雅",
+        "accessoires",
+        "裙子",
+        "精品店"
+      ],
+      "note": "Mode féminine — vêtements, accessoires élégants",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.lespromenadesducuivre.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650296",
+      "slug": "winners-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "vetements",
+        "maison"
+      ],
+      "name": "Winners",
+      "keywords": [
+        "vêtements",
+        "maison",
+        "rabais",
+        "marques",
+        "mode",
+        "décoration",
+        "literie",
+        "accessoires",
+        "escompte"
+      ],
+      "keywords_en": [
+        "clothing",
+        "home",
+        "discount",
+        "brands",
+        "fashion",
+        "decoration",
+        "bedding",
+        "accessoires"
+      ],
+      "keywords_es": [
+        "ropa",
+        "hogar",
+        "descuento",
+        "marcas",
+        "moda",
+        "decoración",
+        "ropa de cama",
+        "accessoires"
+      ],
+      "keywords_ar": [
+        "ملابس",
+        "منزل",
+        "خصم",
+        "ماركات",
+        "موضة",
+        "ديكور",
+        "مفروشات السرير",
+        "accessoires"
+      ],
+      "keywords_zh": [
+        "服装",
+        "家居",
+        "折扣",
+        "品牌",
+        "توضة",
+        "装饰",
+        "床上用品",
+        "accessoires"
+      ],
+      "note": "Vêtements et articles maison à prix réduit — grandes marques escomptées",
+      "rating": 4.5,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.winners.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650297",
+      "slug": "sport-experts-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "sport",
+        "vetements"
+      ],
+      "name": "Sport Experts",
+      "keywords": [
+        "sport",
+        "hockey",
+        "ski",
+        "randonnée",
+        "tennis",
+        "natation",
+        "vélo",
+        "chaussures sport",
+        "vêtements sport",
+        "équipement sportif"
+      ],
+      "keywords_en": [
+        "sport",
+        "hockey",
+        "ski",
+        "hiking",
+        "tennis",
+        "swimming",
+        "bicycle",
+        "sport shoes",
+        "sportswear",
+        "sports equipment"
+      ],
+      "keywords_es": [
+        "deporte",
+        "hockey",
+        "esquí",
+        "senderismo",
+        "tennis",
+        "natación",
+        "bicicleta",
+        "zapatillas deportivas",
+        "ropa deportiva",
+        "equipo deportivo"
+      ],
+      "keywords_ar": [
+        "رياضة",
+        "هوكي",
+        "تزلج",
+        "مشي لمسافات طويلة",
+        "tennis",
+        "سباحة",
+        "دراجة",
+        "أحذية رياضية",
+        "ملابس رياضية",
+        "معدات رياضية"
+      ],
+      "keywords_zh": [
+        "运动",
+        "冰球",
+        "滑雪",
+        "徒步旅行",
+        "tennis",
+        "游泳",
+        "自行车",
+        "运动鞋",
+        "运动服",
+        "运动器材"
+      ],
+      "note": "Articles de sport — vêtements, chaussures, équipements hockey, ski, randonnée, tennis, natation",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.sportexperts.ca",
+      "phone": ""
+    },
+    {
+      "id": "c1774134650298",
+      "slug": "bureau-en-gros-rouyn-noranda",
+      "ville": "Rouyn-Noranda",
+      "categories": [
+        "bureautique",
+        "electro",
+        "informatique"
+      ],
+      "name": "Bureau en Gros",
+      "keywords": [
+        "fournitures bureau",
+        "informatique",
+        "ordinateur",
+        "imprimante",
+        "papeterie",
+        "mobilier bureau",
+        "cartouche",
+        "encre",
+        "impression"
+      ],
+      "keywords_en": [
+        "fournitures bureau",
+        "IT",
+        "computer",
+        "printer",
+        "stationery",
+        "office furniture",
+        "cartridge",
+        "ink",
+        "printing"
+      ],
+      "keywords_es": [
+        "fournitures bureau",
+        "informática",
+        "computadora",
+        "impresora",
+        "papelería",
+        "muebles de oficina",
+        "cartucho",
+        "tinta",
+        "impresión"
+      ],
+      "keywords_ar": [
+        "fournitures bureau",
+        "تقنية معلومات",
+        "كمبيوتر",
+        "طابعة",
+        "قرطاسية",
+        "أثاث مكتبي",
+        "خرطوشة",
+        "حبر",
+        "طباعة"
+      ],
+      "keywords_zh": [
+        "fournitures bureau",
+        "信息技术",
+        "电脑",
+        "打印机",
+        "文具",
+        "办公家具",
+        "墨盒",
+        "墨水",
+        "打印"
+      ],
+      "note": "Fournitures de bureau, informatique, impression — ordinateurs, imprimantes, papeterie, mobilier bureau",
+      "rating": 4.0,
+      "latitude": 48.2426,
+      "longitude": -79.0249,
+      "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
+      "website": "https://www.bureauengros.com",
+      "phone": ""
     }
   ]
 }
