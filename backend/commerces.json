@@ -5946,7 +5946,8 @@
         "shirt",
         "vêtement pour homme",
         "bermuda",
-        "veston"
+        "veston",
+        "cravate"
       ],
       "keywords_en": [
         "shirt",
@@ -5954,7 +5955,8 @@
         "pants",
         "men's clothing",
         "shorts",
-        "blazer"
+        "blazer",
+        "tie"
       ],
       "keywords_es": [
         "camisa",
@@ -5962,7 +5964,8 @@
         "pantalón",
         "ropa para hombre",
         "bermudas",
-        "blazer"
+        "blazer",
+        "corbata"
       ],
       "keywords_ar": [
         "قميص",
@@ -5970,7 +5973,8 @@
         "بنطلون",
         "ملابس رجالية",
         "شورت",
-        "سترة رسمية"
+        "سترة رسمية",
+        "ربطة عنق"
       ],
       "keywords_zh": [
         "衬衫",
@@ -5978,7 +5982,8 @@
         "裤子",
         "男装",
         "百慕大短裤",
-        "西装外套"
+        "西装外套",
+        "领带"
       ],
       "address": "100 Rue du Terminus O, Rouyn-Noranda, QC J9X 6H7",
       "phone": "(819) 762-7426",
