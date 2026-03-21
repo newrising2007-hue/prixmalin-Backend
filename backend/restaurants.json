@@ -1515,6 +1515,184 @@
         }
       },
       "id": "moulin-noir-s"
+    },
+    {
+      "name": "Mr.Sub",
+      "address": "92 Rue Ontario, Notre-Dame-du-Nord, Quebec J0Z 3B0",
+      "cuisine": [
+        "sandwich"
+      ],
+      "service": [],
+      "keywords": [],
+      "phone": "(819) 723-2000",
+      "website": "mrsub.ca",
+      "latitude": 47.593854,
+      "longitude": -79.497519,
+      "horaires": {
+        "lundi": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "05:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "mrsub-b"
+    },
+    {
+      "name": "Subway",
+      "address": "227 Rue Gamble O, Rouyn-Noranda, QC J9X 2R8",
+      "cuisine": [
+        "sandwich"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "phone": "(819) 762-1234",
+      "website": "subway.com",
+      "latitude": 48.239653,
+      "longitude": -79.026894,
+      "horaires": {
+        "lundi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        }
+      },
+      "id": "subway-r"
+    },
+    {
+      "name": "Subway",
+      "address": "703 Av. Larivière, Rouyn-Noranda, QC J9X 4K1",
+      "cuisine": [
+        "sandwich"
+      ],
+      "service": [],
+      "keywords": [],
+      "phone": "(819) 764-6900",
+      "website": "subway.com",
+      "latitude": 48.226685,
+      "longitude": -79.006217,
+      "horaires": {
+        "lundi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "22:00"
+        }
+      },
+      "id": "subway-k"
+    },
+    {
+      "name": "Samiyo Rouyn-Noranda",
+      "address": "100 Rue du Terminus O #51, Rouyn-Noranda, QC J9X 6H7",
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "phone": "(819) 797-3113",
+      "website": "samiyo.ca",
+      "latitude": 48.242631,
+      "longitude": -79.024166,
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "18:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "18:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        }
+      },
+      "id": "samiyo-rouynnoranda-h"
     }
   ]
 }
