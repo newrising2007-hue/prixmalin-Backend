@@ -5616,7 +5616,8 @@
         "montre intelligente",
         "clavier",
         "moniteur pc",
-        "tablette"
+        "tablette",
+        "télévision"
       ],
       "keywords_en": [
         "Iphone",
@@ -5636,7 +5637,8 @@
         "montre intelligente",
         "keyboard",
         "moniteur pc",
-        "tablet"
+        "tablet",
+        "television"
       ],
       "keywords_es": [
         "Iphone",
@@ -5656,7 +5658,8 @@
         "montre intelligente",
         "teclado",
         "moniteur pc",
-        "tableta"
+        "tableta",
+        "televisión"
       ],
       "keywords_ar": [
         "Iphone",
@@ -5676,7 +5679,8 @@
         "montre intelligente",
         "لوحة مفاتيح",
         "moniteur pc",
-        "لوحي"
+        "لوحي",
+        "تلفزيون"
       ],
       "keywords_zh": [
         "Iphone",
@@ -5696,7 +5700,8 @@
         "montre intelligente",
         "键盘",
         "moniteur pc",
-        "平板电脑"
+        "平板电脑",
+        "电视"
       ],
       "address": "100 Rue Du Terminus O Unit 75 Rouyn Noranda, QC J9X 6H7",
       "phone": "(819) 764-5038",
@@ -5928,6 +5933,59 @@
       "latitude": 48.242899,
       "longitude": -79.04323,
       "id": "walmart-supercentre-y"
+    },
+    {
+      "name": "Vincent D'Amérique",
+      "categories": [
+        "vetements"
+      ],
+      "keywords": [
+        "chemise",
+        "veste",
+        "pantalon",
+        "shirt",
+        "vêtement pour homme",
+        "bermuda",
+        "veston"
+      ],
+      "keywords_en": [
+        "shirt",
+        "jacket",
+        "pants",
+        "men's clothing",
+        "shorts",
+        "blazer"
+      ],
+      "keywords_es": [
+        "camisa",
+        "chaqueta",
+        "pantalón",
+        "ropa para hombre",
+        "bermudas",
+        "blazer"
+      ],
+      "keywords_ar": [
+        "قميص",
+        "سترة",
+        "بنطلون",
+        "ملابس رجالية",
+        "شورت",
+        "سترة رسمية"
+      ],
+      "keywords_zh": [
+        "衬衫",
+        "夹克",
+        "裤子",
+        "男装",
+        "百慕大短裤",
+        "西装外套"
+      ],
+      "address": "100 Rue du Terminus O, Rouyn-Noranda, QC J9X 6H7",
+      "phone": "(819) 762-7426",
+      "website": "https://vincentdamerique.com/",
+      "latitude": 48.242471,
+      "longitude": -79.025025,
+      "id": "vincent-damerique-h"
     }
   ]
 }
