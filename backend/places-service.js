@@ -47,7 +47,7 @@ function loadLocalCommerces() {
   }
 }
 
-function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 150) {
+function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 45) {
   const commerces = loadLocalCommerces();
   const lowerQuery = query.toLowerCase()
     .replace(/œ/g, 'oe').replace(/æ/g, 'ae')
