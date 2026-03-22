@@ -1943,168 +1943,6 @@
       ]
     },
     {
-      "id": "walmart-rouyn",
-      "name": "Walmart Rouyn-Noranda",
-      "categories": [
-        "epicerie",
-        "vetements",
-        "electro",
-        "maison",
-        "sante",
-        "animaux",
-        "divers"
-      ],
-      "keywords": [
-        "épicerie",
-        "vêtements",
-        "électronique",
-        "maison",
-        "pharmacie",
-        "animaux",
-        "jouets",
-        "général"
-      ],
-      "address": "Rouyn-Noranda, QC J9X",
-      "phone": null,
-      "website": "https://www.walmart.ca",
-      "latitude": 48.238,
-      "longitude": -79.02,
-      "rating": 3.9,
-      "note": "Grande surface Rouyn-Noranda",
-      "keywords_en": [
-        "grocery",
-        "clothing",
-        "electronics",
-        "home",
-        "pharmacy",
-        "pets",
-        "toys",
-        "general"
-      ],
-      "keywords_es": [
-        "tienda de comestibles",
-        "ropa",
-        "electrónica",
-        "hogar",
-        "farmacia",
-        "mascotas",
-        "juguetes",
-        "general"
-      ],
-      "keywords_ar": [
-        "بقالة",
-        "ملابس",
-        "إلكترونيات",
-        "منزل",
-        "صيدلية",
-        "حيوانات أليفة",
-        "ألعاب أطفال",
-        "عام"
-      ],
-      "keywords_zh": [
-        "杂货店",
-        "服装",
-        "电子产品",
-        "家居",
-        "药房",
-        "宠物",
-        "玩具",
-        "综合"
-      ]
-    },
-    {
-      "id": "best-buy-rouyn",
-      "name": "Best Buy Rouyn-Noranda",
-      "categories": [
-        "electro"
-      ],
-      "keywords": [
-        "téléphone",
-        "cellulaire",
-        "ordinateur",
-        "télévision",
-        "écran",
-        "laptop",
-        "tablette",
-        "casque",
-        "écouteurs",
-        "audio",
-        "imprimante",
-        "caméra",
-        "clavier",
-        "souris"
-      ],
-      "address": "Rouyn-Noranda, QC J9X",
-      "phone": null,
-      "website": "https://www.bestbuy.ca",
-      "latitude": 48.24,
-      "longitude": -79.015,
-      "rating": 4,
-      "note": "Électronique grand public Rouyn-Noranda",
-      "keywords_en": [
-        "phone",
-        "cell phone",
-        "computer",
-        "television",
-        "screen",
-        "laptop",
-        "tablet",
-        "headset",
-        "headphones",
-        "audio",
-        "printer",
-        "camera",
-        "keyboard",
-        "mouse"
-      ],
-      "keywords_es": [
-        "teléfono",
-        "celular",
-        "computadora",
-        "televisión",
-        "pantalla",
-        "portátil",
-        "tableta",
-        "auriculares",
-        "audio",
-        "impresora",
-        "cámara",
-        "teclado",
-        "ratón"
-      ],
-      "keywords_ar": [
-        "هاتف",
-        "هاتف خلوي",
-        "كمبيوتر",
-        "تلفزيون",
-        "شاشة",
-        "حاسوب محمول",
-        "لوحي",
-        "سماعة رأس",
-        "سماعات",
-        "صوت",
-        "طابعة",
-        "كاميرا",
-        "لوحة مفاتيح",
-        "فأرة"
-      ],
-      "keywords_zh": [
-        "电话",
-        "手机",
-        "电脑",
-        "电视",
-        "屏幕",
-        "笔记本电脑",
-        "平板电脑",
-        "耳机",
-        "音频",
-        "打印机",
-        "相机",
-        "键盘",
-        "鼠标"
-      ]
-    },
-    {
       "id": "sports-experts-rouyn",
       "name": "Sports Experts Rouyn-Noranda",
       "categories": [
@@ -6130,7 +5968,7 @@
         "裤子"
       ],
       "note": "Boutique de vêtements pour femmes",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6196,7 +6034,7 @@
         "药品配送"
       ],
       "note": "Pharmacie — médicaments, cosmétiques, soins de santé, livraison",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6257,7 +6095,7 @@
         "travail"
       ],
       "note": "Mode féminine canadienne — vêtements, robes, accessoires toutes tailles",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6313,7 +6151,7 @@
         "潮流"
       ],
       "note": "Boutique de vêtements colorés et accessoires mode",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6374,7 +6212,7 @@
         "accessoires"
       ],
       "note": "Maroquinerie — sacs, portefeuilles, bagages, accessoires cuir",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6430,7 +6268,7 @@
         "repas"
       ],
       "note": "Restauration rapide / prêt-à-manger dans le centre commercial",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6496,7 +6334,7 @@
         "téléphone mobile"
       ],
       "note": "Télécommunications — internet, télévision Helix, forfaits cellulaires, téléphones mobiles",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6552,7 +6390,7 @@
         "女士"
       ],
       "note": "Boutique mode — vêtements et accessoires tendances",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6608,7 +6446,7 @@
         "توضة"
       ],
       "note": "Spécialiste jeans et vêtements décontractés",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6669,7 +6507,7 @@
         "5G"
       ],
       "note": "Télécommunications — forfaits cellulaires, téléphones, internet résidentiel",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6801,7 +6639,7 @@
         "钻石"
       ],
       "note": "Bijouterie — or, argent, montres, bagues, colliers, boucles d'oreilles",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6867,7 +6705,7 @@
         "哈特"
       ],
       "note": "Grand magasin général — vêtements, jouets, articles ménagers, literie, bazar",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6928,7 +6766,7 @@
         "平价时尚"
       ],
       "note": "Mode femme et ado — vêtements, chaussures, bijoux, accessoires abordables",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -6994,7 +6832,7 @@
         "儿童"
       ],
       "note": "Magasin de chaussures — homme, femme, enfants",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -7061,7 +6899,7 @@
         "女士"
       ],
       "note": "Vêtements de travail et casual — jeans, bottes sécurité, vêtements extérieur, homme et femme",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -7117,7 +6955,7 @@
         "精品店"
       ],
       "note": "Mode féminine — vêtements, accessoires élégants",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -7262,7 +7100,7 @@
         "运动器材"
       ],
       "note": "Articles de sport — vêtements, chaussures, équipements hockey, ski, randonnée, tennis, natation",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
@@ -7335,7 +7173,7 @@
         "打印"
       ],
       "note": "Fournitures de bureau, informatique, impression — ordinateurs, imprimantes, papeterie, mobilier bureau",
-      "rating": 4.0,
+      "rating": 4,
       "latitude": 48.2426,
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
