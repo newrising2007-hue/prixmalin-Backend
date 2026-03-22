@@ -6715,7 +6715,8 @@
         "collier",
         "boucles d'oreilles",
         "bracelet",
-        "diamant"
+        "diamant",
+        "alliance"
       ],
       "keywords_en": [
         "jewelry",
@@ -6726,7 +6727,8 @@
         "necklace",
         "earrings",
         "bracelet",
-        "diamond"
+        "diamond",
+        "wedding ring"
       ],
       "keywords_es": [
         "joyas",
@@ -6737,7 +6739,8 @@
         "collar",
         "aretes",
         "pulsera",
-        "diamante"
+        "diamante",
+        "alianza"
       ],
       "keywords_ar": [
         "مجوهرات",
@@ -6748,7 +6751,8 @@
         "قلادة",
         "أقراط",
         "سوار",
-        "ماس"
+        "ماس",
+        "خاتم زواج"
       ],
       "keywords_zh": [
         "珠宝",
@@ -6759,7 +6763,8 @@
         "项链",
         "耳环",
         "手镯",
-        "钻石"
+        "钻石",
+        "结婚戒指"
       ],
       "note": "Bijouterie — or, argent, montres, bagues, colliers, boucles d'oreilles",
       "rating": 4,
