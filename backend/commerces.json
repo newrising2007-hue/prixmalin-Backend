@@ -2529,13 +2529,13 @@
       "id": "walmart-new-liskeard",
       "name": "Walmart New Liskeard",
       "categories": [
-        "epicerie",
-        "vetements",
+        "animaux",
+        "divers",
         "electro",
+        "epicerie",
         "maison",
         "sante",
-        "animaux",
-        "divers"
+        "vetements"
       ],
       "keywords": [
         "épicerie",
@@ -2551,7 +2551,9 @@
         "quincaillerie",
         "sport",
         "bébé",
-        "couches"
+        "couches",
+        "android",
+        "iphone"
       ],
       "address": "133 Trans-Canada Hwy 11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-6344",
@@ -2573,7 +2575,9 @@
         "hardware store",
         "sport",
         "baby",
-        "diapers"
+        "diapers",
+        "Android",
+        "iPhone"
       ],
       "keywords_es": [
         "tienda de comestibles",
@@ -2589,7 +2593,9 @@
         "ferretería",
         "deporte",
         "bebé",
-        "pañales"
+        "pañales",
+        "Android",
+        "iPhone"
       ],
       "keywords_ar": [
         "بقالة",
@@ -2605,7 +2611,9 @@
         "متجر أدوات",
         "رياضة",
         "طفل",
-        "حفاضات"
+        "حفاضات",
+        "أندرويد",
+        "آيفون"
       ],
       "keywords_zh": [
         "杂货店",
@@ -2621,7 +2629,9 @@
         "五金店",
         "运动",
         "婴儿",
-        "尿布"
+        "尿布",
+        "安卓",
+        "苹果手机"
       ]
     },
     {
@@ -5455,10 +5465,13 @@
         "clavier",
         "moniteur pc",
         "tablette",
-        "télévision"
+        "télévision",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_en": [
-        "Iphone",
+        "iPhone",
         "andoid",
         "motorola",
         "haut parleur",
@@ -5476,10 +5489,13 @@
         "keyboard",
         "moniteur pc",
         "tablet",
-        "television"
+        "television",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_es": [
-        "Iphone",
+        "iPhone",
         "andoid",
         "motorola",
         "haut parleur",
@@ -5497,10 +5513,13 @@
         "teclado",
         "moniteur pc",
         "tableta",
-        "televisión"
+        "televisión",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_ar": [
-        "Iphone",
+        "آيفون",
         "andoid",
         "motorola",
         "haut parleur",
@@ -5518,10 +5537,13 @@
         "لوحة مفاتيح",
         "moniteur pc",
         "لوحي",
-        "تلفزيون"
+        "تلفزيون",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_zh": [
-        "Iphone",
+        "苹果手机",
         "andoid",
         "motorola",
         "haut parleur",
@@ -5539,7 +5561,10 @@
         "键盘",
         "moniteur pc",
         "平板电脑",
-        "电视"
+        "电视",
+        "s24",
+        "s25",
+        "s26"
       ],
       "address": "100 Rue Du Terminus O Unit 75 Rouyn Noranda, QC J9X 6H7",
       "phone": "(819) 764-5038",
@@ -5699,7 +5724,9 @@
         "cellulaire",
         "mobile",
         "vélo",
-        "jardinage"
+        "jardinage",
+        "android",
+        "iphone"
       ],
       "keywords_en": [
         "outil électrique",
@@ -5715,7 +5742,9 @@
         "cell phone",
         "mobile",
         "bicycle",
-        "gardening"
+        "gardening",
+        "Android",
+        "iPhone"
       ],
       "keywords_es": [
         "outil électrique",
@@ -5731,7 +5760,9 @@
         "celular",
         "móvil",
         "bicicleta",
-        "jardinería"
+        "jardinería",
+        "Android",
+        "iPhone"
       ],
       "keywords_ar": [
         "outil électrique",
@@ -5747,7 +5778,9 @@
         "هاتف خلوي",
         "محمول",
         "دراجة",
-        "بستنة"
+        "بستنة",
+        "أندرويد",
+        "آيفون"
       ],
       "keywords_zh": [
         "outil électrique",
@@ -5763,7 +5796,9 @@
         "手机",
         "移动端",
         "自行车",
-        "园艺"
+        "园艺",
+        "安卓",
+        "苹果手机"
       ],
       "address": "275 Boul Rideau, Rouyn-Noranda, QC J9X 5Y6",
       "phone": "(819) 762-2445",
@@ -6055,12 +6090,11 @@
         "robe",
         "grande taille",
         "accessoires",
-        "casual",
-        "travail"
+        "casual"
       ],
       "keywords_en": [
         "women's clothing",
-        "mode féminine",
+        "women's fashion",
         "dress",
         "plus size",
         "accessoires",
@@ -6069,28 +6103,27 @@
       ],
       "keywords_es": [
         "ropa de mujer",
-        "mode féminine",
+        "moda femenina",
         "vestido",
         "tallas grandes",
-        "accessoires",
+        "accesorios",
         "casual",
         "travail"
       ],
       "keywords_ar": [
         "ملابس نسائية",
-        "mode féminine",
+        "موضة نسائية",
         "فستان",
         "مقاسات كبيرة",
-        "accessoires",
+        "إكسسوارات",
         "كاجوال",
         "travail"
       ],
       "keywords_zh": [
         "女装",
-        "mode féminine",
         "裙子",
         "大码",
-        "accessoires",
+        "配件",
         "休闲",
         "travail"
       ],
@@ -6291,7 +6324,13 @@
         "Helix",
         "câble",
         "wifi",
-        "téléphone mobile"
+        "téléphone mobile",
+        "iphone",
+        "android",
+        "motorola",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_en": [
         "internet",
@@ -6301,7 +6340,13 @@
         "Helix",
         "cable",
         "wifi",
-        "téléphone mobile"
+        "téléphone mobile",
+        "iPhone",
+        "Android",
+        "motorola",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_es": [
         "internet",
@@ -6311,7 +6356,13 @@
         "Helix",
         "cable",
         "wifi",
-        "téléphone mobile"
+        "téléphone mobile",
+        "iPhone",
+        "Android",
+        "motorola",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_ar": [
         "internet",
@@ -6321,7 +6372,13 @@
         "هيليكس",
         "كابل",
         "واي فاي",
-        "téléphone mobile"
+        "téléphone mobile",
+        "آيفون",
+        "أندرويد",
+        "motorola",
+        "s24",
+        "s25",
+        "s26"
       ],
       "keywords_zh": [
         "internet",
@@ -6331,7 +6388,13 @@
         "Helix",
         "电缆",
         "无线网络",
-        "téléphone mobile"
+        "téléphone mobile",
+        "苹果手机",
+        "安卓",
+        "motorola",
+        "s24",
+        "s25",
+        "s26"
       ],
       "note": "Télécommunications — internet, télévision Helix, forfaits cellulaires, téléphones mobiles",
       "rating": 4,
@@ -6468,7 +6531,13 @@
         "internet",
         "smartphone",
         "mobile",
-        "5G"
+        "5G",
+        "s25",
+        "s24",
+        "s26",
+        "iphone",
+        "android",
+        "motorola"
       ],
       "keywords_en": [
         "cell phone",
@@ -6477,7 +6546,13 @@
         "internet",
         "smartphone",
         "mobile",
-        "5G"
+        "5G",
+        "s25",
+        "s24",
+        "s26",
+        "iPhone",
+        "Android",
+        "motorola"
       ],
       "keywords_es": [
         "celular",
@@ -6486,7 +6561,13 @@
         "internet",
         "smartphone",
         "móvil",
-        "5G"
+        "5G",
+        "s25",
+        "s24",
+        "s26",
+        "iPhone",
+        "Android",
+        "motorola"
       ],
       "keywords_ar": [
         "هاتف خلوي",
@@ -6495,7 +6576,13 @@
         "internet",
         "هاتف ذكي",
         "محمول",
-        "5G"
+        "5G",
+        "s25",
+        "s24",
+        "s26",
+        "آيفون",
+        "أندرويد",
+        "motorola"
       ],
       "keywords_zh": [
         "手机",
@@ -6504,7 +6591,13 @@
         "internet",
         "智能手机",
         "移动端",
-        "5G"
+        "5G",
+        "s25",
+        "s24",
+        "s26",
+        "苹果手机",
+        "安卓",
+        "motorola"
       ],
       "note": "Télécommunications — forfaits cellulaires, téléphones, internet résidentiel",
       "rating": 4,
@@ -6529,7 +6622,13 @@
         "internet",
         "télévision",
         "smartphone",
-        "mobile"
+        "mobile",
+        "s24",
+        "s25",
+        "s26",
+        "android",
+        "motorola",
+        "iphone"
       ],
       "keywords_en": [
         "cell phone",
@@ -6538,7 +6637,13 @@
         "internet",
         "television",
         "smartphone",
-        "mobile"
+        "mobile",
+        "s24",
+        "s25",
+        "s26",
+        "Android",
+        "motorola",
+        "iPhone"
       ],
       "keywords_es": [
         "celular",
@@ -6547,7 +6652,13 @@
         "internet",
         "televisión",
         "smartphone",
-        "móvil"
+        "móvil",
+        "s24",
+        "s25",
+        "s26",
+        "Android",
+        "motorola",
+        "iPhone"
       ],
       "keywords_ar": [
         "هاتف خلوي",
@@ -6556,7 +6667,13 @@
         "internet",
         "تلفزيون",
         "هاتف ذكي",
-        "محمول"
+        "محمول",
+        "s24",
+        "s25",
+        "s26",
+        "أندرويد",
+        "motorola",
+        "آيفون"
       ],
       "keywords_zh": [
         "手机",
@@ -6565,7 +6682,13 @@
         "internet",
         "电视",
         "智能手机",
-        "移动端"
+        "移动端",
+        "s24",
+        "s25",
+        "s26",
+        "安卓",
+        "motorola",
+        "苹果手机"
       ],
       "note": "Télécommunications — forfaits cellulaires, internet, télévision",
       "rating": 3.5,
@@ -6967,8 +7090,8 @@
       "slug": "winners-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
-        "vetements",
-        "maison"
+        "maison",
+        "vetements"
       ],
       "name": "Winners",
       "keywords": [
@@ -7000,7 +7123,7 @@
         "moda",
         "decoración",
         "ropa de cama",
-        "accessoires"
+        "accesorios"
       ],
       "keywords_ar": [
         "ملابس",
@@ -7010,7 +7133,7 @@
         "موضة",
         "ديكور",
         "مفروشات السرير",
-        "accessoires"
+        "إكسسوارات"
       ],
       "keywords_zh": [
         "服装",
@@ -7020,7 +7143,7 @@
         "توضة",
         "装饰",
         "床上用品",
-        "accessoires"
+        "配件"
       ],
       "note": "Vêtements et articles maison à prix réduit — grandes marques escomptées",
       "rating": 4.5,
@@ -7126,10 +7249,16 @@
         "mobilier bureau",
         "cartouche",
         "encre",
-        "impression"
+        "impression",
+        "android",
+        "iphone",
+        "s24",
+        "s25",
+        "s26",
+        "camera"
       ],
       "keywords_en": [
-        "fournitures bureau",
+        "office supplies",
         "IT",
         "computer",
         "printer",
@@ -7137,10 +7266,16 @@
         "office furniture",
         "cartridge",
         "ink",
-        "printing"
+        "printing",
+        "Android",
+        "iPhone",
+        "s24",
+        "s25",
+        "s26",
+        "camera"
       ],
       "keywords_es": [
-        "fournitures bureau",
+        "artículos de oficina",
         "informática",
         "computadora",
         "impresora",
@@ -7148,10 +7283,16 @@
         "muebles de oficina",
         "cartucho",
         "tinta",
-        "impresión"
+        "impresión",
+        "Android",
+        "iPhone",
+        "s24",
+        "s25",
+        "s26",
+        "cámara"
       ],
       "keywords_ar": [
-        "fournitures bureau",
+        "لوازم مكتبية",
         "تقنية معلومات",
         "كمبيوتر",
         "طابعة",
@@ -7159,10 +7300,16 @@
         "أثاث مكتبي",
         "خرطوشة",
         "حبر",
-        "طباعة"
+        "طباعة",
+        "أندرويد",
+        "آيفون",
+        "s24",
+        "s25",
+        "s26",
+        "كاميرا"
       ],
       "keywords_zh": [
-        "fournitures bureau",
+        "办公用品",
         "信息技术",
         "电脑",
         "打印机",
@@ -7170,7 +7317,13 @@
         "办公家具",
         "墨盒",
         "墨水",
-        "打印"
+        "打印",
+        "安卓",
+        "苹果手机",
+        "s24",
+        "s25",
+        "s26",
+        "相机"
       ],
       "note": "Fournitures de bureau, informatique, impression — ordinateurs, imprimantes, papeterie, mobilier bureau",
       "rating": 4,
