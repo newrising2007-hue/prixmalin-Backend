@@ -795,7 +795,7 @@
         "forfait",
         "plan cellulaire",
         "telephone",
-        "ecouteur",
+        "écouteur",
         "earbuds",
         "headphones",
         "JBL",
@@ -808,7 +808,12 @@
         "Iphone",
         "android",
         "motorola",
-        "jbl"
+        "jbl",
+        "séchoir à cheveux",
+        "clipper à cheveux",
+        "rasoir pour homme",
+        "rasoir pour femme",
+        "rasoir à barbe"
       ],
       "address": "26K Rue des Oblats Nord, Ville-Marie, QC J9V 1J5",
       "phone": "(819) 629-3444",
@@ -830,8 +835,6 @@
         "Bell",
         "satellite",
         "home theater",
-        "sewing machine",
-        "vacuum cleaner",
         "GPS",
         "Samsung",
         "Panasonic",
@@ -861,9 +864,13 @@
         "wireless",
         "speaker",
         "sound",
-        "Iphone",
         "motorola",
-        "jbl"
+        "jbl",
+        "séchoir à cheveux",
+        "clipper à cheveux",
+        "rasoir pour homme",
+        "rasoir pour femme",
+        "rasoir à barbe"
       ],
       "keywords_es": [
         "teléfono",
@@ -878,8 +885,6 @@
         "Bell",
         "satélite",
         "cine en casa",
-        "máquina de coser",
-        "aspiradora",
         "GPS",
         "cámara fotográfica",
         "Samsung",
@@ -908,9 +913,13 @@
         "inalámbrico",
         "altavoz",
         "sonido",
-        "Iphone",
         "motorola",
-        "jbl"
+        "jbl",
+        "séchoir à cheveux",
+        "clipper à cheveux",
+        "rasoir pour homme",
+        "rasoir pour femme",
+        "rasoir à barbe"
       ],
       "keywords_ar": [
         "هاتف",
@@ -925,8 +934,6 @@
         "Bell",
         "قمر صناعي",
         "سينما منزلية",
-        "آلة خياطة",
-        "مكنسة كهربائية",
         "نظام تحديد المواقع",
         "كاميرا تصوير",
         "Samsung",
@@ -954,9 +961,13 @@
         "بلوتوث",
         "لاسلكي",
         "مكبر صوت",
-        "Iphone",
         "motorola",
-        "jbl"
+        "jbl",
+        "séchoir à cheveux",
+        "clipper à cheveux",
+        "rasoir pour homme",
+        "rasoir pour femme",
+        "rasoir à barbe"
       ],
       "keywords_zh": [
         "电话",
@@ -971,8 +982,6 @@
         "Bell",
         "卫星",
         "家庭影院",
-        "缝纫机",
-        "吸尘器",
         "GPS",
         "照相机",
         "Samsung",
@@ -1001,9 +1010,13 @@
         "无线",
         "扬声器",
         "声音",
-        "Iphone",
         "motorola",
-        "jbl"
+        "jbl",
+        "séchoir à cheveux",
+        "clipper à cheveux",
+        "rasoir pour homme",
+        "rasoir pour femme",
+        "rasoir à barbe"
       ]
     },
     {
