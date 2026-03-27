@@ -1693,6 +1693,147 @@
         }
       },
       "id": "samiyo-rouynnoranda-h"
+    },
+    {
+      "name": "Pizza Pizza",
+      "address": "210 Boul Rideau, Rouyn-Noranda, QC J9X 1P1",
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(819) 762-1111",
+      "website": "pizzapizza.ca",
+      "latitude": 48.241831,
+      "longitude": -79.037581,
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "id": "pizza-pizza-p"
+    },
+    {
+      "name": "241 Pizza",
+      "address": "361 Main St, Haileybury, ON P0J 1K0",
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(705) 630-0241",
+      "note": "Vegan Option",
+      "note_en": "Option Végétarien",
+      "note_es": "Option Végétarien",
+      "note_ar": "Option Végétarien",
+      "note_zh": "Option Végétarien",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        }
+      },
+      "id": "241-pizza-k"
+    },
+    {
+      "name": "Topper's Pizza",
+      "address": "233 Armstrong St N, Temiskaming Shores, ON P0J 1P0",
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(866) 454-6644",
+      "website": "toppers-pizza-new-liskeard-store048.securebrygid.com",
+      "latitude": 47.515062,
+      "longitude": -79.671175,
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        }
+      },
+      "id": "toppers-pizza-p"
     }
   ]
 }
