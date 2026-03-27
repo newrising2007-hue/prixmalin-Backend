@@ -7459,6 +7459,69 @@
       "latitude": 48.244189,
       "longitude": -79.0437,
       "id": "home-hardware-y"
+    },
+    {
+      "name": "L'Intro Musique Inc.",
+      "categories": [
+        "divers",
+        "electro"
+      ],
+      "keywords": [
+        "téléviseur",
+        "casque",
+        "guitare",
+        "haut-parleur",
+        "manette Xbox",
+        "manette de jeu",
+        "cd musique",
+        "meuble de tv",
+        "chaine stereo"
+      ],
+      "keywords_en": [
+        "television",
+        "headset",
+        "guitar",
+        "speaker",
+        "xbox controller",
+        "game controller",
+        "music cd",
+        "tv stand",
+        "stereo system"
+      ],
+      "keywords_es": [
+        "televisor",
+        "auriculares",
+        "guitarra",
+        "altavoz",
+        "mando xbox",
+        "cd de música",
+        "mueble de tv",
+        "sistema estéreo"
+      ],
+      "keywords_ar": [
+        "تلفزيون",
+        "سماعة رأس",
+        "غيتار",
+        "مكبر صوت",
+        "يد تحكم xbox",
+        "سيدي موسيقى",
+        "طاولة تلفزيون"
+      ],
+      "keywords_zh": [
+        "电视机",
+        "耳机",
+        "吉他",
+        "扬声器",
+        "Xbox控制器",
+        "音乐CD",
+        "电视柜",
+        "音响系统"
+      ],
+      "address": "11 Rue St-Anne, Ville-Marie, QC, Canada, J9V 2B6",
+      "phone": "(819) 622-1132",
+      "latitude": 47.33045,
+      "longitude": -79.441914,
+      "id": "lintro-musique-inc-b"
     }
   ]
 }
