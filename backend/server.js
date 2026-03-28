@@ -165,6 +165,7 @@ app.post('/api/search-prices', async (req, res) => {
         type: 'local_with_website',
         rating: store.rating,
         verified: store.fromLocalDB || false,
+        partner: store.partner || null,
         image_url: getBrandLogo(query, store.brands || []),
       })),
       ...withoutWebsite.map(store => ({
@@ -180,6 +181,7 @@ app.post('/api/search-prices', async (req, res) => {
         type: 'local_no_website',
         rating: store.rating,
         verified: store.fromLocalDB || false,
+        partner: store.partner || null,
         image_url: getBrandLogo(query, store.brands || []),
       })),
       ...onlineResults,
