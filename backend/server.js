@@ -290,6 +290,30 @@ app.get('/api/restaurants/google', async (req, res) => {
   res.json({ restaurants: combined });
 });
 
+
+app.get('/api/partenaires', (req, res) => {
+  try {
+    const fs = require('fs');
+    const path = require('path');
+    const dir = '/mnt/sauvegardes/Important/Projets/PrixMalin/prixmalin-web/data/partenaires';
+    const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+    const partenaires = files.map(file => {
+      const data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf-8'));
+      return {
+        slug: data.slug,
+        nom: data.nom,
+        slogan: data.slogan,
+        couleur: data.couleurs?.primaire || '#2eaabf',
+        ville: data.contact?.adresse?.split(',')[1]?.trim() || '',
+        url: `https://prixmalin.ca/fr/partenaires/${data.slug}`,
+        logo_url: `https://prixmalin.ca/partenaires/${data.slug}/logo.png`,
+      };
+    });
+    res.json({ success: true, partenaires });
+  } catch(e) {
+    res.status(500).json({ error: e.message });
+  }
+});
 app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'PrixMalin Backend v5 - Affiliation' });
 });
