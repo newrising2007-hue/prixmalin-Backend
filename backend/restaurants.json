@@ -2,7 +2,7 @@
   "restaurants": [
     {
       "id": "gaufrerie-villemarie",
-      "name": "Gaufrerie",
+      "name": "La Gaufrière",
       "address": "18 Rue Ste Anne, Ville-Marie, QC J9V 2B7",
       "phone": "(819) 629-3999",
       "latitude": 47.3305,
@@ -50,8 +50,13 @@
           "fermeture": "14:30"
         }
       },
-      "note": "Populaire pour le déjeuner — arriver tôt ou appeler pour réserver",
-      "source": "prixmalin"
+      "note": "Populaire pour le déjeuner — Offre les dîners",
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/profile.php?id=100057409242701",
+      "note_en": "Popular for lunch - Offers dinners",
+      "note_es": "Popular para el almuerzo - Ofrece cenas",
+      "note_ar": "مُفضّل لغداء اليوم - يقدم العشاء",
+      "note_zh": "午餐时段受欢迎-提供晚餐"
     },
     {
       "id": "la-gauloise-villemarie",
@@ -261,7 +266,12 @@
         }
       },
       "note": "Petit café artisanal — heures limitées mais café exceptionnel",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "note_en": "Small artisan coffee shop — limited hours but exceptional coffee",
+      "note_es": "Pequeño bar de café artesanal — horas limitadas pero café excepcional",
+      "note_ar": "قهوة يدوية صغيرة — ساعات محدودة ولكن قهوة ممتازة",
+      "note_zh": "小型手工咖啡店——营业时间有限，但咖啡非凡",
+      "website": "https://www.facebook.com/Cafeier.Boustifo"
     },
     {
       "id": "28-on-the-lake-newliskeard",
@@ -321,7 +331,12 @@
         }
       },
       "note": "Belle vue sur le lac Témiscamingue — patio très apprécié l'été",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "website": "https://28onthelake.ca/",
+      "note_en": "Beautiful view of the Temiskaming Lake - very appreciated patio in summer",
+      "note_es": "Vista hermosa del lago Temiskaming - patio muy apreciado en verano",
+      "note_ar": "المنظر الجميل على بحيرة تيميسك밍 - ممشى حديقة مُقدر جداً في الصيف",
+      "note_zh": "_temiskaming湖美景_ - 夏季非常受欢迎的露台"
     },
     {
       "id": "tap-that-kitchen-newliskeard",
@@ -381,7 +396,12 @@
         }
       },
       "note": "Cuisine de qualité exceptionnelle pour la région — très apprécié",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "website": "https://www.tapthatbar.ca/",
+      "note_en": "Exceptional quality cuisine for the region - highly appreciated",
+      "note_es": "Cocina de calidad excepcional para la región - altamente apreciado",
+      "note_ar": "طهيuality ممتازة للمنطقة - مرغوب فيه بشدة",
+      "note_zh": "地区质量卓越的烹饪-高度赞赏"
     },
     {
       "id": "stacked-pancake-newliskeard",
@@ -601,7 +621,12 @@
         }
       },
       "note": "Cuisine du Kerala authentique — halal, végétalien disponible",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/currynaadu/",
+      "note_en": "Authentic Kerala cuisine — Halal and vegan options available",
+      "note_es": "Cocina auténtica de Kerala — opciones halal y vegetarianas disponibles",
+      "note_ar": "الطبخ الكيرلاي الأصلي — متاح خميس وhalal",
+      "note_zh": "正宗喀拉拉菜——提供清真和素食选项"
     },
     {
       "id": "vivs-kitchen-newliskeard",
@@ -653,7 +678,12 @@
         }
       },
       "note": "Petit bijou — repas maison congelés, boulangerie artisanale, traiteur",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/p/Vivs-Kitchen-61556416947076/",
+      "note_en": "Little gem - homemade frozen meals, artisan bakery, caterer",
+      "note_es": "Menudillo - comidas caseras congeladas, panadería artesanal, cocinero",
+      "note_ar": "خاتم صغير - وجبات منزلية مجمدة ، بakeshop يدوية ، مقدم للأفراح",
+      "note_zh": "小宝石 - 家制冷冻餐，手工艺面包店，餐饮服务"
     },
     {
       "id": "alis-grill-newliskeard",
@@ -836,7 +866,10 @@
       "cuisine": [
         "bar"
       ],
-      "service": [],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
       "keywords": [],
       "phone": "(819) 723-2131",
       "website": "https://www.motelcoutu.ca/",
@@ -860,7 +893,11 @@
       },
       "id": "motel-coutu-b",
       "latitude": 47.597557,
-      "longitude": -79.481506
+      "longitude": -79.481506,
+      "note_en": "Simple Menu and everything is excellent. It's worth a visit.",
+      "note_es": "Menú sencillo y todo es excelente. Vale la pena una visita.",
+      "note_ar": "القائمة البسيطة والكل ممتاز. يستحق زيارتك.",
+      "note_zh": "简单菜单，一切都很棒。值得一访。"
     },
     {
       "name": "Poulet Frit Chester",
@@ -944,7 +981,6 @@
         "cafe"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison",
         "drive"
@@ -976,7 +1012,6 @@
         "fast-food"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison",
         "drive"
@@ -1007,7 +1042,6 @@
         "fast-food"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison",
         "drive"
@@ -1064,7 +1098,6 @@
         "pizza"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison"
       ],
@@ -1091,7 +1124,6 @@
         "pizza"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison"
       ],
@@ -1118,7 +1150,6 @@
         "mexicain"
       ],
       "service": [
-        "sur-place",
         "takeout",
         "livraison"
       ],
