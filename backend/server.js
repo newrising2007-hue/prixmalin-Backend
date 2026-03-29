@@ -221,6 +221,7 @@ app.get('/api/restaurants/google', async (req, res) => {
   const lat = parseFloat(req.query.lat) || 47.3340;
   const lng = parseFloat(req.query.lng) || -79.4335;
   const rayon = Math.min(parseInt(req.query.rayon) || 45, 45);
+  const lang = ['en','es','ar','zh'].includes(req.query.lang) ? req.query.lang : 'fr';
   const { Client } = require('@googlemaps/google-maps-services-js');
   const gClient = new Client({});
 
@@ -237,7 +238,10 @@ app.get('/api/restaurants/google', async (req, res) => {
       if (!r.latitude || !r.longitude) return false;
       return calcDistKm(lat, lng, r.latitude, r.longitude) <= rayon;
     })
-    .map(r => ({ ...r, source: 'prixmalin' }));
+    .map(r => {
+      const note = (lang !== 'fr' && r['note_' + lang]) ? r['note_' + lang] : (r.note || '');
+      return { ...r, note, source: 'prixmalin' };
+    });
 
   // 2. Google Places
   let googleResults = [];
