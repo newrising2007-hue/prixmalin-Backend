@@ -1834,6 +1834,54 @@
         }
       },
       "id": "toppers-pizza-p"
+    },
+    {
+      "name": "Poulet Royal Saint-Lin",
+      "address": "935 12th Ave, Saint-Lin-Laurentides, Quebec J5M 2W1",
+      "cuisine": [
+        "rôtisserie"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(450) 543-5366",
+      "website": "https://pouletroyal.com/fr",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "id": "poulet-royal-saintlin-w",
+      "latitude": 45.85284,
+      "longitude": -73.75666
     }
   ]
 }
