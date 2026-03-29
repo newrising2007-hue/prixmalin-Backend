@@ -103,7 +103,11 @@
         }
       },
       "note": "Meilleure poutine de la région — sauce maison secrète. Cash seulement.",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "note_en": "Best poutine in the area - secret homemade sauce. Cash only.",
+      "note_es": "Mejor poutine en la zona - salsa casera secreta. Solo efectivo.",
+      "note_ar": "أفضل بستون في المنطقة - الطعم المنزلية السرية. فقط النقد.",
+      "note_zh": "地区最佳炸薯条-秘制自家酱。仅接受现金。"
     },
     {
       "id": "restaurant-louise-villemarie",
@@ -820,7 +824,11 @@
         }
       },
       "note": "Cash ou virement Interac seulement — pas de carte",
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "note_en": "Only cash or Interac transfer -- no card",
+      "note_es": "Solo efectivo o transferencia Interac -- no hay tarjeta",
+      "note_ar": "فقط النقود أو نقل Interac -- لا يوجد بطاقة",
+      "note_zh": "只有现金或Interac转账 -- 没有信用卡"
     },
     {
       "name": "Motel Coutu",
@@ -1755,11 +1763,11 @@
       ],
       "keywords": [],
       "phone": "(705) 630-0241",
-      "note": "Vegan Option",
-      "note_en": "Option Végétarien",
-      "note_es": "Option Végétarien",
-      "note_ar": "Option Végétarien",
-      "note_zh": "Option Végétarien",
+      "note": "Option végétarienne",
+      "note_en": "Vegetarian option",
+      "note_es": "Opción vegetariana",
+      "note_ar": "خيار فيegeritarian",
+      "note_zh": "素食选项",
       "horaires": {
         "lundi": {
           "ouverture": "11:00",
@@ -1839,6 +1847,7 @@
       "name": "Poulet Royal Saint-Lin",
       "address": "935 12th Ave, Saint-Lin-Laurentides, Quebec J5M 2W1",
       "cuisine": [
+        "fast-food",
         "rôtisserie"
       ],
       "service": [
