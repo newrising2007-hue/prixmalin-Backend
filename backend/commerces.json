@@ -2556,6 +2556,7 @@
         "vêtements",
         "électronique",
         "maison",
+        "chemise",
         "pharmacie",
         "animaux",
         "jouets",
@@ -2567,7 +2568,8 @@
         "bébé",
         "couches",
         "android",
-        "iphone"
+        "iphone",
+        "pantalon"
       ],
       "address": "133 Trans-Canada Hwy 11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-6344",
@@ -2581,6 +2583,7 @@
         "clothing",
         "electronics",
         "home",
+        "shirt",
         "pharmacy",
         "pets",
         "toys",
@@ -2591,13 +2594,15 @@
         "baby",
         "diapers",
         "Android",
-        "iPhone"
+        "iPhone",
+        "pants"
       ],
       "keywords_es": [
         "tienda de comestibles",
         "ropa",
         "electrónica",
         "hogar",
+        "camisa",
         "farmacia",
         "mascotas",
         "juguetes",
@@ -2609,13 +2614,15 @@
         "bebé",
         "pañales",
         "Android",
-        "iPhone"
+        "iPhone",
+        "pantalón"
       ],
       "keywords_ar": [
         "بقالة",
         "ملابس",
         "إلكترونيات",
         "منزل",
+        "قميص",
         "صيدلية",
         "حيوانات أليفة",
         "ألعاب أطفال",
@@ -2627,13 +2634,15 @@
         "طفل",
         "حفاضات",
         "أندرويد",
-        "آيفون"
+        "آيفون",
+        "بنطلون"
       ],
       "keywords_zh": [
         "杂货店",
         "服装",
         "电子产品",
         "家居",
+        "衬衫",
         "药房",
         "宠物",
         "玩具",
@@ -2645,7 +2654,8 @@
         "婴儿",
         "尿布",
         "安卓",
-        "苹果手机"
+        "苹果手机",
+        "裤子"
       ]
     },
     {
