@@ -1098,8 +1098,7 @@
         "pizza"
       ],
       "service": [
-        "takeout",
-        "livraison"
+        "takeout"
       ],
       "keywords": [
         "pizza hut",
@@ -1922,6 +1921,106 @@
       "id": "poulet-royal-saintlin-w",
       "latitude": 45.85284,
       "longitude": -73.75666
+    },
+    {
+      "name": "Mike",
+      "address": "4 Rue Perreault E, Rouyn-Noranda, QC J9X 3C2",
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(819) 762-2393",
+      "website": "toujoursmikes.ca",
+      "reservation": true,
+      "reservationInfo": "(819) 762-2393",
+      "horaires": {
+        "lundi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "09:00",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "mike-c",
+      "latitude": 48.238002,
+      "longitude": -79.019875
+    },
+    {
+      "name": "Boston Pizza",
+      "address": "152 Av. Principale, Rouyn-Noranda, QC J9X 4P7",
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(819) 797-0086",
+      "website": "bostonpizza.com",
+      "latitude": 48.238861,
+      "longitude": -79.020296,
+      "reservation": true,
+      "reservationInfo": "(819) 797-0086",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "id": "boston-pizza-p"
     }
   ]
 }
