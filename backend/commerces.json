@@ -390,7 +390,11 @@
         "shampoing",
         "détergent",
         "papier toilette",
-        "couche"
+        "couche",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "100 Rue des Oblats Nord, Ville-Marie, QC J9V 1J7",
       "phone": null,
@@ -1415,7 +1419,11 @@
         "fruits",
         "légumes",
         "alimentation",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "Ville-Marie, QC J9V",
       "phone": null,
@@ -1785,7 +1793,11 @@
         "couche",
         "patate",
         "carotte",
-        "épice"
+        "épice",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "20 Rue Ontario, Notre-Dame-du-Nord, QC J0Z 3B0",
       "phone": "(819) 723-2181",
@@ -2212,7 +2224,11 @@
         "papier toilette",
         "couche",
         "épice",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "201 Rue de la Falaise, Témiscaming, QC J0Z 3R0",
       "phone": null,
@@ -2857,7 +2873,11 @@
         "détergent",
         "papier toilette",
         "couche",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "New Liskeard, ON P0J 1P0",
       "phone": null,
@@ -3876,7 +3896,11 @@
         "viande",
         "fruits",
         "légumes",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "133 Trans-Canada Hwy 11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-6344",
@@ -5437,7 +5461,11 @@
         "patate",
         "carotte",
         "épice",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "59 Highway 11B, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-5414",
@@ -5795,7 +5823,11 @@
         "détergent",
         "papier toilette",
         "couche",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "address": "55 Scott St, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-8844",
@@ -7767,7 +7799,11 @@
         "nourriture",
         "alimentation",
         "épicerie",
-        "grocery"
+        "grocery",
+        "dentifrice",
+        "savon à linge",
+        "savon pour le corps",
+        "sac à poubelle"
       ],
       "keywords_en": [
         "power tool",
