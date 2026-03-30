@@ -144,12 +144,27 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
     };
     const blacklist = (BLACKLIST[category] || []).map(b => b.toLowerCase());
 
+    // Types Google Places à exclure selon la catégorie
+    const EXCLUDED_TYPES = {
+      epicerie:     ["restaurant", "cafe", "bar", "night_club", "bakery", "meal_takeaway", "meal_delivery"],
+      boucherie:    ["restaurant", "cafe", "bar", "night_club", "meal_takeaway", "meal_delivery"],
+      quincaillerie:["restaurant", "cafe", "bar", "night_club", "grocery_or_supermarket", "supermarket"],
+      sante:        ["restaurant", "cafe", "bar", "night_club"],
+      electro:      ["restaurant", "cafe", "bar", "night_club"],
+      pieces:       ["restaurant", "cafe", "bar", "night_club"],
+      vehicules:    ["restaurant", "cafe", "bar", "night_club"],
+    };
+    const excludedTypes = (EXCLUDED_TYPES[category] || []);
+
     // Exclure les commerces déjà dans notre BD locale
     const allLocalNames = allLocal.map(d => d.name.toLowerCase());
-    const filteredPlaces = allPlaces.filter(p =>
-      !blacklist.some(b => p.name.toLowerCase().includes(b)) &&
-      !allLocalNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]))
-    );
+    const filteredPlaces = allPlaces.filter(p => {
+      const placeTypes = p.types || [];
+      const hasExcludedType = excludedTypes.some(t => placeTypes.includes(t));
+      const hasBlacklistedName = blacklist.some(b => p.name.toLowerCase().includes(b));
+      const isDuplicate = allLocalNames.some(name => p.name.toLowerCase().includes(name.split(' ')[0]));
+      return !hasExcludedType && !hasBlacklistedName && !isDuplicate;
+    });
 
     const googleStores = filteredPlaces.map(place => ({
       name: place.name,
