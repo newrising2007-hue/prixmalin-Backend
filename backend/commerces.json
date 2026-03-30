@@ -584,10 +584,10 @@
       "id": "ecotone-villemarie",
       "name": "OK Pneus Écotone Ville-Marie",
       "categories": [
-        "sport",
-        "pieces",
         "auto",
-        "divers"
+        "divers",
+        "pieces",
+        "sport"
       ],
       "keywords": [
         "pneus",
@@ -616,9 +616,10 @@
         "bottes",
         "camouflage",
         "GPS",
+        "booster pack",
         "sonar",
         "plein air",
-        "motoneige"
+        "batterie"
       ],
       "address": "67 Rue Sainte-Anne, Ville-Marie, QC J9V 2B6",
       "phone": "(819) 629-2548",
@@ -654,9 +655,10 @@
         "boots",
         "camouflage",
         "GPS",
+        "booster pack",
         "sonar",
         "outdoor",
-        "snowmobile"
+        "battery"
       ],
       "keywords_es": [
         "neumáticos",
@@ -685,9 +687,10 @@
         "botas",
         "camuflaje",
         "GPS",
+        "booster pack",
         "sonar",
         "aire libre",
-        "moto de nieve"
+        "batería"
       ],
       "keywords_ar": [
         "إطارات",
@@ -716,9 +719,10 @@
         "أحذية",
         "تمويه",
         "نظام تحديد المواقع",
+        "حزمة بوستر",
         "سونار",
         "الهواء الطلق",
-        "دراجة ثلجية"
+        "بطارية"
       ],
       "keywords_zh": [
         "轮胎",
@@ -746,9 +750,10 @@
         "靴子",
         "迷彩",
         "GPS",
+        "补充包",
         "声纳",
         "户外",
-        "雪地摩托"
+        "电池"
       ]
     },
     {
