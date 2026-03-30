@@ -333,6 +333,9 @@
         "fruits",
         "viande",
         "fromage",
+        "patate",
+        "carotte",
+        "épice",
         "beurre",
         "café",
         "sucre",
@@ -369,6 +372,9 @@
         "fruits",
         "meat",
         "cheese",
+        "potato",
+        "carrot",
+        "spice",
         "butter",
         "coffee",
         "sugar",
@@ -400,6 +406,9 @@
         "frutas",
         "carne",
         "queso",
+        "papa",
+        "zanahoria",
+        "especia",
         "mantequilla",
         "café",
         "azúcar",
@@ -430,6 +439,9 @@
         "فواكه",
         "لحم",
         "جبن",
+        "بطاطا",
+        "جزرة",
+        "بهار",
         "زبدة",
         "قهوة",
         "سكر",
@@ -461,6 +473,9 @@
         "水果",
         "肉类",
         "奶酪",
+        "土豆",
+        "胡萝卜",
+        "香料",
         "黄油",
         "咖啡",
         "糖",
@@ -1416,7 +1431,6 @@
         "épicerie",
         "nourriture",
         "alimentation",
-        "grocery",
         "pain",
         "lait",
         "légumes",
@@ -1425,7 +1439,9 @@
         "fromage",
         "beurre",
         "café",
-        "sucre"
+        "sucre",
+        "patate",
+        "carotte"
       ],
       "address": "201 Rue de la Falaise, Témiscaming, QC J0Z 3R0",
       "phone": null,
@@ -1445,13 +1461,14 @@
         "cheese",
         "butter",
         "coffee",
-        "sugar"
+        "sugar",
+        "potato",
+        "carrot"
       ],
       "keywords_es": [
         "tienda de comestibles",
         "comida",
         "alimentación",
-        "tienda de abarrotes",
         "pan",
         "leche",
         "verduras",
@@ -1460,7 +1477,9 @@
         "queso",
         "mantequilla",
         "café",
-        "azúcar"
+        "azúcar",
+        "papa",
+        "zanahoria"
       ],
       "keywords_ar": [
         "بقالة",
@@ -1474,13 +1493,14 @@
         "جبن",
         "زبدة",
         "قهوة",
-        "سكر"
+        "سكر",
+        "بطاطا",
+        "جزرة"
       ],
       "keywords_zh": [
         "杂货店",
         "食物",
         "食品",
-        "杂货",
         "面包",
         "牛奶",
         "蔬菜",
@@ -1489,7 +1509,9 @@
         "奶酪",
         "黄油",
         "咖啡",
-        "糖"
+        "糖",
+        "土豆",
+        "胡萝卜"
       ]
     },
     {
@@ -1816,7 +1838,9 @@
         "épicerie",
         "nourriture",
         "alimentation",
-        "grocery",
+        "patate",
+        "carotte",
+        "épice",
         "pain",
         "lait",
         "légumes",
@@ -1834,6 +1858,9 @@
       "keywords_en": [
         "grocery",
         "food",
+        "potato",
+        "carrot",
+        "spice",
         "bread",
         "milk",
         "vegetables",
@@ -1845,7 +1872,9 @@
         "tienda de comestibles",
         "comida",
         "alimentación",
-        "tienda de abarrotes",
+        "papa",
+        "zanahoria",
+        "especia",
         "pan",
         "leche",
         "verduras",
@@ -1857,6 +1886,9 @@
         "بقالة",
         "طعام",
         "غذاء",
+        "بطاطا",
+        "جزرة",
+        "بهار",
         "خبز",
         "حليب",
         "خضروات",
@@ -1868,7 +1900,9 @@
         "杂货店",
         "食物",
         "食品",
-        "杂货",
+        "土豆",
+        "胡萝卜",
+        "香料",
         "面包",
         "牛奶",
         "蔬菜",
@@ -2686,7 +2720,11 @@
         "farine",
         "riz",
         "pâtes",
-        "alimentation discount"
+        "alimentation discount",
+        "patate",
+        "carotte",
+        "beurre",
+        "épice"
       ],
       "address": "883303 ON-65, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-7649",
@@ -2710,7 +2748,10 @@
         "flour",
         "rice",
         "pasta",
-        "discount grocery"
+        "discount grocery",
+        "potato",
+        "carrot",
+        "spice"
       ],
       "keywords_es": [
         "tienda de comestibles",
@@ -2729,7 +2770,10 @@
         "harina",
         "arroz",
         "pasta",
-        "alimentación barata"
+        "alimentación barata",
+        "papa",
+        "zanahoria",
+        "especia"
       ],
       "keywords_ar": [
         "بقالة",
@@ -2747,7 +2791,10 @@
         "دقيق",
         "أرز",
         "معكرونة",
-        "بقالة مخفضة"
+        "بقالة مخفضة",
+        "بطاطا",
+        "جزرة",
+        "بهار"
       ],
       "keywords_zh": [
         "杂货店",
@@ -2766,7 +2813,10 @@
         "面粉",
         "大米",
         "意大利面",
-        "折扣食品"
+        "折扣食品",
+        "土豆",
+        "胡萝卜",
+        "香料"
       ]
     },
     {
@@ -4052,9 +4102,9 @@
         "boissons",
         "traiteur",
         "prêt-à-manger",
-        "independent grocer",
-        "IGA",
-        "supermarché"
+        "épice",
+        "patate",
+        "carotte"
       ],
       "address": "55 Scott St, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-8844",
@@ -4077,9 +4127,9 @@
         "beverages",
         "caterer",
         "ready-to-eat",
-        "independent grocer",
-        "IGA",
-        "supermarket"
+        "spice",
+        "potato",
+        "carrot"
       ],
       "keywords_es": [
         "tienda de comestibles",
@@ -4096,9 +4146,9 @@
         "bebidas",
         "catering",
         "comida lista",
-        "independent grocer",
-        "IGA",
-        "supermercado"
+        "especia",
+        "papa",
+        "zanahoria"
       ],
       "keywords_ar": [
         "بقالة",
@@ -4114,9 +4164,9 @@
         "مشروبات",
         "خدمة تموين",
         "وجبات جاهزة",
-        "independent grocer",
-        "IGA",
-        "سوبرماركت"
+        "بهار",
+        "بطاطا",
+        "جزرة"
       ],
       "keywords_zh": [
         "杂货店",
@@ -4133,9 +4183,9 @@
         "饮料",
         "外烩",
         "即食食品",
-        "independent grocer",
-        "IGA",
-        "超市"
+        "香料",
+        "土豆",
+        "胡萝卜"
       ]
     },
     {
