@@ -9500,6 +9500,61 @@
       "note_es": "",
       "note_ar": "",
       "note_zh": ""
+    },
+    {
+      "id": "haru-izakaya-gatineau",
+      "name": "Haru Izakaya",
+      "address": "25 Chem. de la Savane, Gatineau, QC J8T 3S5",
+      "phone": "(819) 561-1889",
+      "latitude": 45.4461,
+      "longitude": -75.7375,
+      "rating": 4.5,
+      "cuisine": [
+        "japonais"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "16:00",
+          "fermeture": "20:30"
+        },
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "12:00",
+          "fermeture": "20:30"
+        },
+        "mercredi": {
+          "ouverture": "16:00",
+          "fermeture": "20:30"
+        },
+        "jeudi": {
+          "ouverture": "12:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "12:00",
+          "fermeture": "21:30"
+        },
+        "samedi": {
+          "ouverture": "12:00",
+          "fermeture": "21:30"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://haruizakaya.com",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
     }
   ]
 }
