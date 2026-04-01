@@ -2029,7 +2029,7 @@
       "phone": "(250) 638-8086",
       "latitude": 54.5180752,
       "longitude": -128.6228922,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2084,7 +2084,7 @@
       "phone": "(306) 668-3060",
       "latitude": 52.1289786,
       "longitude": -106.7035688,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2139,7 +2139,7 @@
       "phone": "(306) 791-3040",
       "latitude": 50.4077287,
       "longitude": -104.6168329,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2194,7 +2194,7 @@
       "phone": "(306) 668-3040",
       "latitude": 52.136334,
       "longitude": -106.5984998,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2249,7 +2249,7 @@
       "phone": "(306) 791-3050",
       "latitude": 50.4965863,
       "longitude": -104.6445013,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2304,7 +2304,7 @@
       "phone": "(306) 668-3030",
       "latitude": 52.1150218,
       "longitude": -106.6561278,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2359,7 +2359,7 @@
       "phone": "(306) 778-4840",
       "latitude": 50.2933714,
       "longitude": -107.810067,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2414,7 +2414,7 @@
       "phone": "(306) 691-4000",
       "latitude": 50.3844525,
       "longitude": -105.534715,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2469,7 +2469,7 @@
       "phone": "(204) 726-0600",
       "latitude": 49.8361218,
       "longitude": -99.9623794,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2524,7 +2524,7 @@
       "phone": "(204) 240-8844",
       "latitude": 49.973152,
       "longitude": -98.2884221,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2579,7 +2579,7 @@
       "phone": "(519) 457-7667",
       "latitude": 43.00615,
       "longitude": -81.17248,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2634,7 +2634,7 @@
       "phone": "(519) 680-1556",
       "latitude": 42.9224713,
       "longitude": -81.2124616,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2689,7 +2689,7 @@
       "phone": "(519) 649-1001",
       "latitude": 42.9417115,
       "longitude": -81.2828113,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2744,7 +2744,7 @@
       "phone": "(519) 660-6545",
       "latitude": 42.9777415,
       "longitude": -81.1953926,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2799,7 +2799,7 @@
       "phone": "(519) 455-0172",
       "latitude": 43.0323417,
       "longitude": -81.218036,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2854,7 +2854,7 @@
       "phone": "(403) 310-1010",
       "latitude": 49.6861307,
       "longitude": -112.884841,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2909,7 +2909,7 @@
       "phone": "(705) 268-0000",
       "latitude": 48.4765724,
       "longitude": -81.3623095,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -2964,7 +2964,7 @@
       "phone": "(780) 538-1991",
       "latitude": 55.1559182,
       "longitude": -118.7887198,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3019,7 +3019,7 @@
       "phone": "(867) 667-6766",
       "latitude": 60.7291666,
       "longitude": -135.0643953,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3074,7 +3074,7 @@
       "phone": "(506) 328-1010",
       "latitude": 46.1595355,
       "longitude": -67.5916174,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3129,7 +3129,7 @@
       "phone": "(306) 668-3050",
       "latitude": 52.1141887,
       "longitude": -106.6086965,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3184,7 +3184,7 @@
       "phone": "(780) 875-6503",
       "latitude": 53.277393,
       "longitude": -110.040825,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3239,7 +3239,7 @@
       "phone": "(306) 791-3035",
       "latitude": 50.48177,
       "longitude": -104.619219,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3294,7 +3294,7 @@
       "phone": "(306) 668-3070",
       "latitude": 52.1713988,
       "longitude": -106.6340491,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3349,7 +3349,7 @@
       "phone": "(306) 791-3020",
       "latitude": 50.44325,
       "longitude": -104.547775,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3404,7 +3404,7 @@
       "phone": "(306) 668-3590",
       "latitude": 52.0847236,
       "longitude": -106.6218996,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3459,7 +3459,7 @@
       "phone": "(306) 953-8300",
       "latitude": 53.1844,
       "longitude": -105.75841,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3514,7 +3514,7 @@
       "phone": "(306) 446-6700",
       "latitude": 52.7869,
       "longitude": -108.2964,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3569,7 +3569,7 @@
       "phone": "(204) 726-0600",
       "latitude": 49.8792611,
       "longitude": -99.9623741,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3624,7 +3624,7 @@
       "phone": "(431) 977-0558",
       "latitude": 49.5334205,
       "longitude": -96.6884552,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3679,7 +3679,7 @@
       "phone": "(519) 433-1673",
       "latitude": 42.9721407,
       "longitude": -81.2385274,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3734,7 +3734,7 @@
       "phone": "(519) 640-6500",
       "latitude": 43.0013894,
       "longitude": -81.2766204,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3789,7 +3789,7 @@
       "phone": "(226) 289-2422",
       "latitude": 43.0105514,
       "longitude": -81.3372985,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3844,7 +3844,7 @@
       "phone": "(403) 310-1010",
       "latitude": 49.6742,
       "longitude": -112.8414,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3899,7 +3899,7 @@
       "phone": "(403) 310-1010",
       "latitude": 49.7292251,
       "longitude": -112.8138317,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -3954,7 +3954,7 @@
       "phone": "(780) 538-1991",
       "latitude": 55.1857815,
       "longitude": -118.8096964,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4009,7 +4009,7 @@
       "phone": "(867) 669-6700",
       "latitude": 62.4505678,
       "longitude": -114.4027788,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4064,7 +4064,7 @@
       "phone": "(450) 975-8357",
       "latitude": 45.5969175,
       "longitude": -73.722142,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4119,7 +4119,7 @@
       "phone": "(514) 521-4551",
       "latitude": 45.5416369,
       "longitude": -73.5616063,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4174,7 +4174,7 @@
       "phone": "(514) 593-7474",
       "latitude": 45.5925708,
       "longitude": -73.5739055,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4229,7 +4229,7 @@
       "phone": "(450) 433-1561",
       "latitude": 45.6394608,
       "longitude": -73.8284936,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4284,7 +4284,7 @@
       "phone": "(613) 836-7533",
       "latitude": 45.297298,
       "longitude": -75.8877313,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4339,7 +4339,7 @@
       "phone": "(613) 823-8329",
       "latitude": 45.2741712,
       "longitude": -75.7470098,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4394,7 +4394,7 @@
       "phone": "(450) 926-1994",
       "latitude": 45.4487889,
       "longitude": -73.4680904,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4449,7 +4449,7 @@
       "phone": "(905) 372-1841",
       "latitude": 43.9714065,
       "longitude": -78.1956195,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4504,7 +4504,7 @@
       "phone": "(613) 837-7300",
       "latitude": 45.4856,
       "longitude": -75.5168,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4559,7 +4559,7 @@
       "phone": "(450) 443-1248",
       "latitude": 45.4839132,
       "longitude": -73.4675278,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4614,7 +4614,7 @@
       "phone": "(514) 747-9095",
       "latitude": 45.5071,
       "longitude": -73.6971,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4669,7 +4669,7 @@
       "phone": "(450) 692-3768",
       "latitude": 45.357426,
       "longitude": -73.716367,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4724,7 +4724,7 @@
       "phone": "(819) 561-0843",
       "latitude": 45.4788143,
       "longitude": -75.7005932,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4779,7 +4779,7 @@
       "phone": "(819) 475-2222",
       "latitude": 45.8935986,
       "longitude": -72.5147807,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4834,7 +4834,7 @@
       "phone": "(613) 968-4582",
       "latitude": 44.1797491,
       "longitude": -77.3790542,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4889,7 +4889,7 @@
       "phone": "(519) 714-0199",
       "latitude": 43.4166498,
       "longitude": -80.3248522,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4944,7 +4944,7 @@
       "phone": "(514) 595-3944",
       "latitude": 45.4404,
       "longitude": -73.6222012,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -4999,7 +4999,7 @@
       "phone": "(450) 623-7582",
       "latitude": 45.5656926,
       "longitude": -73.9060797,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5054,7 +5054,7 @@
       "phone": "(416) 235-2505",
       "latitude": 43.6964392,
       "longitude": -79.5333395,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5109,7 +5109,7 @@
       "phone": "(519) 351-4558",
       "latitude": 42.3908193,
       "longitude": -82.2062095,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5164,7 +5164,7 @@
       "phone": "(519) 948-0261",
       "latitude": 42.3131339,
       "longitude": -82.9354613,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5219,7 +5219,7 @@
       "phone": "(902) 869-2200",
       "latitude": 44.7718003,
       "longitude": -63.6951277,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5274,7 +5274,7 @@
       "phone": "(514) 324-1456",
       "latitude": 45.5869341,
       "longitude": -73.6337837,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5329,7 +5329,7 @@
       "phone": "(514) 344-8444",
       "latitude": 45.5241519,
       "longitude": -73.6259936,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5384,7 +5384,7 @@
       "phone": "(450) 565-1518",
       "latitude": 45.8140168,
       "longitude": -74.0321289,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5439,7 +5439,7 @@
       "phone": "(613) 226-1188",
       "latitude": 45.3537781,
       "longitude": -75.7358329,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5494,7 +5494,7 @@
       "phone": "(613) 714-4460",
       "latitude": 45.4411416,
       "longitude": -75.6468563,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5549,7 +5549,7 @@
       "phone": "(613) 384-7497",
       "latitude": 44.2373598,
       "longitude": -76.574283,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5604,7 +5604,7 @@
       "phone": "(450) 777-3784",
       "latitude": 45.417854,
       "longitude": -72.7509184,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5659,7 +5659,7 @@
       "phone": "(450) 752-4343",
       "latitude": 46.0379023,
       "longitude": -73.4403695,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5714,7 +5714,7 @@
       "phone": "(819) 481-5006",
       "latitude": 45.3990136,
       "longitude": -71.9123085,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5769,7 +5769,7 @@
       "phone": "(579) 217-3108",
       "latitude": 45.391738,
       "longitude": -74.0538639,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5824,7 +5824,7 @@
       "phone": "(450) 359-7361",
       "latitude": 45.3214565,
       "longitude": -73.2643528,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5879,7 +5879,7 @@
       "phone": "(873) 208-5751",
       "latitude": 46.5672033,
       "longitude": -72.7347906,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5934,7 +5934,7 @@
       "phone": "(819) 693-2222",
       "latitude": 46.3572644,
       "longitude": -72.5737833,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -5989,7 +5989,7 @@
       "phone": "(613) 526-4418",
       "latitude": 45.369136,
       "longitude": -75.6623262,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6044,7 +6044,7 @@
       "phone": "(613) 531-9540",
       "latitude": 44.2464474,
       "longitude": -76.5219405,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6099,7 +6099,7 @@
       "phone": "(873) 387-7307",
       "latitude": 46.3877401,
       "longitude": -72.5514975,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6154,7 +6154,7 @@
       "phone": "(581) 200-1991",
       "latitude": 46.1185168,
       "longitude": -70.6753795,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6209,7 +6209,7 @@
       "phone": "(519) 252-5570",
       "latitude": 42.2830349,
       "longitude": -83.0554579,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6264,7 +6264,7 @@
       "phone": "(519) 344-3278",
       "latitude": 42.9797302,
       "longitude": -82.3612257,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6319,7 +6319,7 @@
       "phone": "(613) 937-3377",
       "latitude": 45.0292996,
       "longitude": -74.7531732,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6374,7 +6374,7 @@
       "phone": "(902) 455-1900",
       "latitude": 44.6447676,
       "longitude": -63.5987253,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6429,7 +6429,7 @@
       "phone": "(416) 693-4545",
       "latitude": 43.707672,
       "longitude": -79.2689894,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6484,7 +6484,7 @@
       "phone": "(416) 439-5550",
       "latitude": 43.7576305,
       "longitude": -79.2350043,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6539,7 +6539,7 @@
       "phone": "(604) 442-2135",
       "latitude": 50.8348285,
       "longitude": -118.9904806,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6594,7 +6594,7 @@
       "phone": "(416) 282-5771",
       "latitude": 43.7705697,
       "longitude": -79.1863435,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6649,7 +6649,7 @@
       "phone": "(905) 833-2400",
       "latitude": 43.9335551,
       "longitude": -79.5053928,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6704,7 +6704,7 @@
       "phone": "(902) 477-5300",
       "latitude": 44.6571385,
       "longitude": -63.6699343,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6759,7 +6759,7 @@
       "phone": "(506) 859-7900",
       "latitude": 46.112855,
       "longitude": -64.8312607,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6814,7 +6814,7 @@
       "phone": "(250) 564-7488",
       "latitude": 53.9109645,
       "longitude": -122.7596372,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6869,7 +6869,7 @@
       "phone": "(778) 640-1111",
       "latitude": 54.7825,
       "longitude": -127.1742,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6924,7 +6924,7 @@
       "phone": "(250) 991-9111",
       "latitude": 52.9779342,
       "longitude": -122.4970897,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -6979,7 +6979,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5052085,
       "longitude": -113.619215,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7034,7 +7034,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4030594,
       "longitude": -113.5280397,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7089,7 +7089,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4558113,
       "longitude": -113.5258985,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7144,7 +7144,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5974408,
       "longitude": -113.4079326,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7199,7 +7199,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4585622,
       "longitude": -113.43084,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7254,7 +7254,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5195714,
       "longitude": -113.5958318,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7309,7 +7309,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.6266128,
       "longitude": -113.457011,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7364,7 +7364,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4252563,
       "longitude": -113.4775939,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7419,7 +7419,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5636046,
       "longitude": -113.5529406,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7474,7 +7474,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4372311,
       "longitude": -113.6130908,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7529,7 +7529,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.2657143,
       "longitude": -113.5520801,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7584,7 +7584,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5093816,
       "longitude": -113.6768255,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7639,7 +7639,7 @@
       "phone": "(905) 770-3038",
       "latitude": 43.9125465,
       "longitude": -79.4475167,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7694,7 +7694,7 @@
       "phone": "(905) 737-6161",
       "latitude": 43.880641,
       "longitude": -79.3932199,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7749,7 +7749,7 @@
       "phone": "(905) 560-5421",
       "latitude": 43.2299324,
       "longitude": -79.7741619,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7804,7 +7804,7 @@
       "phone": "(902) 462-3344",
       "latitude": 44.6698162,
       "longitude": -63.5398355,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7859,7 +7859,7 @@
       "phone": "(506) 777-9317",
       "latitude": 46.0938544,
       "longitude": -64.7572565,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7914,7 +7914,7 @@
       "phone": "(250) 622-2444",
       "latitude": 54.3114212,
       "longitude": -130.3273381,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -7969,7 +7969,7 @@
       "phone": "(250) 398-0303",
       "latitude": 52.1289939,
       "longitude": -122.1312387,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8024,7 +8024,7 @@
       "phone": "(250) 596-6999",
       "latitude": 53.8929148,
       "longitude": -122.7710612,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8079,7 +8079,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5464972,
       "longitude": -113.412881,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8134,7 +8134,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4314479,
       "longitude": -113.458235,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8189,7 +8189,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.602438,
       "longitude": -113.416865,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8244,7 +8244,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5420099,
       "longitude": -113.9234495,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8299,7 +8299,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5702103,
       "longitude": -113.3951903,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8354,7 +8354,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.4761257,
       "longitude": -113.5285391,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8409,7 +8409,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5420125,
       "longitude": -113.3099651,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8464,7 +8464,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.6104039,
       "longitude": -113.4120843,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8519,7 +8519,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.5349871,
       "longitude": -114.0039944,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8574,7 +8574,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.6536208,
       "longitude": -113.6291359,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8629,7 +8629,7 @@
       "phone": "(780) 310-1010",
       "latitude": 53.540776,
       "longitude": -113.6028667,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8684,7 +8684,7 @@
       "phone": "(416) 763-5555",
       "latitude": 43.6525596,
       "longitude": -79.4704802,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8739,7 +8739,7 @@
       "phone": "(289) 466-0114",
       "latitude": 44.0190538,
       "longitude": -79.449037,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8794,7 +8794,7 @@
       "phone": "(905) 574-8000",
       "latitude": 43.2263513,
       "longitude": -79.8817975,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8849,7 +8849,7 @@
       "phone": "(905) 934-3972",
       "latitude": 43.181474,
       "longitude": -79.2513116,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "pizza"
       ],
@@ -8904,7 +8904,7 @@
       "phone": "(819) 762-6666",
       "latitude": 48.2470352,
       "longitude": -79.019116,
-      "rating": 0.0,
+      "rating": 0,
       "cuisine": [
         "fast-food"
       ],
@@ -8914,10 +8914,6 @@
       ],
       "keywords": [],
       "horaires": {
-        "dimanche": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
         "lundi": {
           "ouverture": "10:00",
           "fermeture": "00:00"
@@ -8941,11 +8937,15 @@
         "samedi": {
           "ouverture": "10:00",
           "fermeture": "04:00"
+        },
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
         }
       },
       "note": "",
       "source": "prixmalin",
-      "website": "",
+      "website": "https://chezmorasse.wordpress.com/",
       "note_en": "",
       "note_es": "",
       "note_ar": "",
