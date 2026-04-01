@@ -8896,6 +8896,60 @@
       "note_es": "",
       "note_ar": "",
       "note_zh": ""
+    },
+    {
+      "id": "chez-morasse-rouyn",
+      "name": "Chez Morasse",
+      "address": "110 9e Rue, Rouyn-Noranda, QC J9X 2B6",
+      "phone": "(819) 762-6666",
+      "latitude": 48.2470352,
+      "longitude": -79.019116,
+      "rating": 0.0,
+      "cuisine": [
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "04:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "04:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "04:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
     }
   ]
 }
