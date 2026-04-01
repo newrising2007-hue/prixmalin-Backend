@@ -5904,7 +5904,11 @@
         "shampoo",
         "detergent",
         "toilet paper",
-        "diaper"
+        "diaper",
+        "toothpaste",
+        "laundry detergent",
+        "body wash",
+        "garbage bag"
       ],
       "keywords_es": [
         "tienda de comestibles",
@@ -5976,7 +5980,11 @@
         "detergente",
         "papel higiénico",
         "pañal",
-        "tienda de abarrotes"
+        "tienda de abarrotes",
+        "pasta de dientes",
+        "jabón para ropa",
+        "gel de ducha",
+        "bolsa de basura"
       ],
       "keywords_ar": [
         "بقالة",
@@ -6046,7 +6054,11 @@
         "شامبو",
         "منظف",
         "ورق مرحاض",
-        "حفاضة"
+        "حفاضة",
+        "معجون أسنان",
+        "صابون غسيل",
+        "صابون الجسم",
+        "كيس قمامة"
       ],
       "keywords_zh": [
         "杂货店",
@@ -6116,7 +6128,11 @@
         "洗发水",
         "洗涤剂",
         "卫生纸",
-        "尿布"
+        "尿布",
+        "牙膏",
+        "洗衣液",
+        "沐浴露",
+        "垃圾袋"
       ]
     },
     {
