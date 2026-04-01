@@ -8950,6 +8950,556 @@
       "note_es": "",
       "note_ar": "",
       "note_zh": ""
+    },
+    {
+      "id": "tim-hortons-rouyn-lariviere",
+      "name": "Tim Hortons",
+      "address": "1086 Av. Larivière, Rouyn-Noranda, QC J9X 4K8",
+      "phone": "(819) 762-0000",
+      "latitude": 48.2237337,
+      "longitude": -78.9950853,
+      "rating": 0.0,
+      "cuisine": [
+        "cafe",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "05:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "05:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "05:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "05:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "05:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://locations.timhortons.ca/en/qc/rouyn-noranda/1086-av-lariviere",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "tim-hortons-rouyn-gamble",
+      "name": "Tim Hortons",
+      "address": "118 Rue Gamble Ouest, Rouyn-Noranda, QC J9X 2R6",
+      "phone": "(819) 762-6060",
+      "latitude": 48.2400449,
+      "longitude": -79.0236791,
+      "rating": 0.0,
+      "cuisine": [
+        "cafe",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "lundi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://locations.timhortons.ca/en/qc/rouyn-noranda/118-rue-gamble-ouest",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "tim-hortons-rouyn-saguenay",
+      "name": "Tim Hortons",
+      "address": "2350-a Bould Saguenay, Rouyn-Noranda, QC J9X 2H4",
+      "phone": "(819) 797-2060",
+      "latitude": 48.2353,
+      "longitude": -79.0089,
+      "rating": 0.0,
+      "cuisine": [
+        "cafe",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "07:00",
+          "fermeture": "21:00"
+        },
+        "lundi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "06:00",
+          "fermeture": "21:30"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://locations.timhortons.ca/en/qc/rouyn-noranda/2350-a-bould-saguenay",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "superbol-rouyn",
+      "name": "Superbol",
+      "address": "101 Av. Principale, Rouyn-Noranda, QC J9X 4P1",
+      "phone": "(819) 797-8899",
+      "latitude": 48.240532,
+      "longitude": -79.0199261,
+      "rating": 0.0,
+      "cuisine": [
+        "québécois",
+        "santé"
+      ],
+      "service": [
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://superbol.ca/",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "resto-la-cuivree-rouyn",
+      "name": "Resto La Cuivrée",
+      "address": "157 Avenue Mercier, Rouyn-Noranda, QC J9X 4X6",
+      "phone": "(819) 762-8111",
+      "latitude": 48.2389012,
+      "longitude": -79.0250193,
+      "rating": 0.0,
+      "cuisine": [
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://restolacuivree.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "topla-rouyn",
+      "name": "Topla",
+      "address": "681 Av. Larivière, Rouyn-Noranda, QC J9X 4B7",
+      "phone": "(873) 861-5555",
+      "latitude": 48.2267776,
+      "longitude": -79.0068918,
+      "rating": 0.0,
+      "cuisine": [
+        "italien",
+        "pâtes"
+      ],
+      "service": [
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://topla.com/fr/restaurant/top-rouyn-noranda",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "noranda-pizzeria-rouyn",
+      "name": "Noranda Pizzeria",
+      "address": "630 Boul Rideau, Rouyn-Noranda, QC J9X 7G1",
+      "phone": "(819) 762-1888",
+      "latitude": 48.2494634,
+      "longitude": -79.0584946,
+      "rating": 4.3,
+      "cuisine": [
+        "pizza",
+        "italien"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/p/Restaurant-Pizzeria-Noranda-100063619508821/",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-salvatore-rouyn",
+      "name": "Pizza Salvatoré",
+      "address": "679 Av. Larivière, Rouyn-Noranda, QC J9X 4B7",
+      "phone": "(873) 771-7776",
+      "latitude": 48.2267968,
+      "longitude": -79.0069754,
+      "rating": 4.7,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "03:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "03:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "03:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://salvatore.com",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "patate-pierrot-rouyn",
+      "name": "Patate Pierrot",
+      "address": "540 Av. Larivière, Rouyn-Noranda, QC J9X 4J4",
+      "phone": "(819) 762-7105",
+      "latitude": 48.2280279,
+      "longitude": -79.0126143,
+      "rating": 4.1,
+      "cuisine": [
+        "fast-food",
+        "québécois"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/PatatePierrotRouynNoranda/",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "resto-depanneur-souvenirs-guerin",
+      "name": "Resto-Dépanneur Souvenirs d'Antan",
+      "address": "913 Rue Principale N, Guérin, QC J0Z 2E0",
+      "phone": "(819) 784-7015",
+      "latitude": 47.6197,
+      "longitude": -79.2467,
+      "rating": 5.0,
+      "cuisine": [
+        "québécois"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/groups/649543626579349/",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
     }
   ]
 }
