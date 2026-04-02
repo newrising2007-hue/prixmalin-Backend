@@ -330,25 +330,22 @@ app.listen(PORT, () => {
   console.log('========================================');
 });
 
-// GEOCODING — Convertir nom de ville en lat/lng
+// GEOCODING — Convertir nom de ville en lat/lng (Google Geocoding API)
 app.get('/api/geocode', async (req, res) => {
   try {
     const { ville } = req.query;
     if (!ville) return res.status(400).json({ error: 'Paramètre ville requis' });
-    const https = require('https');
-    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(ville + ', Canada')}&format=json&limit=1`;
-    const results = await new Promise((resolve, reject) => {
-      https.get(url, { headers: { 'User-Agent': 'PrixMalin/1.0 (contact@prixmalin.ca)' } }, (r) => {
-        let data = '';
-        r.on('data', chunk => data += chunk);
-        r.on('end', () => resolve(JSON.parse(data)));
-      }).on('error', reject);
-    });
-    if (!results || results.length === 0) {
+    const apiKey = process.env.GOOGLE_PLACES_API_KEY;
+    if (!apiKey) return res.status(500).json({ error: 'Clé Google manquante' });
+    const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(ville + ', Canada')}&key=${apiKey}&language=fr`;
+    const response = await fetch(url);
+    const data = await response.json();
+    if (!data.results || data.results.length === 0) {
       return res.status(404).json({ error: 'Ville non trouvée' });
     }
-    const { lat, lon, display_name } = results[0];
-    return res.json({ lat: parseFloat(lat), lng: parseFloat(lon), nom: display_name });
+    const { lat, lng } = data.results[0].geometry.location;
+    const nom = data.results[0].formatted_address;
+    return res.json({ lat, lng, nom });
   } catch (error) {
     console.error('Erreur geocoding:', error);
     return res.status(500).json({ error: 'Erreur serveur' });
