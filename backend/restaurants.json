@@ -1827,7 +1827,9 @@
           "fermeture": "23:00"
         }
       },
-      "id": "241-pizza-k"
+      "id": "241-pizza-k",
+      "latitude": 47.4505736,
+      "longitude": -79.6517971
     },
     {
       "name": "Topper's Pizza",
@@ -14169,6 +14171,817 @@
       "note": "",
       "source": "prixmalin",
       "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "kayzen-comptoir-asiat-rouyn",
+      "name": "Kayzen Comptoir Asiat",
+      "address": "139 Avenue Principale, Rouyn-Noranda, QC J9X 4P3",
+      "phone": "(819) 797-2742",
+      "latitude": 48.2394234,
+      "longitude": -79.0199196,
+      "rating": 0.0,
+      "cuisine": [
+        "asiatique"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://kayzenasiat.com",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "mito-sushi-rouyn-senator",
+      "name": "Mito Sushi",
+      "address": "IGA Extra Famille Julien, 105 Chemin Senator, Rouyn-Noranda, QC J9X 1P1",
+      "phone": "",
+      "latitude": 48.2340237,
+      "longitude": -79.055939,
+      "rating": 0.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://www.mito.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "mito-sushi-rouyn-belanger",
+      "name": "Mito Sushi",
+      "address": "IGA Extra Marché Bélanger, 680 Avenue Chaussé, Rouyn-Noranda, QC J9X 4B9",
+      "phone": "",
+      "latitude": 48.2254081,
+      "longitude": -79.0071638,
+      "rating": 0.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://www.mito.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "samiyo-bar-valdor",
+      "name": "Samiyo Bar",
+      "address": "650 3e Avenue, Val-d'Or, QC J9P 1S5",
+      "phone": "(819) 825-0039",
+      "latitude": 48.1014859,
+      "longitude": -77.7843079,
+      "rating": 5.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "sushi-signature-valdor",
+      "name": "Sushi Signature",
+      "address": "155 Av. Perrault, Val-d'Or, QC J9P 2H1",
+      "phone": "(819) 824-1923",
+      "latitude": 48.1042,
+      "longitude": -77.7973,
+      "rating": 4.9,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "17:30"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "18:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "18:00"
+        },
+        "samedi": {
+          "ouverture": "11:30",
+          "fermeture": "17:30"
+        },
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://sushisignature.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "sushi-cie-valdor",
+      "name": "Sushi & Cie Val-d'Or",
+      "address": "1626, 3e Avenue, Val-d'Or, QC J9P 1V8",
+      "phone": "(819) 874-5744",
+      "latitude": 48.1007758,
+      "longitude": -77.8124044,
+      "rating": 0.0,
+      "cuisine": [
+        "sushi",
+        "thai"
+      ],
+      "service": [
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.facebook.com/sushietcieexpress/",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "odori-comptoir-japonais-amos",
+      "name": "Ōdōri Comptoir Japonais",
+      "address": "14 1re Ave O, Amos, QC J9T 1T8",
+      "phone": "(819) 732-0003",
+      "latitude": 48.5672,
+      "longitude": -78.1114,
+      "rating": 4.7,
+      "cuisine": [
+        "sushi",
+        "japonais"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "samedi": {
+          "ouverture": "11:30",
+          "fermeture": "18:00"
+        },
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.odoricomptoirjaponais.com",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "satori-sushi-st-jean",
+      "name": "Le Satori Sushi",
+      "address": "290 Bd Saint-Luc #26, Saint-Jean-sur-Richelieu, QC J2W 2A3",
+      "phone": "(450) 348-0667",
+      "latitude": 45.3553098,
+      "longitude": -73.2977108,
+      "rating": 4.5,
+      "cuisine": [
+        "sushi",
+        "japonais"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "17:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "17:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.lesatorisushi.com",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "masako-plus-sushi-st-jean",
+      "name": "Masako Plus Sushi",
+      "address": "600 Rue Pierre-Caisse, Suite 00780, Saint-Jean-sur-Richelieu, QC J3A 1M1",
+      "phone": "(450) 359-3238",
+      "latitude": 45.3316224,
+      "longitude": -73.2812218,
+      "rating": 0.0,
+      "cuisine": [
+        "sushi",
+        "japonais"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "15:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://www.masakosushibar.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "sushi-shop-st-jean",
+      "name": "Sushi Shop Saint-Jean",
+      "address": "214 Bd Omer-Marcil, Saint-Jean-sur-Richelieu, QC J2W 2V1",
+      "phone": "(450) 348-9797",
+      "latitude": 45.3328722,
+      "longitude": -73.2962823,
+      "rating": 4.2,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.sushishop.com",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "yuzu-sushi-st-jean",
+      "name": "Yuzu Sushi",
+      "address": "1055 Boul. du Séminaire Nord, Saint-Jean-sur-Richelieu, QC J3A 1R7",
+      "phone": "(450) 349-9669",
+      "latitude": 45.338259,
+      "longitude": -73.2679743,
+      "rating": 0.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://locations.yuzusushi.ca/fr/qc/st-jean-sur-richelieu/yuzu-sushi-st-jean-sur-richelieu",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "sushi-izumi-st-jean",
+      "name": "Sushi Izumi",
+      "address": "1000 Boulevard du Séminaire Nord, Saint-Jean-sur-Richelieu, QC",
+      "phone": "(450) 359-0888",
+      "latitude": 45.3372223,
+      "longitude": -73.269681,
+      "rating": 0.0,
+      "cuisine": [
+        "sushi",
+        "japonais",
+        "asiatique"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "17:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "17:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "Sushi bar à volonté — rouleaux, sashimis et spécialités japonaises",
+      "source": "prixmalin",
+      "website": "https://www.sushiizumi.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "mito-sushi-st-jean-saintluc",
+      "name": "Mito Sushi",
+      "address": "IGA Extra, 170 Boulevard Saint-Luc, Saint-Jean-sur-Richelieu, QC J3A 0A7",
+      "phone": "(514) 223-2600",
+      "latitude": 45.3414438,
+      "longitude": -73.2845331,
+      "rating": 5.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://www.mito.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "mito-sushi-st-jean-iberville",
+      "name": "Mito Sushi",
+      "address": "IGA Supermarché Laplante inc, 420 2e Avenue, Saint-Jean-sur-Richelieu, QC J2X 2B8",
+      "phone": "(514) 223-2600",
+      "latitude": 45.3045854,
+      "longitude": -73.2311162,
+      "rating": 3.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://www.mito.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "mito-sushi-st-jean-groupepro40",
+      "name": "Mito Sushi",
+      "address": "IGA Groupe Pro 40 Inc, 435 9e Avenue, Saint-Jean-sur-Richelieu, QC J2X 1K5",
+      "phone": "(514) 223-2600",
+      "latitude": 45.3125354,
+      "longitude": -73.2304472,
+      "rating": 1.0,
+      "cuisine": [
+        "sushi"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "lundi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "http://www.mito.ca",
       "note_en": "",
       "note_es": "",
       "note_ar": "",
