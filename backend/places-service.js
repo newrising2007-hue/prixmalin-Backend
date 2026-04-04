@@ -57,14 +57,23 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 2
   return commerces
     .filter(c => {
       const categoryMatch = category === 'divers' || c.categories.includes(category) || (category === 'electronique' && c.categories.includes('electro')) || (category === 'electro' && c.categories.includes('electronique'));
+      const queryWords = lowerQuery.split(/\s+/);
       const keywordMatch = c.keywords.some(kw => {
         const kwNorm = normalizeStr(kw);
-        // Match exact : query contient le keyword ou keyword contient la query
-        if (lowerQuery.includes(kwNorm) || kwNorm.includes(lowerQuery)) return true;
-        // Stemming : comparer les 4 premiers caractères (ecouteur/ecouteurs/ecoute)
-        if (lowerQuery.length >= 4 && kwNorm.length >= 4 && kwNorm.startsWith(lowerQuery.substring(0, 4))) return true;
-        if (lowerQuery.length >= 4 && kwNorm.length >= 4 && lowerQuery.startsWith(kwNorm.substring(0, 4))) return true;
-        return false;
+        const kwWords = kwNorm.split(/\s+/);
+        // Chaque mot de la query doit matcher un mot entier du keyword
+        return queryWords.every(qw => {
+          if (qw.length <= 2) {
+            // Mots très courts (or, as...) → match exact uniquement
+            return kwWords.some(kw => kw === qw);
+          }
+          // Mots normaux → exact ou stemming startsWith 4 chars
+          return kwWords.some(kw =>
+            kw === qw ||
+            (qw.length >= 4 && kw.startsWith(qw.substring(0, 4))) ||
+            (kw.length >= 4 && qw.startsWith(kw.substring(0, 4)))
+          );
+        });
       });
       const withinRadius = calculateDistance(latitude, longitude, c.latitude, c.longitude) <= radiusKm;
       return categoryMatch && keywordMatch && withinRadius;
