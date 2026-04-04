@@ -15082,6 +15082,109 @@
         }
       },
       "id": "allo-mon-coco-canada"
+    },
+    {
+      "name": "Horizon Thaï",
+      "address": "108 Av. Principale, Rouyn-Noranda, QC J9X 4P2, Canada",
+      "cuisine": [
+        "thaïlandais",
+        "chinois",
+        "japonais",
+        "québécois"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(819) 762-4060",
+      "website": "http://horizonthai.ca/",
+      "latitude": 48.240511,
+      "longitude": -79.0203,
+      "reservation": true,
+      "reservationInfo": "819-762-4060",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:30",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "11:30",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "11:30",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "11:30",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "16:30",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "16:30",
+          "fermeture": "20:00"
+        }
+      },
+      "id": "horizon-thai-canada"
+    },
+    {
+      "name": "La Cage",
+      "address": "260A Boul Rideau, Rouyn-Noranda, QC J9X 1P1, Canada",
+      "cuisine": [
+        "bar"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(819) 764-2243",
+      "website": "https://www.cage.ca/menu/entrees",
+      "latitude": 48.243591937648134,
+      "longitude": -79.0396149700706,
+      "reservation": true,
+      "reservationInfo": "libroreserve.com",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        }
+      },
+      "id": "la-cage-canada"
     }
   ]
 }
