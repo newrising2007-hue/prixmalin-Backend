@@ -14993,7 +14993,10 @@
         "fast-food",
         "déjeuner"
       ],
-      "service": [],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
       "keywords": [],
       "phone": "(705) 647-1919",
       "website": "http://www.gillistruckstop.com/",
@@ -15030,6 +15033,55 @@
         }
       },
       "id": "gillis-truck-stop-canada"
+    },
+    {
+      "name": "Allô mon Coco",
+      "address": "4 15e Rue, Rouyn-Noranda, QC J9X 2J8, Canada",
+      "cuisine": [
+        "déjeuner",
+        "brunch"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [],
+      "phone": "(819) 764-4419",
+      "website": "https://allomoncoco.com/locations/allo-mon-coco-rouyn-noranda/?utm_source=G&utm_medium=LPM&utm_campaign=MTY",
+      "latitude": 48.242462,
+      "longitude": -79.030646,
+      "horaires": {
+        "lundi": {
+          "ouverture": "05:30",
+          "fermeture": "15:00"
+        },
+        "mardi": {
+          "ouverture": "05:30",
+          "fermeture": "15:00"
+        },
+        "mercredi": {
+          "ouverture": "05:30",
+          "fermeture": "15:00"
+        },
+        "jeudi": {
+          "ouverture": "05:30",
+          "fermeture": "15:00"
+        },
+        "vendredi": {
+          "ouverture": "05:30",
+          "fermeture": "15:00"
+        },
+        "samedi": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        },
+        "dimanche": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        }
+      },
+      "id": "allo-mon-coco-canada"
     }
   ]
 }
