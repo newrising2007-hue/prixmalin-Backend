@@ -284,6 +284,7 @@ function getGooglePlaceType(category) {
     renovation: "hardware_store",
     loisirs: "book_store",
     beaute: "beauty_salon",
+    bijoux: "jewelry_store",
     vehicules: "car_dealer",
     auto: "car_dealer",
     pieces: "car_repair",
@@ -294,6 +295,7 @@ function getGooglePlaceType(category) {
 
 function getCategoryKeywords(category) {
   const keywords = {
+    bijoux: "jewelry store bijouterie or argent",
     boucherie: "butcher boucherie viande meat shop",
     epicerie: "grocery supermarket épicerie alimentation food store",
     electro: 'electronics store',
