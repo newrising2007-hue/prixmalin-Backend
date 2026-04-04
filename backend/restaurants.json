@@ -15085,10 +15085,10 @@
       "name": "Horizon Thaï",
       "address": "108 Av. Principale, Rouyn-Noranda, QC J9X 4P2, Canada",
       "cuisine": [
-        "thaïlandais",
         "chinois",
         "japonais",
-        "québécois"
+        "québécois",
+        "vietnamien"
       ],
       "service": [
         "surplace",
