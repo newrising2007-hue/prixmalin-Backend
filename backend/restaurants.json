@@ -9291,20 +9291,14 @@
       "longitude": -79.0584946,
       "rating": 4.3,
       "cuisine": [
-        "pizza",
-        "italien"
+        "pizza"
       ],
       "service": [
         "surplace",
-        "takeout",
-        "delivery"
+        "takeout"
       ],
       "keywords": [],
       "horaires": {
-        "dimanche": {
-          "ouverture": "00:00",
-          "fermeture": "00:00"
-        },
         "lundi": {
           "ouverture": "00:00",
           "fermeture": "00:00"
@@ -9328,6 +9322,10 @@
         "samedi": {
           "ouverture": "08:00",
           "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "00:00",
+          "fermeture": "00:00"
         }
       },
       "note": "",
