@@ -14985,6 +14985,51 @@
       "note_es": "",
       "note_ar": "",
       "note_zh": ""
+    },
+    {
+      "name": "Gilli's Truck Stop",
+      "address": "997490 ON-11, Temiskaming Shores, ON P0J 1P0, Canada",
+      "cuisine": [
+        "fast-food",
+        "déjeuner"
+      ],
+      "service": [],
+      "keywords": [],
+      "phone": "(705) 647-1919",
+      "website": "http://www.gillistruckstop.com/",
+      "latitude": 47.536248,
+      "longitude": -79.675239,
+      "horaires": {
+        "lundi": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        },
+        "mardi": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        },
+        "mercredi": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        },
+        "jeudi": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        },
+        "vendredi": {
+          "ouverture": "06:00",
+          "fermeture": "15:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "15:00"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "15:00"
+        }
+      },
+      "id": "gillis-truck-stop-canada"
     }
   ]
 }
