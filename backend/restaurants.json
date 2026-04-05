@@ -15183,6 +15183,2206 @@
         }
       },
       "id": "la-cage-canada"
+    },
+    {
+      "id": "pizza-hut-north-york-bathurst",
+      "name": "Pizza Hut",
+      "address": "3416 Bathurst Street, North York, ON, M6A 2C1",
+      "phone": "(416) 784-2922",
+      "latitude": 43.7270705,
+      "longitude": -79.4317281,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:30",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:30",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:30",
+          "fermeture": "19:00"
+        },
+        "mercredi": {
+          "ouverture": "10:30",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:30",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:30",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:30",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-newmarket-davis",
+      "name": "Pizza Hut",
+      "address": "130 Davis Drive, Newmarket, ON, L3Y 2N1",
+      "phone": "(905) 898-5331",
+      "latitude": 44.054539,
+      "longitude": -79.4751459,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-mississauga-burnhamthorpe",
+      "name": "Pizza Hut",
+      "address": "848 Burnhamthorpe Rd W, Mississauga, ON, L5C 2S3",
+      "phone": "(905) 275-2871",
+      "latitude": 43.5760452,
+      "longitude": -79.6551816,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-whitby-dundas",
+      "name": "Pizza Hut",
+      "address": "1121 Dundas Street East, Whitby, ON, L1N 2K4",
+      "phone": "(905) 430-5725",
+      "latitude": 43.8833542,
+      "longitude": -78.923457,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-pickering-liverpool",
+      "name": "Pizza Hut",
+      "address": "1794 Liverpool Road, Unit 9B, Pickering, ON, L1V 1V9",
+      "phone": "(905) 839-0884",
+      "latitude": 43.8337247,
+      "longitude": -79.089905,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-scarborough-tapscott",
+      "name": "Pizza Hut",
+      "address": "31 Tapscott Road, Unit #B8A, Scarborough, ON, M1B 4Y7",
+      "phone": "(416) 292-9200",
+      "latitude": 43.806094,
+      "longitude": -79.2236135,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-scarborough-midland",
+      "name": "Pizza Hut",
+      "address": "3700 Midland Avenue, Unit 110, Scarborough, ON, M1V 4V3",
+      "phone": "(416) 292-1447",
+      "latitude": 43.814902,
+      "longitude": -79.2926779,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-markham-hwy7",
+      "name": "Pizza Hut",
+      "address": "5071 Highway #7, Unit 1, Markham, ON, L3R 1N3",
+      "phone": "(905) 470-7060",
+      "latitude": 43.8658117,
+      "longitude": -79.2879803,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-brampton-airport",
+      "name": "Pizza Hut",
+      "address": "9045 Airport Road, Brampton, ON, L6S 0B8",
+      "phone": "(905) 793-5811",
+      "latitude": 43.7446025,
+      "longitude": -79.6964129,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-brampton-bartley-bull",
+      "name": "Pizza Hut",
+      "address": "1 Bartley Bull Parkway, Unit 9, Brampton, ON, L6W 2J3",
+      "phone": "(905) 450-0809",
+      "latitude": 43.6674582,
+      "longitude": -79.7327914,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-brampton-mclaughlin",
+      "name": "Pizza Hut",
+      "address": "12-10088 McLaughlin Rd., Brampton, ON, L7A 2X6",
+      "phone": "(905) 495-8471",
+      "latitude": 43.6960265,
+      "longitude": -79.8000649,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-brampton-sandalwood",
+      "name": "Pizza Hut",
+      "address": "94 Sandalwood Parkway, Brampton, ON, L6Z 4R5",
+      "phone": "(905) 846-0400",
+      "latitude": 43.722773,
+      "longitude": -79.798349,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-brampton-queen",
+      "name": "Pizza Hut",
+      "address": "295 Queen Street East, Brampton, ON, L6W 2C2",
+      "phone": "(905) 454-8888",
+      "latitude": 43.7024044,
+      "longitude": -79.7395664,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-brampton-gore",
+      "name": "Pizza Hut",
+      "address": "9990 The Gore Rd, Brampton, ON, L6P 2L1",
+      "phone": "(289) 948-1078",
+      "latitude": 43.7872272,
+      "longitude": -79.6834709,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-mississauga-dundas-e",
+      "name": "Pizza Hut",
+      "address": "289 Dundas Street East, Mississauga, ON, L5A 1X1",
+      "phone": "(905) 277-9797",
+      "latitude": 43.5865459,
+      "longitude": -79.6094281,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-mississauga-fowler",
+      "name": "Pizza Hut",
+      "address": "1900 Fowler Drive, Mississauga, ON, L5K 0A1",
+      "phone": "(905) 823-0061",
+      "latitude": 43.5271555,
+      "longitude": -79.6503765,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-mississauga-bristol",
+      "name": "Pizza Hut",
+      "address": "1525 Bristol Road West, Unit 1 #7207, Mississauga, ON, L5M 4Z1",
+      "phone": "(905) 542-8100",
+      "latitude": 43.5864959,
+      "longitude": -79.6991333,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-mississauga-erin-mills",
+      "name": "Pizza Hut",
+      "address": "6415 Erin Mills Parkway, Unit B1, Mississauga, ON, L5N 4H4",
+      "phone": "(905) 858-1898",
+      "latitude": 43.5861828,
+      "longitude": -79.7410914,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-oshawa-king-e",
+      "name": "Pizza Hut",
+      "address": "Eastway Plaza, 633 King Street East, Unit 5, Oshawa, ON, L1H 1G3",
+      "phone": "(905) 721-7525",
+      "latitude": 43.9028435,
+      "longitude": -78.8403675,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-oshawa-simcoe-n",
+      "name": "Pizza Hut",
+      "address": "1206 Simcoe Street North, Oshawa, ON, L1G 4W9",
+      "phone": "(905) 571-1300",
+      "latitude": 43.9293623,
+      "longitude": -78.8776435,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-ajax-bayly",
+      "name": "Pizza Hut",
+      "address": "252 Bayly Street West, Unit 1, Ajax, ON, L1S 3V4",
+      "phone": "(905) 686-3023",
+      "latitude": 43.8423063,
+      "longitude": -79.0267811,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-ajax-rossland",
+      "name": "Pizza Hut",
+      "address": "280 Rossland Road E., Unit #2, Ajax, ON, L1Z 0K4",
+      "phone": "(905) 231-4810",
+      "latitude": 43.8817428,
+      "longitude": -79.0193889,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-kitchener-king-e",
+      "name": "Pizza Hut",
+      "address": "2934 King Street East, Unit B, Kitchener, ON, N2A 1A7",
+      "phone": "(519) 748-2702",
+      "latitude": 43.42937,
+      "longitude": -80.434689,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-kitchener-fischer-hallman",
+      "name": "Pizza Hut",
+      "address": "685 Fischer Hallman Road, Kitchener, ON, N2L 6M4",
+      "phone": "(519) 571-1952",
+      "latitude": 43.4153568,
+      "longitude": -80.5113282,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-parry-sound-bowes",
+      "name": "Pizza Hut",
+      "address": "112 Bowes Road, Parry Sound, ON, P2A 2L7",
+      "phone": "(705) 746-8879",
+      "latitude": 45.346369,
+      "longitude": -80.0031633,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-sudbury-loach",
+      "name": "Pizza Hut",
+      "address": "121 Loach's Rd, Sudbury, ON, P3E 2P8",
+      "phone": "(705) 560-0000",
+      "latitude": 46.4497633,
+      "longitude": -80.9937259,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-sudbury-barrydowne",
+      "name": "Pizza Hut",
+      "address": "944 Barrydowne Rd, Sudbury, ON, P3A 3V3",
+      "phone": "(705) 560-0000",
+      "latitude": 46.5175689,
+      "longitude": -80.9433396,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-valley-east-hwy69",
+      "name": "Pizza Hut",
+      "address": "4544 Hwy 69 N, Valley East, ON, P3P 1P9",
+      "phone": "(705) 560-0000",
+      "latitude": 46.6301369,
+      "longitude": -81.0079909,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-guelph-eramosa",
+      "name": "Pizza Hut",
+      "address": "211 Eramosa Rd., Guelph, ON, N1E 2M5",
+      "phone": "(226) 314-1899",
+      "latitude": 43.5558821,
+      "longitude": -80.2490467,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "21:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-cambridge-hespeler",
+      "name": "Pizza Hut",
+      "address": "1 Hespeler Rd, Cambridge, ON, N1R 8L4",
+      "phone": "(519) 622-0026",
+      "latitude": 43.3742087,
+      "longitude": -80.3168073,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-hamilton-upper-ottawa",
+      "name": "Pizza Hut",
+      "address": "1405 Upper Ottawa, Hamilton, ON, L8W 3J6",
+      "phone": "(289) 335-1270",
+      "latitude": 43.1974164,
+      "longitude": -79.8410756,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "21:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-waterloo-weber",
+      "name": "Pizza Hut",
+      "address": "133 Weber St N, Waterloo, ON, N2J 3G9",
+      "phone": "(519) 746-7401",
+      "latitude": 43.4718375,
+      "longitude": -80.5154159,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-woodstock-huron",
+      "name": "Pizza Hut",
+      "address": "3 Huron St, Woodstock, ON, N4S 6Y9",
+      "phone": "(519) 539-8157",
+      "latitude": 43.1316768,
+      "longitude": -80.7475071,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-tillsonburg-simcoe",
+      "name": "Pizza Hut",
+      "address": "84 Simcoe Street, Tillsonburg, ON, N4G 2H7",
+      "phone": "(519) 688-0032",
+      "latitude": 42.8594867,
+      "longitude": -80.7124679,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "21:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-guelph-scottsdale",
+      "name": "Pizza Hut",
+      "address": "649 Scottsdale Dr, Guelph, ON, N1G 4T7",
+      "phone": "(519) 821-2260",
+      "latitude": 43.514124,
+      "longitude": -80.237582,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-stratford-erie",
+      "name": "Pizza Hut",
+      "address": "332 Erie Street, Stratford, ON, N5A 2N2",
+      "phone": "(519) 273-7100",
+      "latitude": 43.3642416,
+      "longitude": -80.9893893,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "20:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-calgary-17ave-se",
+      "name": "Pizza Hut",
+      "address": "4710 17th Ave SE, Calgary, AB, T2A 0V1",
+      "phone": "(403) 648-0797",
+      "latitude": 51.0373768,
+      "longitude": -113.9630423,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        },
+        "samedi": {
+          "ouverture": "10:00",
+          "fermeture": "02:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-calgary-4st-ne",
+      "name": "Pizza Hut",
+      "address": "5010 4th St NE, Calgary, AB, T2K 5X8",
+      "phone": "(403) 800-0690",
+      "latitude": 51.0972233,
+      "longitude": -114.0529988,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-calgary-deer-ridge",
+      "name": "Pizza Hut",
+      "address": "14919 Deer Ridge Dr SE, Unit B123, Calgary, AB, T2J 7C4",
+      "phone": "(403) 648-0795",
+      "latitude": 50.9303192,
+      "longitude": -114.024974,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
+    },
+    {
+      "id": "pizza-hut-calgary-17ave-sw",
+      "name": "Pizza Hut",
+      "address": "1062 17th Ave SW, Calgary, AB, T2T 0A5",
+      "phone": "(403) 537-2576",
+      "latitude": 51.0379984,
+      "longitude": -114.086558,
+      "rating": 0,
+      "cuisine": [
+        "pizza"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "delivery"
+      ],
+      "keywords": [],
+      "horaires": {
+        "dimanche": {
+          "ouverture": "12:00",
+          "fermeture": "22:00"
+        },
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mardi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "mercredi": {
+          "ouverture": "10:00",
+          "fermeture": "23:00"
+        },
+        "jeudi": {
+          "ouverture": "10:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "23:00"
+        }
+      },
+      "note": "",
+      "source": "prixmalin",
+      "website": "https://www.pizzahut.ca",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": ""
     }
   ]
 }
