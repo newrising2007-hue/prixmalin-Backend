@@ -345,6 +345,38 @@ app.get('/api/clicks/:slug', (req, res) => {
   }
 });
 
+// COUPON EMAIL — Envoyer rappel produit par courriel via Resend
+app.post('/api/coupon/:slug', async (req, res) => {
+  try {
+    const { slug } = req.params;
+    const { email, produit } = req.body;
+    if (!email || !produit) return res.status(400).json({ error: 'Email et produit requis' });
+    const RESEND_API_KEY = process.env.RESEND_API_KEY;
+    if (!RESEND_API_KEY) return res.status(500).json({ error: 'Clé Resend manquante' });
+    const fs = require('fs');
+    const path = require('path');
+    const partenaires = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'partenaires.json'), 'utf-8'));
+    const partenaire = partenaires.find(p => p.slug === slug);
+    if (!partenaire) return res.status(404).json({ error: 'Partenaire introuvable' });
+    const nomPartenaire = partenaire.nom || slug;
+    const couponCode = partenaire.coupon?.code || 'PRIXMALIN5';
+    const pageUrl = `https://prixmalin.ca/partenaires/${slug}`;
+    const htmlEmail = `<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"></head><body style="margin:0;padding:0;background:#f9fafb;font-family:Arial,sans-serif;"><div style="max-width:480px;margin:40px auto;background:#ffffff;border-radius:16px;overflow:hidden;border:1px solid #e5e7eb;"><div style="background:#2eaabf;padding:24px;text-align:center;"><p style="color:#fff;font-size:13px;margin:0 0 4px;opacity:.85;">Rappel PrixMalin</p><p style="color:#fff;font-size:20px;font-weight:bold;margin:0;">${nomPartenaire}</p></div><div style="padding:28px 24px;"><p style="color:#374151;font-size:15px;margin:0 0 6px;">Vous avez sauvegardé :</p><div style="background:#f0fbfd;border:1px solid #2eaabf;border-radius:12px;padding:16px;margin:0 0 20px;"><p style="color:#1d8fa3;font-size:17px;font-weight:bold;margin:0 0 4px;">${produit.nom}</p><p style="color:#6b7280;font-size:13px;margin:0;"><span style="text-decoration:line-through;">${produit.prix_regulier}$</span> → <span style="color:#2eaabf;font-weight:bold;">${produit.prix_special}$</span></p></div><div style="text-align:center;margin:0 0 24px;"><p style="color:#9ca3af;font-size:11px;letter-spacing:2px;text-transform:uppercase;margin:0 0 8px;">Coupon exclusif</p><p style="color:#2eaabf;font-size:28px;font-weight:900;letter-spacing:4px;margin:0 0 8px;">${couponCode}</p><p style="color:#6b7280;font-size:13px;margin:0;">Montrez cet écran en caisse pour obtenir votre -5%</p></div><div style="text-align:center;"><a href="${pageUrl}" style="display:inline-block;background:#2eaabf;color:#fff;text-decoration:none;padding:12px 28px;border-radius:8px;font-size:14px;font-weight:bold;">Voir la page ${nomPartenaire}</a></div></div><div style="padding:16px 24px;border-top:1px solid #f3f4f6;text-align:center;"><p style="color:#9ca3af;font-size:11px;margin:0;">Ce courriel vous a été envoyé via <a href="https://prixmalin.ca" style="color:#2eaabf;text-decoration:none;">PrixMalin.ca</a></p></div></div></body></html>`;
+    const response = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${RESEND_API_KEY}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ from: 'PrixMalin <partenaires@prixmalin.ca>', to: [email], subject: `Rappel : ${produit.nom} chez ${nomPartenaire} — Code ${couponCode}`, html: htmlEmail })
+    });
+    const result = await response.json();
+    if (!response.ok) { console.error('Erreur Resend:', result); return res.status(500).json({ error: 'Erreur envoi courriel' }); }
+    console.log(`📧 Coupon envoyé — ${slug} — ${produit.nom} → ${email}`);
+    res.json({ success: true });
+  } catch(e) {
+    console.error('Erreur /api/coupon:', e.message);
+    res.status(500).json({ error: e.message });
+  }
+});
+
 app.listen(PORT, () => {
   console.log('========================================');
   console.log('🚀 PRIXMALIN BACKEND V5 - AFFILIATION');
