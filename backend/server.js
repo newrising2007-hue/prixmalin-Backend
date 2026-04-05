@@ -310,6 +310,41 @@ app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'PrixMalin Backend v5 - Affiliation' });
 });
 
+
+// ══════ COMPTEUR DE CLICS PARTENAIRES ══════
+const CLICKS_PATH = require('path').join(__dirname, 'data', 'clicks.json');
+
+function loadClicks() {
+  try { return JSON.parse(fs.readFileSync(CLICKS_PATH, 'utf8')); }
+  catch(e) { return {}; }
+}
+
+function saveClicks(data) {
+  fs.writeFileSync(CLICKS_PATH, JSON.stringify(data, null, 2), 'utf8');
+}
+
+app.post('/api/clicks/:slug', (req, res) => {
+  try {
+    const { slug } = req.params;
+    const clicks = loadClicks();
+    clicks[slug] = (clicks[slug] || 0) + 1;
+    saveClicks(clicks);
+    res.json({ success: true, slug, clicks: clicks[slug] });
+  } catch(e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
+app.get('/api/clicks/:slug', (req, res) => {
+  try {
+    const { slug } = req.params;
+    const clicks = loadClicks();
+    res.json({ success: true, slug, clicks: clicks[slug] || 0 });
+  } catch(e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
 app.listen(PORT, () => {
   console.log('========================================');
   console.log('🚀 PRIXMALIN BACKEND V5 - AFFILIATION');
