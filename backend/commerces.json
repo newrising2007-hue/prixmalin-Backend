@@ -2869,7 +2869,9 @@
         "ligne de pêche",
         "brimbale",
         "sonar de pêche",
-        "puise"
+        "puise",
+        "Centerpoint",
+        "Feradyne"
       ],
       "address": "67 Rue Sainte-Anne, Ville-Marie, QC J9V 2B6",
       "phone": "(819) 629-2548",
@@ -3036,7 +3038,9 @@
         "fishing line",
         "tip-up",
         "fishing sonar",
-        "landing net"
+        "landing net",
+        "Centerpoint",
+        "Feradyne"
       ],
       "keywords_es": [
         "batería",
@@ -3197,7 +3201,9 @@
         "línea de pesca",
         "señalador de hielo",
         "sonar de pesca",
-        "red de pesca"
+        "red de pesca",
+        "Centerpoint",
+        "Feradyne"
       ],
       "keywords_ar": [
         "بطارية",
@@ -3355,7 +3361,9 @@
         "خط صيد",
         "مؤشر جليد",
         "سونار الصيد",
-        "شبكة الإمساك بالسمك"
+        "شبكة الإمساك بالسمك",
+        "Centerpoint",
+        "Feradyne"
       ],
       "keywords_zh": [
         "电池",
@@ -3514,7 +3522,9 @@
         "钓鱼线",
         "冰钓提示器",
         "捕鱼声纳",
-        "抄网"
+        "抄网",
+        "Centerpoint",
+        "Feradyne"
       ]
     },
     {
