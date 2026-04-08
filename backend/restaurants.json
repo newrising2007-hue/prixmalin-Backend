@@ -15115,7 +15115,12 @@
           "fermeture": "15:00"
         }
       },
-      "id": "allo-mon-coco-canada"
+      "id": "allo-mon-coco-canada",
+      "note": "Excellent service et très bon déjeunner",
+      "note_en": "Excellent service and very good lunch",
+      "note_es": "Servicio excelente y muy buen almuerzo",
+      "note_ar": "خدمة ممتازة وغداء لذيذ",
+      "note_zh": "优秀的服务和非常好吃的午餐"
     },
     {
       "name": "Horizon Thaï",
