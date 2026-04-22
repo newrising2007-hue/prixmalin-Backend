@@ -385,6 +385,23 @@ app.listen(PORT, () => {
   console.log('========================================');
 });
 
+// POST /api/category-aliases — ajouter un alias de catégorie
+app.post('/api/category-aliases', (req, res) => {
+  try {
+    const { parent, child } = req.body;
+    if (!parent || !child) return res.status(400).json({ error: 'parent et child requis' });
+    const aliasPath = path.join(__dirname, 'category-aliases.json');
+    const aliases = JSON.parse(fs.readFileSync(aliasPath, 'utf8'));
+    if (!aliases[parent]) aliases[parent] = [];
+    if (!aliases[parent].includes(child)) {
+      aliases[parent].push(child);
+      fs.writeFileSync(aliasPath, JSON.stringify(aliases, null, 2), 'utf8');
+      console.log(`✅ Alias ajouté : ${child} → ${parent}`);
+    }
+    res.json({ ok: true, aliases });
+  } catch(e) { res.status(500).json({ error: e.message }); }
+});
+
 // GEOCODING — Convertir nom de ville en lat/lng (Google Geocoding API)
 app.get('/api/geocode', async (req, res) => {
   try {
