@@ -1,37 +1,99 @@
 {
-  "electro": [
-    "electronique",
-    "informatique",
-    "audio",
-    "video",
-    "mobile",
-    "reseau_securite",
-    "console_jeux",
-    "wearable",
-    "gps_navigation"
+  "pieces": [
+    "pieces_auto",
+    "batterie_auto",
+    "pneu",
+    "carrosserie",
+    "outil_mecanicien",
+    "soudage"
   ],
-  "epicerie": [
-    "epicerie_generale",
-    "viande_epicerie"
+  "quincaillerie": [
+    "quincaillerie_generale",
+    "outil_electrique",
+    "outil_batisse",
+    "plomberie",
+    "electricite",
+    "peinture_quincaillerie",
+    "colles_scellants",
+    "paysagement"
+  ],
+  "electro": [
+    "informatique",
+    "mobile",
+    "video",
+    "audio",
+    "console_jeux",
+    "reseau_securite",
+    "wearable"
+  ],
+  "maison": [
+    "electromenager",
+    "cuisine",
+    "meuble",
+    "decoration"
+  ],
+  "mode": [
+    "mode_homme",
+    "mode_femme",
+    "mode_enfant",
+    "chaussure"
+  ],
+  "sport": [
+    "article_sport",
+    "vetement_sport"
+  ],
+  "plein_air": [
+    "chasse",
+    "peche",
+    "camping",
+    "gps_navigation",
+    "survie_randonnee"
+  ],
+  "vehicules": [
+    "nautique",
+    "moto",
+    "pieces_loisir",
+    "yamaha",
+    "arctic-cat",
+    "suzuki",
+    "vehicules_ford",
+    "vehicules_chevrolet"
+  ],
+  "machinerie": [
+    "tracteur_agricole",
+    "machinerie_construction"
   ],
   "bijoux": [
     "montre",
     "sac_accessoire"
   ],
-  "vehicules": [
-    "auto",
-    "moto",
-    "yamaha",
-    "arctic-cat",
-    "vehicules_ford",
-    "vehicules_chevrolet"
+  "bureautique": [
+    "meuble_bureau",
+    "papeterie",
+    "imprimerie"
   ],
-  "pieces": [
-    "pieces_auto",
-    "pieces_loisir",
-    "batterie_auto",
-    "pneu",
-    "carrosserie",
-    "pieces_hydraulique"
+  "epicerie": [
+    "epicerie_generale",
+    "viande_epicerie",
+    "hygiene_maison",
+    "boucherie",
+    "boulangerie",
+    "traiteur"
+  ],
+  "sante": [
+    "pharmacie",
+    "optique",
+    "coiffure",
+    "esthetique",
+    "soins_personnels"
+  ],
+  "animalerie": [
+    "nourriture_animaux",
+    "accessoires_animaux",
+    "veterinaire"
+  ],
+  "loisirs": [
+    "jeux_jouets",
+    "hobby"
   ]
 }
