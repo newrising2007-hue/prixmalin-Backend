@@ -37584,6 +37584,62 @@
       "note_es": "",
       "note_ar": "",
       "note_zh": ""
+    },
+    {
+      "name": "Broski's Diner",
+      "address": "27 Whitewood Avenue West, New Liskeard, ON P0J 1P0",
+      "phone": "(705) 628-4028",
+      "website": "https://broskisdiner.ca",
+      "cuisine": [
+        "déjeuner",
+        "brunch",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "rating": 4.2,
+      "latitude": 47.5057,
+      "longitude": -79.6724,
+      "horaires": {
+        "lundi": {
+          "ouverture": "",
+          "fermeture": ""
+        },
+        "mardi": {
+          "ouverture": "08:00",
+          "fermeture": "14:00"
+        },
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "14:00"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "14:00"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "14:00"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "14:00"
+        },
+        "dimanche": {
+          "ouverture": "09:00",
+          "fermeture": "14:00"
+        }
+      },
+      "source": "prixmalin",
+      "id": "broskis-diner-p",
+      "keywords": [],
+      "note": "Venez en famille vous trouverez une place.",
+      "note_en": "Come as a family, you'll find a seat.",
+      "note_es": "Venid en familia y encontraréis un lugar.",
+      "note_ar": "تعالوا كعائلة وستجدون مقعدًا.",
+      "note_zh": "全家一起来，您会找到座位。"
     }
   ]
 }
