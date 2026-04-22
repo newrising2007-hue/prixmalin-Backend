@@ -10539,11 +10539,10 @@
       "id": "agrimax-st-bruno",
       "name": "Agrimax St-Bruno-de-Guigues",
       "categories": [
-        "auto",
-        "sport",
-        "pieces",
         "vehicules",
-        "jardin"
+        "pieces",
+        "pieces_loisir",
+        "moto"
       ],
       "keywords": [
         "john deere",

@@ -22,13 +22,16 @@
     "auto",
     "moto",
     "yamaha",
-    "arctic-cat"
+    "arctic-cat",
+    "vehicules_ford",
+    "vehicules_chevrolet"
   ],
   "pieces": [
     "pieces_auto",
     "pieces_loisir",
     "batterie_auto",
     "pneu",
-    "carrosserie"
+    "carrosserie",
+    "pieces_hydraulique"
   ]
 }
