@@ -56,7 +56,17 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 2
 
   return commerces
     .filter(c => {
-      const categoryMatch = category === 'divers' || c.categories.includes(category) || (category === 'electronique' && c.categories.includes('electro')) || (category === 'electro' && c.categories.includes('electronique'));
+      const categoryMatch = category === 'divers' ||
+        c.categories.some(cat =>
+          cat === category ||
+          cat.startsWith(category + '_') ||
+          category.startsWith(cat + '_') ||
+          (category === 'electro' && (cat === 'electronique' || cat === 'informatique' || cat === 'audio' || cat === 'video' || cat === 'mobile' || cat === 'reseau_securite' || cat === 'console_jeux' || cat === 'wearable' || cat === 'gps_navigation')) ||
+          (category === 'epicerie' && (cat === 'epicerie_generale' || cat === 'viande_epicerie')) ||
+          (category === 'bijoux' && (cat === 'montre' || cat === 'sac_accessoire')) ||
+          (category === 'vehicules' && (cat === 'auto' || cat === 'moto' || cat === 'yamaha' || cat === 'arctic-cat')) ||
+          (category === 'pieces' && (cat === 'pieces_auto' || cat === 'pieces_loisir' || cat === 'batterie_auto' || cat === 'pneu' || cat === 'carrosserie'))
+        );
       const queryWords = lowerQuery.split(/\s+/);
       const keywordMatch = c.keywords.some(kw => {
         const kwNorm = normalizeStr(kw);
