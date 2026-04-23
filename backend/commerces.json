@@ -34923,7 +34923,13 @@
         "RAM 3500",
         "Jeep Wrangler",
         "Jeep Gladiator",
-        "Jeep Grand Cherokee"
+        "Jeep Grand Cherokee",
+        "Dodge Hornet",
+        "RAM ProMaster",
+        "Jeep Grand Wagoneer",
+        "Jeep Compass",
+        "Jeep Renegade",
+        "Jeep Avenger"
       ],
       "address": "73-79 Rue De L'Église Nord, Lorrainville, QC J0Z 2R0",
       "phone": "(819) 625-2187",
@@ -35016,7 +35022,12 @@
         "Prius",
         "Venza",
         "bZ4X",
-        "GR86"
+        "GR86",
+        "C-HR",
+        "Prius Prime",
+        "Land Cruiser",
+        "GR Corolla",
+        "GR Supra"
       ],
       "address": "998039 ON-11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-5959",
@@ -35108,7 +35119,14 @@
         "Canyon",
         "Acadia",
         "Buick Enclave",
-        "Buick Encore"
+        "Buick Encore",
+        "Blazer",
+        "Trax",
+        "Corvette",
+        "Malibu",
+        "Spark",
+        "Express",
+        "Low Cab Forward"
       ],
       "address": "100 Wilson Ave, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-5050",
@@ -35197,7 +35215,8 @@
         "Bronco",
         "Maverick",
         "Mustang",
-        "Mustang Mach-E"
+        "Mustang Mach-E",
+        "Bronco Sport"
       ],
       "address": "260 Armstrong St N, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-4393",
@@ -35278,7 +35297,9 @@
         "CX-60",
         "CX-90",
         "MX-5 Miata",
-        "MX-30"
+        "MX-30",
+        "CX-70",
+        "CX-80"
       ],
       "address": "1827 3e Avenue, Val-d'Or, QC J9P 7A9",
       "phone": "(819) 825-2500",
@@ -35349,7 +35370,10 @@
         "CX-50",
         "CX-90",
         "MX-5 Miata",
-        "MX-30"
+        "MX-30",
+        "CX-60",
+        "CX-70",
+        "CX-80"
       ],
       "address": "1224 Av. Larivière, Rouyn-Noranda, QC J9X 4K8",
       "phone": "(819) 797-6666",
@@ -35426,7 +35450,8 @@
         "Bronco",
         "Maverick",
         "Mustang",
-        "Mustang Mach-E"
+        "Mustang Mach-E",
+        "Bronco Sport"
       ],
       "address": "1155 Av. Larivière, Rouyn-Noranda, QC J9X 4K9",
       "phone": "(819) 797-3673",
@@ -35523,7 +35548,18 @@
         "Escalade",
         "Lyriq",
         "Buick Enclave",
-        "Buick Encore"
+        "Buick Encore",
+        "Suburban",
+        "Trailblazer",
+        "Blazer",
+        "Trax",
+        "Corvette",
+        "Malibu",
+        "Spark",
+        "Express",
+        "Low Cab Forward",
+        "pièces Chevrolet",
+        "Canyon"
       ],
       "address": "375 Boul. Rideau, Rouyn-Noranda, QC J9X 5Y7",
       "phone": "(819) 762-1751",
@@ -35612,7 +35648,12 @@
         "Kicks",
         "Versa",
         "Leaf",
-        "Ariya"
+        "Ariya",
+        "Maxima",
+        "Rogue Sport",
+        "Armada",
+        "370Z",
+        "GT-R"
       ],
       "address": "321 Av. Larivière, Rouyn-Noranda, QC J9X 4H5",
       "phone": "(819) 762-4311",
@@ -35688,7 +35729,12 @@
         "Kicks",
         "Versa",
         "Leaf",
-        "Ariya"
+        "Ariya",
+        "Maxima",
+        "Rogue Sport",
+        "Armada",
+        "370Z",
+        "GT-R"
       ],
       "address": "1689 3e Avenue, Val-d'Or, QC J9P 1V9",
       "phone": "(819) 825-2525",
@@ -35766,7 +35812,8 @@
         "Niro",
         "EV6",
         "EV9",
-        "Carnival"
+        "Carnival",
+        "Stinger"
       ],
       "address": "1280 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-7222",
@@ -35844,7 +35891,8 @@
         "Palisade",
         "Ioniq 5",
         "Ioniq 6",
-        "Nexo"
+        "Nexo",
+        "Ioniq 9"
       ],
       "address": "1399 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-1741",
@@ -35926,7 +35974,13 @@
         "Prius",
         "Venza",
         "bZ4X",
-        "GR86"
+        "GR86",
+        "Sequoia",
+        "C-HR",
+        "Prius Prime",
+        "Land Cruiser",
+        "GR Corolla",
+        "GR Supra"
       ],
       "address": "1355 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-5000",
@@ -36007,7 +36061,13 @@
         "Prius",
         "Venza",
         "bZ4X",
-        "GR86"
+        "GR86",
+        "Sequoia",
+        "C-HR",
+        "Prius Prime",
+        "Land Cruiser",
+        "GR Corolla",
+        "GR Supra"
       ],
       "address": "1080 3e Avenue E, Val-d'Or, QC J9P 0J6",
       "phone": "(819) 825-9000",
@@ -36086,7 +36146,9 @@
         "Atlas Cross Sport",
         "Taos",
         "ID.4",
-        "Arteon"
+        "Arteon",
+        "Passat",
+        "ID. Buzz"
       ],
       "address": "1005 Av. Larivière, Rouyn-Noranda, QC J9X 4K6",
       "phone": "(819) 762-7788",
@@ -36167,7 +36229,9 @@
         "Ridgeline",
         "Odyssey",
         "Prologue",
-        "ZR-V"
+        "ZR-V",
+        "Fit",
+        "Insight"
       ],
       "address": "1225 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-6565",
@@ -36246,7 +36310,9 @@
         "Ridgeline",
         "Odyssey",
         "Prologue",
-        "ZR-V"
+        "ZR-V",
+        "Fit",
+        "Insight"
       ],
       "address": "1720 3e Avenue, Val-d'Or, QC J9P 1W2",
       "phone": "(819) 825-7838",
