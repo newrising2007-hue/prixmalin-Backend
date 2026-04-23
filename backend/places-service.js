@@ -19,13 +19,14 @@ function loadLocalDealers() {
 function getMatchingDealers(query, category, latitude, longitude) {
   const dealers = loadLocalDealers();
   const brand = extractVehicleBrand(query);
-
-  return dealers
-    .filter(d => {
-      const categoryMatch = d.categories.includes(category);
-      const brandMatch = brand ? d.brands.includes(brand) : true;
-      return categoryMatch && brandMatch;
-    })
+  const filtered = dealers.filter(d => {
+    const categoryMatch = d.categories.includes(category);
+    const brandMatch = brand ? d.brands.includes(brand) : true;
+    return categoryMatch && brandMatch;
+  });
+  // Marque reconnue mais aucun dealer local → laisser Google Places trouver
+  if (brand && filtered.length === 0) return [];
+  return filtered
     .map(d => ({
       ...d,
       distance: calculateDistance(latitude, longitude, d.latitude, d.longitude),
@@ -81,11 +82,11 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 2
             // Mots très courts (or, as...) → match exact uniquement
             return kwWords.some(kw => kw === qw);
           }
-          // Mots normaux → exact ou stemming startsWith 4 chars
+          // Mots normaux → exact ou stemming startsWith 6 chars
           return kwWords.some(kw =>
             kw === qw ||
-            (qw.length >= 4 && kw.startsWith(qw.substring(0, 4))) ||
-            (kw.length >= 4 && qw.startsWith(kw.substring(0, 4)))
+            (qw.length >= 6 && kw.startsWith(qw.substring(0, 6))) ||
+            (kw.length >= 6 && qw.startsWith(kw.substring(0, 6)))
           );
         });
       });
@@ -272,6 +273,7 @@ function extractVehicleBrand(query) {
     'arctic cat', 'ski-doo', 'bombardier', 'polaris', 'can-am',
     'ford', 'toyota', 'chevrolet', 'gmc', 'dodge', 'jeep',
     'bmw', 'mercedes', 'audi', 'volkswagen', 'hyundai', 'kia',
+    'nissan', 'mazda', 'subaru', 'mitsubishi', 'honda',
     'harley', 'harley-davidson', 'ducati', 'triumph', 'royal enfield',
     'sea-doo', 'brp', 'lynx', 'sherco', 'gasgas', 'beta'
   ];
