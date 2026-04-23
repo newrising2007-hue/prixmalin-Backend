@@ -402,6 +402,22 @@ app.post('/api/category-aliases', (req, res) => {
   } catch(e) { res.status(500).json({ error: e.message }); }
 });
 
+// SEARCH — Endpoint GET pour le web (route.ts)
+app.get('/api/search', async (req, res) => {
+  try {
+    const { q, cat, lat, lng } = req.query;
+    if (!q) return res.status(400).json({ error: 'Requête vide' });
+    const latitude = parseFloat(lat) || 47.3283;
+    const longitude = parseFloat(lng) || -79.4338;
+    const category = cat || 'divers';
+    const results = await searchLocalStores(q, category, latitude, longitude, 100);
+    return res.json({ results });
+  } catch (err) {
+    console.error('/api/search error:', err);
+    return res.status(500).json({ error: 'Erreur serveur' });
+  }
+});
+
 // GEOCODING — Convertir nom de ville en lat/lng (Google Geocoding API)
 app.get('/api/geocode', async (req, res) => {
   try {
