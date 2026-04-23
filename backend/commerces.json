@@ -4287,12 +4287,7 @@
         "chemise homme",
         "manteau homme",
         "t-shirt homme",
-        "veston",
-        "complet",
-        "cravate",
-        "short homme",
         "sous-vêtement homme",
-        "pyjama homme",
         "chaussette homme",
         "pantalon de jogging",
         "jeans",
@@ -4305,7 +4300,6 @@
         "pantalon femme",
         "legging",
         "chemisier",
-        "sous-vêtement femme",
         "lingerie",
         "pyjama femme",
         "maillot de bain",
@@ -5616,7 +5610,7 @@
       "id": "paquin-ford-stbruno",
       "name": "Automobile Paquin Ford St-Bruno-de-Guigues",
       "categories": [
-        "vehicule-ford2"
+        "vehicules_ford"
       ],
       "keywords": [
         "ford",
@@ -15811,13 +15805,13 @@
       "id": "magasin-petrin-bearn",
       "name": "Magasin Pétrin Béarn",
       "categories": [
-        "mode"
+        "mode_homme",
+        "mode_femme"
       ],
       "keywords": [
         "vêtements",
         "mode",
         "chemise",
-        "manteau",
         "pantalon",
         "robe",
         "boutique",
@@ -34941,7 +34935,7 @@
       "id": "clement-chrysler-lorrainville",
       "name": "Clément Chrysler Dodge Ltée Lorrainville",
       "categories": [
-        "vehicule"
+        "vehicules"
       ],
       "keywords": [
         "Chrysler",
