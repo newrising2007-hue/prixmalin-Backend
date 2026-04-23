@@ -291,8 +291,17 @@ function extractVehicleBrand(query) {
     'rogue': 'nissan', 'pathfinder': 'nissan', 'frontier': 'nissan',
     'tacoma': 'toyota', 'tundra': 'toyota', 'rav4': 'toyota', 'highlander': 'toyota',
     'mxz': 'ski-doo', 'summit': 'ski-doo', 'renegade': 'ski-doo', 'skandic': 'ski-doo',
-    'outlander': 'can-am', 'defender': 'can-am', 'spyder': 'can-am',
-    'rzr': 'polaris', 'sportsman': 'polaris', 'ranger polaris': 'polaris',
+    'backcountry': 'ski-doo', 'expedition': 'ski-doo', 'tundra': 'ski-doo',
+    'outlander': 'can-am', 'defender': 'can-am', 'spyder': 'can-am', 'maverick': 'can-am',
+    'rzr': 'polaris', 'sportsman': 'polaris', 'ranger polaris': 'polaris', 'general': 'polaris',
+    'grizzly': 'yamaha', 'raptor': 'yamaha', 'kodiak': 'yamaha', 'wolverine': 'yamaha',
+    'sidewinder': 'yamaha', 'viper': 'yamaha', 'sr viper': 'yamaha',
+    'fx': 'yamaha', 'waverunner': 'yamaha',
+    'alterra': 'arctic cat', 'wildcat': 'arctic cat', 'zr': 'arctic cat',
+    'xf': 'arctic cat', 'bearcat': 'arctic cat',
+    'spark': 'sea-doo', 'gti': 'sea-doo', 'gtx': 'sea-doo', 'rxp': 'sea-doo',
+    'rxt': 'sea-doo', 'fish pro': 'sea-doo',
+    'cfmoto': 'cfmoto', 'cforce': 'cfmoto', 'zforce': 'cfmoto', 'uforce': 'cfmoto',
   };
   const lowerQuery = query.toLowerCase()
     .replace(/œ/g, 'oe').replace(/æ/g, 'ae')
