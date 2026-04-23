@@ -275,9 +275,32 @@ function extractVehicleBrand(query) {
     'harley', 'harley-davidson', 'ducati', 'triumph', 'royal enfield',
     'sea-doo', 'brp', 'lynx', 'sherco', 'gasgas', 'beta'
   ];
+  // Modèles → marque
+  const modelMap = {
+    'f-150': 'ford', 'f150': 'ford', 'f-250': 'ford', 'f250': 'ford',
+    'f-350': 'ford', 'f350': 'ford', 'ranger': 'ford', 'escape': 'ford',
+    'explorer': 'ford', 'expedition': 'ford', 'maverick': 'ford',
+    'mustang': 'ford', 'bronco': 'ford', 'edge': 'ford',
+    'silverado': 'chevrolet', 'colorado': 'chevrolet', 'tahoe': 'chevrolet',
+    'suburban': 'chevrolet', 'equinox': 'chevrolet', 'traverse': 'chevrolet',
+    'sierra': 'gmc', 'yukon': 'gmc', 'canyon': 'gmc', 'acadia': 'gmc',
+    'ram': 'dodge', 'durango': 'dodge', 'challenger': 'dodge', 'charger': 'dodge',
+    'wrangler': 'jeep', 'grand cherokee': 'jeep', 'compass': 'jeep',
+    'tucson': 'hyundai', 'santa fe': 'hyundai', 'elantra': 'hyundai',
+    'cx-5': 'mazda', 'cx5': 'mazda', 'cx-50': 'mazda',
+    'rogue': 'nissan', 'pathfinder': 'nissan', 'frontier': 'nissan',
+    'tacoma': 'toyota', 'tundra': 'toyota', 'rav4': 'toyota', 'highlander': 'toyota',
+    'mxz': 'ski-doo', 'summit': 'ski-doo', 'renegade': 'ski-doo', 'skandic': 'ski-doo',
+    'outlander': 'can-am', 'defender': 'can-am', 'spyder': 'can-am',
+    'rzr': 'polaris', 'sportsman': 'polaris', 'ranger polaris': 'polaris',
+  };
   const lowerQuery = query.toLowerCase()
     .replace(/œ/g, 'oe').replace(/æ/g, 'ae')
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  // Vérifier modèles en premier
+  for (const [model, brand] of Object.entries(modelMap)) {
+    if (lowerQuery.includes(model)) return brand;
+  }
   return brands.find(b => lowerQuery.includes(b.replace('-', ' ')) || lowerQuery.includes(b)) || null;
 }
 
