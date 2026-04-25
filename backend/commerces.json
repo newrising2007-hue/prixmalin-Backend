@@ -4,7 +4,8 @@
       "id": "home-hardware-villemarie",
       "name": "Home Hardware Ville-Marie",
       "categories": [
-        "quincaillerie"
+        "quincaillerie_generale",
+        "outil_batisse"
       ],
       "keywords": [
         "marteau",
@@ -2601,7 +2602,8 @@
       "id": "proxim-villemarie",
       "name": "Proxim Pharmacie Ville-Marie",
       "categories": [
-        "sante"
+        "pharmacie",
+        "soins_personnels"
       ],
       "keywords": [
         "médicaments",
@@ -6278,10 +6280,8 @@
       "id": "homehardware-temiscaming",
       "name": "Ross Electric Home Hardware Témiscaming",
       "categories": [
-        "quincaillerie",
-        "renovation",
-        "electro",
-        "divers"
+        "quincaillerie_generale",
+        "outil_batisse"
       ],
       "keywords": [
         "marteau",
@@ -7141,7 +7141,8 @@
       "id": "uniprix-temiscaming",
       "name": "Uniprix Sylvie Bougie Témiscaming",
       "categories": [
-        "sante"
+        "pharmacie",
+        "soins_personnels"
       ],
       "keywords": [
         "médicaments",
@@ -9696,7 +9697,8 @@
       "id": "sports-experts-rouyn",
       "name": "Sports Experts Rouyn-Noranda",
       "categories": [
-        "sport"
+        "article_sport",
+        "vetement_sport"
       ],
       "keywords": [
         "vélo",
@@ -9785,7 +9787,9 @@
       "id": "imaginart-insider-villemarie",
       "name": "Imagin'Art & The Insider Florentine Ville-Marie",
       "categories": [
-        "vetements"
+        "mode_femme",
+        "mode_homme",
+        "accessoires_mode"
       ],
       "keywords": [
         "vêtements",
@@ -10533,10 +10537,10 @@
       "id": "agrimax-st-bruno",
       "name": "Agrimax St-Bruno-de-Guigues",
       "categories": [
-        "vehicules",
-        "pieces",
         "pieces_loisir",
-        "moto"
+        "moto",
+        "tracteur_agricole",
+        "pieces_auto"
       ],
       "keywords": [
         "john deere",
@@ -10819,9 +10823,8 @@
       "id": "new-liskeard-chrysler",
       "name": "New Liskeard Chrysler Dodge Jeep Ram",
       "categories": [
-        "vehicules",
-        "auto",
-        "pieces"
+        "vehicules_chrysler",
+        "pieces_auto"
       ],
       "keywords": [
         "chrysler",
@@ -11226,7 +11229,16 @@
         "jeux de société",
         "casse-tête",
         "figurine",
-        "puzzle"
+        "puzzle",
+        "literie",
+        "rideau",
+        "coussin",
+        "meuble",
+        "jouet",
+        "tapis de bain",
+        "distributeur de savon",
+        "machine a eau",
+        "électroménager"
       ],
       "address": "133 Trans-Canada Hwy 11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-6344",
@@ -12334,6 +12346,7 @@
         "livre",
         "livres",
         "roman",
+        "jeu de société",
         "librairie",
         "bouquin"
       ],
@@ -12348,36 +12361,36 @@
         "book",
         "books",
         "novel",
-        "bookstore",
-        "book"
+        "board game",
+        "bookstore"
       ],
       "keywords_es": [
         "libro",
         "libros",
         "novela",
-        "librería",
-        "libro"
+        "juego de mesa",
+        "librería"
       ],
       "keywords_ar": [
         "كتاب",
         "كتب",
         "رواية",
-        "مكتبة",
-        "كتاب"
+        "لعبة طاولة",
+        "مكتبة"
       ],
       "keywords_zh": [
         "书",
         "书籍",
         "小说",
-        "书店",
-        "书"
+        "桌游",
+        "书店"
       ]
     },
     {
       "id": "mcknight-menswear-new-liskeard",
       "name": "McKnight's Men's Wear New Liskeard",
       "categories": [
-        "vetements"
+        "mode_homme"
       ],
       "keywords": [
         "vêtements",
@@ -12481,7 +12494,13 @@
       "id": "rona-new-liskeard",
       "name": "RONA New Liskeard",
       "categories": [
-        "quincaillerie"
+        "quincaillerie_generale",
+        "outil_batisse",
+        "outil_electrique",
+        "plomberie",
+        "electricite",
+        "peinture_quincaillerie",
+        "paysagement"
       ],
       "keywords": [
         "marteau",
@@ -18828,8 +18847,9 @@
       "id": "brick-newliskeard",
       "name": "The Brick New Liskeard",
       "categories": [
-        "maison",
-        "electromenager"
+        "electromenager",
+        "meuble",
+        "decoration"
       ],
       "keywords": [
         "meubles",
@@ -19193,9 +19213,8 @@
       "id": "home-hardware-newliskeard",
       "name": "Grant Home Hardware Building Centre New Liskeard",
       "categories": [
-        "maison",
-        "quincaillerie",
-        "renovation"
+        "quincaillerie_generale",
+        "outil_batisse"
       ],
       "keywords": [
         "quincaillerie",
@@ -19809,8 +19828,8 @@
       "id": "northway-chrysler-newliskeard",
       "name": "North-Way Chrysler New Liskeard",
       "categories": [
-        "vehicules",
-        "auto"
+        "vehicules_chrysler",
+        "pieces_auto"
       ],
       "keywords": [
         "chrysler",
@@ -20038,10 +20057,13 @@
       "id": "hart-home-newliskeard",
       "name": "Hart Home New Liskeard",
       "categories": [
-        "divers",
-        "décoration",
-        "maison",
-        "mode"
+        "electromenager",
+        "cuisine",
+        "meuble",
+        "decoration",
+        "jeux_jouets",
+        "mode_homme",
+        "mode_femme"
       ],
       "keywords": [
         "cadre",
@@ -20070,7 +20092,13 @@
         "hart",
         "puzzle",
         "casse-tete",
-        "jouet"
+        "jouet",
+        "matelas",
+        "meuble",
+        "tapis de bain",
+        "distributeur de savon",
+        "machine a eau",
+        "électroménager"
       ],
       "address": "883303 ON-65, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 269-0601",
@@ -23429,7 +23457,14 @@
         "casse-tête",
         "figurine",
         "jouets",
-        "puzzle"
+        "puzzle",
+        "literie",
+        "meuble",
+        "jouet",
+        "tapis de bain",
+        "distributeur de savon",
+        "machine a eau",
+        "électroménager"
       ],
       "keywords_en": [
         "power tool",
@@ -25036,7 +25071,8 @@
       "slug": "pharmaprix-promenades-cuivre-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
-        "sante"
+        "pharmacie",
+        "soins_personnels"
       ],
       "name": "Pharmaprix",
       "keywords": [
@@ -25269,7 +25305,7 @@
       "slug": "colori-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
-        "vetements"
+        "mode_femme"
       ],
       "name": "Colori",
       "keywords": [
@@ -25325,7 +25361,7 @@
       "slug": "bentley-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
-        "vetements"
+        "sac_accessoire"
       ],
       "name": "Bentley",
       "keywords": [
@@ -25386,7 +25422,7 @@
       "slug": "delices-en-cavale-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
-        "epicerie"
+        "epicerie_generale"
       ],
       "name": "Délices en Cavale",
       "keywords": [
@@ -25653,7 +25689,8 @@
       "slug": "eclipse-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
-        "vetements"
+        "mode_femme",
+        "chaussure"
       ],
       "name": "Eclipse",
       "keywords": [
@@ -26471,12 +26508,13 @@
       "slug": "hart-rouyn-noranda",
       "ville": "Rouyn-Noranda",
       "categories": [
+        "electromenager",
         "cuisine",
+        "meuble",
         "decoration",
+        "jeux_jouets",
         "mode_homme",
-        "mode_femme",
-        "mode_enfant",
-        "chaussure"
+        "mode_femme"
       ],
       "name": "Hart",
       "keywords": [
@@ -26568,7 +26606,14 @@
         "botte d'hiver",
         "botte de travail",
         "chaussure de sport",
-        "semelle"
+        "semelle",
+        "matelas",
+        "meuble",
+        "jouet",
+        "tapis de bain",
+        "distributeur de savon",
+        "machine a eau",
+        "électroménager"
       ],
       "keywords_en": [
         "general store",
@@ -29439,7 +29484,8 @@
     {
       "name": "Home Hardware",
       "categories": [
-        "quincaillerie"
+        "quincaillerie_generale",
+        "outil_batisse"
       ],
       "keywords": [
         "marteau",
@@ -29996,8 +30042,7 @@
     {
       "name": "L'Intro Musique Inc.",
       "categories": [
-        "divers",
-        "electro"
+        "audio"
       ],
       "keywords": [
         "téléviseur",
@@ -34853,7 +34898,7 @@
       "id": "clement-chrysler-lorrainville",
       "name": "Clément Chrysler Dodge Ltée Lorrainville",
       "categories": [
-        "vehicules"
+        "vehicules_chrysler"
       ],
       "keywords": [
         "Chrysler",
@@ -34955,7 +35000,7 @@
       "id": "tri-town-toyota-newliskeard",
       "name": "Tri-Town Toyota Temiskaming Shores",
       "categories": [
-        "vehicules"
+        "vehicules_toyota"
       ],
       "keywords": [
         "Toyota",
@@ -35479,7 +35524,7 @@
       "id": "paquin-mazda-rouyn",
       "name": "Paquin Mazda Rouyn-Noranda",
       "categories": [
-        "vehicules"
+        "vehicules_mazda"
       ],
       "keywords": [
         "Mazda",
@@ -36202,7 +36247,7 @@
       "id": "dynastie-hyundai-rouyn",
       "name": "Dynastie Hyundai Rouyn-Noranda",
       "categories": [
-        "vehicules"
+        "vehicules_hyundai"
       ],
       "keywords": [
         "Hyundai",
@@ -36283,7 +36328,7 @@
       "id": "acces-toyota-rouyn",
       "name": "Accès Toyota Rouyn-Noranda",
       "categories": [
-        "vehicules"
+        "vehicules_toyota"
       ],
       "keywords": [
         "Toyota",
@@ -36370,7 +36415,7 @@
       "id": "valdor-toyota",
       "name": "Val-d'Or Toyota",
       "categories": [
-        "vehicules"
+        "vehicules_toyota"
       ],
       "keywords": [
         "Toyota",
@@ -36457,7 +36502,7 @@
       "id": "paquin-volkswagen-rouyn",
       "name": "Paquin Volkswagen Rouyn-Noranda",
       "categories": [
-        "vehicules"
+        "vehicules_volkswagen"
       ],
       "keywords": [
         "Volkswagen",
