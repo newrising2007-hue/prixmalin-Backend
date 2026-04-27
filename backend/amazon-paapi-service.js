@@ -7,7 +7,7 @@ const { SearchItems } = require('amazon-paapi');
 const AMAZON_CONFIG = {
   AccessKey: process.env.AMAZON_ACCESS_KEY,
   SecretKey: process.env.AMAZON_SECRET_KEY,
-  PartnerTag: process.env.AMAZON_PARTNER_TAG || 'prixmalin-20',
+  PartnerTag: process.env.AMAZON_PARTNER_TAG || 'prixmalin20-20',
   PartnerType: 'Associates',
   Marketplace: 'www.amazon.ca',
 };

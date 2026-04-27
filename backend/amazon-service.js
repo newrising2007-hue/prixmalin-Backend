@@ -2,7 +2,7 @@
  * Service Amazon Associates
  * Génère des liens affiliés Amazon réels - avec traduction FR→EN
  */
-const AMAZON_TAG = 'prixmalin-20';
+const AMAZON_TAG = 'prixmalin20-20';
 
 /**
  * Dictionnaire traduction FR → EN pour Amazon
