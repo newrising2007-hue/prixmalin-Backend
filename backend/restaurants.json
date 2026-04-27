@@ -37640,6 +37640,207 @@
       "note_es": "Venid en familia y encontraréis un lugar.",
       "note_ar": "تعالوا كعائلة وستجدون مقعدًا.",
       "note_zh": "全家一起来，您会找到座位。"
+    },
+    {
+      "id": "subway-malartic",
+      "name": "Subway",
+      "address": "1170 Rue Royale, Malartic, QC J0Y 1Z0",
+      "phone": "(819) 757-6767",
+      "latitude": 48.14191,
+      "longitude": -78.12651,
+      "rating": 4.0,
+      "cuisine": [
+        "sandwich",
+        "fast food"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "subway",
+        "sandwich",
+        "sous-marin",
+        "wrap",
+        "salade",
+        "fast food",
+        "restauration rapide",
+        "déjeuner",
+        "dîner",
+        "souper",
+        "commande en ligne"
+      ],
+      "website": "https://www.subway.com",
+      "horaires": {
+        "lundi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "mardi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "mercredi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "samedi": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        },
+        "dimanche": {
+          "ouverture": "09:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "Subway — Malartic QC"
+    },
+    {
+      "id": "resto-buffet-oriental-malartic",
+      "name": "Resto Buffet Oriental",
+      "address": "741 Rue Royale, Malartic, QC J0Y 1Z0",
+      "phone": "(819) 757-3138",
+      "latitude": 48.13534,
+      "longitude": -78.12393,
+      "rating": 3.8,
+      "cuisine": [
+        "chinois",
+        "buffet",
+        "asiatique"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "livraison"
+      ],
+      "keywords": [
+        "buffet",
+        "buffet chinois",
+        "restaurant chinois",
+        "cuisine asiatique",
+        "buffet oriental",
+        "buffet à volonté",
+        "brunch",
+        "souper buffet",
+        "wonton",
+        "riz frit",
+        "chow mein",
+        "rouleaux impériaux",
+        "poulet général tao",
+        "boeuf mongolien",
+        "crevettes",
+        "sushis",
+        "dim sum"
+      ],
+      "website": "https://www.facebook.com/profile.php?id=100057218238882",
+      "horaires": {
+        "lundi": {
+          "ouverture": "10:00",
+          "fermeture": "20:00"
+        },
+        "mardi": {
+          "ouverture": "09:30",
+          "fermeture": "20:00"
+        },
+        "mercredi": {
+          "ouverture": "09:30",
+          "fermeture": "20:00"
+        },
+        "jeudi": {
+          "ouverture": "09:30",
+          "fermeture": "20:00"
+        },
+        "vendredi": {
+          "ouverture": "09:30",
+          "fermeture": "20:00"
+        },
+        "samedi": {
+          "ouverture": "09:30",
+          "fermeture": "20:00"
+        },
+        "dimanche": {
+          "ouverture": "09:30",
+          "fermeture": "20:00"
+        }
+      },
+      "note": "Buffet les vendredi, samedi, dimanche — 19.95$/adultes, 9.95$/enfants. Malartic QC"
+    },
+    {
+      "id": "mcdonalds-malartic",
+      "name": "McDonald's",
+      "address": "1292 Rue Royale, Malartic, QC J0Y 1Z0",
+      "phone": "(819) 757-4478",
+      "latitude": 48.14338,
+      "longitude": -78.12716,
+      "rating": 3.5,
+      "cuisine": [
+        "fast food",
+        "burger"
+      ],
+      "service": [
+        "surplace",
+        "takeout",
+        "drive-through"
+      ],
+      "keywords": [
+        "mcdonalds",
+        "mcdonald's",
+        "big mac",
+        "mcflurry",
+        "frites",
+        "hamburger",
+        "burger",
+        "nuggets",
+        "fast food",
+        "restauration rapide",
+        "déjeuner",
+        "muffin",
+        "café",
+        "drive-through",
+        "commande en ligne",
+        "happy meal"
+      ],
+      "website": "https://www.mcdonalds.com",
+      "horaires": {
+        "lundi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "mardi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "mercredi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "jeudi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "vendredi": {
+          "ouverture": "05:00",
+          "fermeture": "22:00"
+        },
+        "samedi": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        },
+        "dimanche": {
+          "ouverture": "06:00",
+          "fermeture": "22:00"
+        }
+      },
+      "note": "McDonald's avec service au volant — Malartic QC"
     }
   ]
 }
