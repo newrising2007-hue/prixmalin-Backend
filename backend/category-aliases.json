@@ -57,7 +57,20 @@
     "arctic-cat",
     "suzuki",
     "vehicules_ford",
-    "vehicules_chevrolet"
+    "vehicules_chevrolet",
+    "vehicules_chrysler",
+    "vehicules_hyundai",
+    "vehicules_mazda",
+    "vehicules_kia",
+    "vehicules_nissan",
+    "vehicules_mitsubishi",
+    "ktm",
+    "ski-doo",
+    "kawasaki",
+    "polaris",
+    "husqvarna",
+    "honda_loisir",
+    "vtt"
   ],
   "machinerie": [
     "tracteur_agricole",
@@ -94,6 +107,7 @@
   ],
   "loisirs": [
     "jeux_jouets",
-    "hobby"
+    "hobby",
+    "musique"
   ]
 }
