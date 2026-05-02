@@ -56,7 +56,8 @@
       "note_en": "Popular for lunch - Offers dinners",
       "note_es": "Popular para el almuerzo - Ofrece cenas",
       "note_ar": "مُفضّل لغداء اليوم - يقدم العشاء",
-      "note_zh": "午餐时段受欢迎-提供晚餐"
+      "note_zh": "午餐时段受欢迎-提供晚餐",
+      "place_id": "ChIJ4brjy6BBJk0RYI-fWjtJaPE"
     },
     {
       "id": "la-gauloise-villemarie",
@@ -112,7 +113,8 @@
       "note_en": "Best poutine in the area - secret homemade sauce. Cash only.",
       "note_es": "Mejor poutine en la zona - salsa casera secreta. Solo efectivo.",
       "note_ar": "أفضل بستون في المنطقة - الطعم المنزلية السرية. فقط النقد.",
-      "note_zh": "地区最佳炸薯条-秘制自家酱。仅接受现金。"
+      "note_zh": "地区最佳炸薯条-秘制自家酱。仅接受现金。",
+      "place_id": "ChIJ5yta1qZBJk0R85M65tseN1U"
     },
     {
       "id": "restaurant-louise-villemarie",
@@ -167,7 +169,8 @@
           "fermeture": "14:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "place_id": "ChIJkbukuFdBJk0RaMzhRMdim_8"
     },
     {
       "id": "motel-louise-villemarie",
@@ -222,7 +225,8 @@
           "fermeture": "03:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "place_id": "ChIJe81lAKBBJk0RJ_YMbB87wVw"
     },
     {
       "id": "cafelier-boustifo-villemarie",
@@ -271,7 +275,8 @@
       "note_es": "Pequeño bar de café artesanal — horas limitadas pero café excepcional",
       "note_ar": "قهوة يدوية صغيرة — ساعات محدودة ولكن قهوة ممتازة",
       "note_zh": "小型手工咖啡店——营业时间有限，但咖啡非凡",
-      "website": "https://www.facebook.com/Cafeier.Boustifo"
+      "website": "https://www.facebook.com/Cafeier.Boustifo",
+      "place_id": "ChIJe3-t2p9BJk0R6DlWVe0ft64"
     },
     {
       "id": "28-on-the-lake-newliskeard",
@@ -336,7 +341,8 @@
       "note_en": "Beautiful view of the Temiskaming Lake - very appreciated patio in summer",
       "note_es": "Vista hermosa del lago Temiskaming - patio muy apreciado en verano",
       "note_ar": "منظر جميل على بحيرة تميسكامينغ - شرفة مفضلة في الصيف",
-      "note_zh": "_temiskaming湖美景_ - 夏季非常受欢迎的露台"
+      "note_zh": "_temiskaming湖美景_ - 夏季非常受欢迎的露台",
+      "place_id": "ChIJ_yLPNQ97Jk0RulSN9mnFWWI"
     },
     {
       "id": "tap-that-kitchen-newliskeard",
@@ -400,7 +406,8 @@
       "note_en": "Exceptional quality cuisine for the region - highly appreciated",
       "note_es": "Cocina de calidad excepcional para la región - altamente apreciado",
       "note_ar": "مطبخ من الطراز الرفيع للمنطقة - يحظى بتقدير كبير",
-      "note_zh": "地区质量卓越的烹饪-高度赞赏"
+      "note_zh": "地区质量卓越的烹饪-高度赞赏",
+      "place_id": "ChIJK5a-a0J7Jk0RM-2SqubL_6o"
     },
     {
       "id": "stacked-pancake-newliskeard",
@@ -458,7 +465,8 @@
         }
       },
       "source": "prixmalin",
-      "website": "www.stackedpancakehouse.ca"
+      "website": "www.stackedpancakehouse.ca",
+      "place_id": "ChIJycyU67h7Jk0ROHbaOrwABKk"
     },
     {
       "id": "wild-wing-newliskeard",
@@ -517,7 +525,8 @@
           "fermeture": "23:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "place_id": "ChIJ6Vl-clh7Jk0RMZcqpEaHi6M"
     },
     {
       "id": "rainbow-restaurant-newliskeard",
@@ -570,7 +579,8 @@
           "fermeture": "20:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "place_id": "ChIJoWO7awl7Jk0RfrRmZZV4zDM"
     },
     {
       "id": "curry-naadu-newliskeard",
@@ -625,7 +635,8 @@
       "note_en": "Authentic Kerala cuisine — Halal and vegan options available",
       "note_es": "Cocina auténtica de Kerala — opciones halal y vegetarianas disponibles",
       "note_ar": "المطبخ الكيرالي الأصيل - حلال، نباتي متاح",
-      "note_zh": "正宗喀拉拉菜——提供清真和素食选项"
+      "note_zh": "正宗喀拉拉菜——提供清真和素食选项",
+      "place_id": "ChIJpRzVYgB7Jk0RzPi7fGqRNu4"
     },
     {
       "id": "vivs-kitchen-newliskeard",
@@ -682,7 +693,8 @@
       "note_en": "Little gem - homemade frozen meals, artisan bakery, caterer",
       "note_es": "Menudillo - comidas caseras congeladas, panadería artesanal, cocinero",
       "note_ar": "جوهرة صغيرة - وجبات منزلية مجمدة، مخبز يدوي، خدمات طعام",
-      "note_zh": "小宝石 - 家制冷冻餐，手工艺面包店，餐饮服务"
+      "note_zh": "小宝石 - 家制冷冻餐，手工艺面包店，餐饮服务",
+      "place_id": "ChIJsfmqLDB7Jk0RMiERMz_1OfM"
     },
     {
       "id": "alis-grill-newliskeard",
@@ -738,7 +750,8 @@
           "fermeture": "22:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "place_id": "ChIJ0VfDgUJ8Jk0Rj-98G8egZ5A"
     },
     {
       "id": "husky-house-newliskeard",
@@ -795,7 +808,8 @@
           "fermeture": "22:00"
         }
       },
-      "source": "prixmalin"
+      "source": "prixmalin",
+      "place_id": "ChIJVds8vHh8Jk0R1yxBOWPvKmk"
     },
     {
       "id": "lakeshore-spice-newliskeard",
@@ -857,7 +871,8 @@
       "note_en": "Only cash or Interac transfer -- no card",
       "note_es": "Solo efectivo o transferencia Interac -- no hay tarjeta",
       "note_ar": "فقط النقود أو نقل Interac -- لا يوجد بطاقة",
-      "note_zh": "只有现金或Interac转账 -- 没有信用卡"
+      "note_zh": "只有现金或Interac转账 -- 没有信用卡",
+      "place_id": "ChIJ4xcaPQBvJk0RHDSG0z4N8z8"
     },
     {
       "name": "Motel Coutu",
@@ -896,7 +911,8 @@
       "note_en": "Simple Menu and everything is excellent. It's worth a visit.",
       "note_es": "Menú sencillo y todo es excelente. Vale la pena una visita.",
       "note_ar": "القائمة البسيطة والكل ممتاز. يستحق زيارتك.",
-      "note_zh": "简单菜单，一切都很棒。值得一访。"
+      "note_zh": "简单菜单，一切都很棒。值得一访。",
+      "place_id": "ChIJr2DHg_1hJk0RvQPFkNA4qXI"
     },
     {
       "name": "Poulet Frit Chester",
@@ -954,7 +970,8 @@
       },
       "id": "poulet-frit-chester-j",
       "latitude": 47.337399,
-      "longitude": -79.437443
+      "longitude": -79.437443,
+      "place_id": "ChIJ5c_YzJ9BJk0Rahhj9V1wwN4"
     },
     {
       "name": "KFC / PFK New Liskeard",
@@ -969,7 +986,8 @@
       "phone": "(705) 680-0178",
       "id": "kfc-pfk-new-liskeard-p",
       "latitude": 47.52642,
-      "longitude": -79.673776
+      "longitude": -79.673776,
+      "place_id": "ChIJh2ist-V7Jk0ReFx1KkrMtiU"
     },
     {
       "name": "Tim Hortons",
@@ -1004,7 +1022,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmxglVwl7Jk0RYPt-iu2Ntl0"
     },
     {
       "name": "McDonald's",
@@ -1038,7 +1057,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJDw9bygx7Jk0RonX1DhXo77E"
     },
     {
       "name": "Wendy's",
@@ -1071,7 +1091,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJeVjkbIN7Jk0R64hnkw3LTPI"
     },
     {
       "name": "Subway",
@@ -1102,7 +1123,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJkWkpsAl7Jk0Rc3kLlYhkLf4"
     },
     {
       "name": "Pizza Hut",
@@ -1161,7 +1183,8 @@
           "ouverture": "10:30",
           "fermeture": "20:30"
         }
-      }
+      },
+      "place_id": "ChIJizZ_JJ57Jk0RlWIvbPWRvyI"
     },
     {
       "name": "Pizza Pizza",
@@ -1191,7 +1214,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJA5-cCAl7Jk0R4S4wwWVHRA0"
     },
     {
       "name": "Quesada Burritos & Tacos",
@@ -1222,7 +1246,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJGWo6bIN7Jk0Ryu0swCRSxRk"
     },
     {
       "name": "Stacked Pancake & Breakfast House",
@@ -1256,7 +1281,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJUMuxuanPE0Rzfhqoz5HgKI"
     },
     {
       "name": "Stacked Pancake & Breakfast House",
@@ -1290,7 +1316,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJD-12GeKrKU0RKwMKAfl2Lk8"
     },
     {
       "name": "Resto du Colisée",
@@ -1340,7 +1367,8 @@
           "fermeture": "19:00"
         }
       },
-      "id": "resto-du-colisee-g"
+      "id": "resto-du-colisee-g",
+      "place_id": "ChIJJYEmJKldJk0RQ94WJUAk1ig"
     },
     {
       "name": "Restaurant Maxime",
@@ -1394,7 +1422,8 @@
           "fermeture": "14:00"
         }
       },
-      "id": "restaurant-maxime-b"
+      "id": "restaurant-maxime-b",
+      "place_id": "ChIJ5fmZZfxhJk0RPRfMwzgBLrI"
     },
     {
       "name": "Rendez-vous des quinze",
@@ -1448,7 +1477,8 @@
           "fermeture": "20:00"
         }
       },
-      "id": "rendezvous-des-quinze-b"
+      "id": "rendezvous-des-quinze-b",
+      "place_id": "ChIJOxPXy_5hJk0RiCoYfa4bjgo"
     },
     {
       "name": "Le Taco fou",
@@ -1504,7 +1534,8 @@
       "note_en": "You can place an online order with a promotional code for the first time.",
       "note_es": "Puedes ordenar en línea con un cupón promocional por primera vez.",
       "note_ar": "يمكنك طلب الشراء عبر الإنترنت باستخدام رمز ترويجي لأول مرة.",
-      "note_zh": "您可以在首次使用优惠码在线下单。"
+      "note_zh": "您可以在首次使用优惠码在线下单。",
+      "place_id": "ChIJYRJlH0phJk0RU0CucbjLe9s"
     },
     {
       "name": "Rôtisserie St-Hubert Rouyn-Noranda",
@@ -1564,7 +1595,8 @@
           "fermeture": "20:00"
         }
       },
-      "id": "rotisserie-sthubert-rouynnoranda-p"
+      "id": "rotisserie-sthubert-rouynnoranda-p",
+      "place_id": "ChIJyxm7fr06z0wRi8xPgHmIUkU"
     },
     {
       "name": "Moulin Noir",
@@ -1617,7 +1649,8 @@
           "fermeture": "22:00"
         }
       },
-      "id": "moulin-noir-s"
+      "id": "moulin-noir-s",
+      "place_id": "ChIJIwuwrJszIU0RLKJRTA12m_U"
     },
     {
       "name": "Mr.Sub",
@@ -1661,7 +1694,8 @@
           "fermeture": "20:00"
         }
       },
-      "id": "mrsub-b"
+      "id": "mrsub-b",
+      "place_id": "ChIJV-vVs_5hJk0RUVOBsZ0cjiQ"
     },
     {
       "name": "Subway",
@@ -1708,7 +1742,8 @@
           "fermeture": "22:00"
         }
       },
-      "id": "subway-r"
+      "id": "subway-r",
+      "place_id": "ChIJTZsMVZszIU0R5qRd_Adsw3I"
     },
     {
       "name": "Subway",
@@ -1752,7 +1787,8 @@
           "fermeture": "22:00"
         }
       },
-      "id": "subway-k"
+      "id": "subway-k",
+      "place_id": "ChIJTZsMVZszIU0R5qRd_Adsw3I"
     },
     {
       "name": "Samiyo Rouyn-Noranda",
@@ -1795,7 +1831,8 @@
           "fermeture": "19:00"
         }
       },
-      "id": "samiyo-rouynnoranda-h"
+      "id": "samiyo-rouynnoranda-h",
+      "place_id": "ChIJL0lc25ozIU0REjLNp-4k2AA"
     },
     {
       "name": "Pizza Pizza",
@@ -1843,7 +1880,8 @@
           "fermeture": "21:00"
         }
       },
-      "id": "pizza-pizza-p"
+      "id": "pizza-pizza-p",
+      "place_id": "ChIJVZ7VO4czIU0RvbzHIXgqyII"
     },
     {
       "name": "241 Pizza",
@@ -1895,7 +1933,8 @@
       },
       "id": "241-pizza-k",
       "latitude": 47.4505736,
-      "longitude": -79.6517971
+      "longitude": -79.6517971,
+      "place_id": "ChIJX_IqHhlvJk0RY44qz1gRMF8"
     },
     {
       "name": "Topper's Pizza",
@@ -1938,7 +1977,8 @@
           "fermeture": "01:00"
         }
       },
-      "id": "toppers-pizza-p"
+      "id": "toppers-pizza-p",
+      "place_id": "ChIJ7xqMFhl7Jk0Ro6m5nYcrc4o"
     },
     {
       "name": "Poulet Royal Saint-Lin",
@@ -1987,7 +2027,8 @@
       },
       "id": "poulet-royal-saintlin-w",
       "latitude": 45.85284,
-      "longitude": -73.75666
+      "longitude": -73.75666,
+      "place_id": "ChIJE9k8PMTPyEwRiQZqJMhF46s"
     },
     {
       "name": "Mike",
@@ -2037,7 +2078,8 @@
       },
       "id": "mike-c",
       "latitude": 48.238002,
-      "longitude": -79.019875
+      "longitude": -79.019875,
+      "place_id": "ChIJY1GbuZ4zIU0RvZ32ekXY8YE"
     },
     {
       "name": "Boston Pizza",
@@ -2087,7 +2129,8 @@
           "fermeture": "21:00"
         }
       },
-      "id": "boston-pizza-p"
+      "id": "boston-pizza-p",
+      "place_id": "ChIJUW08rZ4zIU0RpIAitkD1j94"
     },
     {
       "id": "pizza-hut-terrace-1",
@@ -2142,7 +2185,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2RuEMeyZdFQRy2rAIZcyEQw"
     },
     {
       "id": "pizza-hut-saskatoon-1",
@@ -2197,7 +2241,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJi2c2einxBFMRERVG73B5mNs"
     },
     {
       "id": "pizza-hut-regina-1",
@@ -2252,7 +2297,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwUjZW-8fHFMRbnVziNptWts"
     },
     {
       "id": "pizza-hut-saskatoon-2",
@@ -2307,7 +2353,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJOxgrvlrxBFMRKI8xgv8dUo4"
     },
     {
       "id": "pizza-hut-regina-2",
@@ -2362,7 +2409,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwUjZW-8fHFMRbnVziNptWts"
     },
     {
       "id": "pizza-hut-saskatoon-3",
@@ -2417,7 +2465,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJOxgrvlrxBFMRKI8xgv8dUo4"
     },
     {
       "id": "pizza-hut-swift-current-1",
@@ -2472,7 +2521,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJo0G4QzLeEFMRaHfJCS-QbzU"
     },
     {
       "id": "pizza-hut-moose-jaw-1",
@@ -2527,7 +2577,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJlVWh6y_cG1MRr7qTcMpwoTU"
     },
     {
       "id": "pizza-hut-brandon-1",
@@ -2582,7 +2633,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3_zNwqqQ51IRmlkrF3JTJWs"
     },
     {
       "id": "pizza-hut-portage-la-prairie-1",
@@ -2637,7 +2689,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJtRVJyEjH6VIRW3xv1TZCD40"
     },
     {
       "id": "pizza-hut-london-1",
@@ -2692,7 +2745,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-london-2",
@@ -2747,7 +2801,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-london-3",
@@ -2802,7 +2857,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-london-4",
@@ -2857,7 +2913,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-london-5",
@@ -2912,7 +2969,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-lethbridge-1",
@@ -2967,7 +3025,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm-AwlEWGblMRljdkPTBwPvA"
     },
     {
       "id": "pizza-hut-timmins-1",
@@ -3022,7 +3081,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJU8_tRH-mPE0RXC03ZuwpGj4"
     },
     {
       "id": "pizza-hut-grande-prairie-1",
@@ -3077,7 +3137,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJHfUoeQOUkFMRJCmb2nPqKKI"
     },
     {
       "id": "pizza-hut-whitehorse-1",
@@ -3132,7 +3193,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJqyeQ-ulEVFERjQsGEg7_Q5A"
     },
     {
       "id": "pizza-hut-woodstock-1",
@@ -3187,7 +3249,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJreIFQBQfLIgR8X6OAL2VjbQ"
     },
     {
       "id": "pizza-hut-saskatoon-4",
@@ -3242,7 +3305,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJOxgrvlrxBFMRKI8xgv8dUo4"
     },
     {
       "id": "pizza-hut-lloydminster-1",
@@ -3297,7 +3361,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJxb_0E2SyCVMRhv4CK_VUSL4"
     },
     {
       "id": "pizza-hut-regina-3",
@@ -3352,7 +3417,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwUjZW-8fHFMRbnVziNptWts"
     },
     {
       "id": "pizza-hut-saskatoon-5",
@@ -3407,7 +3473,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJOxgrvlrxBFMRKI8xgv8dUo4"
     },
     {
       "id": "pizza-hut-regina-4",
@@ -3462,7 +3529,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwUjZW-8fHFMRbnVziNptWts"
     },
     {
       "id": "pizza-hut-saskatoon-6",
@@ -3517,7 +3585,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJOxgrvlrxBFMRKI8xgv8dUo4"
     },
     {
       "id": "pizza-hut-prince-albert-1",
@@ -3572,7 +3641,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKTNETcp7AVMRCcMAaYg8JpE"
     },
     {
       "id": "pizza-hut-north-battleford-1",
@@ -3627,7 +3697,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJl9X0By4EBlMR2kGsLtejtvc"
     },
     {
       "id": "pizza-hut-brandon-2",
@@ -3682,7 +3753,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3_zNwqqQ51IRmlkrF3JTJWs"
     },
     {
       "id": "pizza-hut-steinbach-1",
@@ -3737,7 +3809,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFV7yEQA1wFIRrzkSBmTxQiU"
     },
     {
       "id": "pizza-hut-london-6",
@@ -3792,7 +3865,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-london-7",
@@ -3847,7 +3921,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-london-8",
@@ -3902,7 +3977,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUTIz35rzLogRZIKZp-ui7Zk"
     },
     {
       "id": "pizza-hut-lethbridge-2",
@@ -3957,7 +4033,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm-AwlEWGblMRljdkPTBwPvA"
     },
     {
       "id": "pizza-hut-lethbridge-3",
@@ -4012,7 +4089,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm-AwlEWGblMRljdkPTBwPvA"
     },
     {
       "id": "pizza-hut-grande-prairie-2",
@@ -4067,7 +4145,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJHfUoeQOUkFMRJCmb2nPqKKI"
     },
     {
       "id": "pizza-hut-yellowknife-1",
@@ -4122,7 +4201,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ0rL-zLx0VMR7fKMzqctTYo"
     },
     {
       "id": "pizza-hut-pont-viau-1",
@@ -4177,7 +4257,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_ZPlh48hyUwRUjmqZT1SjEs"
     },
     {
       "id": "pizza-hut-montreal-rachel",
@@ -4232,7 +4313,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-st-leonard",
@@ -4287,7 +4369,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJHbDQNbkeyUwRNr2H6UZdXOQ"
     },
     {
       "id": "pizza-hut-ste-therese",
@@ -4342,7 +4425,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_YWiLd8nyUwRB4UF-LMCeIc"
     },
     {
       "id": "pizza-hut-kanata",
@@ -4397,7 +4481,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-R_8O5__zUwRq8D6OPx3UkE"
     },
     {
       "id": "pizza-hut-nepean-greenbank",
@@ -4452,7 +4537,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-brossard",
@@ -4507,7 +4593,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmVSQlHMPyUwRRDK7Gf7lyL8"
     },
     {
       "id": "pizza-hut-cobourg",
@@ -4562,7 +4649,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJYeEjPchCK4gR0bgQ2FlXnj8"
     },
     {
       "id": "pizza-hut-orleans",
@@ -4617,7 +4705,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJE7PwU4URzkwRG19QpWCnE0E"
     },
     {
       "id": "pizza-hut-greenfield-park",
@@ -4672,7 +4761,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3QVDAGwFyUwRciMgofYSLd4"
     },
     {
       "id": "pizza-hut-saint-laurent",
@@ -4727,7 +4817,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJqXd4_qYZyUwRWCExQed2pBM"
     },
     {
       "id": "pizza-hut-chateauguay",
@@ -4782,7 +4873,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJtbAub78UyUwRSXqe3XfGVXI"
     },
     {
       "id": "pizza-hut-gatineau-greber",
@@ -4837,7 +4929,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ6SIDGUbzkwRdFgn_F4IBYg"
     },
     {
       "id": "pizza-hut-drummondville",
@@ -4892,7 +4985,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_wRbSskTyEwRr9-p_xUcxzE"
     },
     {
       "id": "pizza-hut-belleville",
@@ -4947,7 +5041,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUQgPV5kl1okRyiASsc73aaM"
     },
     {
       "id": "pizza-hut-cambridge",
@@ -5002,7 +5097,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMRmdjMyJK4gRbuiSGONr_nY"
     },
     {
       "id": "pizza-hut-lasalle",
@@ -5057,7 +5153,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB9eSVnIxO4gRSHsrRcp_iWw"
     },
     {
       "id": "pizza-hut-st-eustache",
@@ -5112,7 +5209,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJM3t0EYslyUwR-GtZL9esSFo"
     },
     {
       "id": "pizza-hut-etobicoke",
@@ -5167,7 +5265,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJlZn7_MswK4gRaVRCVeMqu0E"
     },
     {
       "id": "pizza-hut-chatham",
@@ -5222,7 +5321,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMWtcUJr4L4gRdPEsaTdwkzE"
     },
     {
       "id": "pizza-hut-windsor-tecumseh",
@@ -5277,7 +5377,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9fnvsL8tO4gRvkWD7mili24"
     },
     {
       "id": "pizza-hut-lower-sackville",
@@ -5332,7 +5433,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJAUy_oMGIWUsRomEvAETlZvU"
     },
     {
       "id": "pizza-hut-montreal-nord",
@@ -5387,7 +5489,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJC67AihQfyUwRm7Vz2jYAFZk"
     },
     {
       "id": "pizza-hut-tmr",
@@ -5442,7 +5545,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJi4lxS8YZyUwRrSA-eQUsxTs"
     },
     {
       "id": "pizza-hut-lafontaine",
@@ -5497,7 +5601,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-X59O0sz0wRjN-a842LuE8"
     },
     {
       "id": "pizza-hut-nepean-merivale",
@@ -5552,7 +5657,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-BO7f4GzkwRbDYikAwSRgk"
     },
     {
       "id": "pizza-hut-vanier",
@@ -5607,7 +5713,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm3_z91kFzkwRuAmqODr9NWo"
     },
     {
       "id": "pizza-hut-kingston-bath",
@@ -5662,7 +5769,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3Sus8car0kwRLhC2OraWaZ4"
     },
     {
       "id": "pizza-hut-granby",
@@ -5717,7 +5825,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj8tRJofPyUwR3xyAPPqE3ro"
     },
     {
       "id": "pizza-hut-joliette",
@@ -5772,7 +5881,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJsZ0q59q9yEwRrAjc8cTKZdc"
     },
     {
       "id": "pizza-hut-sherbrooke",
@@ -5827,7 +5937,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJX0zODaK0t0wRF1amdk5kD3U"
     },
     {
       "id": "pizza-hut-vaudreuil-dorion",
@@ -5882,7 +5993,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ1RsQ8NVJyUwR1bxxslVXtLw"
     },
     {
       "id": "pizza-hut-saint-jean-richelieu",
@@ -5937,7 +6049,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJVWaF-GOhyUwRkjX4ibsERVk"
     },
     {
       "id": "pizza-hut-shawinigan",
@@ -5992,7 +6105,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJywRDvkVNxkwRiFY115TiaGM"
     },
     {
       "id": "pizza-hut-trois-rivieres-recollets",
@@ -6047,7 +6161,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhxNPDuPJx0wRsfASFH6OpKM"
     },
     {
       "id": "pizza-hut-ottawa-bank",
@@ -6102,7 +6217,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL5i3UscFzkwRT69sVAXrL9E"
     },
     {
       "id": "pizza-hut-kingston-princess",
@@ -6157,7 +6273,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3Sus8car0kwRLhC2OraWaZ4"
     },
     {
       "id": "pizza-hut-trois-rivieres-thibeau",
@@ -6212,7 +6329,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhxNPDuPJx0wRsfASFH6OpKM"
     },
     {
       "id": "pizza-hut-saint-georges",
@@ -6267,7 +6385,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJqcJSk6K_uUwR8smhB7FI1JI"
     },
     {
       "id": "pizza-hut-windsor-huron",
@@ -6322,7 +6441,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9fnvsL8tO4gRvkWD7mili24"
     },
     {
       "id": "pizza-hut-sarnia",
@@ -6377,7 +6497,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJN452j2yDJYgRuTz49izZowg"
     },
     {
       "id": "pizza-hut-cornwall",
@@ -6432,7 +6553,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9afej2IXzEwRJR4LBMMIZ_g"
     },
     {
       "id": "pizza-hut-halifax-quinpool",
@@ -6487,7 +6609,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJTwYHiEQgWksR801dTOf0Uqg"
     },
     {
       "id": "pizza-hut-scarborough-birchmount",
@@ -6542,7 +6665,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-scarborough-lawrence",
@@ -6597,7 +6721,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-sicamous",
@@ -6652,7 +6777,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_b5KXQDpflMRg5wHDZMrc18"
     },
     {
       "id": "pizza-hut-scarborough-morningside",
@@ -6707,7 +6833,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-king-city",
@@ -6762,7 +6889,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhaB3LFDXKogR6lkBiMw_hdI"
     },
     {
       "id": "pizza-hut-halifax-lacewood",
@@ -6817,7 +6945,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQbCjMwAhWksRIb45rLu5yEU"
     },
     {
       "id": "pizza-hut-moncton",
@@ -6872,7 +7001,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ4rRDd25oEwRD_IImAl0RDI"
     },
     {
       "id": "pizza-hut-prince-george-15th",
@@ -6927,7 +7057,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQXNYGh6ZiFMRUdbq8NV2PlM"
     },
     {
       "id": "pizza-hut-smithers",
@@ -6982,7 +7113,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2Quj6dcLdVQRqpjuaM1KckU"
     },
     {
       "id": "pizza-hut-quesnel",
@@ -7037,7 +7169,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2ygkYFoPh1MR97bclOui8cY"
     },
     {
       "id": "pizza-hut-edmonton-172st",
@@ -7092,7 +7225,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-153ave",
@@ -7147,7 +7281,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-saddleback",
@@ -7202,7 +7337,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfX2G3OQgoFMRG0vQSL_LxjI"
     },
     {
       "id": "pizza-hut-edmonton-137ave",
@@ -7257,7 +7393,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfX2G3OQgoFMRG0vQSL_LxjI"
     },
     {
       "id": "pizza-hut-edmonton-28ave",
@@ -7312,7 +7449,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-156st",
@@ -7367,7 +7505,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-75st",
@@ -7422,7 +7561,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-ellerslie",
@@ -7477,7 +7617,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfX2G3OQgoFMRG0vQSL_LxjI"
     },
     {
       "id": "pizza-hut-edmonton-114ave",
@@ -7532,7 +7673,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-windermere",
@@ -7587,7 +7729,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-leduc",
@@ -7642,7 +7785,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJF_i3Vav5n1MRLJBmZc43N60"
     },
     {
       "id": "pizza-hut-edmonton-guardian",
@@ -7697,7 +7841,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-richmond-hill-yonge",
@@ -7752,7 +7897,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY2bqZsIrK4gRHEqgFJv9wSI"
     },
     {
       "id": "pizza-hut-richmond-hill-mackenzie",
@@ -7807,7 +7953,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY2bqZsIrK4gRHEqgFJv9wSI"
     },
     {
       "id": "pizza-hut-hamilton-queenston",
@@ -7862,7 +8009,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu8GzdAKbLIgRUUlqGJGD7FI"
     },
     {
       "id": "pizza-hut-dartmouth",
@@ -7917,7 +8065,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJgZrsKo0jWksRANIjv4PxNE0"
     },
     {
       "id": "pizza-hut-dieppe",
@@ -7972,7 +8121,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwWPF3f-5oEwR5R06-pCbMmo"
     },
     {
       "id": "pizza-hut-prince-rupert",
@@ -8027,7 +8177,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJg5WeDhPVclQRiURRaQDWC_s"
     },
     {
       "id": "pizza-hut-williams-lake",
@@ -8082,7 +8233,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ8dfS9HOjgFMRIgkA0LZySz0"
     },
     {
       "id": "pizza-hut-prince-george-recplace",
@@ -8137,7 +8289,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQXNYGh6ZiFMRUdbq8NV2PlM"
     },
     {
       "id": "pizza-hut-edmonton-104ave",
@@ -8192,7 +8345,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-82st",
@@ -8247,7 +8401,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-50st",
@@ -8302,7 +8457,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-spruce-grove",
@@ -8357,7 +8513,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJzztj91iOn1MRkTooBrnDvR8"
     },
     {
       "id": "pizza-hut-edmonton-34st",
@@ -8412,7 +8569,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-edmonton-40ave",
@@ -8467,7 +8625,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-sherwood-park",
@@ -8522,7 +8681,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJW50nQCsWoFMRKH9hiDLznAE"
     },
     {
       "id": "pizza-hut-edmonton-miller",
@@ -8577,7 +8737,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-stony-plain",
@@ -8632,7 +8793,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8J3S9KRn1MRIRTldHMnZDs"
     },
     {
       "id": "pizza-hut-st-albert",
@@ -8687,7 +8849,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJqWvToSokoFMRcuhJZn6cEto"
     },
     {
       "id": "pizza-hut-edmonton-163st",
@@ -8742,7 +8905,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPYd1-T8goFMRguSSgVAWo1c"
     },
     {
       "id": "pizza-hut-toronto-bloor",
@@ -8797,7 +8961,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-aurora",
@@ -8852,7 +9017,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJa5vOOODTKogRQofiMdTpbUE"
     },
     {
       "id": "pizza-hut-hamilton-upperjames",
@@ -8907,7 +9073,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu8GzdAKbLIgRUUlqGJGD7FI"
     },
     {
       "id": "pizza-hut-st-catharines",
@@ -8962,7 +9129,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ57mkhtR04kR6QYqm3ElmyQ"
     },
     {
       "id": "chez-morasse-rouyn",
@@ -9016,7 +9184,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJG0jiIpEzIU0RnZDkqoDoyQk"
     },
     {
       "id": "tim-hortons-rouyn-lariviere",
@@ -9071,7 +9240,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf6gaWAIzIU0RLrPB0AtstX8"
     },
     {
       "id": "tim-hortons-rouyn-gamble",
@@ -9126,7 +9296,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf6gaWAIzIU0RLrPB0AtstX8"
     },
     {
       "id": "tim-hortons-rouyn-saguenay",
@@ -9182,7 +9353,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf6gaWAIzIU0RLrPB0AtstX8"
     },
     {
       "id": "superbol-rouyn",
@@ -9237,7 +9409,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJre0BX88zIU0RdnqrvCPP81I"
     },
     {
       "id": "resto-la-cuivree-rouyn",
@@ -9291,7 +9464,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJ_T8JpIzIU0RzCsOPYRl3fY"
     },
     {
       "id": "topla-rouyn",
@@ -9346,7 +9520,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJvRXBU2AzIU0RrYq2RdNvfo8"
     },
     {
       "id": "noranda-pizzeria-rouyn",
@@ -9400,7 +9575,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJi5Ws_240IU0RcWGIrlvat54"
     },
     {
       "id": "pizza-salvatore-rouyn",
@@ -9455,7 +9631,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY4oOTLIzIU0RANc--NwFuIM"
     },
     {
       "id": "patate-pierrot-rouyn",
@@ -9511,7 +9688,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJE_7oBgwzIU0RyDlKxw_UHcY"
     },
     {
       "id": "resto-depanneur-souvenirs-guerin",
@@ -9564,7 +9742,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9aZh23_0Jk0R8yYHMRsVug8"
     },
     {
       "id": "haru-izakaya-gatineau",
@@ -9618,7 +9797,8 @@
       "note_en": "Outdoor terrace · Excellent cocktails · Vegetarian options",
       "note_es": "Terraza al aire libre · Excelentes cócteles · Opciones vegetarianas",
       "note_ar": "تراس خارجي · كوكتيلات رائعة · خيارات نباتية",
-      "note_zh": "室外露台 · 极佳鸡尾酒 · 素食选择"
+      "note_zh": "室外露台 · 极佳鸡尾酒 · 素食选择",
+      "place_id": "ChIJPx2eskUbzkwRLDxRhHD5XN4"
     },
     {
       "id": "pizza-hut-niagara-falls-lundy",
@@ -9673,7 +9853,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ8QRYFGVD04kRB-b2UQzjY1A"
     },
     {
       "id": "pizza-hut-st-catharines-glendale",
@@ -9728,7 +9909,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ57mkhtR04kR6QYqm3ElmyQ"
     },
     {
       "id": "pizza-hut-oakville-dundas",
@@ -9783,7 +9965,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-hamilton-king",
@@ -9838,7 +10021,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu8GzdAKbLIgRUUlqGJGD7FI"
     },
     {
       "id": "pizza-hut-brantford-clarence",
@@ -9893,7 +10077,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ4fXuWhabKk0RW9PrBQZM9-w"
     },
     {
       "id": "pizza-hut-welland-niagara",
@@ -9948,7 +10133,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJd0oopQBJ04kRvGMtBJM28G8"
     },
     {
       "id": "pizza-hut-st-catharines-lake",
@@ -10003,7 +10189,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ57mkhtR04kR6QYqm3ElmyQ"
     },
     {
       "id": "pizza-hut-winnipeg-corydon",
@@ -10058,7 +10245,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-vancouver-granville",
@@ -10113,7 +10301,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-richmond-no3road",
@@ -10168,7 +10357,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ348oWTR1hlQRmjq4OlTer24"
     },
     {
       "id": "pizza-hut-new-westminster-mcbride",
@@ -10223,7 +10413,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJbZr1weV3hlQRWoXVvjdxM_Y"
     },
     {
       "id": "pizza-hut-white-rock-152nd",
@@ -10278,7 +10469,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmzAWRn3DhVQRTLZ-AtrC0YE"
     },
     {
       "id": "pizza-hut-vancouver-fraser",
@@ -10333,7 +10525,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-vancouver-main",
@@ -10388,7 +10581,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-vancouver-4thave",
@@ -10443,7 +10637,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-north-vancouver-mountain",
@@ -10498,7 +10693,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJAfbZLc1xhlQRC73f84urZ8I"
     },
     {
       "id": "pizza-hut-port-coquitlam-shaughnessy",
@@ -10553,7 +10749,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJzShEOFJ_hlQRJYkJ2FTJmZ8"
     },
     {
       "id": "pizza-hut-vancouver-grandview",
@@ -10608,7 +10805,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-richmond-westminster",
@@ -10663,7 +10861,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJA-0OPKQKhlQR8WB-1dOiRaw"
     },
     {
       "id": "pizza-hut-north-vancouver-marine",
@@ -10718,7 +10917,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJAfbZLc1xhlQRC73f84urZ8I"
     },
     {
       "id": "pizza-hut-coquitlam-austin",
@@ -10773,7 +10973,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaxRhU2h4hlQR0EaXCqKlICs"
     },
     {
       "id": "pizza-hut-coquitlam-lougheed",
@@ -10828,7 +11029,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaxRhU2h4hlQR0EaXCqKlICs"
     },
     {
       "id": "pizza-hut-maple-ridge-lougheed",
@@ -10883,7 +11085,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKbGdiSIthFQR46S_BWQJs5A"
     },
     {
       "id": "pizza-hut-abbotsford-fraser",
@@ -10938,7 +11141,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKVkjV1s1hFQR_TURNbhn10I"
     },
     {
       "id": "pizza-hut-surrey-fraser",
@@ -10993,7 +11197,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-surrey-72nd",
@@ -11048,7 +11253,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-surrey-152nd",
@@ -11103,7 +11309,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-vancouver-robson",
@@ -11158,7 +11365,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-delta-scott",
@@ -11213,7 +11421,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJAX3my1_ZhVQR2nHGVhK8e4w"
     },
     {
       "id": "pizza-hut-burnaby-kingsway",
@@ -11268,7 +11477,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn9R9hmJ3hlQRAATC8jS7OaM"
     },
     {
       "id": "pizza-hut-chilliwack-vedder",
@@ -11323,7 +11533,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJtX-WUaNAhFQR2NCjOfcoWEA"
     },
     {
       "id": "pizza-hut-victoria-yates",
@@ -11378,7 +11589,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ8A2aI90j1QROVW5QAaY2UI"
     },
     {
       "id": "pizza-hut-victoria-saanich",
@@ -11433,7 +11645,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ8A2aI90j1QROVW5QAaY2UI"
     },
     {
       "id": "pizza-hut-langford-goldstream",
@@ -11488,7 +11701,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJrQvyihcNj1QRdBDFD9_chU4"
     },
     {
       "id": "pizza-hut-nanaimo-terminal",
@@ -11543,7 +11757,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJYz7HhnyhiFQRFvAGWFCQ9E0"
     },
     {
       "id": "pizza-hut-courtenay-lerwick",
@@ -11598,7 +11813,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJxrn78UTiFQRUmwMuiNRSUc"
     },
     {
       "id": "pizza-hut-duncan-transcanada",
@@ -11653,7 +11869,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJbch1uWdPj1QRT7HcDwACJ94"
     },
     {
       "id": "pizza-hut-richmond-westminster-unit120",
@@ -11708,7 +11925,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJA-0OPKQKhlQR8WB-1dOiRaw"
     },
     {
       "id": "pizza-hut-vancouver-10thave",
@@ -11763,7 +11981,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-langley-88thave",
@@ -11818,7 +12037,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJgY9-rCzQhVQR384E-d5RG98"
     },
     {
       "id": "pizza-hut-kamloops-columbia",
@@ -11873,7 +12093,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJb-JP094tflMRcMXKUYeEwEs"
     },
     {
       "id": "pizza-hut-kamloops-fortune",
@@ -11928,7 +12149,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJb-JP094tflMRcMXKUYeEwEs"
     },
     {
       "id": "pizza-hut-kelowna-harvey",
@@ -11983,7 +12205,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMS-OBDuNfVMRoXgPsc5sVwY"
     },
     {
       "id": "pizza-hut-penticton-main",
@@ -12038,7 +12261,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJA346gtyJglQRcM39WzW2Zo0"
     },
     {
       "id": "pizza-hut-cloverdale-56th",
@@ -12093,7 +12317,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJh2iBCRHWhVQR5UBqpjArvSc"
     },
     {
       "id": "pizza-hut-saanich-shelbourne",
@@ -12148,7 +12373,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJgwMcjj5yj1QREfDfOjSoHdA"
     },
     {
       "id": "pizza-hut-west-kelowna-louie",
@@ -12203,7 +12429,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJvf3L_Ux1glQRmsgzPwgH_Ag"
     },
     {
       "id": "pizza-hut-nanaimo-hammond",
@@ -12258,7 +12485,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJYz7HhnyhiFQRFvAGWFCQ9E0"
     },
     {
       "id": "pizza-hut-kelowna-hwy33",
@@ -12313,7 +12541,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMS-OBDuNfVMRoXgPsc5sVwY"
     },
     {
       "id": "pizza-hut-parksville-island",
@@ -12368,7 +12597,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJH2XlelmFiFQRaQ8d8VMc6-M"
     },
     {
       "id": "pizza-hut-surrey-88thave",
@@ -12423,7 +12653,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-burnaby-market-crossing",
@@ -12478,7 +12709,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn9R9hmJ3hlQRAATC8jS7OaM"
     },
     {
       "id": "pizza-hut-burnaby-hastings",
@@ -12533,7 +12765,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn9R9hmJ3hlQRAATC8jS7OaM"
     },
     {
       "id": "pizza-hut-vancouver-49thave",
@@ -12588,7 +12821,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-surrey-56thave",
@@ -12643,7 +12877,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-victoria-esquimalt",
@@ -12698,7 +12933,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ8A2aI90j1QROVW5QAaY2UI"
     },
     {
       "id": "pizza-hut-maple-ridge-240th",
@@ -12753,7 +12989,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKbGdiSIthFQR46S_BWQJs5A"
     },
     {
       "id": "pizza-hut-kelowna-lakeshore",
@@ -12808,7 +13045,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMS-OBDuNfVMRoXgPsc5sVwY"
     },
     {
       "id": "pizza-hut-langley-200thst",
@@ -12863,7 +13101,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJgY9-rCzQhVQR384E-d5RG98"
     },
     {
       "id": "pizza-hut-vernon-hwy6",
@@ -12918,7 +13157,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJeQ5PLLrZfVMR4v9GoCgkCs8"
     },
     {
       "id": "pizza-hut-chilliwack-vedder2",
@@ -12973,7 +13213,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJod8gxipHhFQRezvgaAAc0eo"
     },
     {
       "id": "pizza-hut-burnaby-kingsway2",
@@ -13028,7 +13269,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn9R9hmJ3hlQRAATC8jS7OaM"
     },
     {
       "id": "pizza-hut-port-coquitlam-village",
@@ -13083,7 +13325,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJzShEOFJ_hlQRJYkJ2FTJmZ8"
     },
     {
       "id": "pizza-hut-abbotsford-fraser2",
@@ -13138,7 +13381,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKVkjV1s1hFQR_TURNbhn10I"
     },
     {
       "id": "pizza-hut-surrey-102aave",
@@ -13193,7 +13437,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-vancouver-2ndave",
@@ -13248,7 +13493,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-toronto-yonge",
@@ -13303,7 +13549,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-thornhill-john",
@@ -13358,7 +13605,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmabcKK4sK4gRk-Rjim9vPeI"
     },
     {
       "id": "pizza-hut-toronto-coxwell",
@@ -13413,7 +13661,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-scarborough-pharmacy",
@@ -13468,7 +13717,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-scarborough-ellesmere",
@@ -13523,7 +13773,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-north-york-donmills",
@@ -13578,7 +13829,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJC7XeEmUtK4gRLgpVuEzyY8w"
     },
     {
       "id": "pizza-hut-toronto-bayview",
@@ -13633,7 +13885,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-yorkmills",
@@ -13688,7 +13941,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-eglinton",
@@ -13743,7 +13997,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-kingston",
@@ -13798,7 +14053,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-york-stclair",
@@ -13853,7 +14109,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJVxX5Sq8xeUgRBgx3B3hmdRI"
     },
     {
       "id": "pizza-hut-etobicoke-burnhamthorpe",
@@ -13908,7 +14165,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJlZn7_MswK4gRaVRCVeMqu0E"
     },
     {
       "id": "pizza-hut-toronto-dundas",
@@ -13963,7 +14221,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-smiths-falls-lombard",
@@ -14018,7 +14277,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJzYRghh2GzUwRJxY-3IeTRho"
     },
     {
       "id": "pizza-hut-toronto-king",
@@ -14073,7 +14333,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-jarvis",
@@ -14128,7 +14389,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-keele",
@@ -14183,7 +14445,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-jane",
@@ -14238,7 +14501,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "kayzen-comptoir-asiat-rouyn",
@@ -14291,7 +14555,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJVVUxTpkzIU0RfL9KElK7MVs"
     },
     {
       "id": "mito-sushi-rouyn-senator",
@@ -14344,7 +14609,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJpT_OLqk1IU0RPfT01aG5xy0"
     },
     {
       "id": "mito-sushi-rouyn-belanger",
@@ -14397,7 +14663,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMe93cO8byUwR_tFbNoR_ft0"
     },
     {
       "id": "samiyo-bar-valdor",
@@ -14451,7 +14718,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQ4v1PwBT30wRMzKw5qrzuy0"
     },
     {
       "id": "sushi-signature-valdor",
@@ -14504,7 +14772,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY_SsnLhT30wRAaIcA9GUz4M"
     },
     {
       "id": "sushi-cie-valdor",
@@ -14559,7 +14828,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJqSTaHW5T30wRscUgCjq8A4A"
     },
     {
       "id": "odori-comptoir-japonais-amos",
@@ -14615,7 +14885,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJW054byiTIE0RwW_4rDwhajU"
     },
     {
       "id": "satori-sushi-st-jean",
@@ -14670,62 +14941,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
-    },
-    {
-      "id": "masako-plus-sushi-st-jean",
-      "name": "Masako Plus Sushi",
-      "address": "600 Rue Pierre-Caisse, Suite 00780, Saint-Jean-sur-Richelieu, QC J3A 1M1",
-      "phone": "(450) 359-3238",
-      "latitude": 45.3316224,
-      "longitude": -73.2812218,
-      "rating": 0,
-      "cuisine": [
-        "sushi",
-        "japonais"
-      ],
-      "service": [
-        "surplace",
-        "takeout"
-      ],
-      "keywords": [],
-      "horaires": {
-        "lundi": {
-          "ouverture": "00:00",
-          "fermeture": "00:00"
-        },
-        "mardi": {
-          "ouverture": "11:00",
-          "fermeture": "19:00"
-        },
-        "mercredi": {
-          "ouverture": "11:00",
-          "fermeture": "19:00"
-        },
-        "jeudi": {
-          "ouverture": "11:00",
-          "fermeture": "21:00"
-        },
-        "vendredi": {
-          "ouverture": "11:00",
-          "fermeture": "21:00"
-        },
-        "samedi": {
-          "ouverture": "15:00",
-          "fermeture": "21:00"
-        },
-        "dimanche": {
-          "ouverture": "00:00",
-          "fermeture": "00:00"
-        }
-      },
-      "note": "",
-      "source": "prixmalin",
-      "website": "http://www.masakosushibar.ca",
-      "note_en": "",
-      "note_es": "",
-      "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFyHOiDOhyUwRKxeC05Tx2Bs"
     },
     {
       "id": "sushi-shop-st-jean",
@@ -14779,7 +14996,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu0al9G6hyUwRnUu2DnsjYjg"
     },
     {
       "id": "yuzu-sushi-st-jean",
@@ -14833,7 +15051,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJI3bP1OajyUwRaSycohaL1x4"
     },
     {
       "id": "sushi-izumi-st-jean",
@@ -14889,7 +15108,8 @@
       "note_en": "Sushi bar all-you-can-eat - rolls, sashimis and Japanese specialties",
       "note_es": "Barra de sushi todo lo que quieras - rollos, sashimis y especialidades japonesas",
       "note_ar": "مطعم سوشي على ما تشاء - مكعبات، ساشيمي و الأطباق اليابانية الخاصة",
-      "note_zh": "无限寿司酒吧 - 卷，刺身和日本特色菜"
+      "note_zh": "无限寿司酒吧 - 卷，刺身和日本特色菜",
+      "place_id": "ChIJx9srHlOhyUwR_lduxyo-PaM"
     },
     {
       "id": "mito-sushi-st-jean-saintluc",
@@ -14942,7 +15162,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9YTXBVyhyUwRRgCyYYT-Vic"
     },
     {
       "id": "mito-sushi-st-jean-iberville",
@@ -14995,7 +15216,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMe93cO8byUwR_tFbNoR_ft0"
     },
     {
       "id": "mito-sushi-st-jean-groupepro40",
@@ -15048,7 +15270,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-211b8KjyUwR4W6mgSWmyio"
     },
     {
       "name": "Gilli's Truck Stop",
@@ -15096,7 +15319,8 @@
           "fermeture": "15:00"
         }
       },
-      "id": "gillis-truck-stop-canada"
+      "id": "gillis-truck-stop-canada",
+      "place_id": "ChIJPbAbDIR7Jk0RfYvZ2kaUKbE"
     },
     {
       "name": "Allô mon Coco",
@@ -15150,7 +15374,8 @@
       "note_en": "Excellent service and very good lunch",
       "note_es": "Servicio excelente y muy buen almuerzo",
       "note_ar": "خدمة ممتازة وغداء لذيذ",
-      "note_zh": "优秀的服务和非常好吃的午餐"
+      "note_zh": "优秀的服务和非常好吃的午餐",
+      "place_id": "ChIJzW5MQYQzIU0RGPo5AcPO-co"
     },
     {
       "name": "Horizon Thaï",
@@ -15203,7 +15428,8 @@
           "fermeture": "20:00"
         }
       },
-      "id": "horizon-thai-canada"
+      "id": "horizon-thai-canada",
+      "place_id": "ChIJl7-QYJkzIU0RocaArvUcRus"
     },
     {
       "name": "La Cage",
@@ -15253,7 +15479,8 @@
           "fermeture": "21:00"
         }
       },
-      "id": "la-cage-canada"
+      "id": "la-cage-canada",
+      "place_id": "ChIJDVvRQA8zIU0RRS47nyWxmyo"
     },
     {
       "id": "pizza-hut-north-york-bathurst",
@@ -15308,7 +15535,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJC7XeEmUtK4gRLgpVuEzyY8w"
     },
     {
       "id": "pizza-hut-newmarket-davis",
@@ -15363,7 +15591,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3yIJ6fnRKogRrL9HOrWIxoc"
     },
     {
       "id": "pizza-hut-mississauga-burnhamthorpe",
@@ -15418,7 +15647,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj1ZbvQFHK4gRcWxKCy4Eirc"
     },
     {
       "id": "pizza-hut-whitby-dundas",
@@ -15473,7 +15703,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2QOnAdwd1YkR7JVbf2GO2Yg"
     },
     {
       "id": "pizza-hut-pickering-liverpool",
@@ -15528,62 +15759,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
-    },
-    {
-      "id": "pizza-hut-scarborough-tapscott",
-      "name": "Pizza Hut",
-      "address": "31 Tapscott Road, Unit #B8A, Scarborough, ON, M1B 4Y7",
-      "phone": "(416) 292-9200",
-      "latitude": 43.806094,
-      "longitude": -79.2236135,
-      "rating": 0,
-      "cuisine": [
-        "pizza"
-      ],
-      "service": [
-        "surplace",
-        "takeout",
-        "delivery"
-      ],
-      "keywords": [],
-      "horaires": {
-        "dimanche": {
-          "ouverture": "10:00",
-          "fermeture": "23:00"
-        },
-        "lundi": {
-          "ouverture": "10:00",
-          "fermeture": "23:00"
-        },
-        "mardi": {
-          "ouverture": "10:00",
-          "fermeture": "23:00"
-        },
-        "mercredi": {
-          "ouverture": "10:00",
-          "fermeture": "23:00"
-        },
-        "jeudi": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
-        "vendredi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "samedi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        }
-      },
-      "note": "",
-      "source": "prixmalin",
-      "website": "https://www.pizzahut.ca",
-      "note_en": "",
-      "note_es": "",
-      "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJlfplj97e1IkRkqkwQ5DsUvQ"
     },
     {
       "id": "pizza-hut-scarborough-midland",
@@ -15638,7 +15815,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJNR4fuP3T1IkRHCN8lcCID6A"
     },
     {
       "id": "pizza-hut-markham-hwy7",
@@ -15693,7 +15871,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-brampton-airport",
@@ -15748,7 +15927,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ43WBMPgVK4gRxdxOYH1Mbk4"
     },
     {
       "id": "pizza-hut-brampton-bartley-bull",
@@ -15803,7 +15983,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJTwDzQNE_K4gR-_qQVD9kE44"
     },
     {
       "id": "pizza-hut-brampton-mclaughlin",
@@ -15858,7 +16039,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJR9kOFkcUK4gR1BQ9iCKWD-c"
     },
     {
       "id": "pizza-hut-brampton-sandalwood",
@@ -15913,7 +16095,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJR9kOFkcUK4gR1BQ9iCKWD-c"
     },
     {
       "id": "pizza-hut-brampton-queen",
@@ -15968,7 +16151,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJR9kOFkcUK4gR1BQ9iCKWD-c"
     },
     {
       "id": "pizza-hut-brampton-gore",
@@ -16023,7 +16207,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJR9kOFkcUK4gR1BQ9iCKWD-c"
     },
     {
       "id": "pizza-hut-mississauga-dundas-e",
@@ -16078,7 +16263,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj1ZbvQFHK4gRcWxKCy4Eirc"
     },
     {
       "id": "pizza-hut-mississauga-fowler",
@@ -16133,62 +16319,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
-    },
-    {
-      "id": "pizza-hut-mississauga-bristol",
-      "name": "Pizza Hut",
-      "address": "1525 Bristol Road West, Unit 1 #7207, Mississauga, ON, L5M 4Z1",
-      "phone": "(905) 542-8100",
-      "latitude": 43.5864959,
-      "longitude": -79.6991333,
-      "rating": 0,
-      "cuisine": [
-        "pizza"
-      ],
-      "service": [
-        "surplace",
-        "takeout",
-        "delivery"
-      ],
-      "keywords": [],
-      "horaires": {
-        "dimanche": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
-        "lundi": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
-        "mardi": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
-        "mercredi": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
-        "jeudi": {
-          "ouverture": "10:00",
-          "fermeture": "00:00"
-        },
-        "vendredi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "samedi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        }
-      },
-      "note": "",
-      "source": "prixmalin",
-      "website": "https://www.pizzahut.ca",
-      "note_en": "",
-      "note_es": "",
-      "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj1ZbvQFHK4gRcWxKCy4Eirc"
     },
     {
       "id": "pizza-hut-mississauga-erin-mills",
@@ -16243,7 +16375,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL1AGm3dqK4gRHhC_BK7we00"
     },
     {
       "id": "pizza-hut-oshawa-king-e",
@@ -16298,7 +16431,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ1UmnNDMD1YkRddQBCeB7HsU"
     },
     {
       "id": "pizza-hut-oshawa-simcoe-n",
@@ -16353,7 +16487,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUeffiYEc1YkRwacwyJ88W4M"
     },
     {
       "id": "pizza-hut-ajax-bayly",
@@ -16408,62 +16543,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
-    },
-    {
-      "id": "pizza-hut-ajax-rossland",
-      "name": "Pizza Hut",
-      "address": "280 Rossland Road E., Unit #2, Ajax, ON, L1Z 0K4",
-      "phone": "(905) 231-4810",
-      "latitude": 43.8817428,
-      "longitude": -79.0193889,
-      "rating": 0,
-      "cuisine": [
-        "pizza"
-      ],
-      "service": [
-        "surplace",
-        "takeout",
-        "delivery"
-      ],
-      "keywords": [],
-      "horaires": {
-        "dimanche": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "lundi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "mardi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "mercredi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "jeudi": {
-          "ouverture": "10:00",
-          "fermeture": "01:00"
-        },
-        "vendredi": {
-          "ouverture": "10:00",
-          "fermeture": "02:00"
-        },
-        "samedi": {
-          "ouverture": "10:00",
-          "fermeture": "02:00"
-        }
-      },
-      "note": "",
-      "source": "prixmalin",
-      "website": "https://www.pizzahut.ca",
-      "note_en": "",
-      "note_es": "",
-      "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-kitchener-king-e",
@@ -16518,7 +16599,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJDflZRwBrz0wR27kBgz3xxAg"
     },
     {
       "id": "pizza-hut-kitchener-fischer-hallman",
@@ -16573,7 +16655,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQSDPbM2KK4gRcgrm9XGfjqw"
     },
     {
       "id": "pizza-hut-parry-sound-bowes",
@@ -16628,7 +16711,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-YKjPXiwK00Rn8lJYUH-jmA"
     },
     {
       "id": "pizza-hut-sudbury-loach",
@@ -16683,7 +16767,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJw_2opIcAL00Rf0ot5LQQKYw"
     },
     {
       "id": "pizza-hut-sudbury-barrydowne",
@@ -16738,7 +16823,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJw_2opIcAL00Rf0ot5LQQKYw"
     },
     {
       "id": "pizza-hut-valley-east-hwy69",
@@ -16793,7 +16879,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB4VJNNmlL00RXxZC-Zftzu0"
     },
     {
       "id": "pizza-hut-guelph-eramosa",
@@ -16848,7 +16935,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40L4APKaK4gRUM8yyR5j7L0"
     },
     {
       "id": "pizza-hut-cambridge-hespeler",
@@ -16903,7 +16991,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMRmdjMyJK4gRbuiSGONr_nY"
     },
     {
       "id": "pizza-hut-hamilton-upper-ottawa",
@@ -16958,7 +17047,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu8GzdAKbLIgRUUlqGJGD7FI"
     },
     {
       "id": "pizza-hut-waterloo-weber",
@@ -17013,7 +17103,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf7pUZqL1K4gRGH0hdhIVfWA"
     },
     {
       "id": "pizza-hut-woodstock-huron",
@@ -17068,7 +17159,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJreIFQBQfLIgR8X6OAL2VjbQ"
     },
     {
       "id": "pizza-hut-tillsonburg-simcoe",
@@ -17123,7 +17215,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJWXbto_ctLIgReM5Mc_XuZNQ"
     },
     {
       "id": "pizza-hut-guelph-scottsdale",
@@ -17178,7 +17271,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40L4APKaK4gRUM8yyR5j7L0"
     },
     {
       "id": "pizza-hut-stratford-erie",
@@ -17233,7 +17327,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ4wC2MitLogRoY5sj3LiLWE"
     },
     {
       "id": "pizza-hut-calgary-17ave-se",
@@ -17288,7 +17383,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-4st-ne",
@@ -17343,7 +17439,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-deer-ridge",
@@ -17398,7 +17495,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfaMsYft2cVMRso4uqmbZrd8"
     },
     {
       "id": "pizza-hut-calgary-17ave-sw",
@@ -17453,7 +17551,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-52st-ne",
@@ -17508,7 +17607,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJW0M_pw13cVMRkyIDIpLaEyw"
     },
     {
       "id": "pizza-hut-calgary-bannister",
@@ -17563,7 +17663,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-130ave-se",
@@ -17618,7 +17719,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-hidden-creek",
@@ -17673,7 +17775,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-16ave-nw",
@@ -17728,7 +17831,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-37st-sw",
@@ -17783,7 +17887,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-crowfoot",
@@ -17838,7 +17943,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-woodview",
@@ -17893,7 +17999,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-skyview",
@@ -17948,7 +18055,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-castleridge",
@@ -18003,7 +18111,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-calgary-quarry-park",
@@ -18058,7 +18167,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUwDoqh57cVMRJSvz7EfHzS0"
     },
     {
       "id": "pizza-hut-airdrie-edmonton-trail",
@@ -18113,7 +18223,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwweZCSY9oFMRXOBwgShrJpo"
     },
     {
       "id": "pizza-hut-airdrie-main-se",
@@ -18168,7 +18279,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwweZCSY9oFMRXOBwgShrJpo"
     },
     {
       "id": "pizza-hut-red-deer-50ave-n",
@@ -18223,7 +18335,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhaKJr61VdFMRUndh1ZJqjNI"
     },
     {
       "id": "pizza-hut-red-deer-50ave-s",
@@ -18278,7 +18391,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhaKJr61VdFMRUndh1ZJqjNI"
     },
     {
       "id": "pizza-hut-red-deer-thomlinson",
@@ -18333,7 +18447,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhaKJr61VdFMRUndh1ZJqjNI"
     },
     {
       "id": "pizza-hut-fort-saskatchewan",
@@ -18388,7 +18503,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJkSXP1nZHoFMR-bOrzfgkCsI"
     },
     {
       "id": "pizza-hut-wetaskiwin-56st",
@@ -18443,7 +18559,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB6IQRbRPdVMRT_H6QGXx2eI"
     },
     {
       "id": "pizza-hut-cold-lake-51st",
@@ -18498,7 +18615,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2_dZ7DXKp1MRYG6twsGzPXA"
     },
     {
       "id": "pizza-hut-bonnyville-50ave",
@@ -18553,7 +18671,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJrX9GXHsHp1MRsVwHsQrfZ94"
     },
     {
       "id": "pizza-hut-high-river-1st-sw",
@@ -18608,7 +18727,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjyIvmRWVcVMRiJJaqhT6R_M"
     },
     {
       "id": "pizza-hut-okotoks-mcrae",
@@ -18663,7 +18783,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJtQVr7DSZcVMRX9lbngImghk"
     },
     {
       "id": "pizza-hut-st-thomas-talbot",
@@ -18718,7 +18839,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJk7iMsz1eLogR_fl6ykxp6-c"
     },
     {
       "id": "pizza-hut-winnipeg-portage-w",
@@ -18773,7 +18895,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-portage-e",
@@ -18828,7 +18951,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-mcphillips",
@@ -18883,7 +19007,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-pembina",
@@ -18938,7 +19063,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-plessis",
@@ -18993,7 +19119,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-william",
@@ -19048,7 +19175,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-autumnwood",
@@ -19103,7 +19231,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-winnipeg-henderson",
@@ -19158,7 +19287,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKSDZQIlz6lIRHeO6ohcqGD0"
     },
     {
       "id": "pizza-hut-selkirk-main",
@@ -19213,7 +19343,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJD2b9HaWK6lIRxIBQ5wIBaok"
     },
     {
       "id": "pizza-hut-kenora-main",
@@ -19268,7 +19399,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJl-nkOoIIvlIRpFtxWa2pdQ4"
     },
     {
       "id": "pizza-hut-fort-frances-kings-hwy",
@@ -19323,7 +19455,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ54UbTB98u1IRx4ZBmG-IWcY"
     },
     {
       "id": "pizza-hut-perth-dufferin",
@@ -19378,7 +19511,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY96Y-Y560kwRoCoSOzapDeo"
     },
     {
       "id": "pizza-hut-toronto-albion",
@@ -19433,7 +19567,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-finch-w",
@@ -19488,7 +19623,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-church",
@@ -19543,7 +19679,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-etobicoke-kipling",
@@ -19598,7 +19735,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJlZn7_MswK4gRaVRCVeMqu0E"
     },
     {
       "id": "pizza-hut-cranbrook-cranbrook-st",
@@ -19653,7 +19791,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJX8lyZMrYZFMR4lHkQvL4lTo"
     },
     {
       "id": "pizza-hut-dawson-creek-alaska",
@@ -19708,7 +19847,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJyww08EeZkVMR7xkN0gpRyyk"
     },
     {
       "id": "pizza-hut-fort-st-john-111st",
@@ -19763,7 +19903,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJRwiWLPM2klMRqBe6JOatNMk"
     },
     {
       "id": "pizza-hut-lindsay",
@@ -19818,7 +19959,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu_UYqcN71YkRcf41pLqVwFA"
     },
     {
       "id": "pizza-hut-peterborough-lansdowne",
@@ -19873,7 +20015,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf2_dOZeM1YkROMvkGvMZV3o"
     },
     {
       "id": "pizza-hut-peterborough-george",
@@ -19928,7 +20071,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf2_dOZeM1YkROMvkGvMZV3o"
     },
     {
       "id": "pizza-hut-lakefield",
@@ -19983,7 +20127,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ98LgqnC11EwRn5FjJlg3d9w"
     },
     {
       "id": "pizza-hut-montreal-bishop",
@@ -20038,7 +20183,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-brockville",
@@ -20093,7 +20239,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJpyp6PB8PzUwRQQ40WrimRkE"
     },
     {
       "id": "pizza-hut-nepean-robertson",
@@ -20148,7 +20295,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-BO7f4GzkwRbDYikAwSRgk"
     },
     {
       "id": "pizza-hut-strathmore",
@@ -20203,7 +20351,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ8SB--urMc1MR6J-w7kh97sk"
     },
     {
       "id": "pizza-hut-thunder-bay-red-river",
@@ -20258,7 +20407,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJ60nNgAjWU0RvCOy6_nJm70"
     },
     {
       "id": "pizza-hut-thunder-bay-west-arthur",
@@ -20313,7 +20463,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJ60nNgAjWU0RvCOy6_nJm70"
     },
     {
       "id": "pizza-hut-thunder-bay-memorial",
@@ -20368,7 +20519,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJ60nNgAjWU0RvCOy6_nJm70"
     },
     {
       "id": "pizza-hut-thunder-bay-arundel",
@@ -20423,7 +20575,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJ60nNgAjWU0RvCOy6_nJm70"
     },
     {
       "id": "pizza-hut-dryden",
@@ -20478,7 +20631,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm4gNJi6yolIR5j6bfPREO2o"
     },
     {
       "id": "pizza-hut-olds",
@@ -20533,7 +20687,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ23BN-PMQdFMR78sOOWbW-1o"
     },
     {
       "id": "pizza-hut-squamish",
@@ -20588,7 +20743,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ1Z3zdgz5hlQR5H1Y9I4k1EE"
     },
     {
       "id": "pizza-hut-whitecourt",
@@ -20643,7 +20799,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ9JEf17TnlMRw2GgZL4g43k"
     },
     {
       "id": "pizza-hut-mission",
@@ -20698,7 +20855,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJRyy-ffYzhFQRfzEiH29HJuk"
     },
     {
       "id": "pizza-hut-woodbridge",
@@ -20753,7 +20911,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJGdoyA8AkK4gR9jgX3wup92I"
     },
     {
       "id": "pizza-hut-petawawa",
@@ -20808,7 +20967,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJI_c2nJPM1kwR-z44Z4cp8YU"
     },
     {
       "id": "pizza-hut-abbotsford-whatcom",
@@ -20863,7 +21023,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKVkjV1s1hFQR_TURNbhn10I"
     },
     {
       "id": "pizza-hut-markham-markham-road",
@@ -20918,7 +21079,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-cookstown",
@@ -20973,7 +21135,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJNwWs5X3BKogR9bwaU45luUw"
     },
     {
       "id": "pizza-hut-ladner",
@@ -21028,7 +21191,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJbdM8AsLghVQRSMuS87jHfrE"
     },
     {
       "id": "pizza-hut-sidney",
@@ -21083,7 +21247,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJcavjbtVnj1QRrsdZ7GroUKg"
     },
     {
       "id": "pizza-hut-brentwood-bay",
@@ -21138,7 +21303,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ5yGVI7tuj1QRC-hZOdds3Xs"
     },
     {
       "id": "pizza-hut-burnaby-cornerstone",
@@ -21193,7 +21359,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn9R9hmJ3hlQRAATC8jS7OaM"
     },
     {
       "id": "pizza-hut-binbrook",
@@ -21248,7 +21415,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLSpsTZSWLIgRiYUKmY0Ha8I"
     },
     {
       "id": "pizza-hut-calgary-mahogany",
@@ -21303,7 +21471,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJW0M_pw13cVMRkyIDIpLaEyw"
     },
     {
       "id": "pizza-hut-calgary-symons-valley",
@@ -21358,7 +21527,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLZDDN6lncVMR8mxjlpP90iM"
     },
     {
       "id": "pizza-hut-port-alberni",
@@ -21413,7 +21583,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJM8KWHiT3iFQRD-xdkk7G-qc"
     },
     {
       "id": "pizza-hut-campbell-river",
@@ -21468,7 +21639,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ73g5NkivYlQRhLENGNlVj5k"
     },
     {
       "id": "pizza-hut-aldergrove",
@@ -21523,7 +21695,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ1aafNO_LhVQRF7DKGXdrCRY"
     },
     {
       "id": "pizza-hut-oakville-lakeshore",
@@ -21578,7 +21751,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJYeEjPchCK4gR0bgQ2FlXnj8"
     },
     {
       "id": "pizza-hut-bowmanville",
@@ -21633,7 +21807,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9z9bPLUA1YkRbq3HkA8yg14"
     },
     {
       "id": "pizza-hut-mississauga-rathburn",
@@ -21688,7 +21863,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj1ZbvQFHK4gRcWxKCy4Eirc"
     },
     {
       "id": "pizza-hut-toronto-queensway",
@@ -21743,7 +21919,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-marathon",
@@ -21798,7 +21975,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJUNQoDaBQ00Rj6pJzkfvxmM"
     },
     {
       "id": "pizza-hut-saint-leonard",
@@ -21853,7 +22031,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJbRmIgIgeyUwRZ4ZMB28Inu8"
     },
     {
       "id": "pizza-hut-georgetown-1",
@@ -21908,7 +22087,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ6V93PSFtK4gRANmSY-Hl0v8"
     },
     {
       "id": "pizza-hut-barrie-yonge",
@@ -21963,7 +22143,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe22dnG29KogRmnYOFK9R0sM"
     },
     {
       "id": "pizza-hut-chestermere-1",
@@ -22018,7 +22199,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ0fR5bUp8cVMRvIavq8zSxUY"
     },
     {
       "id": "pizza-hut-winkler-1",
@@ -22073,7 +22255,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJVfiURHdJwlIRzH9BpjsI4iE"
     },
     {
       "id": "pizza-hut-slave-lake-1",
@@ -22128,7 +22311,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ83kOmXuNolMRkVXZNtjp_Lc"
     },
     {
       "id": "pizza-hut-westlock-1",
@@ -22183,7 +22367,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe9aLl2jCoVMR0iboI6SbuAk"
     },
     {
       "id": "pizza-hut-fergus-1",
@@ -22238,7 +22423,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJiaqcu2q-K4gRAz0ksfxBQDc"
     },
     {
       "id": "pizza-hut-devon-1",
@@ -22293,7 +22479,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ08NhqGPxn1MRsozPb6aYbKs"
     },
     {
       "id": "pizza-hut-barrie-bellfarm",
@@ -22348,7 +22535,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe22dnG29KogRmnYOFK9R0sM"
     },
     {
       "id": "pizza-hut-barrie-cundles",
@@ -22403,7 +22591,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe22dnG29KogRmnYOFK9R0sM"
     },
     {
       "id": "pizza-hut-surrey-192",
@@ -22458,7 +22647,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJna2_xrHQhVQRp0MSreNIev8"
     },
     {
       "id": "pizza-hut-lake-country-1",
@@ -22513,7 +22703,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfTivtz_vfVMRjIuymeINSUg"
     },
     {
       "id": "pizza-hut-port-perry-1",
@@ -22568,7 +22759,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJBfFUjSgU1YkRTOrMXUdA-Ow"
     },
     {
       "id": "pizza-hut-coaldale-1",
@@ -22623,7 +22815,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2WWdJtaBblMR2kzH4CzgJsg"
     },
     {
       "id": "pizza-hut-salmon-arm-1",
@@ -22678,7 +22871,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJP9TVvaD1flMRAsHhVsAF_Z4"
     },
     {
       "id": "pizza-hut-agassiz-1",
@@ -22733,7 +22927,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJG1J6dmsThFQRKJOcpr5vOl4"
     },
     {
       "id": "pizza-hut-martensville-1",
@@ -22788,7 +22983,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ0ZCDkyBcBFMRRE6SBM6oWNk"
     },
     {
       "id": "pizza-hut-burlington-plains",
@@ -22843,7 +23039,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjzb4DeKdLIgRhrrLgAqW3xY"
     },
     {
       "id": "pizza-hut-scarborough-eglinton",
@@ -22898,7 +23095,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-bolton-1",
@@ -22953,7 +23151,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaxNMVy4hK4gR4KEmC9qDqug"
     },
     {
       "id": "pizza-hut-ancaster-1",
@@ -23008,7 +23207,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJxyCpI6aILIgRwEF3A-OcRUg"
     },
     {
       "id": "pizza-hut-burlington-appleby",
@@ -23063,7 +23263,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjzb4DeKdLIgRhrrLgAqW3xY"
     },
     {
       "id": "pizza-hut-hagersville-1",
@@ -23118,7 +23319,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ0Yyt3XT3LIgRWLHb1QTVOB4"
     },
     {
       "id": "pizza-hut-owen-sound-1",
@@ -23173,7 +23375,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJCdNXhWL7KYgRo1ymFKIrQYs"
     },
     {
       "id": "pizza-hut-nipawin-1",
@@ -23228,7 +23431,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB2PIJXpz_lIRpdtuY6Py-Rk"
     },
     {
       "id": "pizza-hut-dunnville-1",
@@ -23283,7 +23487,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ7ry063FLIgRoFxtLqFevJ4"
     },
     {
       "id": "pizza-hut-port-colborne-1",
@@ -23338,7 +23543,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ290L2aYx04kRlmod8mvWUxM"
     },
     {
       "id": "pizza-hut-burlington-new",
@@ -23393,7 +23599,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjzb4DeKdLIgRhrrLgAqW3xY"
     },
     {
       "id": "pizza-hut-vaughan-mackenzie",
@@ -23448,7 +23655,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmZ3_2sQlK4gRC5V5Uaa6-Ww"
     },
     {
       "id": "pizza-hut-milton-holly",
@@ -23503,7 +23711,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJu6W8NmtvK4gRtRNL9OaQjyU"
     },
     {
       "id": "pizza-hut-bradford-1",
@@ -23558,7 +23767,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZw_SYAnFKogRNweWhDbduWg"
     },
     {
       "id": "pizza-hut-richmond-hill-headdon",
@@ -23613,7 +23823,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY2bqZsIrK4gRHEqgFJv9wSI"
     },
     {
       "id": "pizza-hut-strathroy-1",
@@ -23668,7 +23879,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf4zGx-YFL4gRaydD8XKVar0"
     },
     {
       "id": "pizza-hut-etobicoke-lakeshore",
@@ -23723,7 +23935,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJlZn7_MswK4gRaVRCVeMqu0E"
     },
     {
       "id": "pizza-hut-hinton-1",
@@ -23778,7 +23991,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJV_WhPWSNnFMRrVngzW3chao"
     },
     {
       "id": "pizza-hut-vegreville-1",
@@ -23833,7 +24047,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJkeRxHUSdoFMREd5QUBjiJv0"
     },
     {
       "id": "pizza-hut-stouffville-1",
@@ -23888,7 +24103,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJnXMLb64v1YkRtJKyd9_liSw"
     },
     {
       "id": "pizza-hut-dundas-1",
@@ -23943,7 +24159,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJWxK51amFLIgRdIZG9LdBwgs"
     },
     {
       "id": "pizza-hut-keswick-1",
@@ -23998,7 +24215,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfVjyNFDLKogRPpYlxmUzV6A"
     },
     {
       "id": "pizza-hut-high-level-1",
@@ -24053,7 +24271,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf_DlZ4ODwFMRYGeaevupkL8"
     },
     {
       "id": "pizza-hut-montreal-stlaurent-blvd",
@@ -24108,7 +24327,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-montreal-cotesaintluc",
@@ -24163,7 +24383,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-verdun-1",
@@ -24218,7 +24439,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMa1_5HoRyUwRQn9ZEyzf7Q8"
     },
     {
       "id": "pizza-hut-angus-1",
@@ -24273,7 +24495,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-hope-1",
@@ -24328,7 +24551,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ98yXW8j1g1QRmvXntn3-5g0"
     },
     {
       "id": "pizza-hut-caledonia-1",
@@ -24383,7 +24607,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe4GSItbP1IkRHImV7KkvDG8"
     },
     {
       "id": "pizza-hut-brooks-1",
@@ -24438,7 +24663,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJX1ONeFRibVMRAhr4alzR13E"
     },
     {
       "id": "pizza-hut-grimsby-1",
@@ -24493,7 +24719,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJobSFB4ClLIgRu2VWe1UbjnY"
     },
     {
       "id": "pizza-hut-orillia-1",
@@ -24548,7 +24775,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJk9XLAOirK4gRkXCWi4TAEr4"
     },
     {
       "id": "pizza-hut-alliston-1",
@@ -24603,7 +24831,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJRYURtGrvKogRotoe1lc2tFA"
     },
     {
       "id": "pizza-hut-stoney-creek-1",
@@ -24658,7 +24887,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJEf9DzXClLIgRhAKmrRC5WKU"
     },
     {
       "id": "pizza-hut-beamsville-1",
@@ -24713,7 +24943,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFdAPn02vLIgR4DSov1cNLX8"
     },
     {
       "id": "pizza-hut-gravenhurst-1",
@@ -24768,7 +24999,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ4fXuWhabKk0RW9PrBQZM9-w"
     },
     {
       "id": "pizza-hut-hanover-1",
@@ -24823,7 +25055,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJl1DDy4DzLogRey-nBQKf81c"
     },
     {
       "id": "pizza-hut-delson-1",
@@ -24878,7 +25111,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPVyCsRgNyUwRv-MDHEZwtfo"
     },
     {
       "id": "pizza-hut-concord-1",
@@ -24933,7 +25167,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv1KZO9IuK4gRg5hP_VkKNUI"
     },
     {
       "id": "pizza-hut-montreal-sherbrooke-w",
@@ -24988,7 +25223,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-montreal-stlaurent-9870",
@@ -25043,7 +25279,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-tsawwassen-1",
@@ -25098,7 +25335,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFQtAVvTmhVQRWHCwSN1uaGg"
     },
     {
       "id": "pizza-hut-toronto-ellesmere-85",
@@ -25153,7 +25391,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-montreal-stjean-baptiste",
@@ -25208,7 +25447,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-kirkland-1",
@@ -25263,7 +25503,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQ2XIDok5yUwR2I0U859ha0w"
     },
     {
       "id": "pizza-hut-uxbridge-1",
@@ -25318,7 +25559,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJyaImNOM71YkRvHcZedqXTq8"
     },
     {
       "id": "pizza-hut-sechelt-1",
@@ -25373,7 +25615,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaUXOOLvZYlMRWEXgTa3OPAo"
     },
     {
       "id": "pizza-hut-morinville-1",
@@ -25428,7 +25671,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_1ptCnQtoFMR1I2r2hAMhZs"
     },
     {
       "id": "pizza-hut-port-dover-1",
@@ -25483,7 +25727,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJuc4k8LjHK4gR12OzeYqYU6I"
     },
     {
       "id": "pizza-hut-simcoe-1",
@@ -25538,7 +25783,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-port-elgin-1",
@@ -25593,7 +25839,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJCXtXHtDJKYgRcSmOSwSLqJw"
     },
     {
       "id": "pizza-hut-the-pas-1",
@@ -25648,7 +25895,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLevxg1jr-VIREOsuwwJqO7M"
     },
     {
       "id": "pizza-hut-kincardine-1",
@@ -25703,7 +25951,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2TZwHqVRKIgRgD7HJ9PzwMc"
     },
     {
       "id": "pizza-hut-north-bay-1",
@@ -25758,7 +26007,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJk3nGal2qKU0RcfFbLYchZts"
     },
     {
       "id": "pizza-hut-smithville-1",
@@ -25813,7 +26063,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ78FAGg2xLIgRBBIH6-ZnYYw"
     },
     {
       "id": "pizza-hut-huntsville-1",
@@ -25868,62 +26119,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
-    },
-    {
-      "id": "pizza-hut-toronto-stclair-w",
-      "name": "Pizza Hut",
-      "address": "2575 St. Clair Ave W, Unit #3, Toronto, ON, M6N 4Z5",
-      "phone": "(416) 769-9333",
-      "latitude": 43.6675545,
-      "longitude": -79.4885993,
-      "rating": 0,
-      "cuisine": [
-        "pizza"
-      ],
-      "service": [
-        "surplace",
-        "takeout",
-        "delivery"
-      ],
-      "keywords": [],
-      "horaires": {
-        "dimanche": {
-          "ouverture": "10:30",
-          "fermeture": "00:00"
-        },
-        "lundi": {
-          "ouverture": "10:30",
-          "fermeture": "23:00"
-        },
-        "mardi": {
-          "ouverture": "10:30",
-          "fermeture": "23:00"
-        },
-        "mercredi": {
-          "ouverture": "10:30",
-          "fermeture": "23:00"
-        },
-        "jeudi": {
-          "ouverture": "10:30",
-          "fermeture": "00:00"
-        },
-        "vendredi": {
-          "ouverture": "10:30",
-          "fermeture": "02:00"
-        },
-        "samedi": {
-          "ouverture": "10:30",
-          "fermeture": "02:00"
-        }
-      },
-      "note": "",
-      "source": "prixmalin",
-      "website": "https://www.pizzahut.ca",
-      "note_en": "",
-      "note_es": "",
-      "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-lachine-1",
@@ -25978,7 +26175,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZxfd_HwXyUwRu-F3tc96KlE"
     },
     {
       "id": "pizza-hut-orangeville-1",
@@ -26033,7 +26231,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJuc4k8LjHK4gR12OzeYqYU6I"
     },
     {
       "id": "pizza-hut-montreal-jeantalon-e",
@@ -26088,7 +26287,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-montreal-queenmary",
@@ -26143,7 +26343,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-st-hubert-1",
@@ -26198,7 +26399,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj6ul80IFyUwRECrB6XuCxG0"
     },
     {
       "id": "pizza-hut-montreal-sherbrooke-e",
@@ -26253,7 +26455,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJawAjKeQbyUwRzw_ZctrmcqQ"
     },
     {
       "id": "pizza-hut-burlington-1",
@@ -26308,7 +26511,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjzb4DeKdLIgRhrrLgAqW3xY"
     },
     {
       "id": "pizza-hut-crossfield-1",
@@ -26363,7 +26567,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJh1QhI-j8c1MREQeorsbGevI"
     },
     {
       "id": "pizza-hut-exeter-1",
@@ -26418,7 +26623,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJbf_G67bXLogRvQqN9LUl5jQ"
     },
     {
       "id": "pizza-hut-arthur-1",
@@ -26473,7 +26679,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJuc4k8LjHK4gR12OzeYqYU6I"
     },
     {
       "id": "pizza-hut-st-marys-1",
@@ -26528,7 +26735,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJX-96bbm5LogRCc9n1iNB8VE"
     },
     {
       "id": "pizza-hut-trenton-1",
@@ -26583,7 +26791,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJD3Gw02w91okRepGuDPV8ryc"
     },
     {
       "id": "pizza-hut-listowel-1",
@@ -26638,7 +26847,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJWyWeh31dKYgRgqan8zVJJb8"
     },
     {
       "id": "pizza-hut-virgil-1",
@@ -26693,7 +26903,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJczqpGc9Z04kR6TXmDJe9Dsk"
     },
     {
       "id": "pizza-hut-wasaga-beach-1",
@@ -26748,7 +26959,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZyoox6-HKogRdNhvR29V_aQ"
     },
     {
       "id": "pizza-hut-gatineau-1",
@@ -26803,7 +27015,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ6SIDGUbzkwRdFgn_F4IBYg"
     },
     {
       "id": "pizza-hut-fort-erie-1",
@@ -26858,7 +27071,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZwV_6GYV04kRbeA293HpKsA"
     },
     {
       "id": "pizza-hut-sharon-1",
@@ -26913,7 +27127,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJA54PKlrNKogRKq8EKq2yUVM"
     },
     {
       "id": "pizza-hut-aylmer-1",
@@ -26968,7 +27183,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJyzthC7IBzkwRTc8lkBlY5lo"
     },
     {
       "id": "pizza-hut-bracebridge-1",
@@ -27023,7 +27239,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm8BDWaeHKk0RYvIhJLLm404"
     },
     {
       "id": "pizza-hut-caledon-1",
@@ -27078,7 +27295,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFTt7Nm0bK4gR0Dn75jqCd8A"
     },
     {
       "id": "pizza-hut-innisfil-1",
@@ -27133,7 +27351,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJj027DL2xKogRSE-dTu8DnJw"
     },
     {
       "id": "pizza-hut-pincher-creek-1",
@@ -27188,7 +27407,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJC01bkMwLb1MRHgi-q9HQdWE"
     },
     {
       "id": "pizza-hut-collingwood-1",
@@ -27243,7 +27463,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJSUuhydZ7KogRWC2yG9Wcn-s"
     },
     {
       "id": "pizza-hut-kingsville-1",
@@ -27298,7 +27519,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJq5ED2VvDOogRl-qQXdV5SUA"
     },
     {
       "id": "pizza-hut-shelburne-1",
@@ -27353,7 +27575,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJYy6Wjd5RKogR5SPpkdnZF-U"
     },
     {
       "id": "pizza-hut-dollard-des-ormeaux-1",
@@ -27408,7 +27631,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL6mgByo7yUwR2rgU183rKu8"
     },
     {
       "id": "pizza-hut-kindersley-1",
@@ -27463,7 +27687,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJewM9jOJBDlMRwcPb8J8vXUg"
     },
     {
       "id": "pizza-hut-elmira-1",
@@ -27518,7 +27743,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJU6w63x_vK4gR3ZKWuX3lmHU"
     },
     {
       "id": "pizza-hut-tofield-1",
@@ -27573,7 +27799,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJSevTLw13oFMRPWzYMGPHtwA"
     },
     {
       "id": "pizza-hut-morrisburg-1",
@@ -27628,7 +27855,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJW7DNj5tJzEwRL0-jiJHsh0c"
     },
     {
       "id": "pizza-hut-waterdown-1",
@@ -27683,7 +27911,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJHxhS0vqdLIgR2o8M0zHI8VY"
     },
     {
       "id": "pizza-hut-wingham-1",
@@ -27738,7 +27967,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJkWIQcjMRKYgRvGWtuUpomuI"
     },
     {
       "id": "pizza-hut-paris-1",
@@ -27793,7 +28023,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ73PxNahtLIgRJfeYKwslbCo"
     },
     {
       "id": "pizza-hut-cochrane-ab-1",
@@ -27848,7 +28079,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJqY9P82I_cVMRTs1gT9fptTA"
     },
     {
       "id": "pizza-hut-ottawa-1",
@@ -27903,7 +28135,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL5i3UscFzkwRT69sVAXrL9E"
     },
     {
       "id": "pizza-hut-gatineau-2",
@@ -27958,7 +28191,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ6SIDGUbzkwRdFgn_F4IBYg"
     },
     {
       "id": "pizza-hut-cardston-1",
@@ -28013,7 +28247,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPQ6uxggnb1MRNejVVfVx_Tw"
     },
     {
       "id": "pizza-hut-midland-1",
@@ -28068,7 +28303,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJP8iD3KjbKk0R40Enz4h6UzQ"
     },
     {
       "id": "pizza-hut-sutton-1",
@@ -28123,7 +28359,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJXWen56tN1YkReqMpYr6WfnI"
     },
     {
       "id": "pizza-hut-warman-1",
@@ -28178,7 +28415,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmXigylxnBFMRo8O9BqlivCY"
     },
     {
       "id": "pizza-hut-ingersoll-1",
@@ -28233,7 +28471,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJr6jccdedLogRby4xJMKgkW0"
     },
     {
       "id": "pizza-hut-barrie-1",
@@ -28288,7 +28527,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe22dnG29KogRmnYOFK9R0sM"
     },
     {
       "id": "pizza-hut-stayner-1",
@@ -28343,7 +28583,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ55k46atiKogRdqF0jQxaSTI"
     },
     {
       "id": "pizza-hut-essex-1",
@@ -28398,7 +28639,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJhyjRjpbROogR91vIakkS8OQ"
     },
     {
       "id": "pizza-hut-tilbury-1",
@@ -28453,7 +28695,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJA3cSc0yzOogRsyzHdV9vO8E"
     },
     {
       "id": "pizza-hut-amherstburg-1",
@@ -28508,7 +28751,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmw_b0K89O4gRem_keblNHY8"
     },
     {
       "id": "pizza-hut-north-bay-2",
@@ -28563,7 +28807,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJk3nGal2qKU0RcfFbLYchZts"
     },
     {
       "id": "pizza-hut-vermilion",
@@ -28618,7 +28863,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2e8I_MUcoFMRLoO1cLAZxNA"
     },
     {
       "id": "pizza-hut-innisfail",
@@ -28673,7 +28919,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLUl72VtBdFMRlNVItm8ao3E"
     },
     {
       "id": "pizza-hut-blenheim",
@@ -28728,7 +28975,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB3imkyjjL4gRhKJ_JQJY4Zo"
     },
     {
       "id": "pizza-hut-aylmer-qc",
@@ -28783,7 +29031,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJyzthC7IBzkwRTc8lkBlY5lo"
     },
     {
       "id": "pizza-hut-wallaceburg",
@@ -28838,7 +29087,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJcUnAoZJDJYgRYZV1a4w1x4g"
     },
     {
       "id": "pizza-hut-brighton",
@@ -28893,7 +29143,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-mitchell",
@@ -28948,7 +29199,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJw9__hyE1KYgRFn3o8Dduv60"
     },
     {
       "id": "pizza-hut-goderich",
@@ -29003,7 +29255,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ0YFdGADDKIgR46EeM75XpjE"
     },
     {
       "id": "pizza-hut-stettler",
@@ -29058,7 +29311,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJcbiSBcPNdFMR8vDYDIHpg-A"
     },
     {
       "id": "pizza-hut-mount-forest",
@@ -29113,7 +29367,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ85hSxYLVK4gRXxkX_5qJ2Kc"
     },
     {
       "id": "pizza-hut-ottawa-2",
@@ -29168,7 +29423,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL5i3UscFzkwRT69sVAXrL9E"
     },
     {
       "id": "pizza-hut-langley-221st",
@@ -29223,7 +29479,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJgY9-rCzQhVQR384E-d5RG98"
     },
     {
       "id": "pizza-hut-elliot-lake",
@@ -29278,7 +29535,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ53IqiJkPMU0RHeRuPLp0k4c"
     },
     {
       "id": "pizza-hut-walkerton",
@@ -29333,7 +29591,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJHdaU4sqfKYgRhyB9YHGIvLY"
     },
     {
       "id": "pizza-hut-campbellford",
@@ -29388,7 +29647,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJYR6HZ4D1okR7GMc_83TcNg"
     },
     {
       "id": "pizza-hut-canmore",
@@ -29443,7 +29703,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJDxeYmJTFcFMRv_Nr7AZO8Tc"
     },
     {
       "id": "pizza-hut-medicine-hat-1",
@@ -29498,7 +29759,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFbNUdZ0tE1MRxH5pnDpSxwg"
     },
     {
       "id": "pizza-hut-barrhead",
@@ -29553,7 +29815,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_bMQTYFdn1MRuWk8O-tgxtU"
     },
     {
       "id": "pizza-hut-new-hamburg",
@@ -29608,7 +29871,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn8WQUOkHLIgR-QXlXCr3lQw"
     },
     {
       "id": "pizza-hut-tisdale",
@@ -29663,7 +29927,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJwQuybhaT_VIRhfvPCrqY_sQ"
     },
     {
       "id": "pizza-hut-claresholm",
@@ -29718,7 +29983,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm-LpDzg7blMRbEkiIO8eXG4"
     },
     {
       "id": "pizza-hut-napanee",
@@ -29773,7 +30039,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJk7UOPMnN0kwRht3JU831arc"
     },
     {
       "id": "pizza-hut-petrolia",
@@ -29828,7 +30095,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJH46Ns4SDL4gRES0ZudJ1ZcU"
     },
     {
       "id": "pizza-hut-revelstoke",
@@ -29883,7 +30151,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJyxatphw3eVMRwCg9yiuIPH0"
     },
     {
       "id": "pizza-hut-acton",
@@ -29938,7 +30207,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJS3cdRnjW1IkRQ9DGqTP38c0"
     },
     {
       "id": "pizza-hut-harrow",
@@ -29993,7 +30263,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJCbC-3YBPWUsRTrfr-muFGU4"
     },
     {
       "id": "pizza-hut-corunna",
@@ -30048,7 +30319,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-bYCD2l3JYgRFeIftSomz7I"
     },
     {
       "id": "pizza-hut-picton",
@@ -30103,7 +30375,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJOdCE_NPR1IkR7LDczr735oU"
     },
     {
       "id": "pizza-hut-morden",
@@ -30158,7 +30431,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJh6sUbwRRwlIRNxnn9GSbKBk"
     },
     {
       "id": "pizza-hut-meaford",
@@ -30213,7 +30487,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZdnqFcgJKogRmPHnbKOYBPY"
     },
     {
       "id": "pizza-hut-ottawa-3",
@@ -30268,7 +30543,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL5i3UscFzkwRT69sVAXrL9E"
     },
     {
       "id": "pizza-hut-saint-john",
@@ -30323,7 +30599,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJh0AKDbyzp0wRGzaMcm-2sOI"
     },
     {
       "id": "pizza-hut-cochrane-on",
@@ -30378,7 +30655,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJuc4k8LjHK4gR12OzeYqYU6I"
     },
     {
       "id": "pizza-hut-ridgetown",
@@ -30433,7 +30711,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJpzCUvQHpL4gRJf57gJd2pRw"
     },
     {
       "id": "pizza-hut-white-city",
@@ -30488,7 +30767,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJXWGHxumdHlMREzSYUQYN5tI"
     },
     {
       "id": "pizza-hut-medicine-hat-2",
@@ -30543,7 +30823,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFbNUdZ0tE1MRxH5pnDpSxwg"
     },
     {
       "id": "pizza-hut-taber",
@@ -30598,7 +30879,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJsTIlHQc2bFMRsmYm4A2z86Q"
     },
     {
       "id": "pizza-hut-melfort",
@@ -30653,7 +30935,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJr87e1bwTAlMRnKRHhjVPLNA"
     },
     {
       "id": "pizza-hut-rocky-mountain-house",
@@ -30708,7 +30991,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJJfllLW_ZdVMR8FxFulbzLJI"
     },
     {
       "id": "pizza-hut-sturgeon-falls",
@@ -30763,7 +31047,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJrQea3IQ3Nk0RnUAdPiiBc60"
     },
     {
       "id": "pizza-hut-fort-mcmurray-fraser",
@@ -30818,7 +31103,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKzeJS-8IsFMR_nx1f3_fD_g"
     },
     {
       "id": "pizza-hut-fort-mcmurray-thickwood",
@@ -30873,62 +31159,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
-    },
-    {
-      "id": "pizza-hut-oakbank",
-      "name": "Pizza Hut",
-      "address": "449 Main Street, Unit 12, Oakbank, MB, R0E 1J1",
-      "phone": "(204) 444-5551",
-      "latitude": 49.9448518,
-      "longitude": -96.8423449,
-      "rating": 0,
-      "cuisine": [
-        "pizza"
-      ],
-      "service": [
-        "surplace",
-        "takeout",
-        "delivery"
-      ],
-      "keywords": [],
-      "horaires": {
-        "dimanche": {
-          "ouverture": "11:00",
-          "fermeture": "22:00"
-        },
-        "lundi": {
-          "ouverture": "11:00",
-          "fermeture": "22:00"
-        },
-        "mardi": {
-          "ouverture": "11:00",
-          "fermeture": "22:00"
-        },
-        "mercredi": {
-          "ouverture": "11:00",
-          "fermeture": "22:00"
-        },
-        "jeudi": {
-          "ouverture": "11:00",
-          "fermeture": "22:00"
-        },
-        "vendredi": {
-          "ouverture": "11:00",
-          "fermeture": "23:00"
-        },
-        "samedi": {
-          "ouverture": "11:00",
-          "fermeture": "23:00"
-        }
-      },
-      "note": "",
-      "source": "prixmalin",
-      "website": "https://www.pizzahut.ca",
-      "note_en": "",
-      "note_es": "",
-      "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJKzeJS-8IsFMR_nx1f3_fD_g"
     },
     {
       "id": "pizza-hut-grand-bend",
@@ -30983,7 +31215,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ40loDohxhlQR8cE6kVn890Q"
     },
     {
       "id": "pizza-hut-milton",
@@ -31038,7 +31271,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJocpzDH9lK4gR064u5NHRrW4"
     },
     {
       "id": "pizza-hut-black-diamond",
@@ -31093,7 +31327,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc8XMHXWlcVMRrfiJwkIoeks"
     },
     {
       "id": "pizza-hut-manotick",
@@ -31148,7 +31383,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJL5i3UscFzkwRT69sVAXrL9E"
     },
     {
       "id": "pizza-hut-pembroke",
@@ -31203,7 +31439,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ1HZu_Y20UwR8Cqmh4dzwsQ"
     },
     {
       "id": "pizza-hut-lively",
@@ -31258,7 +31495,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJRYBe0yZTLk0RVjcW6sBJa9Q"
     },
     {
       "id": "pizza-hut-clarence-rockland",
@@ -31313,7 +31551,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ3Vv73fFrzkwROf5LhhHzSgg"
     },
     {
       "id": "pizza-hut-tottenham",
@@ -31368,7 +31607,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQyukRifnKogRekSDwO9lKRc"
     },
     {
       "id": "pizza-hut-laval-cure-labelle",
@@ -31423,7 +31663,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_ZPlh48hyUwRUjmqZT1SjEs"
     },
     {
       "id": "pizza-hut-ile-perrot",
@@ -31478,7 +31719,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ33CVGy45yUwR7suyYi3G88U"
     },
     {
       "id": "pizza-hut-laval-laurentides",
@@ -31533,7 +31775,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_ZPlh48hyUwRUjmqZT1SjEs"
     },
     {
       "id": "pizza-hut-laval-dagenais",
@@ -31588,7 +31831,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_ZPlh48hyUwRUjmqZT1SjEs"
     },
     {
       "id": "pizza-hut-charlottetown-capital",
@@ -31643,7 +31887,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaxir8uCtX0sRWSNySmgUTKc"
     },
     {
       "id": "pizza-hut-charlottetown-peters",
@@ -31698,7 +31943,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaxir8uCtX0sRWSNySmgUTKc"
     },
     {
       "id": "pizza-hut-truro",
@@ -31753,7 +31999,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJCbC-3YBPWUsRTrfr-muFGU4"
     },
     {
       "id": "pizza-hut-mississauga-platinum",
@@ -31808,7 +32055,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJa2YPE_JDK4gR8ONnXlLpLo0"
     },
     {
       "id": "pizza-hut-penetanguishene",
@@ -31863,7 +32111,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFYqBRPvbKk0Rl2ic-GeSBYQ"
     },
     {
       "id": "pizza-hut-renfrew",
@@ -31918,7 +32167,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB7f9oH1_0UwRrn1M76otwSI"
     },
     {
       "id": "pizza-hut-hawkesbury",
@@ -31973,7 +32223,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJXRYWdBnvzkwRpL5tt3iyDjQ"
     },
     {
       "id": "pizza-hut-longueuil-chambly",
@@ -32028,7 +32279,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJIUIwDF4byUwRQCw7B7G64FE"
     },
     {
       "id": "pizza-hut-espanola",
@@ -32083,7 +32335,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLZNKC8whLk0Riz3pe4lHQyg"
     },
     {
       "id": "pizza-hut-bridgewater",
@@ -32138,7 +32391,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ4dGoelRnV0sRiTGnPlVBDK8"
     },
     {
       "id": "pizza-hut-greenwood",
@@ -32193,7 +32447,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJIYUkv6RrWEsRCdkL5sbx9Hs"
     },
     {
       "id": "pizza-hut-kirkland-lake",
@@ -32248,7 +32503,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_x1331lzJE0RTuNMuPl1cXs"
     },
     {
       "id": "pizza-hut-bancroft",
@@ -32303,7 +32559,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-85jPLJl1EwRCJgK-6uLLoM"
     },
     {
       "id": "pizza-hut-stratford-pe",
@@ -32358,7 +32615,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ4wC2MitLogRoY5sj3LiLWE"
     },
     {
       "id": "pizza-hut-st-johns-danny",
@@ -32413,7 +32671,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjfT8lRG9DEsRJD7YyKd-uIY"
     },
     {
       "id": "pizza-hut-delhi",
@@ -32468,7 +32727,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJGQlpspQ1LIgR9xUIcmcSHns"
     },
     {
       "id": "pizza-hut-forest",
@@ -32523,7 +32783,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ85hSxYLVK4gRXxkX_5qJ2Kc"
     },
     {
       "id": "pizza-hut-sydney",
@@ -32578,7 +32839,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJw-agC8P7Z0sRcevvPP6vXA8"
     },
     {
       "id": "pizza-hut-port-hawkesbury",
@@ -32633,7 +32895,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ5XQvf1rjXEsRjUmgEVxf4hc"
     },
     {
       "id": "pizza-hut-st-johns-cashin",
@@ -32688,7 +32951,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJjfT8lRG9DEsRJD7YyKd-uIY"
     },
     {
       "id": "pizza-hut-camrose",
@@ -32743,7 +33007,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJo0-kAs27ClMRhwRfEOn3vjY"
     },
     {
       "id": "pizza-hut-beaumont",
@@ -32798,7 +33063,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2e8I_MUcoFMRLoO1cLAZxNA"
     },
     {
       "id": "pizza-hut-laval-concorde",
@@ -32853,7 +33119,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_ZPlh48hyUwRUjmqZT1SjEs"
     },
     {
       "id": "pizza-hut-longueuil-colisee",
@@ -32908,7 +33175,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJIUIwDF4byUwRQCw7B7G64FE"
     },
     {
       "id": "pizza-hut-carleton-place",
@@ -32963,7 +33231,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJuc4k8LjHK4gR12OzeYqYU6I"
     },
     {
       "id": "pizza-hut-chelmsford",
@@ -33018,7 +33287,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJk9XLAOirK4gRkXCWi4TAEr4"
     },
     {
       "id": "pizza-hut-stonewall",
@@ -33073,7 +33343,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ1fROkwo_6lIRhuTXuucfL08"
     },
     {
       "id": "pizza-hut-windsor",
@@ -33128,7 +33399,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9fnvsL8tO4gRvkWD7mili24"
     },
     {
       "id": "pizza-hut-tecumseh",
@@ -33183,7 +33455,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJX2gkM-gqO4gR2vqsoTWOn0s"
     },
     {
       "id": "pizza-hut-montreal-henri-bourassa-e",
@@ -33238,7 +33511,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-mississippi-mills",
@@ -33293,7 +33567,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJl0G1JKsb0kwRqu9ODL156UM"
     },
     {
       "id": "pizza-hut-drayton-valley",
@@ -33348,7 +33623,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJX4HjlAdHnlMRtvahSFxkkww"
     },
     {
       "id": "pizza-hut-drumheller",
@@ -33403,7 +33679,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPblMp2ISc1MRNz3zhFLlvv0"
     },
     {
       "id": "pizza-hut-sparwood",
@@ -33458,7 +33735,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm3rOYLxZZVMRimLSJ0MeJ1A"
     },
     {
       "id": "pizza-hut-st-paul-ab",
@@ -33513,7 +33791,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPV1iKj45p1MRjpe--HwlKTw"
     },
     {
       "id": "pizza-hut-gatineau-vanier",
@@ -33568,7 +33847,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ6SIDGUbzkwRdFgn_F4IBYg"
     },
     {
       "id": "pizza-hut-high-prairie",
@@ -33623,7 +33903,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJz-MirsUnmFMRO_lu6Cm2yxM"
     },
     {
       "id": "pizza-hut-dorchester",
@@ -33678,7 +33959,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJxwC3BECRLogRqEhqx4uuHLI"
     },
     {
       "id": "pizza-hut-lasalle-on",
@@ -33733,7 +34015,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJadumBX0RyUwR7x-4HWKPFFU"
     },
     {
       "id": "pizza-hut-new-minas",
@@ -33788,7 +34071,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJO_KGMwBVWEsRfb_p4N12i8k"
     },
     {
       "id": "pizza-hut-yarmouth",
@@ -33843,7 +34127,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLd_Q7gQRVksR0k-iU8JuLnQ"
     },
     {
       "id": "pizza-hut-summerside",
@@ -33898,7 +34183,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJgelhUQCbX0sRPBYXGgF1rfU"
     },
     {
       "id": "pizza-hut-niverville",
@@ -33953,7 +34239,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJe3QRIgDFwVIRDneL-OfX0w4"
     },
     {
       "id": "pizza-hut-lachute",
@@ -34008,7 +34295,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJNxlRrUbbzkwRdgI02JPm3r8"
     },
     {
       "id": "pizza-hut-gatineau-mont-bleu",
@@ -34063,7 +34351,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ6SIDGUbzkwRdFgn_F4IBYg"
     },
     {
       "id": "pizza-hut-gatineau-maloney",
@@ -34118,7 +34407,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ6SIDGUbzkwRdFgn_F4IBYg"
     },
     {
       "id": "pizza-hut-montreal-mont-royal-e",
@@ -34173,7 +34463,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJawAjKeQbyUwRzw_ZctrmcqQ"
     },
     {
       "id": "pizza-hut-fredericton-main",
@@ -34228,7 +34519,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9yn_CUIipEwRIuqPIWVk7aY"
     },
     {
       "id": "pizza-hut-fredericton-smythe",
@@ -34283,7 +34575,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9yn_CUIipEwRIuqPIWVk7aY"
     },
     {
       "id": "pizza-hut-montreal-ontario-e",
@@ -34338,7 +34631,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-sault-ste-marie-northern",
@@ -34393,7 +34687,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJFV2AnYc3Nk0RhZBt-GUKfTM"
     },
     {
       "id": "pizza-hut-wiarton",
@@ -34448,7 +34743,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmUR60DHJLE0RK_IcOsfqe0w"
     },
     {
       "id": "pizza-hut-sainte-agathe",
@@ -34503,7 +34799,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJDflZRwBrz0wR27kBgz3xxAg"
     },
     {
       "id": "pizza-hut-repentigny",
@@ -34558,7 +34855,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJfV9L5wLlyEwR_O-tV0rlWs0"
     },
     {
       "id": "pizza-hut-meadow-lake",
@@ -34613,7 +34911,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZeM6CNYrqFMRT1MhgpjhlgU"
     },
     {
       "id": "pizza-hut-richmond-hill-yonge-9080",
@@ -34668,7 +34967,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJY2bqZsIrK4gRHEqgFJv9wSI"
     },
     {
       "id": "pizza-hut-grand-falls-nb",
@@ -34723,7 +35023,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJB1tq0PDRvEwREBVdjUJxfAo"
     },
     {
       "id": "pizza-hut-whistler",
@@ -34778,7 +35079,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9w7Dn4gjh1QRYOy5AZ331JA"
     },
     {
       "id": "pizza-hut-longueuil-chambly-2550",
@@ -34833,7 +35135,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJIUIwDF4byUwRQCw7B7G64FE"
     },
     {
       "id": "pizza-hut-boucherville",
@@ -34888,7 +35191,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJxc6OWAADyUwRMa4qgwXV1GM"
     },
     {
       "id": "pizza-hut-embrun",
@@ -34943,7 +35247,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2ZhKpsB5zkwRXrxgmY7GHvo"
     },
     {
       "id": "pizza-hut-greely",
@@ -34998,7 +35303,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJmVHi0vbhzUwRlMYpTgwqzN4"
     },
     {
       "id": "pizza-hut-gananoque",
@@ -35053,7 +35359,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMZ5DQwBFzUwRcn0gDKurFpU"
     },
     {
       "id": "pizza-hut-sussex",
@@ -35108,7 +35415,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJb2Ghakojp0wRoWcg8r9u4Bs"
     },
     {
       "id": "pizza-hut-de-winton",
@@ -35163,7 +35471,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJW-E_OAB1cVMRWXj1CSw8ihw"
     },
     {
       "id": "pizza-hut-raymond",
@@ -35218,7 +35527,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJf7ThagCZblMRyx3Y-MwIBcQ"
     },
     {
       "id": "pizza-hut-osoyoos",
@@ -35273,7 +35583,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJPdY2rgzFglQRzdFvjqbYav0"
     },
     {
       "id": "pizza-hut-elmvale",
@@ -35328,7 +35639,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJDzUcGwDNKk0Rq-0P2FgXgS0"
     },
     {
       "id": "pizza-hut-orleans-tenth",
@@ -35383,7 +35695,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJE7PwU4URzkwRG19QpWCnE0E"
     },
     {
       "id": "pizza-hut-outremont",
@@ -35438,7 +35751,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJWzpaLOkZyUwRkTPFY0hVzYE"
     },
     {
       "id": "pizza-hut-rigaud",
@@ -35493,7 +35807,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_a4ODubJzkwRWZcceFycr4A"
     },
     {
       "id": "pizza-hut-kapuskasing",
@@ -35548,7 +35863,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJcZLDoHzfPU0RYWcy0I_o2aw"
     },
     {
       "id": "pizza-hut-bathurst-nb",
@@ -35603,7 +35919,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJm1KRLTmTmEwRMETPnw7YkBw"
     },
     {
       "id": "pizza-hut-trail",
@@ -35658,7 +35975,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJaUXOOLvZYlMRWEXgTa3OPAo"
     },
     {
       "id": "pizza-hut-castlegar",
@@ -35713,7 +36031,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJdWJJ65fVfFMRpGwD_cdn1o8"
     },
     {
       "id": "pizza-hut-scarborough-sheppard",
@@ -35768,7 +36087,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJv8Rw7LfQ1IkRB32xt96Zbsw"
     },
     {
       "id": "pizza-hut-whitby",
@@ -35823,7 +36143,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ2QOnAdwd1YkR7JVbf2GO2Yg"
     },
     {
       "id": "pizza-hut-terrebonne",
@@ -35878,7 +36199,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ50DLY5zeyEwR0F_01sn6qiw"
     },
     {
       "id": "pizza-hut-laval-samsom",
@@ -35933,7 +36255,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ_ZPlh48hyUwRUjmqZT1SjEs"
     },
     {
       "id": "pizza-hut-quebec-everell",
@@ -35988,7 +36311,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-eWSLKXuEwRgnxGlLKMP40"
     },
     {
       "id": "pizza-hut-quebec-18e",
@@ -36043,7 +36367,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-eWSLKXuEwRgnxGlLKMP40"
     },
     {
       "id": "pizza-hut-quebec-wilfrid-hamel",
@@ -36098,7 +36423,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-eWSLKXuEwRgnxGlLKMP40"
     },
     {
       "id": "pizza-hut-thetford-mines",
@@ -36153,7 +36479,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJLQxXaQAxuEwRPvGXRrFwfQY"
     },
     {
       "id": "pizza-hut-pierrefonds",
@@ -36208,7 +36535,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJQ3hposs7yUwRnaKJuV3ib04"
     },
     {
       "id": "pizza-hut-estevan",
@@ -36263,7 +36591,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJn-mLa7kiIFMRaE3The4s_jg"
     },
     {
       "id": "pizza-hut-cantley",
@@ -36318,7 +36647,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJD1BaX7YdzkwRvCk9-l_gQJM"
     },
     {
       "id": "pizza-hut-lacombe",
@@ -36373,7 +36703,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJObBIMgkEdVMR0pT_QBPmsgM"
     },
     {
       "id": "pizza-hut-sylvan-lake",
@@ -36428,7 +36759,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ4TAQjsCydVMRxPDD7JLoeN8"
     },
     {
       "id": "pizza-hut-dorval",
@@ -36483,7 +36815,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJz-5twooXyUwRG8ataCT5IHE"
     },
     {
       "id": "pizza-hut-kamloops-talasa",
@@ -36538,7 +36871,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJb-JP094tflMRcMXKUYeEwEs"
     },
     {
       "id": "pizza-hut-arnprior",
@@ -36593,7 +36927,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJz3pBegeL0UwR236_uYU95So"
     },
     {
       "id": "pizza-hut-salaberry-de-valleyfield",
@@ -36648,7 +36983,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJET2ZcdFPyUwRY6cSNbKyHw4"
     },
     {
       "id": "pizza-hut-sooke",
@@ -36703,7 +37039,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJuZUPOAAFj1QR9dpnVP4H7fI"
     },
     {
       "id": "pizza-hut-toronto-dufferin",
@@ -36758,7 +37095,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-toronto-danforth",
@@ -36813,7 +37151,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ9R8lZOA0K4gRVXPl--CPd7g"
     },
     {
       "id": "pizza-hut-montreal-mauriceduplessis",
@@ -36868,7 +37207,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJce7DCmoayUwRjiUPDKVlwuk"
     },
     {
       "id": "pizza-hut-whitchurch-stouffville",
@@ -36923,7 +37263,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJnXMLb64v1YkRtJKyd9_liSw"
     },
     {
       "id": "pizza-hut-humboldt",
@@ -36978,7 +37319,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJMW5Y-D4bA1MReUlKfYuzh-Q"
     },
     {
       "id": "pizza-hut-quebec-ormiere",
@@ -37033,7 +37375,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-eWSLKXuEwRgnxGlLKMP40"
     },
     {
       "id": "pizza-hut-quebec-quatre-bourgeois",
@@ -37088,7 +37431,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJc-eWSLKXuEwRgnxGlLKMP40"
     },
     {
       "id": "pizza-hut-levis",
@@ -37143,7 +37487,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJIxu3PwCTuEwRhak3dMe-Njg"
     },
     {
       "id": "pizza-hut-summerland",
@@ -37198,7 +37543,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-bHur_tlglQR9rekVZd-aPE"
     },
     {
       "id": "pizza-hut-weyburn",
@@ -37253,7 +37599,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJUToVLZQPH1MRHOGjuZq_1SM"
     },
     {
       "id": "pizza-hut-yorkton",
@@ -37308,7 +37655,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJE5bwK6Ot41IReh75khzDO2c"
     },
     {
       "id": "pizza-hut-ponoka",
@@ -37363,7 +37711,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJV_Ous9QVdVMRt0UEMl9aOmY"
     },
     {
       "id": "pizza-hut-blackfalds",
@@ -37418,7 +37767,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJZ4-gJHAAdVMR_LTNImMONbY"
     },
     {
       "id": "pizza-hut-langdon",
@@ -37473,7 +37823,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ17uaTQDVc1MRyvh01AkOG1A"
     },
     {
       "id": "pizza-hut-north-york-yonge",
@@ -37528,7 +37879,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJC7XeEmUtK4gRLgpVuEzyY8w"
     },
     {
       "id": "pizza-hut-kanata-innovation",
@@ -37583,7 +37935,8 @@
       "note_en": "",
       "note_es": "",
       "note_ar": "",
-      "note_zh": ""
+      "note_zh": "",
+      "place_id": "ChIJ-R_8O5__zUwRq8D6OPx3UkE"
     },
     {
       "name": "Broski's Diner",
@@ -37639,7 +37992,8 @@
       "note_en": "Come as a family, you'll find a seat.",
       "note_es": "Venid en familia y encontraréis un lugar.",
       "note_ar": "تعالوا كعائلة وستجدون مقعدًا.",
-      "note_zh": "全家一起来，您会找到座位。"
+      "note_zh": "全家一起来，您会找到座位。",
+      "place_id": "ChIJ43evTSB7Jk0RBlzu0veIZ3M"
     },
     {
       "id": "subway-malartic",
@@ -37702,7 +38056,8 @@
           "fermeture": "21:00"
         }
       },
-      "note": "Subway — Malartic QC"
+      "note": "Subway — Malartic QC",
+      "place_id": "ChIJW2No236tIE0RD6gKV_88vSc"
     },
     {
       "id": "resto-buffet-oriental-malartic",
@@ -37772,7 +38127,8 @@
           "fermeture": "20:00"
         }
       },
-      "note": "Buffet les vendredi, samedi, dimanche — 19.95$/adultes, 9.95$/enfants. Malartic QC"
+      "note": "Buffet les vendredi, samedi, dimanche — 19.95$/adultes, 9.95$/enfants. Malartic QC",
+      "place_id": "ChIJLW4-x3qtIE0RflFRJWdFz90"
     },
     {
       "id": "mcdonalds-malartic",
@@ -37840,7 +38196,8 @@
           "fermeture": "22:00"
         }
       },
-      "note": "McDonald's avec service au volant — Malartic QC"
+      "note": "McDonald's avec service au volant — Malartic QC",
+      "place_id": "ChIJJyeCPn-tIE0RK7uqdQTA7Ls"
     }
   ]
 }
