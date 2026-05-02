@@ -38002,7 +38002,7 @@
       "phone": "(819) 757-6767",
       "latitude": 48.14191,
       "longitude": -78.12651,
-      "rating": 4.0,
+      "rating": 4,
       "cuisine": [
         "sandwich",
         "fast food"
@@ -38198,6 +38198,60 @@
       },
       "note": "McDonald's avec service au volant — Malartic QC",
       "place_id": "ChIJJyeCPn-tIE0RK7uqdQTA7Ls"
+    },
+    {
+      "id": "silver-cafe-restaurant-pizza-cobalt",
+      "name": "Silver Cafe & Pizza",
+      "address": "3 Prospect Ave, Cobalt, ON P0J 1C0, Canada",
+      "phone": "(705) 679-5000",
+      "website": "",
+      "latitude": 47.3964993,
+      "longitude": -79.6852484,
+      "rating": 4.6,
+      "cuisine": [
+        "café",
+        "déjeuner",
+        "restaurant",
+        "fast-food"
+      ],
+      "service": [
+        "surplace",
+        "takeout"
+      ],
+      "keywords": [],
+      "horaires": {
+        "mardi": {
+          "ouverture": "09:00",
+          "fermeture": "14:00"
+        },
+        "mercredi": {
+          "ouverture": "09:00",
+          "fermeture": "14:00"
+        },
+        "jeudi": {
+          "ouverture": "09:00",
+          "fermeture": "14:00"
+        },
+        "vendredi": {
+          "ouverture": "09:00",
+          "fermeture": "19:00"
+        },
+        "samedi": {
+          "ouverture": "08:30",
+          "fermeture": "13:00"
+        },
+        "dimanche": {
+          "ouverture": "08:30",
+          "fermeture": "13:00"
+        }
+      },
+      "note": "",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": "",
+      "source": "prixmalin",
+      "place_id": "ChIJXSQrI-pxJk0Rupm8G5oo0Yw"
     }
   ]
 }
