@@ -558,7 +558,8 @@
         "建筑",
         "地板",
         "五金店"
-      ]
+      ],
+      "place_id": "ChIJMxUrbZ5BJk0RJVcH2RId5X8"
     },
     {
       "id": "drolet-bmr-villemarie",
@@ -1384,7 +1385,8 @@
         "覆盖物",
         "景观石",
         "围栏"
-      ]
+      ],
+      "place_id": "ChIJNQXIMQpBJk0RFVpvl3uUP5A"
     },
     {
       "id": "fecteau-villemarie",
@@ -2145,7 +2147,8 @@
         "覆盖物",
         "景观石",
         "围栏"
-      ]
+      ],
+      "place_id": "ChIJNQXIMQpBJk0RFVpvl3uUP5A"
     },
     {
       "id": "Maxi",
@@ -2596,7 +2599,8 @@
         "消毒剂",
         "纸巾",
         "湿巾"
-      ]
+      ],
+      "place_id": "ChIJ____L3ZBJk0ROxsrtMOAg3I"
     },
     {
       "id": "proxim-villemarie",
@@ -2696,7 +2700,8 @@
         "糖尿病",
         "血压",
         "药品配送"
-      ]
+      ],
+      "place_id": "ChIJExhsbgpBJk0RBQfC4AEPqKA"
     },
     {
       "id": "ecotone-villemarie",
@@ -3527,7 +3532,8 @@
         "抄网",
         "Centerpoint",
         "Feradyne"
-      ]
+      ],
+      "place_id": "ChIJHwN7WwpBJk0RW8WG_n-P1pA"
     },
     {
       "id": "bergeron-electronique-villemarie",
@@ -4253,7 +4259,8 @@
         "Galaxy Buds",
         "智能太阳镜"
       ],
-      "partner": "bergerons"
+      "partner": "bergerons",
+      "place_id": "ChIJ1_R5AKBBJk0RtJ_0P7iRXGU"
     },
     {
       "id": "tsc-villemarie",
@@ -4609,7 +4616,8 @@
         "工作靴",
         "运动鞋",
         "鞋底"
-      ]
+      ],
+      "place_id": "ChIJU_V5AKBBJk0REP2XBwlo_UY"
     },
     {
       "id": "giant-tiger-villemarie",
@@ -5180,7 +5188,8 @@
         "雪地服",
         "男孩服装",
         "女孩服装"
-      ]
+      ],
+      "place_id": "ChIJYcyRXvU3Nk0RLHewN9kyFPY"
     },
     {
       "id": "bonichoix-nddn",
@@ -5606,7 +5615,8 @@
         "消毒剂",
         "纸巾",
         "湿巾"
-      ]
+      ],
+      "place_id": "ChIJ0U3_qP5hJk0RhyGQ259UICQ"
     },
     {
       "id": "paquin-ford-stbruno",
@@ -5761,7 +5771,8 @@
         "✕ Ford",
         "福特经销商",
         "福特服务"
-      ]
+      ],
+      "place_id": "ChIJH515x2JdJk0Ri4x4Vg2rY0I"
     },
     {
       "id": "iga-temiscaming",
@@ -6274,7 +6285,8 @@
         "消毒剂",
         "纸巾",
         "湿巾"
-      ]
+      ],
+      "place_id": "ChIJ-QIchqtvKE0RMceSxRia-Og"
     },
     {
       "id": "homehardware-temiscaming",
@@ -6364,7 +6376,8 @@
         "装修",
         "五金",
         "电子产品"
-      ]
+      ],
+      "place_id": "ChIJizXPD2xvKE0RmX5wl-chIN0"
     },
     {
       "id": "renovation-fld-temiscaming",
@@ -7135,7 +7148,8 @@
         "覆盖物",
         "景观石",
         "围栏"
-      ]
+      ],
+      "place_id": "ChIJxcDOpqxvKE0R-zzIH4M_Oy0"
     },
     {
       "id": "uniprix-temiscaming",
@@ -7205,7 +7219,8 @@
         "洗发水",
         "奶油",
         "牙膏"
-      ]
+      ],
+      "place_id": "ChIJn1GLeG1vKE0RjaGsSNkV72I"
     },
     {
       "id": "points-pneus-temiscaming",
@@ -7404,7 +7419,8 @@
         "Blizzak",
         "X-冰",
         "WinterContact"
-      ]
+      ],
+      "place_id": "ChIJjT0tABMzIU0RPYXb202vG4E"
     },
     {
       "id": "metro-new-liskeard",
@@ -7830,7 +7846,8 @@
         "消毒剂",
         "纸巾",
         "湿巾"
-      ]
+      ],
+      "place_id": "ChIJiazNzAp7Jk0R8T8Mva7VnfA"
     },
     {
       "id": "canadian-tire-rouyn",
@@ -9691,7 +9708,8 @@
         "覆盖物",
         "景观石",
         "围栏"
-      ]
+      ],
+      "place_id": "ChIJ5QIO358FCUERNSkq4BOQ2eo"
     },
     {
       "id": "sports-experts-rouyn",
@@ -9781,7 +9799,8 @@
         "球拍",
         "溜冰鞋",
         "冰球"
-      ]
+      ],
+      "place_id": "ChIJM5pN7ZszIU0RXULXJbEXtcY"
     },
     {
       "id": "imaginart-insider-villemarie",
@@ -9872,7 +9891,8 @@
         "毛衣",
         "时尚配件",
         "鞋子"
-      ]
+      ],
+      "place_id": "ChIJBaH4KadBJk0RnFo3BxKDxtA"
     },
     {
       "id": "carquest-notre-dame-du-nord",
@@ -10531,7 +10551,8 @@
         "焊接面具",
         "磨光机",
         "磨削盘"
-      ]
+      ],
+      "place_id": "ChIJp0SS3ANiJk0RL8r6gp-2tAk"
     },
     {
       "id": "agrimax-st-bruno",
@@ -10663,7 +10684,8 @@
         "机械维修",
         "发动机",
         "维护"
-      ]
+      ],
+      "place_id": "ChIJHd6tG15dJk0Rha_oaW4KkLI"
     },
     {
       "id": "wilson-chevrolet-new-liskeard",
@@ -10817,7 +10839,8 @@
         "Yukon",
         "Canyon",
         "Acadia"
-      ]
+      ],
+      "place_id": "ChIJ5____z95Jk0RIbasCorQErc"
     },
     {
       "id": "new-liskeard-chrysler",
@@ -10927,7 +10950,8 @@
         "维护",
         "车身",
         "汽车服务"
-      ]
+      ],
+      "place_id": "ChIJ-79BWod7Jk0RUcKKWiY5rBA"
     },
     {
       "id": "walmart-new-liskeard",
@@ -12333,7 +12357,8 @@
         "桌游",
         "拼图",
         "塑像"
-      ]
+      ],
+      "place_id": "ChIJv5MGKwSbKYgRg5mqoLVquhs"
     },
     {
       "id": "chat-noir-books-new-liskeard",
@@ -12384,7 +12409,8 @@
         "小说",
         "桌游",
         "书店"
-      ]
+      ],
+      "place_id": "ChIJnX47sAl7Jk0R9rwNCq8W3_g"
     },
     {
       "id": "mcknight-menswear-new-liskeard",
@@ -12488,7 +12514,8 @@
         "礼服",
         "燕尾服",
         "正式"
-      ]
+      ],
+      "place_id": "ChIJG_NnDwl7Jk0RMyvYmlFzRVQ"
     },
     {
       "id": "rona-new-liskeard",
@@ -13053,7 +13080,8 @@
         "门闩",
         "支架",
         "架子"
-      ]
+      ],
+      "place_id": "ChIJb9jt2EzaKk0R_yfXYzVcnSI"
     },
     {
       "id": "ferron-marine-villemarie",
@@ -13820,7 +13848,8 @@
         "Alterra 300",
         "Alterra 90",
         "Catalyst"
-      ]
+      ],
+      "place_id": "ChIJAQAAALlHJk0R_xYnNBFBQtE"
     },
     {
       "id": "Napa-Lorrainville",
@@ -14509,7 +14538,8 @@
         "焊接面具",
         "磨光机",
         "磨削盘"
-      ]
+      ],
+      "place_id": "ChIJwRjalT8cxkwRMoR6fYtkAcI"
     },
     {
       "id": "bmr-nddn",
@@ -15350,7 +15380,8 @@
         "覆盖物",
         "景观石",
         "围栏"
-      ]
+      ],
+      "place_id": "ChIJz1GStf9hJk0R6BL6kxYZ9zw"
     },
     {
       "id": "temlac-villemarie",
@@ -15791,7 +15822,8 @@
         "千斤顶",
         "安全支架",
         "地板千斤顶"
-      ]
+      ],
+      "place_id": "ChIJTYXaz59BJk0ROqrhGVGFLAs"
     },
     {
       "id": "magasin-petrin-bearn",
@@ -15881,7 +15913,8 @@
         "服装",
         "衣物",
         "时尚"
-      ]
+      ],
+      "place_id": "ChIJOd1nbr9HJk0R8h3EVl9K6eU"
     },
     {
       "id": "canadian-tire-newliskeard",
@@ -17837,7 +17870,8 @@
         "狗外套",
         "马具",
         "碗"
-      ]
+      ],
+      "place_id": "ChIJX8ZZKId7Jk0RwDdegW4aWGY"
     },
     {
       "id": "food-basics-newliskeard",
@@ -18293,7 +18327,8 @@
         "消毒剂",
         "纸巾",
         "湿巾"
-      ]
+      ],
+      "place_id": "ChIJpZI90L97Jk0RHGt8REuxXHg"
     },
     {
       "id": "chartrand-grocer-newliskeard",
@@ -18841,7 +18876,8 @@
         "甜点",
         "派",
         "闪电泡芙"
-      ]
+      ],
+      "place_id": "ChIJd9kYQqR7Jk0RJ805L3oDVDc"
     },
     {
       "id": "brick-newliskeard",
@@ -18967,7 +19003,8 @@
         "扶手椅",
         "家具",
         "家电"
-      ]
+      ],
+      "place_id": "ChIJQRKWQod7Jk0R3TVUX8j_8xI"
     },
     {
       "id": "bonanza-furniture-newliskeard",
@@ -19207,7 +19244,8 @@
         "低桌",
         "餐桌",
         "办公椅"
-      ]
+      ],
+      "place_id": "ChIJe82L_Xh8Jk0RjPgM596BU_Y"
     },
     {
       "id": "home-hardware-newliskeard",
@@ -19822,7 +19860,8 @@
         "装修",
         "建筑",
         "木材"
-      ]
+      ],
+      "place_id": "ChIJY_LLw2x6Jk0RT0CBXQ_M0Hw"
     },
     {
       "id": "northway-chrysler-newliskeard",
@@ -19942,7 +19981,8 @@
         "租赁",
         "克莱斯勒零件",
         "汽车服务"
-      ]
+      ],
+      "place_id": "ChIJ-79BWod7Jk0RUcKKWiY5rBA"
     },
     {
       "id": "yves-prime-cut-meats",
@@ -20051,7 +20091,8 @@
         "优质切割",
         "肉块",
         "龙虾"
-      ]
+      ],
+      "place_id": "ChIJ92dzMa98Jk0ReqCK9nGAJ5o"
     },
     {
       "id": "hart-home-newliskeard",
@@ -20222,7 +20263,8 @@
         "拼图",
         "拼图",
         "玩具"
-      ]
+      ],
+      "place_id": "ChIJlz3Qokd7Jk0RWATI6PHAChQ"
     },
     {
       "name": "Boucherie le Gourmet",
@@ -20319,7 +20361,8 @@
         "熟食",
         "新鲜肉类",
         "定制切割"
-      ]
+      ],
+      "place_id": "ChIJHYnP2hJCJk0RGyyhuOptQbE"
     },
     {
       "id": "Epicerie Boucherie Fruits et Légumes",
@@ -20421,7 +20464,8 @@
         "熟食",
         "新鲜肉类",
         "定制切割"
-      ]
+      ],
+      "place_id": "ChIJaUkxJgBdJk0RgZtxuTskuOw"
     },
     {
       "id": "logitem-servidec-hamster-villemarie",
@@ -20824,7 +20868,8 @@
         "餐桌",
         "艾希莉",
         "Elran"
-      ]
+      ],
+      "place_id": "ChIJ1_R5AKBBJk0RcUqgy4eVwVg"
     },
     {
       "name": "BMR Montbeillard - Rouyn-Noranda",
@@ -21557,7 +21602,8 @@
         "覆盖物",
         "景观石",
         "围栏"
-      ]
+      ],
+      "place_id": "ChIJgU1l8Gm4Jk0Rhkc1H-t_iOE"
     },
     {
       "name": "Quantum Xpress Computers",
@@ -21718,7 +21764,8 @@
         "câble",
         "hub USB",
         "clé USB"
-      ]
+      ],
+      "place_id": "ChIJP78ObAl7Jk0RxJr_w9GNmss"
     },
     {
       "name": "Best Buy Express Rouyn Noranda",
@@ -22358,7 +22405,8 @@
       "phone": "(819) 764-5038",
       "latitude": 48.242107,
       "longitude": -79.023931,
-      "id": "best-buy-express-rouyn-noranda-h"
+      "id": "best-buy-express-rouyn-noranda-h",
+      "place_id": "ChIJoXxaq5szIU0RsdLVMHR2prY"
     },
     {
       "name": "BMR - Rouyn-Noranda",
@@ -23147,7 +23195,8 @@
       "website": "https://www.bmr.ca/fr/materiaux-rouyn-noranda-inc",
       "latitude": 48.233369,
       "longitude": -79.039036,
-      "id": "bmr-rouynnoranda-c"
+      "id": "bmr-rouynnoranda-c",
+      "place_id": "ChIJEyaG4n4zIU0RsKjre7ZQbvY"
     },
     {
       "name": "Walmart Supercentre",
@@ -24588,7 +24637,8 @@
       "website": "https://www.walmart.ca/en/store/3136?utm_source=local&utm_medium=listings&utm_campaign=sc&cmpid=gmb",
       "latitude": 48.242899,
       "longitude": -79.04323,
-      "id": "walmart-supercentre-y"
+      "id": "walmart-supercentre-y",
+      "place_id": "ChIJ0aXRrHk0IU0RooZ_guKH8uw"
     },
     {
       "name": "Vincent D'Amérique",
@@ -24715,7 +24765,8 @@
       "website": "https://vincentdamerique.com/",
       "latitude": 48.242471,
       "longitude": -79.025025,
-      "id": "vincent-damerique-h"
+      "id": "vincent-damerique-h",
+      "place_id": "ChIJvb-sVJozIU0R3EHa8-VvIrM"
     },
     {
       "id": "c1774134650278",
@@ -24958,7 +25009,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.graviteboardshop.ca",
-      "phone": "819-797-6392"
+      "phone": "819-797-6392",
+      "place_id": "ChIJvb-sVJozIU0Rte8AaNjUSXU"
     },
     {
       "id": "c1774134650279",
@@ -25064,7 +25116,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0R1JGpt1PbSOA"
     },
     {
       "id": "c1774134650280",
@@ -25131,7 +25184,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.pharmaprix.ca",
-      "phone": "819-797-1422"
+      "phone": "819-797-1422",
+      "place_id": "ChIJc4SyxJozIU0RhBtvK6gE63c"
     },
     {
       "id": "c1774134650281",
@@ -25298,7 +25352,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.reitmans.com",
-      "phone": "819-762-0683"
+      "phone": "819-762-0683",
+      "place_id": "ChIJ0QKCgZkzIU0RZPOSbGzzWm0"
     },
     {
       "id": "c1774134650282",
@@ -25354,7 +25409,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0R8pVOjT2dnJE"
     },
     {
       "id": "c1774134650283",
@@ -25415,7 +25471,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.bentleyleather.com",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0R0kpGS8rz7PY"
     },
     {
       "id": "c1774134650284",
@@ -25471,7 +25528,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJeYM2QQAzIU0RIT6zGT1GZKw"
     },
     {
       "id": "c1774134650285",
@@ -25682,7 +25740,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.videotron.com",
-      "phone": "873-562-1380"
+      "phone": "873-562-1380",
+      "place_id": "ChIJdYO8W38zIU0RKp1BAag5qTY"
     },
     {
       "id": "c1774134650286",
@@ -25739,7 +25798,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": "819-797-0264"
+      "phone": "819-797-0264",
+      "place_id": "ChIJoXxaq5szIU0Rj5CiH5lF8BQ"
     },
     {
       "id": "c1774134650287",
@@ -25967,7 +26027,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0RvX9HjSjvCGk"
     },
     {
       "id": "c1774134650288",
@@ -26163,7 +26224,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.telus.com",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJbwFh4pozIU0R237SksLQo9E"
     },
     {
       "id": "c1774134650289",
@@ -26374,7 +26436,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.bell.ca",
-      "phone": "819-762-4481"
+      "phone": "819-762-4481",
+      "place_id": "ChIJz0FG3ZozIU0RkuWybRnB3YI"
     },
     {
       "id": "c1774134650290",
@@ -26501,7 +26564,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0Rv91VYgw-irw"
     },
     {
       "id": "c1774134650291",
@@ -26985,7 +27049,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.hart.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0Rhjy8eC9vQec"
     },
     {
       "id": "c1774134650292",
@@ -27278,7 +27343,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.ardene.com",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJoXxaq5szIU0RqpTIPUSRZe4"
     },
     {
       "id": "c1774134650293",
@@ -27409,7 +27475,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0RbJB5CjOGcSI"
     },
     {
       "id": "c1774134650294",
@@ -27708,7 +27775,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.marks.com",
-      "phone": "819-762-4344"
+      "phone": "819-762-4344",
+      "place_id": "ChIJaz7XRZCH5UwRipbltmSC8mA"
     },
     {
       "id": "c1774134650295",
@@ -27828,7 +27896,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.lespromenadesducuivre.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvZyQFIQzIU0RTUf53NlaBIE"
     },
     {
       "id": "c1774134650296",
@@ -28134,7 +28203,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.winners.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJL2NRJGYzIU0Ri2D7wkKrUQY"
     },
     {
       "id": "c1774134650297",
@@ -28585,7 +28655,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.sportexperts.ca",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJM5pN7ZszIU0RXULXJbEXtcY"
     },
     {
       "id": "c1774134650298",
@@ -29479,7 +29550,8 @@
       "longitude": -79.0249,
       "address": "100 rue du Terminus Ouest, Rouyn-Noranda, QC J9X 6H7",
       "website": "https://www.bureauengros.com",
-      "phone": ""
+      "phone": "",
+      "place_id": "ChIJvb-sVJozIU0RN5R0xylW5c4"
     },
     {
       "name": "Home Hardware",
@@ -30037,7 +30109,8 @@
       "website": "https://www.homehardware.ca/en/store/10039",
       "latitude": 48.244189,
       "longitude": -79.0437,
-      "id": "home-hardware-y"
+      "id": "home-hardware-y",
+      "place_id": "ChIJA6vF7Hk0IU0RfS-eEe4lm80"
     },
     {
       "name": "L'Intro Musique Inc.",
@@ -30315,7 +30388,8 @@
       "phone": "(819) 622-1132",
       "latitude": 47.33045,
       "longitude": -79.441914,
-      "id": "lintro-musique-inc-b"
+      "id": "lintro-musique-inc-b",
+      "place_id": "ChIJVcHAlXSvyUwR3jHZcfmrQso"
     },
     {
       "name": "Pièces D'Autos Brousseau Ltée",
@@ -30932,7 +31006,8 @@
       "website": "http://www.piecesdautobrousseau.com/",
       "latitude": 47.339254,
       "longitude": -79.43647,
-      "id": "pieces-dautos-brousseau-ltee-j"
+      "id": "pieces-dautos-brousseau-ltee-j",
+      "place_id": "ChIJ25dWxJ1BJk0RUemMvyA6KFw"
     },
     {
       "name": "Studio 47",
@@ -31168,7 +31243,8 @@
       "latitude": 47.508725,
       "longitude": -79.673382,
       "id": "studio-47-canada",
-      "website": "https://www.facebook.com/Studio47Boutique/"
+      "website": "https://www.facebook.com/Studio47Boutique/",
+      "place_id": "ChIJk8h5jxt7Jk0RDUWex0tyqx8"
     },
     {
       "name": "Benson Autoparts",
@@ -31704,7 +31780,8 @@
       "website": "https://bensonautoparts.com/",
       "latitude": 47.52794297787447,
       "longitude": -79.67053409204868,
-      "id": "benson-autoparts-canada"
+      "id": "benson-autoparts-canada",
+      "place_id": "ChIJ4cL9RnN7Jk0RrkucHQ1Pc4k"
     },
     {
       "name": "Goldbelt New Liskard",
@@ -32099,7 +32176,8 @@
       "latitude": 47.507933,
       "longitude": -79.673989,
       "id": "goldbelt-new-liskard-canada",
-      "website": "https://goldbelttire.com/"
+      "website": "https://goldbelttire.com/",
+      "place_id": "ChIJq5q1TQh7Jk0Rz6Pjzk6lPIE"
     },
     {
       "name": "TELUS - Quantum Mobility Ltd",
@@ -32286,7 +32364,8 @@
       "website": "https://stores.telus.com/en/telus-go-2-jo-mobility-new-liskeard",
       "latitude": 47.508736570952074,
       "id": "telus-quantum-mobility-ltd-canada",
-      "longitude": -79.671814
+      "longitude": -79.671814,
+      "place_id": "ChIJaWfmtgl7Jk0RKU6qfSQtGzw"
     },
     {
       "name": "Maxi",
@@ -32590,7 +32669,8 @@
       "website": "https://www.facebook.com/evainmaxi/",
       "latitude": 48.239321,
       "longitude": -79.127045,
-      "id": "maxi-canada"
+      "id": "maxi-canada",
+      "place_id": "ChIJs0b6znY1IU0RakI-SVvo6hk"
     },
     {
       "name": "Centre De Rénovation Home Hardware",
@@ -33314,7 +33394,8 @@
       "website": "https://www.homehardware.ca/store/10039?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=10039",
       "latitude": 48.24428158422541,
       "longitude": -79.04368957116463,
-      "id": "centre-de-renovation-home-hardware-canada"
+      "id": "centre-de-renovation-home-hardware-canada",
+      "place_id": "ChIJA6vF7Hk0IU0RfS-eEe4lm80"
     },
     {
       "name": "Quincaillerie Rocheleau S.E.N.C.",
@@ -33801,7 +33882,8 @@
       "website": "https://www.homehardware.ca/en/store/11564?utm_source=google&utm_medium=organic_search&utm_campaign=local_seo&utm_content=11564",
       "latitude": 48.228584,
       "longitude": -79.013775,
-      "id": "quincaillerie-rocheleau-senc-canada"
+      "id": "quincaillerie-rocheleau-senc-canada",
+      "place_id": "ChIJVRJ6jAszIU0RlXbafeqxsu4"
     },
     {
       "name": "Rona",
@@ -34525,7 +34607,8 @@
       "website": "https://www.rona.ca/fr/magasin/quebec/rouyn-noranda/rona-rouyn-noranda-43340",
       "latitude": 48.240736,
       "longitude": -79.04356,
-      "id": "rona-canada"
+      "id": "rona-canada",
+      "place_id": "ChIJyY3vMQA1IU0Rya5IJLkNrGs"
     },
     {
       "name": "Pet Valu",
@@ -34653,7 +34736,8 @@
       "website": "https://store.petvalu.ca/location/2221/",
       "latitude": 47.524407698722314,
       "longitude": -79.67228931534144,
-      "id": "pet-valu-canada"
+      "id": "pet-valu-canada",
+      "place_id": "ChIJeTqpI517Jk0R1pgrKTnWomY"
     },
     {
       "name": "Bijouterie Leduc",
@@ -34771,7 +34855,8 @@
       "website": "https://www.bijouterie-leduc.com/",
       "latitude": 48.239338,
       "longitude": -79.0201799,
-      "id": "bijouterie-leduc-canada"
+      "id": "bijouterie-leduc-canada",
+      "place_id": "ChIJK20gUpkzIU0RGeA4bG6Cqn4"
     },
     {
       "name": "Bijouterie Doucet",
@@ -34889,7 +34974,8 @@
       "website": "https://www.doucetlatendresse.com/",
       "latitude": 48.2412505,
       "longitude": -79.0322627,
-      "id": "bijouterie-doucet-canada"
+      "id": "bijouterie-doucet-canada",
+      "place_id": "ChIJiyLLGYQzIU0Rd6Lp2Sy7GVo"
     },
     {
       "name": "Chaussures Yellow",
@@ -34971,7 +35057,8 @@
       "website": "https://www.yellowshoes.com",
       "latitude": 48.24194436133639,
       "longitude": -79.03106780554258,
-      "id": "chaussures-yellow-canada"
+      "id": "chaussures-yellow-canada",
+      "place_id": "ChIJiyLLGYQzIU0RtkTrTQvFNpo"
     },
     {
       "name": "Royaume des Animaux",
@@ -35104,7 +35191,8 @@
       "website": "https://www.facebook.com/p/Royaume-des-Animaux-100054389506400/",
       "latitude": 48.234993,
       "longitude": -79.01428,
-      "id": "royaume-des-animaux-h"
+      "id": "royaume-des-animaux-h",
+      "place_id": "ChIJN3--OKAzIU0RTxAgH5Fkgm0"
     },
     {
       "id": "clement-chrysler-lorrainville",
@@ -35206,7 +35294,8 @@
         "融资",
         "RAM 1500",
         "Jeep Wrangler"
-      ]
+      ],
+      "place_id": "ChIJ3eUfaD1EJk0RcIToR9OXIQw"
     },
     {
       "id": "tri-town-toyota-newliskeard",
@@ -35295,7 +35384,8 @@
         "Corolla",
         "RAV4",
         "Tacoma"
-      ]
+      ],
+      "place_id": "ChIJl3RXLnp8Jk0RVUQzS6oJTGQ"
     },
     {
       "id": "wilson-chevrolet-newliskeard",
@@ -35509,7 +35599,8 @@
         "Spark",
         "Express",
         "Low Cab Forward"
-      ]
+      ],
+      "place_id": "ChIJ5____z95Jk0RIbasCorQErc"
     },
     {
       "id": "wilson-ford-newliskeard",
@@ -35596,7 +35687,8 @@
         "F-150",
         "Ranger",
         "Mustang"
-      ]
+      ],
+      "place_id": "ChIJA7L6PRR7Jk0RN9jYOJwfL1Q"
     },
     {
       "id": "valdor-mazda",
@@ -35730,7 +35822,8 @@
         "MX-30",
         "CX-70",
         "CX-80"
-      ]
+      ],
+      "place_id": "ChIJ9wHJICIAyUwRnQoUThNBgT4"
     },
     {
       "id": "paquin-mazda-rouyn",
@@ -35804,7 +35897,8 @@
         "融资",
         "Mazda3",
         "CX-5"
-      ]
+      ],
+      "place_id": "ChIJF4z9e_0yIU0RTiPDUeTgBNc"
     },
     {
       "id": "paquin-ford-rouyn",
@@ -35891,7 +35985,8 @@
         "F-150",
         "Ranger",
         "Mustang"
-      ]
+      ],
+      "place_id": "ChIJodsIYgIzIU0RqQfkrz60mcI"
     },
     {
       "id": "thibault-chevrolet-rouyn",
@@ -36006,7 +36101,8 @@
         "融资",
         "Silverado",
         "Escalade"
-      ]
+      ],
+      "place_id": "ChIJ08k5CXo0IU0RBEXIvEscyQs"
     },
     {
       "id": "poirier-nissan-rouyn",
@@ -36160,7 +36256,8 @@
         "舰队",
         "370Z",
         "GT-R"
-      ]
+      ],
+      "place_id": "ChIJycuhdqAzIU0RdIkEK994cbQ"
     },
     {
       "id": "valdor-nissan",
@@ -36314,7 +36411,8 @@
         "舰队",
         "370Z",
         "GT-R"
-      ]
+      ],
+      "place_id": "ChIJ9V5BpG9T30wRJKtVsFAXg38"
     },
     {
       "id": "action-kia-rouyn",
@@ -36453,7 +36551,8 @@
         "EV9",
         "嘉年华会",
         "Stinger"
-      ]
+      ],
+      "place_id": "ChIJharUjvwyIU0RaCuzkEetC6U"
     },
     {
       "id": "dynastie-hyundai-rouyn",
@@ -36534,7 +36633,8 @@
         "Santa Fe",
         "Elantra",
         "Ioniq 5"
-      ]
+      ],
+      "place_id": "ChIJe--RmQszIU0RZxeRwUqT2uA"
     },
     {
       "id": "acces-toyota-rouyn",
@@ -36621,7 +36721,8 @@
         "Corolla",
         "RAV4",
         "Tacoma"
-      ]
+      ],
+      "place_id": "ChIJgTyzjvwyIU0ReEglTHWI59I"
     },
     {
       "id": "valdor-toyota",
@@ -36708,7 +36809,8 @@
         "Corolla",
         "RAV4",
         "Tacoma"
-      ]
+      ],
+      "place_id": "ChIJUW6qe8xT30wR5fsa9ePoLxw"
     },
     {
       "id": "paquin-volkswagen-rouyn",
@@ -36791,7 +36893,8 @@
         "Jetta",
         "Tiguan",
         "ID.4"
-      ]
+      ],
+      "place_id": "ChIJiRb5owMzIU0R6Q7sOsFRWYE"
     },
     {
       "id": "lami-honda-rouyn",
@@ -36872,7 +36975,8 @@
         "Civic",
         "Accord",
         "CR-V"
-      ]
+      ],
+      "place_id": "ChIJ52Tlc_0yIU0RUE0MFJlfu5Q"
     },
     {
       "id": "valdor-honda",
@@ -36953,7 +37057,8 @@
         "Civic",
         "Accord",
         "CR-V"
-      ]
+      ],
+      "place_id": "ChIJQV59eW9T30wROygvJUKEJwE"
     },
     {
       "name": "Rouyn-Noranda Mitsubishi",
@@ -37055,7 +37160,8 @@
       "website": "https://rouyn-norandamitsubishi.ca/fr/offres-speciales/offres-vehicules-neufs/",
       "latitude": 48.223051,
       "longitude": -78.972385,
-      "id": "rouynnoranda-mitsubishi-g"
+      "id": "rouynnoranda-mitsubishi-g",
+      "place_id": "ChIJQSkqx0kzIU0RW1juvbCJDv0"
     },
     {
       "name": "Royaldistributing",
@@ -37337,7 +37443,8 @@
       "website": "https://royaldistributing.com/",
       "latitude": 43.536271,
       "longitude": -80.319057,
-      "id": "royaldistributing-b"
+      "id": "royaldistributing-b",
+      "place_id": "ChIJKXmv-SqQK4gR_eD14TNGEtM"
     },
     {
       "name": "Royaldistributing",
@@ -37619,7 +37726,8 @@
       "website": "https://royaldistributing.com",
       "latitude": 44.279756,
       "longitude": -79.677246,
-      "id": "royaldistributing-a"
+      "id": "royaldistributing-a",
+      "place_id": "ChIJxahqZui-KogRJ6ULTCwLGIw"
     },
     {
       "id": "royaldistributing-c",
@@ -37901,7 +38009,8 @@
       "phone": "(780) 986-8001",
       "website": "https://royaldistributing.com",
       "latitude": 53.273109,
-      "longitude": -113.547753
+      "longitude": -113.547753,
+      "place_id": "ChIJOduHz6b5n1MRZq2xbDnFmcY"
     },
     {
       "name": "Royaldistributing",
@@ -38183,7 +38292,8 @@
       "website": "https://royaldistributing.com",
       "latitude": 46.493639,
       "longitude": -80.895505,
-      "id": "royaldistributing-g"
+      "id": "royaldistributing-g",
+      "place_id": "ChIJX9h1R64BL00RBd3QQB0wGDM"
     },
     {
       "name": "Royaldistributing",
@@ -38465,7 +38575,8 @@
       "website": "https://royaldistributing.com",
       "latitude": 43.866913,
       "longitude": -78.924054,
-      "id": "royaldistributing-k"
+      "id": "royaldistributing-k",
+      "place_id": "ChIJ_1HxUPAd1YkRV69vsMZ24wo"
     },
     {
       "id": "soundchek-music",
@@ -38679,7 +38790,8 @@
       "latitude": 47.509199,
       "longitude": -79.6908317,
       "rating": 5,
-      "note": "Magasin d'instruments de musique — Temiskaming Shores Ontario"
+      "note": "Magasin d'instruments de musique — Temiskaming Shores Ontario",
+      "place_id": "ChIJP_-nEAl7Jk0RNtnr2iSXcIw"
     },
     {
       "id": "not-so-naked",
@@ -38824,7 +38936,8 @@
       "latitude": 47.509199,
       "longitude": -79.6908317,
       "rating": null,
-      "note": "Boutique de vêtements femme — Temiskaming Shores Ontario"
+      "note": "Boutique de vêtements femme — Temiskaming Shores Ontario",
+      "place_id": "ChIJ0-vCbgl7Jk0RCDM5WZc-Ydw"
     },
     {
       "id": "aucoin-dla-patate",
@@ -38965,7 +39078,8 @@
         "friday": "11:30 a.m. - 7:30 p.m.",
         "saturday": "11:30 a.m. - 7:30 p.m.",
         "sunday": "11:30 a.m. - 7:30 p.m."
-      }
+      },
+      "place_id": "ChIJ44ZnX2HnyEwR8-5sgENXCY8"
     },
     {
       "id": "iga-marche-demers-malartic",
@@ -39104,7 +39218,8 @@
       "latitude": 48.14597,
       "longitude": -78.1256,
       "rating": 4.1,
-      "note": "IGA Marché Demers — Malartic QC"
+      "note": "IGA Marché Demers — Malartic QC",
+      "place_id": "ChIJT9WhIn-tIE0RdG6LdTuxqIg"
     },
     {
       "id": "gosport-ville-marie",
@@ -39504,7 +39619,8 @@
         "运动袜",
         "运动手套",
         "运动头盔"
-      ]
+      ],
+      "place_id": "ChIJq9fh0pdBJk0Rx4Bz3gnDCS4"
     },
     {
       "id": "popit-new-liskeard",
@@ -39652,7 +39768,8 @@
         "蜡烛",
         "派对配件",
         "冻干糖果"
-      ]
+      ],
+      "place_id": "ChIJjSKiAMp7Jk0RubJwzNxQiKg"
     },
     {
       "id": "napa-temiskaming-shores",
@@ -40106,7 +40223,8 @@
         "千斤顶",
         "安全支架",
         "地板千斤顶"
-      ]
+      ],
+      "place_id": "ChIJkbOla7ISK4gRs3-ILCmCXUQ"
     },
     {
       "id": "duro-windows-of-cars-rouyn-noranda",
