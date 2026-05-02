@@ -279,7 +279,7 @@ function extractVehicleBrand(query) {
   ];
   // Modèles → marque
   const modelMap = {
-    'f-150': 'ford', 'f150': 'ford', 'f 150': 'ford', 'f-250': 'ford', 'f250': 'ford', 'f 250': 'ford',
+    'f-150': 'ford', 'f150': 'ford', 'f-250': 'ford', 'f250': 'ford',
     'f-350': 'ford', 'f350': 'ford', 'ranger': 'ford', 'escape': 'ford',
     'explorer': 'ford', 'expedition': 'ford', 'maverick': 'ford',
     'mustang': 'ford', 'bronco': 'ford', 'edge': 'ford',
