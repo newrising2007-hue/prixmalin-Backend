@@ -38252,6 +38252,52 @@
       "note_zh": "",
       "source": "prixmalin",
       "place_id": "ChIJXSQrI-pxJk0Rupm8G5oo0Yw"
+    },
+    {
+      "id": "cobalt-miner-s-tavern-cobalt",
+      "name": "Cobalt Miner's Tavern",
+      "address": "75 Lang St, Cobalt, ON P0J 1C0, Canada",
+      "phone": "(705) 679-5335",
+      "website": "https://www.facebook.com/profile.php?id=61565413510488&mibextid=LQQJ4d",
+      "latitude": 47.3983476,
+      "longitude": -79.6811885,
+      "rating": 4.6,
+      "cuisine": [
+        "bar"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [],
+      "horaires": {
+        "mercredi": {
+          "ouverture": "13:00",
+          "fermeture": "21:00"
+        },
+        "jeudi": {
+          "ouverture": "13:00",
+          "fermeture": "21:00"
+        },
+        "vendredi": {
+          "ouverture": "17:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "17:00",
+          "fermeture": "01:00"
+        },
+        "dimanche": {
+          "ouverture": "17:00",
+          "fermeture": "21:00"
+        }
+      },
+      "note": "",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": "",
+      "source": "prixmalin",
+      "place_id": "ChIJyfA4YsJxJk0RiL9tDBzq4E4"
     }
   ]
 }
