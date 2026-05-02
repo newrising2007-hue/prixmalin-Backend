@@ -41460,6 +41460,58 @@
       "longitude": -79.011123,
       "place_id": "ChIJ2f-sVhAzIU0RREp6ZGSUkvw",
       "id": "temlac-limitee-canada"
+    },
+    {
+      "id": "exo-automobiles-rouyn-noranda",
+      "name": "EXO Automobiles",
+      "categories": [
+        "vehicules_chevrolet",
+        "vehicules_toyota",
+        "vehicules_porsche"
+      ],
+      "keywords": [
+        "Porsche",
+        "Corvette",
+        "Lexus LC500",
+        "Porsche 914 2.0",
+        "Porsche Boxster"
+      ],
+      "keywords_en": [
+        "Porsche",
+        "Corvette",
+        "Lexus LC500",
+        "Porsche 914 2.0",
+        "Porsche Boxster"
+      ],
+      "keywords_es": [
+        "Porsche",
+        "Corvette",
+        "Lexus LC500",
+        "Porsche 914 2.0",
+        "Porsche Boxster"
+      ],
+      "keywords_ar": [
+        "بورشه",
+        "Corvette",
+        "لكسوس إل سي 500",
+        "بورش 914 2.0",
+        "بورش بوكستر"
+      ],
+      "keywords_zh": [
+        "保时捷",
+        "Corvette",
+        "雷克萨斯 LC500",
+        "保时捷 914 2.0",
+        "保时捷 Boxster"
+      ],
+      "address": "494 Av. Larivière, Rouyn-Noranda, QC J9X 4J2, Canada",
+      "phone": "(819) 279-3268",
+      "website": "http://www.exoautomobiles.com/",
+      "latitude": 48.229154,
+      "longitude": -79.0145516,
+      "rating": 5,
+      "note": "",
+      "place_id": "ChIJH42j1EYzIU0RFBGb87HSrak"
     }
   ]
 }
