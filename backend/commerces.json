@@ -40107,6 +40107,66 @@
         "安全支架",
         "地板千斤顶"
       ]
+    },
+    {
+      "id": "duro-windows-of-cars-rouyn-noranda",
+      "name": "Duro vitres d'autos",
+      "categories": [
+        "pieces_auto"
+      ],
+      "keywords": [
+        "pare-brise",
+        "remplacement pare-brise",
+        "installation pare-brise",
+        "démarreur à distance",
+        "anti-vol auto",
+        "réparation de pare-brise",
+        "alarme auto"
+      ],
+      "keywords_en": [
+        "windshield",
+        "windshield replacement",
+        "windshield installation",
+        "remote starter",
+        "car anti-theft device",
+        "windshield repair",
+        "car alarm"
+      ],
+      "keywords_es": [
+        "parabrisas",
+        "cambio de parabrisas",
+        "instalación de parabrisas",
+        "arrancador remoto",
+        "dispositivo antirrobo para automóviles",
+        "reparación de parabrisas",
+        "alarma de coche"
+      ],
+      "keywords_ar": [
+        "حاجز الرياح الأمامي",
+        "استبدال الزجاج الأمامي",
+        "تركيب الزجاج الأمامي",
+        "مشغل عن بعد",
+        "جهاز مضاد للسرقة للسيارات",
+        "إصلاح الزجاج الأمامي",
+        "منعقة السيارة"
+      ],
+      "keywords_zh": [
+        "挡风玻璃",
+        "挡风玻璃更换",
+        "挡风玻璃安装",
+        "远程启动器",
+        "汽车防盗装置",
+        "挡风玻璃维修",
+        "汽车警报器"
+      ],
+      "address": "793 Av. Québec, Rouyn-Noranda, QC J9X 7B2, Canada",
+      "phone": "(819) 797-2336",
+      "website": "https://www.facebook.com/p/Duro-Vitres-dautos-100091849663000/",
+      "latitude": 48.2218848,
+      "longitude": -79.024969,
+      "rating": 4.6,
+      "note": "",
+      "place_id": "ChIJy7R5UmwzIU0ROrQdXRskboI"
     }
   ]
 }
