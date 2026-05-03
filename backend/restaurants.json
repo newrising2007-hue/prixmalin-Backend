@@ -38298,6 +38298,55 @@
       "note_zh": "",
       "source": "prixmalin",
       "place_id": "ChIJyfA4YsJxJk0RiL9tDBzq4E4"
+    },
+    {
+      "id": "le-st-exupery-rouyn-noranda",
+      "name": "Le St-Exupéry",
+      "address": "35 Rue Perreault E, Rouyn-Noranda, QC J9X 3C1, Canada",
+      "phone": "(819) 797-4867",
+      "website": "https://lestexupery.com/",
+      "latitude": 48.2383389,
+      "longitude": -79.0190333,
+      "rating": 4.6,
+      "cuisine": [
+        "déjeuner",
+        "brunch"
+      ],
+      "service": [
+        "surplace"
+      ],
+      "keywords": [],
+      "horaires": {
+        "mercredi": {
+          "ouverture": "08:00",
+          "fermeture": "13:30"
+        },
+        "jeudi": {
+          "ouverture": "08:00",
+          "fermeture": "13:30"
+        },
+        "vendredi": {
+          "ouverture": "08:00",
+          "fermeture": "13:30"
+        },
+        "samedi": {
+          "ouverture": "08:00",
+          "fermeture": "13:30"
+        },
+        "dimanche": {
+          "ouverture": "08:00",
+          "fermeture": "13:30"
+        }
+      },
+      "note": "",
+      "note_en": "",
+      "note_es": "",
+      "note_ar": "",
+      "note_zh": "",
+      "source": "prixmalin",
+      "place_id": "ChIJk8uNxZ4zIU0RoGOogrJtkPE",
+      "reservation": true,
+      "reservationInfo": "819 797-4867"
     }
   ]
 }
