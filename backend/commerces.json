@@ -42133,6 +42133,229 @@
       "rating": 4.6,
       "note": "",
       "place_id": "ChIJi1lqoQMzIU0R8R49gVu8mjU"
+    },
+    {
+      "id": "lebeau-vitres-d-autos-rouyn-rouyn-noranda",
+      "name": "Lebeau Vitres d'autos Rouyn",
+      "categories": [
+        "pieces_auto"
+      ],
+      "keywords": [
+        "vitres d'auto",
+        "pare-brise",
+        "remplacement pare-brise",
+        "installation pare-brise",
+        "démarreur à distance",
+        "anti-vol auto",
+        "réparation de pare-brise",
+        "alarme auto",
+        "essuie-glaces"
+      ],
+      "keywords_en": [
+        "car windows",
+        "windshield",
+        "windshield replacement",
+        "windshield installation",
+        "remote starter",
+        "car anti-theft device",
+        "windshield repair",
+        "car alarm",
+        "windshield wipers"
+      ],
+      "keywords_es": [
+        "ventanas de auto",
+        "parabrisas",
+        "cambio de parabrisas",
+        "instalación de parabrisas",
+        "arrancador remoto",
+        "dispositivo antirrobo para automóviles",
+        "reparación de parabrisas",
+        "alarma de coche",
+        "limpiaparabrisas"
+      ],
+      "keywords_ar": [
+        "نوافذ السيارة",
+        "حاجز الرياح الأمامي",
+        "استبدال الزجاج الأمامي",
+        "تركيب الزجاج الأمامي",
+        "مشغل عن بعد",
+        "جهاز مضاد للسرقة للسيارات",
+        "إصلاح الزجاج الأمامي",
+        "منعقة السيارة",
+        "ماسحات زجاج"
+      ],
+      "keywords_zh": [
+        "汽车窗户",
+        "挡风玻璃",
+        "挡风玻璃更换",
+        "挡风玻璃安装",
+        "远程启动器",
+        "汽车防盗装置",
+        "挡风玻璃维修",
+        "汽车警报器",
+        "雨刷"
+      ],
+      "address": "388 Av. Larivière, Rouyn-Noranda, QC J9X 4H8, Canada",
+      "phone": "(819) 762-0784",
+      "website": "https://www.lebeau.ca/fr/centre-services/rouyn-noranda/lebeau-rouyn?utm_source=google&utm_medium=local&utm_campaign=Lebeau%20vitres%20d'autos%20Rouyn",
+      "latitude": 48.2320182,
+      "longitude": -79.0149234,
+      "rating": 4.7,
+      "note": "",
+      "place_id": "ChIJsUXxO6AzIU0Rd_wg6bsmOvg"
+    },
+    {
+      "id": "boutique-signatures-rouyn-noranda",
+      "name": "Boutique Signatures",
+      "categories": [
+        "mode_femme"
+      ],
+      "keywords": [
+        "vêtement femme",
+        "robe",
+        "jupe",
+        "blouse",
+        "manteau femme",
+        "pantalon femme",
+        "legging",
+        "chemisier",
+        "sous-vêtement femme",
+        "lingerie",
+        "pyjama femme",
+        "maillot de bain",
+        "pantalon de jogging",
+        "jeans",
+        "vêtement extérieur",
+        "soutiens-gorge"
+      ],
+      "keywords_en": [
+        "women's clothing",
+        "dress",
+        "skirt",
+        "blouse",
+        "women's coat",
+        "women's pants",
+        "legging",
+        "women's underwear",
+        "lingerie",
+        "women's pajamas",
+        "swimsuit",
+        "jogging pants",
+        "jeans",
+        "outdoor clothing",
+        "bras"
+      ],
+      "keywords_es": [
+        "ropa para mujeres",
+        "vestido",
+        "falda",
+        "camisa",
+        "chaqueta para mujeres",
+        "pantalones para mujeres",
+        "leggings",
+        "blusa",
+        "ropa interior femenina",
+        "lencería",
+        "pijama para mujeres",
+        "traje de baño",
+        "pantalones de running",
+        "jeans",
+        "ropa de exterior",
+        "sostén"
+      ],
+      "keywords_ar": [
+        "ملابس نسائية",
+        "فستان",
+        "تنورة",
+        "بلوزة",
+        "معطف نسائي",
+        "بنطال نسائي",
+        "سراويل ضيقة",
+        "ملابس داخلية نسائية",
+        "ملابس داخلية",
+        "بيجاما نسائية",
+        "ملابس سباحة",
+        "بنطال الجري",
+        "جينز",
+        "ملابس خارجية",
+        "حفاضات"
+      ],
+      "keywords_zh": [
+        "女装",
+        "连衣裙",
+        "半身裙",
+        "上衣",
+        "女士外套",
+        "女士裤子",
+        "紧身裤",
+        "女士衬衫",
+        "女性内衣",
+        "内衣",
+        "女式睡衣",
+        "泳衣",
+        "慢跑裤",
+        "牛仔裤",
+        "户外服装",
+        "胸罩"
+      ],
+      "address": "52 Av. Principale, Rouyn-Noranda, QC J9X 4P2, Canada",
+      "phone": "(819) 290-3158",
+      "website": "",
+      "latitude": 48.2415033,
+      "longitude": -79.020399,
+      "rating": null,
+      "note": "",
+      "place_id": "ChIJG2tgYX0zIU0RfFLcMisrNTg"
+    },
+    {
+      "id": "vitrxpert-vitres-d-autos-rouyn-noranda",
+      "name": "VitrXpert vitres d'autos",
+      "categories": [
+        "pieces_auto"
+      ],
+      "keywords": [
+        "vitres d'auto",
+        "pare-brise",
+        "remplacement pare-brise",
+        "installation pare-brise",
+        "démarreur à distance"
+      ],
+      "keywords_en": [
+        "car windows",
+        "windshield",
+        "windshield replacement",
+        "windshield installation",
+        "remote starter"
+      ],
+      "keywords_es": [
+        "ventanas de auto",
+        "parabrisas",
+        "cambio de parabrisas",
+        "instalación de parabrisas",
+        "arrancador remoto"
+      ],
+      "keywords_ar": [
+        "نوافذ السيارة",
+        "حاجز الرياح الأمامي",
+        "استبدال الزجاج الأمامي",
+        "تركيب الزجاج الأمامي",
+        "مشغل عن بعد"
+      ],
+      "keywords_zh": [
+        "汽车窗户",
+        "挡风玻璃",
+        "挡风玻璃更换",
+        "挡风玻璃安装",
+        "远程启动器"
+      ],
+      "address": "Département VitrXpert, 605 Bd de l'Université, Rouyn-Noranda, QC J9X 7C5, Canada",
+      "phone": "(819) 764-6282",
+      "website": "https://www.vitrxpert.com/pare-brise/rouyn-noranda-automatch/",
+      "latitude": 48.2251578,
+      "longitude": -79.0087117,
+      "rating": 5,
+      "note": "",
+      "place_id": "ChIJSZloVAQzIU0RDYDRGi8S3pY"
     }
   ]
 }
