@@ -71,11 +71,16 @@
     "husqvarna",
     "honda_loisir",
     "vtt",
-    "harley_davidson"
+    "harley_davidson",
+    "vehicules_toyota",
+    "vehicules_volkswagen",
+    "vehicules_porsche",
+    "vehicule-lexus"
   ],
   "machinerie": [
     "tracteur_agricole",
-    "machinerie_construction"
+    "machinerie_construction",
+    "remorque_transport"
   ],
   "bijoux": [
     "montre",
