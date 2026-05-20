@@ -38347,6 +38347,21 @@
       "place_id": "ChIJk8uNxZ4zIU0RoGOogrJtkPE",
       "reservation": true,
       "reservationInfo": "819 797-4867"
+    },
+    {
+      "name": "Chuck's roadhouse bar & grill",
+      "address": "113 Highway 11 North, Unit 4",
+      "cuisine": [
+        "fruits-de-mer",
+        "grillades"
+      ],
+      "service": [],
+      "keywords": [],
+      "website": "https://chucksroadhouse.com/",
+      "latitude": 44.544387,
+      "longitude": -79.451844,
+      "place_id": "ChIJheGI43irKk0RLx2Y7gFGf0w",
+      "id": "chucks-roadhouse-bar-grill-unit"
     }
   ]
 }
