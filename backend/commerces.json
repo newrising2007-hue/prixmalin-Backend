@@ -5656,7 +5656,10 @@
         "Mustang Mach-E",
         "✕ Ford",
         "concessionnaire Ford",
-        "service Ford"
+        "service Ford",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "17 Rue Principale Nord, Saint-Bruno-de-Guigues, QC J0Z 2G0",
       "phone": "(819) 728-2289",
@@ -5690,7 +5693,10 @@
         "Mustang Mach-E",
         "✕ Ford",
         "Ford dealership",
-        "Ford service"
+        "Ford service",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Ford",
@@ -5718,7 +5724,9 @@
         "Mustang Mach-E",
         "✕ Ford",
         "concesionario Ford",
-        "servicio Ford"
+        "servicio Ford",
+        "coche usado",
+        "vehículo usado"
       ],
       "keywords_ar": [
         "فورد",
@@ -5744,7 +5752,9 @@
         "مستانغ ماش-إي",
         "✕ Ford",
         "معرض فورد للسيارات",
-        "خدمة فورد"
+        "خدمة فورد",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "福特",
@@ -5770,7 +5780,9 @@
         "野马 Mach-E",
         "✕ Ford",
         "福特经销商",
-        "福特服务"
+        "福特服务",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJH515x2JdJk0Ri4x4Vg2rY0I"
     },
@@ -10680,7 +10692,11 @@
         "Sierra",
         "Yukon",
         "Canyon",
-        "Acadia"
+        "Acadia",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé",
+        "occasion"
       ],
       "address": "100 Wilson Ave, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-4373",
@@ -10715,7 +10731,10 @@
         "Sierra",
         "Yukon",
         "Canyon",
-        "Acadia"
+        "Acadia",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Silverado 1500",
@@ -10743,7 +10762,10 @@
         "Sierra",
         "Yukon",
         "Canyon",
-        "Acadia"
+        "Acadia",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "Silverado 1500",
@@ -10771,7 +10793,9 @@
         "Sierra",
         "Yukon",
         "Canyon",
-        "Acadia"
+        "Acadia",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "Silverado 1500",
@@ -10799,7 +10823,9 @@
         "Sierra",
         "Yukon",
         "Canyon",
-        "Acadia"
+        "Acadia",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ5____z95Jk0RIbasCorQErc"
     },
@@ -10827,7 +10853,10 @@
         "pièces",
         "entretien",
         "carrosserie",
-        "service auto"
+        "service auto",
+        "voiture usagée",
+        "auto usagée",
+        "occasion"
       ],
       "address": "997477 ON-11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-7361",
@@ -10853,7 +10882,9 @@
         "parts",
         "maintenance",
         "body shop",
-        "auto service"
+        "auto service",
+        "used car",
+        "second hand car"
       ],
       "keywords_es": [
         "Chrysler",
@@ -10872,7 +10903,9 @@
         "piezas",
         "mantenimiento",
         "carrocería",
-        "servicio de auto"
+        "servicio de auto",
+        "coche usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "Chrysler",
@@ -10891,7 +10924,9 @@
         "قطع غيار",
         "صيانة",
         "هيكل السيارة",
-        "خدمة سيارات"
+        "خدمة سيارات",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "Chrysler",
@@ -10910,7 +10945,8 @@
         "零件",
         "维护",
         "车身",
-        "汽车服务"
+        "汽车服务",
+        "二手汽车"
       ],
       "place_id": "ChIJ-79BWod7Jk0RUcKKWiY5rBA"
     },
@@ -19850,7 +19886,10 @@
         "financement",
         "leasing",
         "pièces chrysler",
-        "service automobile"
+        "service automobile",
+        "auto usagée",
+        "véhicule usagé",
+        "occasion"
       ],
       "address": "997477 Hwy 11 North, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-7361",
@@ -19878,7 +19917,9 @@
         "financing",
         "leasing",
         "Chrysler parts",
-        "auto service"
+        "auto service",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Chrysler",
@@ -19899,7 +19940,9 @@
         "financiamiento",
         "arrendamiento",
         "piezas Chrysler",
-        "servicio de auto"
+        "servicio de auto",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "Chrysler",
@@ -19920,7 +19963,8 @@
         "تمويل",
         "تأجير",
         "قطع كرايسلر",
-        "خدمة سيارات"
+        "خدمة سيارات",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "Chrysler",
@@ -19941,7 +19985,8 @@
         "融资",
         "租赁",
         "克莱斯勒零件",
-        "汽车服务"
+        "汽车服务",
+        "二手汽车"
       ],
       "place_id": "ChIJ-79BWod7Jk0RUcKKWiY5rBA"
     },
@@ -35195,7 +35240,10 @@
         "Jeep Grand Wagoneer",
         "Jeep Compass",
         "Jeep Renegade",
-        "Jeep Avenger"
+        "Jeep Avenger",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "73-79 Rue De L'Église Nord, Lorrainville, QC J0Z 2R0",
       "phone": "(819) 625-2187",
@@ -35217,7 +35265,10 @@
         "financing",
         "RAM 1500",
         "Jeep Wrangler",
-        "Dodge Charger"
+        "Dodge Charger",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Chrysler",
@@ -35230,7 +35281,10 @@
         "vehículo",
         "financiamiento",
         "RAM 1500",
-        "Jeep Wrangler"
+        "Jeep Wrangler",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "كرايسلر",
@@ -35242,7 +35296,9 @@
         "شاحنة",
         "تمويل",
         "RAM 1500",
-        "Jeep Wrangler"
+        "Jeep Wrangler",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "克莱斯勒",
@@ -35254,7 +35310,9 @@
         "卡车",
         "融资",
         "RAM 1500",
-        "Jeep Wrangler"
+        "Jeep Wrangler",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ3eUfaD1EJk0RcIToR9OXIQw"
     },
@@ -35294,7 +35352,10 @@
         "Prius Prime",
         "Land Cruiser",
         "GR Corolla",
-        "GR Supra"
+        "GR Supra",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "998039 ON-11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-5959",
@@ -35316,7 +35377,10 @@
         "RAV4",
         "Tacoma",
         "Tundra",
-        "Prius"
+        "Prius",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Toyota",
@@ -35326,7 +35390,10 @@
         "financiamiento",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "تويوتا",
@@ -35335,7 +35402,9 @@
         "تمويل",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "丰田",
@@ -35344,7 +35413,9 @@
         "融资",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJl3RXLnp8Jk0RVUQzS6oJTGQ"
     },
@@ -35394,7 +35465,10 @@
         "Malibu",
         "Spark",
         "Express",
-        "Low Cab Forward"
+        "Low Cab Forward",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "100 Wilson Ave, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-5050",
@@ -35441,7 +35515,10 @@
         "Malibu",
         "Spark",
         "Express",
-        "Low Cab Forward"
+        "Low Cab Forward",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Chevrolet",
@@ -35482,7 +35559,9 @@
         "Malibu",
         "Spark",
         "Express",
-        "Low Cab Forward"
+        "Low Cab Forward",
+        "coche usado",
+        "vehículo usado"
       ],
       "keywords_ar": [
         "Chevrolet",
@@ -35521,7 +35600,9 @@
         "Malibu",
         "Spark",
         "Express",
-        "Low Cab Forward"
+        "Low Cab Forward",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "Chevrolet",
@@ -35559,7 +35640,9 @@
         "Malibu",
         "Spark",
         "Express",
-        "Low Cab Forward"
+        "Low Cab Forward",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ5____z95Jk0RIbasCorQErc"
     },
@@ -35596,7 +35679,10 @@
         "Maverick",
         "Mustang",
         "Mustang Mach-E",
-        "Bronco Sport"
+        "Bronco Sport",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "260 Armstrong St N, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-4393",
@@ -35617,7 +35703,10 @@
         "Ranger",
         "Explorer",
         "Escape",
-        "Mustang"
+        "Mustang",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Ford",
@@ -35627,7 +35716,10 @@
         "financiamiento",
         "F-150",
         "Ranger",
-        "Mustang"
+        "Mustang",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "فورد",
@@ -35637,7 +35729,9 @@
         "تمويل",
         "F-150",
         "Ranger",
-        "Mustang"
+        "Mustang",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "福特",
@@ -35647,7 +35741,9 @@
         "融资",
         "F-150",
         "Ranger",
-        "Mustang"
+        "Mustang",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJA7L6PRR7Jk0RN9jYOJwfL1Q"
     },
@@ -35680,7 +35776,10 @@
         "MX-5 Miata",
         "MX-30",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1827 3e Avenue, Val-d'Or, QC J9P 7A9",
       "phone": "(819) 825-2500",
@@ -35711,7 +35810,10 @@
         "MX-5 Miata",
         "MX-30",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Mazda",
@@ -35736,7 +35838,9 @@
         "MX-5 Miata",
         "MX-30",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "coche usado",
+        "vehículo usado"
       ],
       "keywords_ar": [
         "مازدا",
@@ -35759,7 +35863,9 @@
         "MX-5 Miata",
         "MX-30",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "马自达",
@@ -35782,7 +35888,9 @@
         "MX-5 Miata",
         "MX-30",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ9wHJICIAyUwRnQoUThNBgT4"
     },
@@ -35815,7 +35923,10 @@
         "MX-30",
         "CX-60",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1224 Av. Larivière, Rouyn-Noranda, QC J9X 4K8",
       "phone": "(819) 797-6666",
@@ -35833,7 +35944,10 @@
         "Mazda3",
         "CX-5",
         "CX-50",
-        "MX-5 Miata"
+        "MX-5 Miata",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Mazda",
@@ -35841,7 +35955,10 @@
         "vehículo",
         "financiamiento",
         "Mazda3",
-        "CX-5"
+        "CX-5",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "مازدا",
@@ -35849,7 +35966,9 @@
         "سيارة",
         "تمويل",
         "Mazda3",
-        "CX-5"
+        "CX-5",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "马自达",
@@ -35857,7 +35976,9 @@
         "汽车",
         "融资",
         "Mazda3",
-        "CX-5"
+        "CX-5",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJF4z9e_0yIU0RTiPDUeTgBNc"
     },
@@ -35894,7 +36015,10 @@
         "Maverick",
         "Mustang",
         "Mustang Mach-E",
-        "Bronco Sport"
+        "Bronco Sport",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1155 Av. Larivière, Rouyn-Noranda, QC J9X 4K9",
       "phone": "(819) 797-3673",
@@ -35915,7 +36039,10 @@
         "Ranger",
         "Explorer",
         "Escape",
-        "Mustang"
+        "Mustang",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Ford",
@@ -35925,7 +36052,10 @@
         "financiamiento",
         "F-150",
         "Ranger",
-        "Mustang"
+        "Mustang",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "فورد",
@@ -35935,7 +36065,9 @@
         "تمويل",
         "F-150",
         "Ranger",
-        "Mustang"
+        "Mustang",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "福特",
@@ -35945,7 +36077,9 @@
         "融资",
         "F-150",
         "Ranger",
-        "Mustang"
+        "Mustang",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJodsIYgIzIU0RqQfkrz60mcI"
     },
@@ -36003,7 +36137,10 @@
         "Express",
         "Low Cab Forward",
         "pièces Chevrolet",
-        "Canyon"
+        "Canyon",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "375 Boul. Rideau, Rouyn-Noranda, QC J9X 5Y7",
       "phone": "(819) 762-1751",
@@ -36027,7 +36164,10 @@
         "Sierra",
         "Escalade",
         "CT5",
-        "XT5"
+        "XT5",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Chevrolet",
@@ -36039,7 +36179,10 @@
         "vehículo",
         "financiamiento",
         "Silverado",
-        "Escalade"
+        "Escalade",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "شيفروليه",
@@ -36050,7 +36193,9 @@
         "سيارة",
         "تمويل",
         "Silverado",
-        "Escalade"
+        "Escalade",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "雪佛兰",
@@ -36061,7 +36206,9 @@
         "汽车",
         "融资",
         "Silverado",
-        "Escalade"
+        "Escalade",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ08k5CXo0IU0RBEXIvEscyQs"
     },
@@ -36098,7 +36245,10 @@
         "Rogue Sport",
         "Armada",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "321 Av. Larivière, Rouyn-Noranda, QC J9X 4H5",
       "phone": "(819) 762-4311",
@@ -36133,7 +36283,10 @@
         "Rogue Sport",
         "Armada",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Nissan",
@@ -36162,7 +36315,9 @@
         "Rogue Sport",
         "Armada",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "coche usado",
+        "vehículo usado"
       ],
       "keywords_ar": [
         "نيسان",
@@ -36189,7 +36344,9 @@
         "روغ سبورت",
         "أرمادا",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "日产",
@@ -36216,7 +36373,9 @@
         "罗格运动",
         "舰队",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJycuhdqAzIU0RdIkEK994cbQ"
     },
@@ -36253,7 +36412,10 @@
         "Rogue Sport",
         "Armada",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1689 3e Avenue, Val-d'Or, QC J9P 1V9",
       "phone": "(819) 825-2525",
@@ -36288,7 +36450,10 @@
         "Rogue Sport",
         "Armada",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Nissan",
@@ -36317,7 +36482,9 @@
         "Rogue Sport",
         "Armada",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "coche usado",
+        "vehículo usado"
       ],
       "keywords_ar": [
         "نيسان",
@@ -36344,7 +36511,9 @@
         "روغ سبورت",
         "أرمادا",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "日产",
@@ -36371,7 +36540,9 @@
         "罗格运动",
         "舰队",
         "370Z",
-        "GT-R"
+        "GT-R",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ9V5BpG9T30wRJKtVsFAXg38"
     },
@@ -36405,7 +36576,10 @@
         "EV6",
         "EV9",
         "Carnival",
-        "Stinger"
+        "Stinger",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1280 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-7222",
@@ -36437,7 +36611,10 @@
         "EV6",
         "EV9",
         "Carnival",
-        "Stinger"
+        "Stinger",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Kia",
@@ -36463,7 +36640,9 @@
         "EV6",
         "EV9",
         "Carnaval",
-        "Stinger"
+        "Stinger",
+        "coche usado",
+        "vehículo usado"
       ],
       "keywords_ar": [
         "كيا",
@@ -36487,7 +36666,9 @@
         "EV6",
         "EV9",
         "كرنفال",
-        "ستينجر"
+        "ستينجر",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "起亚",
@@ -36511,7 +36692,9 @@
         "EV6",
         "EV9",
         "嘉年华会",
-        "Stinger"
+        "Stinger",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJharUjvwyIU0RaCuzkEetC6U"
     },
@@ -36544,7 +36727,10 @@
         "Ioniq 5",
         "Ioniq 6",
         "Nexo",
-        "Ioniq 9"
+        "Ioniq 9",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1399 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-1741",
@@ -36564,7 +36750,10 @@
         "Elantra",
         "Kona",
         "Ioniq 5",
-        "Palisade"
+        "Palisade",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Hyundai",
@@ -36574,7 +36763,10 @@
         "Tucson",
         "Santa Fe",
         "Elantra",
-        "Ioniq 5"
+        "Ioniq 5",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "هيونداي",
@@ -36583,7 +36775,9 @@
         "تمويل",
         "Tucson",
         "Santa Fe",
-        "Ioniq 5"
+        "Ioniq 5",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "现代",
@@ -36593,7 +36787,9 @@
         "Tucson",
         "Santa Fe",
         "Elantra",
-        "Ioniq 5"
+        "Ioniq 5",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJe--RmQszIU0RZxeRwUqT2uA"
     },
@@ -36633,7 +36829,10 @@
         "Prius Prime",
         "Land Cruiser",
         "GR Corolla",
-        "GR Supra"
+        "GR Supra",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1355 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-5000",
@@ -36654,7 +36853,10 @@
         "RAV4",
         "Tacoma",
         "Tundra",
-        "Prius"
+        "Prius",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Toyota",
@@ -36663,7 +36865,10 @@
         "financiamiento",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "تويوتا",
@@ -36672,7 +36877,9 @@
         "تمويل",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "丰田",
@@ -36681,7 +36888,9 @@
         "融资",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJgTyzjvwyIU0ReEglTHWI59I"
     },
@@ -36721,7 +36930,10 @@
         "Prius Prime",
         "Land Cruiser",
         "GR Corolla",
-        "GR Supra"
+        "GR Supra",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1080 3e Avenue E, Val-d'Or, QC J9P 0J6",
       "phone": "(819) 825-9000",
@@ -36742,7 +36954,10 @@
         "RAV4",
         "Tacoma",
         "Tundra",
-        "Prius"
+        "Prius",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Toyota",
@@ -36751,7 +36966,10 @@
         "financiamiento",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "تويوتا",
@@ -36760,7 +36978,9 @@
         "تمويل",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "丰田",
@@ -36769,7 +36989,9 @@
         "融资",
         "Corolla",
         "RAV4",
-        "Tacoma"
+        "Tacoma",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJUW6qe8xT30wR5fsa9ePoLxw"
     },
@@ -36803,7 +37025,10 @@
         "ID.4",
         "Arteon",
         "Passat",
-        "ID. Buzz"
+        "ID. Buzz",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1005 Av. Larivière, Rouyn-Noranda, QC J9X 4K6",
       "phone": "(819) 762-7788",
@@ -36824,7 +37049,10 @@
         "Jetta",
         "Tiguan",
         "Atlas",
-        "ID.4"
+        "ID.4",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Volkswagen",
@@ -36834,7 +37062,10 @@
         "financiamiento",
         "Golf",
         "Jetta",
-        "Tiguan"
+        "Tiguan",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "فولكسفاغن",
@@ -36843,7 +37074,9 @@
         "تمويل",
         "Golf",
         "Jetta",
-        "Tiguan"
+        "Tiguan",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "大众",
@@ -36853,7 +37086,9 @@
         "Golf",
         "Jetta",
         "Tiguan",
-        "ID.4"
+        "ID.4",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJiRb5owMzIU0R6Q7sOsFRWYE"
     },
@@ -36887,7 +37122,10 @@
         "Prologue",
         "ZR-V",
         "Fit",
-        "Insight"
+        "Insight",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1225 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-6565",
@@ -36907,7 +37145,10 @@
         "CR-V",
         "HR-V",
         "Pilot",
-        "Ridgeline"
+        "Ridgeline",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Honda",
@@ -36917,7 +37158,10 @@
         "Civic",
         "Accord",
         "CR-V",
-        "Pilot"
+        "Pilot",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "هوندا",
@@ -36926,7 +37170,9 @@
         "تمويل",
         "Civic",
         "Accord",
-        "CR-V"
+        "CR-V",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "本田",
@@ -36935,7 +37181,9 @@
         "融资",
         "Civic",
         "Accord",
-        "CR-V"
+        "CR-V",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJ52Tlc_0yIU0RUE0MFJlfu5Q"
     },
@@ -36969,7 +37217,10 @@
         "Prologue",
         "ZR-V",
         "Fit",
-        "Insight"
+        "Insight",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé"
       ],
       "address": "1720 3e Avenue, Val-d'Or, QC J9P 1W2",
       "phone": "(819) 825-7838",
@@ -36989,7 +37240,10 @@
         "CR-V",
         "HR-V",
         "Pilot",
-        "Odyssey"
+        "Odyssey",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Honda",
@@ -36999,7 +37253,10 @@
         "Civic",
         "Accord",
         "CR-V",
-        "Pilot"
+        "Pilot",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "هوندا",
@@ -37008,7 +37265,9 @@
         "تمويل",
         "Civic",
         "Accord",
-        "CR-V"
+        "CR-V",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "本田",
@@ -37017,7 +37276,9 @@
         "融资",
         "Civic",
         "Accord",
-        "CR-V"
+        "CR-V",
+        "二手车",
+        "二手汽车"
       ],
       "place_id": "ChIJQV59eW9T30wROygvJUKEJwE"
     },
@@ -37042,7 +37303,11 @@
         "ASX",
         "Pajero",
         "L200",
-        "Triton"
+        "Triton",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé",
+        "occasion"
       ],
       "keywords_en": [
         "Mitsubishi",
@@ -37060,7 +37325,10 @@
         "ASX",
         "Pajero",
         "L200",
-        "Triton"
+        "Triton",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Mitsubishi",
@@ -37078,7 +37346,10 @@
         "ASX",
         "Pajero",
         "L200",
-        "Triton"
+        "Triton",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "ميتسوبيشي",
@@ -37096,7 +37367,9 @@
         "ASX",
         "باجيرو",
         "L200",
-        "Triton"
+        "Triton",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "三菱",
@@ -37114,7 +37387,9 @@
         "ASX",
         "帕杰罗",
         "L200",
-        "Triton"
+        "Triton",
+        "二手车",
+        "二手汽车"
       ],
       "address": "1920 Av. Larivière, Rouyn-Noranda, QC J9Y 0G6",
       "phone": "(819) 764-3186",
@@ -41435,35 +41710,49 @@
         "Corvette",
         "Lexus LC500",
         "Porsche 914 2.0",
-        "Porsche Boxster"
+        "Porsche Boxster",
+        "voiture usagée",
+        "auto usagée",
+        "véhicule usagé",
+        "occasion"
       ],
       "keywords_en": [
         "Porsche",
         "Corvette",
         "Lexus LC500",
         "Porsche 914 2.0",
-        "Porsche Boxster"
+        "Porsche Boxster",
+        "used car",
+        "used vehicle",
+        "second hand car"
       ],
       "keywords_es": [
         "Porsche",
         "Corvette",
         "Lexus LC500",
         "Porsche 914 2.0",
-        "Porsche Boxster"
+        "Porsche Boxster",
+        "coche usado",
+        "vehículo usado",
+        "ocasión"
       ],
       "keywords_ar": [
         "بورشه",
         "Corvette",
         "لكسوس إل سي 500",
         "بورش 914 2.0",
-        "بورش بوكستر"
+        "بورش بوكستر",
+        "سيارة مستعملة",
+        "سيارة occasion"
       ],
       "keywords_zh": [
         "保时捷",
         "Corvette",
         "雷克萨斯 LC500",
         "保时捷 914 2.0",
-        "保时捷 Boxster"
+        "保时捷 Boxster",
+        "二手车",
+        "二手汽车"
       ],
       "address": "494 Av. Larivière, Rouyn-Noranda, QC J9X 4J2, Canada",
       "phone": "(819) 279-3268",
