@@ -38353,15 +38353,49 @@
       "address": "113 Highway 11 North, Unit 4",
       "cuisine": [
         "fruits-de-mer",
-        "grillades"
+        "grillades",
+        "bar"
       ],
-      "service": [],
+      "service": [
+        "surplace"
+      ],
       "keywords": [],
       "website": "https://chucksroadhouse.com/",
       "latitude": 44.544387,
       "longitude": -79.451844,
       "place_id": "ChIJheGI43irKk0RLx2Y7gFGf0w",
-      "id": "chucks-roadhouse-bar-grill-unit"
+      "id": "chucks-roadhouse-bar-grill-unit",
+      "phone": "(705) 647-7799",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "01:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "00:00"
+        }
+      }
     }
   ]
 }
