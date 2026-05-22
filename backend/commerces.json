@@ -5661,7 +5661,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "Ford"
+        "Ford",
+        "véhicule d'occasion"
       ],
       "address": "17 Rue Principale Nord, Saint-Bruno-de-Guigues, QC J0Z 2G0",
       "phone": "(819) 728-2289",
@@ -10693,7 +10694,8 @@
         "auto usagée",
         "véhicule usagé",
         "occasion",
-        "auto usagé"
+        "auto usagé",
+        "véhicule d'occasion"
       ],
       "address": "100 Wilson Ave, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-4373",
@@ -10904,7 +10906,8 @@
         "Jeep Grand Wagoneer",
         "Jeep Compass",
         "Jeep Renegade",
-        "Jeep Avenger"
+        "Jeep Avenger",
+        "véhicule d'occasion"
       ],
       "address": "997477 ON-11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-7361",
@@ -13324,7 +13327,6 @@
         "accessoires récréatif",
         "souffleuse",
         "vélo électrique",
-        "tracteur",
         "ski-doo",
         "can-am",
         "side by side",
@@ -13481,7 +13483,6 @@
         "recreational accessories",
         "snowblower",
         "electric bike",
-        "tractor",
         "ski-doo",
         "can-am",
         "side by side",
@@ -13627,7 +13628,6 @@
         "accesorios recreativos",
         "quitanieves",
         "bicicleta eléctrica",
-        "tractor",
         "ski-doo",
         "can-am",
         "side by side",
@@ -13774,7 +13774,6 @@
         "إكسسوارات ترفيهية",
         "آلة إزالة الثلج",
         "دراجة كهربائية",
-        "جرار",
         "سكي-دو",
         "كان-أم",
         "UTV",
@@ -13918,7 +13917,6 @@
         "休闲配件",
         "除雪机",
         "电动自行车",
-        "拖拉机",
         "Can-Am",
         "并排车",
         "摩托车服",
@@ -20138,7 +20136,8 @@
         "Jeep Grand Wagoneer",
         "Jeep Compass",
         "Jeep Renegade",
-        "Jeep Avenger"
+        "Jeep Avenger",
+        "véhicule d'occasion"
       ],
       "address": "997477 Hwy 11 North, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-7361",
@@ -35659,7 +35658,8 @@
         "Jeep Avenger",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "73-79 Rue De L'Église Nord, Lorrainville, QC J0Z 2R0",
       "phone": "(819) 625-2187",
@@ -35851,7 +35851,8 @@
         "GR Supra",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "998039 ON-11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-5959",
@@ -36029,7 +36030,8 @@
         "Bronco Sport",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "260 Armstrong St N, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-4393",
@@ -36181,7 +36183,8 @@
         "auto usagée",
         "véhicule usagé",
         "occasion",
-        "auto usagé"
+        "auto usagé",
+        "véhicule d'occasion"
       ],
       "address": "1827 3e Avenue, Val-d'Or, QC J9P 7A9",
       "phone": "(819) 825-2500",
@@ -36308,7 +36311,8 @@
         "CX-80",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1224 Av. Larivière, Rouyn-Noranda, QC J9X 4K8",
       "phone": "(819) 797-6666",
@@ -36458,7 +36462,8 @@
         "Bronco Sport",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1155 Av. Larivière, Rouyn-Noranda, QC J9X 4K9",
       "phone": "(819) 797-3673",
@@ -36641,7 +36646,8 @@
         "Canyon",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "375 Boul. Rideau, Rouyn-Noranda, QC J9X 5Y7",
       "phone": "(819) 762-1751",
@@ -36880,7 +36886,8 @@
         "auto usagée",
         "véhicule usagé",
         "occasion",
-        "auto usagé"
+        "auto usagé",
+        "véhicule d'occasion"
       ],
       "address": "321 Av. Larivière, Rouyn-Noranda, QC J9X 4H5",
       "phone": "(819) 762-4311",
@@ -37027,7 +37034,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "auto usagé"
+        "auto usagé",
+        "véhicule d'occasion"
       ],
       "address": "1689 3e Avenue, Val-d'Or, QC J9P 1V9",
       "phone": "(819) 825-2525",
@@ -37190,7 +37198,8 @@
         "Stinger",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1280 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-7222",
@@ -37340,7 +37349,8 @@
         "Ioniq 9",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1399 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-1741",
@@ -37493,7 +37503,8 @@
         "GR Supra",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1355 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-5000",
@@ -37674,7 +37685,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "auto usagé"
+        "auto usagé",
+        "véhicule d'occasion"
       ],
       "address": "1080 3e Avenue E, Val-d'Or, QC J9P 0J6",
       "phone": "(819) 825-9000",
@@ -37849,7 +37861,8 @@
         "ID. Buzz",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1005 Av. Larivière, Rouyn-Noranda, QC J9X 4K6",
       "phone": "(819) 762-7788",
@@ -37998,7 +38011,8 @@
         "Insight",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1225 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-6565",
@@ -38148,7 +38162,8 @@
         "Insight",
         "voiture usagée",
         "auto usagée",
-        "véhicule usagé"
+        "véhicule usagé",
+        "véhicule d'occasion"
       ],
       "address": "1720 3e Avenue, Val-d'Or, QC J9P 1W2",
       "phone": "(819) 825-7838",
@@ -38290,7 +38305,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "occasion"
+        "occasion",
+        "véhicule d'occasion"
       ],
       "keywords_en": [
         "Mitsubishi",
@@ -42699,7 +42715,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "occasion"
+        "occasion",
+        "véhicule d'occasion"
       ],
       "keywords_en": [
         "Porsche",
