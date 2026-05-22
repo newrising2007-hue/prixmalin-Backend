@@ -50,12 +50,6 @@
     "survie_randonnee"
   ],
   "vehicules": [
-    "nautique",
-    "moto",
-    "pieces_loisir",
-    "yamaha",
-    "arctic-cat",
-    "suzuki",
     "vehicules_ford",
     "vehicules_chevrolet",
     "vehicules_chrysler",
@@ -64,18 +58,11 @@
     "vehicules_kia",
     "vehicules_nissan",
     "vehicules_mitsubishi",
-    "ktm",
-    "ski-doo",
-    "kawasaki",
-    "polaris",
-    "husqvarna",
-    "honda_loisir",
-    "vtt",
-    "harley_davidson",
     "vehicules_toyota",
     "vehicules_volkswagen",
     "vehicules_porsche",
-    "vehicule-lexus"
+    "vehicule-lexus",
+    "vehicules_honda"
   ],
   "machinerie": [
     "tracteur_agricole",
@@ -116,5 +103,21 @@
     "hobby",
     "musique",
     "fete_celebration"
+  ],
+  "vehicule_loisir": [
+    "nautique",
+    "moto",
+    "pieces_loisir",
+    "yamaha",
+    "arctic-cat",
+    "suzuki",
+    "ktm",
+    "ski-doo",
+    "kawasaki",
+    "polaris",
+    "husqvarna",
+    "honda_loisir",
+    "vtt",
+    "harley_davidson"
   ]
 }
