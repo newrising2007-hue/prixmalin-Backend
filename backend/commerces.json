@@ -11479,7 +11479,7 @@
         "jouet",
         "tapis de bain",
         "distributeur de savon",
-        "machine a eau",
+        "distributeur d'eau",
         "électroménager"
       ],
       "address": "133 Trans-Canada Hwy 11, Temiskaming Shores, ON P0J 1P0",
@@ -11757,7 +11757,16 @@
         "bowl",
         "board games",
         "puzzle",
-        "figure"
+        "figure",
+        "bedding",
+        "curtain",
+        "cushion",
+        "furniture",
+        "toy",
+        "bath mat",
+        "soap dispenser",
+        "water dispenser",
+        "appliances"
       ],
       "keywords_es": [
         "tienda de comestibles",
@@ -12030,7 +12039,16 @@
         "comedero",
         "juegos de mesa",
         "rompecabezas",
-        "figura"
+        "figura",
+        "ropa de cama",
+        "cortina",
+        "cojín",
+        "mueble",
+        "juguete",
+        "alfombra de baño",
+        "dispensador de jabón",
+        "dispensador de agua",
+        "electrodomésticos"
       ],
       "keywords_ar": [
         "بقالة",
@@ -12303,7 +12321,16 @@
         "وعاء أو طبق",
         "ألعاب طاولة",
         "أحجية",
-        "تمثال مصغر"
+        "تمثال مصغر",
+        "مفروشات السرير",
+        "ستارة",
+        "وسادة",
+        "أثاث",
+        "لعبة",
+        "سجادة الحمام",
+        "موزع صابون",
+        "موزع المياه",
+        "أجهزة منزلية"
       ],
       "keywords_zh": [
         "杂货店",
@@ -12574,7 +12601,15 @@
         "碗",
         "桌游",
         "拼图",
-        "塑像"
+        "塑像",
+        "床上用品",
+        "窗帘",
+        "靠垫",
+        "家具",
+        "浴室地垫",
+        "皂液器",
+        "饮水机",
+        "家用电器"
       ],
       "place_id": "ChIJv5MGKwSbKYgRg5mqoLVquhs"
     },
