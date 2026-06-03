@@ -38396,6 +38396,53 @@
           "fermeture": "00:00"
         }
       }
+    },
+    {
+      "name": "Fritou",
+      "address": "37, rue Ontario, Notre-Dame-du-Nord",
+      "cuisine": [
+        "fast-food"
+      ],
+      "service": [
+        "takeout"
+      ],
+      "keywords": [],
+      "phone": "(705) 650-0163",
+      "website": "https://www.facebook.com/p/D%C3%A9panneur-Rachel-100049882939762/",
+      "latitude": 47.593116,
+      "longitude": -79.488124,
+      "place_id": "ChIJf1Ryyv5hJk0Ri4YKTUBe0Go",
+      "id": "fritou-notredamedunord",
+      "horaires": {
+        "lundi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mardi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "mercredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "jeudi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "vendredi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "samedi": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        },
+        "dimanche": {
+          "ouverture": "11:00",
+          "fermeture": "19:00"
+        }
+      }
     }
   ]
 }
