@@ -5,7 +5,7 @@ const { searchLocalStores, getStoreDetails } = require('./places-service');
 const { getAmazonProducts } = require('./amazon-service');
 const { getWalmartProducts } = require('./walmart-service');
 const app = express();
-const PORT = process.env.PORT || 10000;
+const PORT = process.env.PORT || 3099;
 app.use(cors());
 app.use(express.json());
 
