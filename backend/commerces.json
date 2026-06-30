@@ -48461,6 +48461,92 @@
       "rating": null,
       "note": "",
       "place_id": "ChIJQWQfVJEzIU0RgfcgL8KI01s"
+    },
+    {
+      "id": "matelas-de-reve-rouyn-noranda",
+      "name": "Matelas De Rêve",
+      "categories": [
+        "meuble",
+        "decoration",
+        "hygiene_maison"
+      ],
+      "keywords": [
+        "miroir sur pied",
+        "matelas",
+        "surmatelas",
+        "table d'appoint",
+        "sommier",
+        "base de lit",
+        "cadre de lit",
+        "oreiller",
+        "table de nuit",
+        "base de lit ajustable",
+        "lampe sur table",
+        "plante artificielle"
+      ],
+      "keywords_en": [
+        "floor mirror",
+        "mattress",
+        "mattress topper",
+        "side table",
+        "box spring",
+        "bed base",
+        "bed frame",
+        "pillow",
+        "nightstand",
+        "adjustable bed base",
+        "table lamp",
+        "artificial plant"
+      ],
+      "keywords_es": [
+        "espejo de pie",
+        "colchón",
+        "sobrecolchón",
+        "mesa auxiliar",
+        "somier",
+        "base de cama",
+        "estructura de cama",
+        "almohada",
+        "mesita de noche",
+        "base de cama ajustable",
+        "lámpara de mesa",
+        "planta artificial"
+      ],
+      "keywords_ar": [
+        "مرآة واقفة",
+        "مرتبة",
+        "لباد سرير",
+        "طاولة جانبية",
+        "قاعدة سرير",
+        "إطار سرير",
+        "وسادة",
+        "كومودينو",
+        "قاعدة سرير قابلة للتعديل",
+        "مصباح طاولة",
+        "نبات صناعي"
+      ],
+      "keywords_zh": [
+        "落地镜",
+        "床垫",
+        "床褥",
+        "边桌",
+        "弹簧床底",
+        "床底座",
+        "床架",
+        "枕头",
+        "床头柜",
+        "可调节床基",
+        "台灯",
+        "人造植物"
+      ],
+      "address": "106 Av. Principale, Rouyn-Noranda, QC J9X 4P2, Canada",
+      "phone": "(819) 797-9797",
+      "website": "https://matelasdereve.com/",
+      "latitude": 48.240547,
+      "longitude": -79.0203988,
+      "rating": 4.3,
+      "note": "",
+      "place_id": "ChIJeyzqYJkzIU0ROcm3XTJUxso"
     }
   ]
 }
