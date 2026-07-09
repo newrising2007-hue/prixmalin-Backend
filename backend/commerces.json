@@ -48547,6 +48547,29 @@
       "rating": 4.3,
       "note": "",
       "place_id": "ChIJeyzqYJkzIU0ROcm3XTJUxso"
+    },
+    {
+      "id": "larouche-bureautique-rouyn-noranda",
+      "name": "Larouche Bureautique",
+      "categories": [
+        "informatique",
+        "audio",
+        "video",
+        "mobile"
+      ],
+      "keywords": [],
+      "keywords_en": [],
+      "keywords_es": [],
+      "keywords_ar": [],
+      "keywords_zh": [],
+      "address": "23 Rue Mgr Tessier E, Rouyn-Noranda, QC J9X 3B8, Canada",
+      "phone": "(819) 762-6525",
+      "website": "https://larouche-bureautique.com/",
+      "latitude": 48.239251,
+      "longitude": -79.01936289999999,
+      "rating": 5,
+      "note": "",
+      "place_id": "ChIJAb4MNZkzIU0RsETZgG5FGTE"
     }
   ]
 }
