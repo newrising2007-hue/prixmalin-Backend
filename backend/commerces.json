@@ -48717,6 +48717,50 @@
       "latitude": 48.240201,
       "longitude": -79.020651,
       "phone": "(819) 797-0002"
+    },
+    {
+      "name": "Vitrerie Temiscamingue Inc",
+      "categories": [
+        "pieces_auto"
+      ],
+      "keywords": [
+        "pare-brise",
+        "remplacement pare-brise",
+        "installation pare-brise",
+        "Lexan"
+      ],
+      "keywords_en": [
+        "windshield",
+        "windshield replacement",
+        "windshield installation",
+        "Lexan"
+      ],
+      "keywords_es": [
+        "parabrisas",
+        "cambio de parabrisas",
+        "instalación de parabrisas",
+        "Lexan"
+      ],
+      "keywords_ar": [
+        "حاجز الرياح الأمامي",
+        "استبدال الزجاج الأمامي",
+        "تركيب الزجاج الأمامي",
+        "ليكسان"
+      ],
+      "keywords_zh": [
+        "挡风玻璃",
+        "挡风玻璃更换",
+        "挡风玻璃安装",
+        "乐信"
+      ],
+      "address": "746 QC-101 Nord, Duhamel-Ouest, QC J9V 2E2",
+      "phone": "(819) 629-2582",
+      "website": "https://www.facebook.com/p/Vitrerie-T%C3%A9miscamingue-61574657923644/",
+      "latitude": 47.342748,
+      "longitude": -79.436815,
+      "note": "Specialise en vitre d auto",
+      "place_id": "ChIJEfp8B51BJk0Rk_ehn8iMM4g",
+      "id": "vitrerie-temiscamingue-inc-e"
     }
   ]
 }
