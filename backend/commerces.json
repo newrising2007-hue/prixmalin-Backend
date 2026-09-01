@@ -48761,6 +48761,38 @@
       "note": "Specialise en vitre d auto",
       "place_id": "ChIJEfp8B51BJk0Rk_ehn8iMM4g",
       "id": "vitrerie-temiscamingue-inc-e"
+    },
+    {
+      "id": "bain-magique-rouyn-noranda",
+      "name": "Bain Magique",
+      "categories": [
+        "plomberie",
+        "cuisine",
+        "decoration"
+      ],
+      "keywords": [
+        "robinet",
+        "douche",
+        "bain",
+        "baignoire",
+        "système mural",
+        "pomme de douche",
+        "paroi de baignoire",
+        "siège de douche",
+        "barre d'appui"
+      ],
+      "keywords_en": [],
+      "keywords_es": [],
+      "keywords_ar": [],
+      "keywords_zh": [],
+      "address": "150D Av. Carter, Rouyn-Noranda, QC J9Z 3H8, Canada",
+      "phone": "(819) 279-3039",
+      "website": "https://www.bainmagique.com/qc-fr/",
+      "latitude": 48.2483723,
+      "longitude": -79.0160389,
+      "rating": 5,
+      "note": "",
+      "place_id": "ChIJVVVVShB5IU0ReVFU9-SENLc"
     }
   ]
 }
