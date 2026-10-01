@@ -203,9 +203,11 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
       fromLocalDB: false,
     }));
 
-    googleStores.sort((a, b) => a.distance - b.distance);
+    // Garde-fou : Google traite location+radius comme une préférence, pas une limite
+    const googleInRadius = googleStores.filter(s => s.distance <= radiusKm);
+    googleInRadius.sort((a, b) => a.distance - b.distance);
 
-    return [...allLocal, ...googleStores];
+    return [...allLocal, ...googleInRadius];
 
   } catch (error) {
     console.error('Erreur Google Places:', error);
