@@ -65,7 +65,11 @@
     "vehicules_volkswagen",
     "vehicules_porsche",
     "vehicule-lexus",
-    "vehicules_honda"
+    "vehicules_honda",
+    "moto",
+    "pieces_loisir",
+    "yamaha",
+    "arctic-cat"
   ],
   "machinerie": [
     "tracteur_agricole",
