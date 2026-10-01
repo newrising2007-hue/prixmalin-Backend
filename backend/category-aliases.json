@@ -15,7 +15,9 @@
     "electricite",
     "peinture_quincaillerie",
     "colles_scellants",
-    "paysagement"
+    "paysagement",
+    "epi_securite",
+    "chauffage_climatisation"
   ],
   "electro": [
     "informatique",
@@ -30,7 +32,8 @@
     "electromenager",
     "cuisine",
     "meuble",
-    "decoration"
+    "decoration",
+    "exterieur"
   ],
   "mode": [
     "mode_homme",
@@ -84,7 +87,8 @@
     "hygiene_maison",
     "boucherie",
     "boulangerie",
-    "traiteur"
+    "traiteur",
+    "epicerie_fine"
   ],
   "sante": [
     "pharmacie",
