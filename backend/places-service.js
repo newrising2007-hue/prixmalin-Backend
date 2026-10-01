@@ -62,6 +62,27 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 2
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const normalizeStr = s => s.toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').normalize('NFD').replace(/[̀-ͯ]/g, '');
 
+  // Score de pertinence : MEILLEUR match parmi les keywords (pas une somme,
+  // pour préserver le local d'abord) — 3 exact, 2 mots entiers, 1 stemming
+  const queryNorm = lowerQuery.trim().replace(/\s+/g, ' ');
+  const qWords = queryNorm.split(' ');
+  const keywordScore = c => {
+    let best = 0;
+    for (const kw of c.keywords || []) {
+      const kwNorm = normalizeStr(kw).trim().replace(/\s+/g, ' ');
+      if (kwNorm === queryNorm) return 3;
+      const kwWords = kwNorm.split(' ');
+      if (qWords.every(qw => kwWords.includes(qw))) { best = Math.max(best, 2); continue; }
+      const stem = qWords.every(qw => kwWords.some(w =>
+        w === qw ||
+        (qw.length >= 6 && w.startsWith(qw.substring(0, 6))) ||
+        (w.length >= 6 && qw.startsWith(w.substring(0, 6)))
+      ));
+      if (stem) best = Math.max(best, 1);
+    }
+    return best;
+  };
+
   return commerces
     .filter(c => {
       const aliases = loadCategoryAliases();
@@ -99,8 +120,10 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 2
       hasWebsite: !!c.website,
       placeId: null,
       fromLocalDB: true,
+      relevance: keywordScore(c),
     }))
-    .sort((a, b) => a.distance - b.distance);
+    // Pertinence d'abord (3 exact > 2 mots entiers > 1 stemming), distance ensuite
+    .sort((a, b) => (b.relevance - a.relevance) || (a.distance - b.distance));
 }
 
 // ─── RECHERCHE PRINCIPALE ───────────────────────────────────────────
