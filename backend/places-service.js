@@ -128,6 +128,7 @@ function getMatchingCommerces(query, category, latitude, longitude, radiusKm = 2
 
 // ─── RECHERCHE PRINCIPALE ───────────────────────────────────────────
 async function searchLocalStores(query, category, latitude, longitude, radiusKm = 100) {
+  category = category || 'divers'; // même repli que le web (?cat absent → divers) — évite null.startsWith si un client n'envoie pas de catégorie
   try {
     // 1. Dealers véhicules (priorité absolue pour catégorie vehicules)
     const localDealers = getMatchingDealers(query, category, latitude, longitude);
@@ -161,22 +162,7 @@ async function searchLocalStores(query, category, latitude, longitude, radiusKm 
         },
       });
 
-      let phasePlaces = response1.data.results || [];
-
-      if (phasePlaces.length < 4 && radiusKm > 50) {
-        const response2 = await client.placesNearby({
-          params: {
-            location: { lat: latitude, lng: longitude },
-            radius: 100000,
-            keyword: searchQuery,
-          ...(getGooglePlaceType(category) && { type: getGooglePlaceType(category) }),
-            key: process.env.GOOGLE_PLACES_API_KEY,
-          },
-        });
-        const phase2 = response2.data.results || [];
-        const existingIds = new Set(phasePlaces.map(p => p.place_id));
-        phasePlaces = [...phasePlaces, ...phase2.filter(p => !existingIds.has(p.place_id))];
-      }
+      const phasePlaces = response1.data.results || [];
 
       const existingIds = new Set(allPlaces.map(p => p.place_id));
       allPlaces = [...allPlaces, ...phasePlaces.filter(p => !existingIds.has(p.place_id))];
