@@ -5622,6 +5622,7 @@
       "id": "paquin-ford-stbruno",
       "name": "Automobile Paquin Ford St-Bruno-de-Guigues",
       "categories": [
+        "pieces_auto",
         "vehicules_ford"
       ],
       "keywords": [
@@ -5662,7 +5663,8 @@
         "auto usagée",
         "véhicule usagé",
         "Ford",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "17 Rue Principale Nord, Saint-Bruno-de-Guigues, QC J0Z 2G0",
       "phone": "(819) 728-2289",
@@ -5697,7 +5699,8 @@
         "Mustang Mach-E",
         "Ford dealership",
         "Ford service",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Ford",
@@ -5726,7 +5729,8 @@
         "Mustang Mach-E",
         "concesionario Ford",
         "servicio Ford",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "فورد",
@@ -5753,7 +5757,8 @@
         "مستانغ ماش-إي",
         "معرض فورد للسيارات",
         "خدمة فورد",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "福特",
@@ -5779,7 +5784,8 @@
         "野马",
         "野马 Mach-E",
         "福特经销商",
-        "福特服务"
+        "福特服务",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJH515x2JdJk0Ri4x4Vg2rY0I"
     },
@@ -10619,6 +10625,7 @@
       "id": "wilson-chevrolet-new-liskeard",
       "name": "Wilson Chevrolet Buick GMC New Liskeard",
       "categories": [
+        "pieces_auto",
         "vehicules_chevrolet"
       ],
       "keywords": [
@@ -10653,7 +10660,8 @@
         "véhicule usagé",
         "occasion",
         "auto usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "100 Wilson Ave, New Liskeard, ON P0J 1P0",
       "phone": "(705) 647-4373",
@@ -10691,7 +10699,8 @@
         "Acadia",
         "used car",
         "used vehicle",
-        "used"
+        "used",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Silverado 1500",
@@ -10722,7 +10731,8 @@
         "Acadia",
         "coche usado",
         "vehículo usado",
-        "ocasión"
+        "ocasión",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "Silverado 1500",
@@ -10753,7 +10763,8 @@
         "Acadia",
         "سيارة مستعملة",
         "مركبة مستعملة",
-        "مستعمل"
+        "مستعمل",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "Silverado 1500",
@@ -10783,7 +10794,8 @@
         "Canyon",
         "Acadia",
         "二手车",
-        "二手"
+        "二手",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJ5____z95Jk0RIbasCorQErc"
     },
@@ -35546,6 +35558,7 @@
       "id": "clement-chrysler-lorrainville",
       "name": "Clément Chrysler Dodge Ltée Lorrainville",
       "categories": [
+        "pieces_auto",
         "vehicules_chrysler"
       ],
       "keywords": [
@@ -35586,7 +35599,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "73-79 Rue De L'Église Nord, Lorrainville, QC J0Z 2R0",
       "phone": "(819) 625-2187",
@@ -35629,7 +35643,8 @@
         "Jeep Renegade",
         "Jeep Avenger",
         "used car",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Chrysler",
@@ -35666,7 +35681,8 @@
         "Jeep Renegade",
         "Jeep Avenger",
         "coche usado",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "Chrysler",
@@ -35701,7 +35717,8 @@
         "جيب رينيجاد",
         "جيب أفينجر",
         "سيارة مستعملة",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "Chrysler",
@@ -35734,7 +35751,8 @@
         "吉普指南针",
         "吉普自由侠",
         "吉普阿文杰",
-        "二手车"
+        "二手车",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJ3eUfaD1EJk0RcIToR9OXIQw"
     },
@@ -35742,6 +35760,7 @@
       "id": "tri-town-toyota-newliskeard",
       "name": "Tri-Town Toyota Temiskaming Shores",
       "categories": [
+        "pieces_auto",
         "vehicules_toyota"
       ],
       "keywords": [
@@ -35779,7 +35798,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "998039 ON-11, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-5959",
@@ -35819,7 +35839,8 @@
         "used car",
         "GR Corolla",
         "GR Supra",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Toyota",
@@ -35853,7 +35874,8 @@
         "coche usado",
         "GR Corolla",
         "GR Supra",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "تويوتا",
@@ -35885,7 +35907,8 @@
         "سيارة مستعملة",
         "GR Corolla",
         "GR سوبرا",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "丰田",
@@ -35916,7 +35939,8 @@
         "陆地巡洋舰",
         "二手车",
         "GR Corolla",
-        "GR Supra"
+        "GR Supra",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJl3RXLnp8Jk0RVUQzS6oJTGQ"
     },
@@ -35924,6 +35948,7 @@
       "id": "wilson-ford-newliskeard",
       "name": "Wilson Ford Temiskaming Shores",
       "categories": [
+        "pieces_auto",
         "vehicules_ford"
       ],
       "keywords": [
@@ -35958,7 +35983,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "260 Armstrong St N, Temiskaming Shores, ON P0J 1P0",
       "phone": "(705) 647-4393",
@@ -35994,7 +36020,8 @@
         "Mustang",
         "Mustang Mach-E",
         "Bronco Sport",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Ford",
@@ -36024,7 +36051,8 @@
         "Mustang",
         "Mustang Mach-E",
         "Bronco Sport",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "فورد",
@@ -36052,7 +36080,8 @@
         "مستانغ",
         "مستانغ ماش-إي",
         "برونكو سبورت",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "福特",
@@ -36079,7 +36108,8 @@
         "马弗里克",
         "野马",
         "野马 Mach-E",
-        "Bronco Sport"
+        "Bronco Sport",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJA7L6PRR7Jk0RN9jYOJwfL1Q"
     },
@@ -36087,6 +36117,7 @@
       "id": "valdor-mazda",
       "name": "Val-d'Or Mazda",
       "categories": [
+        "pieces_auto",
         "vehicules_mazda"
       ],
       "keywords": [
@@ -36111,7 +36142,8 @@
         "véhicule usagé",
         "occasion",
         "auto usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1827 3e Avenue, Val-d'Or, QC J9P 7A9",
       "phone": "(819) 825-2500",
@@ -36139,7 +36171,8 @@
         "MX-30",
         "used car",
         "used vehicle",
-        "used"
+        "used",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Mazda",
@@ -36160,7 +36193,8 @@
         "MX-30",
         "coche usado",
         "vehículo usado",
-        "ocasión"
+        "ocasión",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "مازدا",
@@ -36181,7 +36215,8 @@
         "MX-30",
         "سيارة مستعملة",
         "مركبة مستعملة",
-        "مستعمل"
+        "مستعمل",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "马自达",
@@ -36201,7 +36236,8 @@
         "MX-5 Miata",
         "MX-30",
         "二手车",
-        "二手"
+        "二手",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJ9wHJICIAyUwRnQoUThNBgT4"
     },
@@ -36209,6 +36245,7 @@
       "id": "paquin-mazda-rouyn",
       "name": "Paquin Mazda Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_mazda"
       ],
       "keywords": [
@@ -36239,7 +36276,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1224 Av. Larivière, Rouyn-Noranda, QC J9X 4K8",
       "phone": "(819) 797-6666",
@@ -36272,7 +36310,8 @@
         "CX-60",
         "CX-70",
         "CX-80",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Mazda",
@@ -36299,7 +36338,8 @@
         "CX-60",
         "CX-70",
         "CX-80",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "مازدا",
@@ -36324,7 +36364,8 @@
         "CX-60",
         "CX-70",
         "CX-80",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "马自达",
@@ -36348,7 +36389,8 @@
         "MX-30",
         "CX-60",
         "CX-70",
-        "CX-80"
+        "CX-80",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJF4z9e_0yIU0RTiPDUeTgBNc"
     },
@@ -36356,6 +36398,7 @@
       "id": "paquin-ford-rouyn",
       "name": "Paquin Ford Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_ford"
       ],
       "keywords": [
@@ -36390,7 +36433,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1155 Av. Larivière, Rouyn-Noranda, QC J9X 4K9",
       "phone": "(819) 797-3673",
@@ -36426,7 +36470,8 @@
         "Mustang",
         "Mustang Mach-E",
         "Bronco Sport",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Ford",
@@ -36456,7 +36501,8 @@
         "Mustang",
         "Mustang Mach-E",
         "Bronco Sport",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "فورد",
@@ -36484,7 +36530,8 @@
         "مستانغ",
         "مستانغ ماش-إي",
         "برونكو سبورت",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "福特",
@@ -36511,7 +36558,8 @@
         "马弗里克",
         "野马",
         "野马 Mach-E",
-        "Bronco Sport"
+        "Bronco Sport",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJodsIYgIzIU0RqQfkrz60mcI"
     },
@@ -36519,6 +36567,7 @@
       "id": "thibault-chevrolet-rouyn",
       "name": "Thibault Chevrolet Cadillac Buick GMC Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_chevrolet"
       ],
       "keywords": [
@@ -36574,7 +36623,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "375 Boul. Rideau, Rouyn-Noranda, QC J9X 5Y7",
       "phone": "(819) 762-1751",
@@ -36631,7 +36681,8 @@
         "Low Cab Forward",
         "Chevrolet parts",
         "Canyon",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Chevrolet",
@@ -36682,7 +36733,8 @@
         "Low Cab Forward",
         "piezas Chevrolet",
         "Canyon",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "Chevrolet",
@@ -36731,7 +36783,8 @@
         "Low Cab Forward",
         "قطع غيار شيفروليه",
         "Canyon",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "Chevrolet",
@@ -36778,7 +36831,8 @@
         "Express",
         "Low Cab Forward",
         "雪佛兰零件",
-        "Canyon"
+        "Canyon",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJ08k5CXo0IU0RBEXIvEscyQs"
     },
@@ -36786,6 +36840,7 @@
       "id": "poirier-nissan-rouyn",
       "name": "Poirier Nissan Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_nissan"
       ],
       "keywords": [
@@ -36814,7 +36869,8 @@
         "véhicule usagé",
         "occasion",
         "auto usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "321 Av. Larivière, Rouyn-Noranda, QC J9X 4H5",
       "phone": "(819) 762-4311",
@@ -36846,7 +36902,8 @@
         "GT-R",
         "used car",
         "used vehicle",
-        "used"
+        "used",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Nissan",
@@ -36871,7 +36928,8 @@
         "GT-R",
         "coche usado",
         "vehículo usado",
-        "ocasión"
+        "ocasión",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "نيسان",
@@ -36896,7 +36954,8 @@
         "GT-R",
         "سيارة مستعملة",
         "مركبة مستعملة",
-        "مستعمل"
+        "مستعمل",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "日产",
@@ -36920,7 +36979,8 @@
         "370Z",
         "GT-R",
         "二手车",
-        "二手"
+        "二手",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJycuhdqAzIU0RdIkEK994cbQ"
     },
@@ -36928,6 +36988,7 @@
       "id": "valdor-nissan",
       "name": "Val-d'Or Nissan",
       "categories": [
+        "pieces_auto",
         "vehicules_nissan"
       ],
       "keywords": [
@@ -36962,7 +37023,8 @@
         "auto usagée",
         "véhicule usagé",
         "auto usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1689 3e Avenue, Val-d'Or, QC J9P 1V9",
       "phone": "(819) 825-2525",
@@ -36999,7 +37061,8 @@
         "370Z",
         "GT-R",
         "used car",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Nissan",
@@ -37030,7 +37093,8 @@
         "370Z",
         "GT-R",
         "coche usado",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "نيسان",
@@ -37059,7 +37123,8 @@
         "370Z",
         "GT-R",
         "سيارة مستعملة",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "日产",
@@ -37087,7 +37152,8 @@
         "舰队",
         "370Z",
         "GT-R",
-        "二手车"
+        "二手车",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJ9V5BpG9T30wRJKtVsFAXg38"
     },
@@ -37095,6 +37161,7 @@
       "id": "action-kia-rouyn",
       "name": "Action Kia Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_kia"
       ],
       "keywords": [
@@ -37126,7 +37193,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1280 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-7222",
@@ -37160,7 +37228,8 @@
         "EV9",
         "Carnival",
         "Stinger",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Kia",
@@ -37188,7 +37257,8 @@
         "EV9",
         "Carnaval",
         "Stinger",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "كيا",
@@ -37214,7 +37284,8 @@
         "EV9",
         "كرنفال",
         "ستينجر",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "起亚",
@@ -37239,7 +37310,8 @@
         "EV6",
         "EV9",
         "嘉年华会",
-        "Stinger"
+        "Stinger",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJharUjvwyIU0RaCuzkEetC6U"
     },
@@ -37247,6 +37319,7 @@
       "id": "dynastie-hyundai-rouyn",
       "name": "Dynastie Hyundai Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_hyundai"
       ],
       "keywords": [
@@ -37277,7 +37350,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1399 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-1741",
@@ -37310,7 +37384,8 @@
         "Ioniq 6",
         "Nexo",
         "Ioniq 9",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Hyundai",
@@ -37337,7 +37412,8 @@
         "Ioniq 6",
         "Nexo",
         "Ioniq 9",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "هيونداي",
@@ -37362,7 +37438,8 @@
         "آيونيغ 6",
         "نكسو",
         "آيونيك 9",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "现代",
@@ -37386,7 +37463,8 @@
         "Ioniq 5",
         "Ioniq 6",
         "Nexo",
-        "Ioniq 9"
+        "Ioniq 9",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJe--RmQszIU0RZxeRwUqT2uA"
     },
@@ -37394,6 +37472,7 @@
       "id": "acces-toyota-rouyn",
       "name": "Accès Toyota Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_toyota"
       ],
       "keywords": [
@@ -37431,7 +37510,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1355 Av. Larivière, Rouyn-Noranda, QC J9X 6M6",
       "phone": "(819) 762-5000",
@@ -37471,7 +37551,8 @@
         "Land Cruiser",
         "GR Corolla",
         "GR Supra",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Toyota",
@@ -37505,7 +37586,8 @@
         "Land Cruiser",
         "GR Corolla",
         "GR Supra",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "تويوتا",
@@ -37537,7 +37619,8 @@
         "لاند كروزر",
         "GR Corolla",
         "GR سوبرا",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "丰田",
@@ -37568,7 +37651,8 @@
         "普锐斯普莱姆",
         "陆地巡洋舰",
         "GR Corolla",
-        "GR Supra"
+        "GR Supra",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJgTyzjvwyIU0ReEglTHWI59I"
     },
@@ -37576,6 +37660,7 @@
       "id": "valdor-toyota",
       "name": "Val-d'Or Toyota",
       "categories": [
+        "pieces_auto",
         "vehicules_toyota"
       ],
       "keywords": [
@@ -37613,7 +37698,8 @@
         "auto usagée",
         "véhicule usagé",
         "auto usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1080 3e Avenue E, Val-d'Or, QC J9P 0J6",
       "phone": "(819) 825-9000",
@@ -37653,7 +37739,8 @@
         "GR Corolla",
         "GR Supra",
         "used car",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Toyota",
@@ -37687,7 +37774,8 @@
         "GR Corolla",
         "GR Supra",
         "coche usado",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "تويوتا",
@@ -37719,7 +37807,8 @@
         "GR Corolla",
         "GR سوبرا",
         "سيارة مستعملة",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "丰田",
@@ -37750,7 +37839,8 @@
         "陆地巡洋舰",
         "GR Corolla",
         "GR Supra",
-        "二手车"
+        "二手车",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJUW6qe8xT30wR5fsa9ePoLxw"
     },
@@ -37758,6 +37848,7 @@
       "id": "paquin-volkswagen-rouyn",
       "name": "Paquin Volkswagen Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_volkswagen"
       ],
       "keywords": [
@@ -37789,7 +37880,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1005 Av. Larivière, Rouyn-Noranda, QC J9X 4K6",
       "phone": "(819) 762-7788",
@@ -37823,7 +37915,8 @@
         "Arteon",
         "Passat",
         "ID. Buzz",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Volkswagen",
@@ -37851,7 +37944,8 @@
         "Arteon",
         "Passat",
         "ID. Buzz",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "فولكسفاغن",
@@ -37876,7 +37970,8 @@
         "أرتيون",
         "بسات",
         "ID. Buzz",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "大众",
@@ -37900,7 +37995,8 @@
         "ID.4",
         "Arteon",
         "帕萨特",
-        "ID. Buzz"
+        "ID. Buzz",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJiRb5owMzIU0R6Q7sOsFRWYE"
     },
@@ -37908,6 +38004,7 @@
       "id": "lami-honda-rouyn",
       "name": "L'Ami Honda Rouyn-Noranda",
       "categories": [
+        "pieces_auto",
         "vehicules_honda"
       ],
       "keywords": [
@@ -37939,7 +38036,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1225 Av. Larivière, Rouyn-Noranda, QC J9X 4L1",
       "phone": "(819) 762-6565",
@@ -37973,7 +38071,8 @@
         "ZR-V",
         "Fit",
         "Insight",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "honda",
@@ -38001,7 +38100,8 @@
         "ZR-V",
         "Ajuste",
         "Insight",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "هوندا",
@@ -38027,7 +38127,8 @@
         "ZR-V",
         "مناسب",
         "رؤى",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "本田",
@@ -38052,7 +38153,8 @@
         "序言",
         "ZR-V",
         "合身",
-        "洞察"
+        "洞察",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJ52Tlc_0yIU0RUE0MFJlfu5Q"
     },
@@ -38060,6 +38162,7 @@
       "id": "valdor-honda",
       "name": "Honda de Val-d'Or",
       "categories": [
+        "pieces_auto",
         "vehicules_honda"
       ],
       "keywords": [
@@ -38090,7 +38193,8 @@
         "voiture usagée",
         "auto usagée",
         "véhicule usagé",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "address": "1720 3e Avenue, Val-d'Or, QC J9P 1W2",
       "phone": "(819) 825-7838",
@@ -38124,7 +38228,8 @@
         "Fit",
         "Insight",
         "used car",
-        "used vehicle"
+        "used vehicle",
+        "OEM windshield"
       ],
       "keywords_es": [
         "honda",
@@ -38152,7 +38257,8 @@
         "Ajuste",
         "Insight",
         "coche usado",
-        "vehículo usado"
+        "vehículo usado",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "هوندا",
@@ -38178,7 +38284,8 @@
         "مناسب",
         "رؤى",
         "سيارة مستعملة",
-        "مركبة مستعملة"
+        "مركبة مستعملة",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "本田",
@@ -38203,13 +38310,15 @@
         "ZR-V",
         "合身",
         "洞察",
-        "二手车"
+        "二手车",
+        "原厂挡风玻璃"
       ],
       "place_id": "ChIJQV59eW9T30wROygvJUKEJwE"
     },
     {
       "name": "Rouyn-Noranda Mitsubishi",
       "categories": [
+        "pieces_auto",
         "vehicules_mitsubishi"
       ],
       "keywords": [
@@ -38233,7 +38342,8 @@
         "auto usagée",
         "véhicule usagé",
         "occasion",
-        "véhicule d'occasion"
+        "véhicule d'occasion",
+        "pare-brise d'origine"
       ],
       "keywords_en": [
         "Mitsubishi",
@@ -38254,7 +38364,8 @@
         "Triton",
         "used car",
         "used vehicle",
-        "used"
+        "used",
+        "OEM windshield"
       ],
       "keywords_es": [
         "Mitsubishi",
@@ -38275,7 +38386,8 @@
         "Triton",
         "coche usado",
         "vehículo usado",
-        "ocasión"
+        "ocasión",
+        "parabrisas original"
       ],
       "keywords_ar": [
         "ميتسوبيشي",
@@ -38296,7 +38408,8 @@
         "Triton",
         "سيارة مستعملة",
         "مركبة مستعملة",
-        "مستعمل"
+        "مستعمل",
+        "زجاج أمامي أصلي"
       ],
       "keywords_zh": [
         "三菱",
@@ -38316,7 +38429,8 @@
         "L200",
         "Triton",
         "二手车",
-        "二手"
+        "二手",
+        "原厂挡风玻璃"
       ],
       "address": "1920 Av. Larivière, Rouyn-Noranda, QC J9Y 0G6",
       "phone": "(819) 764-3186",
