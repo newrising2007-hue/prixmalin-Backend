@@ -34,7 +34,8 @@
     "meuble",
     "decoration",
     "exterieur",
-    "literie"
+    "literie",
+    "eclairage"
   ],
   "mode": [
     "mode_homme",
