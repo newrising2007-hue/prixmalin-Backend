@@ -33,7 +33,8 @@
     "cuisine",
     "meuble",
     "decoration",
-    "exterieur"
+    "exterieur",
+    "literie"
   ],
   "mode": [
     "mode_homme",
