@@ -77,7 +77,8 @@
   "machinerie": [
     "tracteur_agricole",
     "machinerie_construction",
-    "remorque_transport"
+    "remorque_transport",
+    "camion_lourd"
   ],
   "bijoux": [
     "montre",
