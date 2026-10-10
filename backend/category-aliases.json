@@ -130,5 +130,10 @@
     "honda_loisir",
     "vtt",
     "harley_davidson"
+  ],
+  "agricole": [
+    "moulee_ferme",
+    "cloture_contention",
+    "fournitures_ferme"
   ]
 }

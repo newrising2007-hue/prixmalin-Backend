@@ -367,6 +367,14 @@ function getCategoryKeywords(category) {
     vehicules: 'auto dealer moto',
     intime: 'beauty store',
     pieces: 'auto parts store',
+    animalerie: 'pet store animalerie',
+    agricole: 'feed store farm supply meunerie',
+    mode: 'clothing store Aubainerie Giant Tiger Winners',
+    maison: 'home furniture store',
+    plein_air: 'outdoor hunting fishing store',
+    machinerie: 'farm equipment dealer',
+    bureautique: 'office supplies store',
+    vehicule_loisir: 'powersports dealer',
   };
   return keywords[category] || '';
 }
