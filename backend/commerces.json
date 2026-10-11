@@ -8889,12 +8889,12 @@
     },
     {
       "id": "imaginart-insider-villemarie",
-      "name": "Imagin'Art & The Insider Florentine Ville-Marie",
+      "name": "Les Trouvailles de Florentine",
       "categories": [
-        "mode_femme",
         "mode_homme",
-        "sac_accessoire",
-        "chaussure"
+        "mode_femme",
+        "chaussure",
+        "sac_accessoire"
       ],
       "keywords": [
         "vêtements",
@@ -8913,7 +8913,7 @@
       ],
       "address": "8 Rue Sainte-Anne, Ville-Marie, QC J9V 2B7",
       "phone": "(819) 629-2586",
-      "website": null,
+      "website": "https://www.facebook.com/p/Les-Trouvailles-de-Florentine-100063236317807/",
       "latitude": 47.3302,
       "longitude": -79.4417,
       "rating": 4.8,
